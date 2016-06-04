@@ -128,6 +128,8 @@ hookPlayer2="http://player.screenwavemedia.com/play/Cinemassacre-"
 hookPlaylist="/Cinemassacre/smil:Cinemassacre-"
 hookJWPlayer="http://player.screenwavemedia.com/play/jwplayer/Cinemassacre-"
 
+#http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/573219.mp4
+
 hookVOD="http://video2.screenwavemedia.com/vod/Cinemassacre-"
 
 
