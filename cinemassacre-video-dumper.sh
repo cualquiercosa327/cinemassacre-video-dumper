@@ -316,7 +316,7 @@ listShowsBoardJames(){
 
 listShowsYKWB(){
 
-	outFileOption="$PWD/list-shows-mikebootsy.txt"
+	outFileOption="$PWD/list-shows-ykwb.txt"
 
 	listShowsYKWB=$(echo "http://cinemassacre.com/category/ykwb/page/1/")
 	readLinksToList "$listShowsYKWB" "$outFileOption"
@@ -379,10 +379,6 @@ menuMain(){
 
 		"")
 		menuMain
-		;;
-
-		"l" | "L")
-		getAVGNList
 		;;
 
 		"a" | "A")
@@ -881,10 +877,6 @@ getURL(){
 
 		"x" | "X")
 		exit
-		;;
-
-		"a" | "A")
-		getAVGNList
 		;;
 
 		"v" | "V")
@@ -1429,55 +1421,7 @@ readLinksToList(){
 
 
 
-getAVGNList(){
 
-	banner
-
-	echo "Building AVGN Episode List...."
-	echo ""
-	echo ""
-
-	#pageGrab=$(wget $url -q -O -)
-	#newPage=$(links -dump -width 512 "$url" | cut -c 4-)
-	#newPage=$(lynx -listonly -dump "$url" | sed '1,3d' | cut -c 7-)
-	#echo "$newPage"
-
-
-	ListPagesTemp=$(lynx -listonly -dump "http://cinemassacre.com/category/avgn/avgnepisodes/page/1/" "http://cinemassacre.com/category/avgn/avgnepisodes/page/2/" "http://cinemassacre.com/category/avgn/avgnepisodes/page/3/" "http://cinemassacre.com/category/avgn/avgnepisodes/page/4/" "http://cinemassacre.com/category/avgn/avgnepisodes/page/5/" "http://cinemassacre.com/category/avgn/avgnepisodes/page/6/")
-
-	getList2005=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2005/")
-
-	getList2006=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2006/")
-
-	getList2007=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2007/")
-
-	getList2008=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2008/")
-
-	getList2009=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2009/")
-
-	getList2010=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2010/")
-
-	getList2011=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2011/")
-
-	getList2012=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2012/")
-
-	getList2013=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2013/")
-
-	getList2014=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2014/")
-
-	getList2015=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2015/")
-
-	getList2016=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2016/")
-
-
-	AVGNList=$(echo "$getList2005"$'\n'"$getList2006"$'\n'"$getList2007"$'\n'"$getList2008"$'\n'"$getList2009"$'\n'"$getList2010"$'\n'"$getList2011"$'\n'"$getList2012"$'\n'"$getList2013"$'\n'"$getList2014"$'\n'"$getList2015"$'\n'"$getList2016" | sort -u)
-
-	echo "$AVGNList"
-	echo "$AVGNList" > "AVGN-Episode-List.txt"
-
-	#read pause
-
-}
 
 
 cleanTemp(){
