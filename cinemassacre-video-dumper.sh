@@ -417,11 +417,11 @@ menuMain(){
 			read urlListOption
 
 			urlListOptionTrimmed=$(echo "$urlListOption" | sed "s/'//g")
-			echo "$urlListOptionTrimmed"
-			read pause
+			#echo "$urlListOptionTrimmed"
+			#read pause
 
 			cp "$urlListOptionTrimmed" "/tmp/urlList"
-			read pause
+			#read pause
 
 			dumpFileToParse="/tmp/dump.html"
 			#loadList "loop"
