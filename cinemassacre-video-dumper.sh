@@ -1258,7 +1258,7 @@ createOutputFiles(){
 		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
 		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
 		echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
-		echo "<duration>764</duration>">>"/$PWD/dump-xml.xml"
+		echo "<duration>$itemDuration</duration>">>"/$PWD/dump-xml.xml"
 		echo "<categories>">>"/$PWD/dump-xml.xml"
 		echo "<category id=\"402\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
 		echo "<category id=\"1065\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
