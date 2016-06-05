@@ -276,7 +276,9 @@ menuMain(){
 		echo ""
 		echo "1) Skip Return Back To Main Menu After Parsing"
 		echo ""
-		echo "2) Load List of URLs To Parse and Dump"
+		echo "2) Build New List of URLs To Parse and Dump"
+		echo ""
+		echo "3) Load List of URLs To Parse and Dump"
 		echo ""
 		echo ""
 		echo ""
@@ -291,6 +293,10 @@ menuMain(){
 			;;
 
 			"2")
+			buildNewList
+			;;
+
+			"3")
 			loadList "loop"
 			#loadList
 			;;
@@ -369,6 +375,154 @@ menuAuto(){
 }
 
 
+buildNewList(){
+
+	banner
+	echo "Select A Main Category To Build New List From:"
+	echo ""
+	echo ""
+	echo "1) Entire Cinemassacre Site (WARNING! THIS MAY TAKE A LONG TIME!)"
+	echo ""
+	echo "2) Shows"
+	echo ""
+	echo "3) Games"
+	echo ""
+	echo "4) Movies"
+	echo ""
+	echo "5) Original Films"
+	echo ""
+	echo "6) Music"
+	echo ""
+	echo "7) Site"
+	echo ""
+	echo ""
+
+	read buildOption
+
+	case "$buildOption" in
+
+		"")
+		buildNewList
+		;;
+
+		"1")
+		listBuilder "all"
+		;;
+
+		"2")
+		listBuilder "shows"
+		;;
+
+		"3")
+		listBuilder "games"
+		;;
+
+		"4")
+		listBuilder "movies"
+		;;
+
+		"5")
+		listBuilder "originalfilms"
+		;;
+
+		"6")
+		listBuilder "music"
+		;;
+
+		"7")
+		listBuilder "site"
+		;;
+
+		*)
+		buildNewList
+		;;
+
+	esac
+
+}
+
+
+listBuilder(){
+
+	case "$1" in
+
+		"")
+		echo "Build Type Not Defined!"
+		echo ""
+		echo ""
+		read pause
+		;;
+
+		"all")
+		inLink="http://cinemassacre.com/category/"
+		outPage="/tmp/dumpAllTabs.html"
+		all_getRawHTML=$(wget $inLink -O $outPage)
+		all_parseHTML=$(cat "$outPage")
+		read pause
+		;;
+
+		"shows")
+		inLink="http://cinemassacre.com/category/mikevideos/page/1/"
+		outPage="/tmp/dumpShowsTab.html"
+		shows_getRawHTML=$(wget $inLink -O $outPage)
+		shows_parseHTML=$(cat "$outPage")
+		read pause
+		;;
+
+		"games")
+		inLink="http://cinemassacre.com/category/"
+		outPage="/tmp/dumpGamesTab.html"
+		games_getRawHTML=$(wget $inLink -O $outPage)
+		games_parseHTML=$(cat "$outPage")
+		read pause
+		;;
+
+		"movies")
+		inLink="http://cinemassacre.com/category/moviereviews/"
+		outPage="/tmp/dumpMoviesTab.html"
+		movies_getRawHTML=$(wget $inLink -O $outPage)
+		movies_parseHTML=$(cat '/tmp/dumpMoviesTab.html')
+		read pause
+		;;
+
+		"originalfilms")
+		inLink="http://cinemassacre.com/category/films/"
+		outPage="/tmp/dumpOriginalFilmsTab.html"
+		originalfilms_getRawHTML=$(wget $inLink -O $outPage)
+		originalfilms_parseHTML=$(cat "$outPage")
+		read pause
+		;;
+
+		"music")
+		inLink="http://cinemassacre.com/category/music-2/"
+		outPage="/tmp/dumpMusicTab.html"
+		music_getRawHTML=$(wget $inLink -O $outPage)
+		music_parseHTML=$(cat "$outPage")
+		read pause
+		;;
+
+		"site")
+		inLink="http://cinemassacre.com/category/site-2/"
+		outPage="/tmp/dumpSiteTab.html"
+		site_getRawHTML=$(wget $inLink -O $outPage)
+		site_parseHTML=$(cat "$outPage")
+		read pause
+		;;
+
+		*)
+		echo "Build Type Not Defined!"
+		echo ""
+		echo ""
+		read pause
+		;;
+
+	esac
+
+menuMain
+
+}
+
+
 loadList(){
 
 	# Check for loop argument
@@ -398,24 +552,17 @@ loadList(){
 
 	# URL must be set here to dump
 	urlLine=0
-	timesLooped=0
+	#timesLooped=0
 	while read line;do
 
 		url=$(echo "$line")
-		#echo "$url">"/tmp/url.tmp"
 
 		((x++))
 
 		# dumpHTML
-		#url=$(<"/tmp/url.tmp")
-		#rm "/tmp/url.tmp"
 		getRawHTML=$(wget $url -O $dumpFileHTML)
 		parseHTML=$(cat '/tmp/dump.html')
-		#parseHTML=$(filename='/tmp/dump.html'
-		#filelines=`cat $filename`
-		#for line in $filelines ; do
-		#    echo $line
-		#done)
+
 
 		# getMediaID
 		hook="$hookJWPlatform"
@@ -430,19 +577,11 @@ loadList(){
 		ext="$extJWPlatform"
 		extPre="js"
 		urlPre="$hook$mediaID-$pid.$extPre"
-		#echo "$urlPre">"/tmp/urlPre.tmp"
 		urlNew="$hookDirect$mediaID.$ext"
 
 		# dumpJS
-		#urlPre=$(<"/tmp/urlPre.tmp")
-		#rm "/tmp/urlPre.tmp"
 		getRawJS=$(wget $urlPre -O $dumpFileJS)
 		parseJS=$(cat '/tmp/dump.js')
-		#parseJS=$(filename='/tmp/dump.js'
-		#filelines=`cat $filename`
-		#for line in $filelines ; do
-		#    echo $line
-		#done)
 
 		# getJSInfo
 		configJWPTemp=$(cat "$dumpFileJS" | sed -n -E -e '/Initialize player/,$ p' | sed '1 d')
