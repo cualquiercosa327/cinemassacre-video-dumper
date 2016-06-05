@@ -670,7 +670,7 @@ getJSInfo(){
 
 	# XML Syntax Fix
 	itemTitleXML=$(cat "/tmp/configJWP" | grep title | cut -d "\"" -f4 | sed 's/[&]/&amp;/')
-
+	
 	# Links
 	itemPlaylist=$(cat "/tmp/configJWP" | grep $hookJWPlatformJS | cut -d "\"" -f4)
 	itemAudio=$(cat "/tmp/configJWP" | grep $hookJWPlatformDirect | grep m4a | cut -d "\"" -f4)
@@ -688,7 +688,7 @@ getJSInfo(){
 	itemVTT=$(cat "/tmp/configJWP" | grep $hookJWPlatformVTT | cut -d "\"" -f4)
 
 	# This should be the original entered URL
-	itemWebLink="$url"
+	itemWebLink="$url"<"/tmp/url.tmp"
 
 
 	# Prepend http text
@@ -795,7 +795,7 @@ createOutputFiles(){
 		#echo "">>"/$PWD/dump-xml.xml"
 		echo "<item id=\"$xmlItemID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
 		echo "<title>AVGN: $itemTitleXML</title>">>"/$PWD/dump-xml.xml"
-		echo "<link>http://cinemassacre.com/2009/06/17/transformers/</link>">>"/$PWD/dump-xml.xml"
+		echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
 		echo "<id>$xmlID</id>">>"/$PWD/dump-xml.xml"
 		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
 		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
