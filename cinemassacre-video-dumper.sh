@@ -140,6 +140,10 @@ setDefaults(){
 	skipMain="0"
 
 
+	loopList="0"
+	urlList="/tmp/urlList"
+
+
 	# This is for high quality setting. Variable can be BLANKED for normal quality
 	highToggle="_high"
 
@@ -267,20 +271,28 @@ menuMain(){
 
 		"a" | "A")
 		banner
-		echo "Skip Return Back To Main Menu After Parsing?"
+		echo "Select An Option and Press ENTER:"
 		echo ""
 		echo ""
-		echo "Press \"Y\" and ENTER To Skip or just press ENTER to Continue"
+		echo "1) Skip Return Back To Main Menu After Parsing"
+		echo ""
+		echo "2) Load List of URLs To Parse and Dump"
+		echo ""
 		echo ""
 		echo ""
 		echo ""
 
-		read skipMainReturn
+		read autoOptions
 
-		case "$skipMainReturn" in
+		case "$autoOptions" in
 
-			"y" | "Y")
+			"1")
 			skipMain="1"
+			;;
+
+			"2")
+			loadList "loop"
+			#loadList
 			;;
 
 		esac
@@ -353,6 +365,162 @@ menuAuto(){
 	createOutputFiles "xml"
 	
 	menuMain
+
+}
+
+
+loadList(){
+
+	# Check for loop argument
+	case "$1" in
+	
+		"loop")
+		loopList="1"
+		;;
+
+	esac
+
+	#banner
+	#echo "ATTENTION!! THIS IS NOT WORKING PROPERLY"
+	#echo ""
+	#echo ""
+
+	#sleep 5
+
+	
+
+	banner
+	echo ""
+
+	cleanTemp
+
+	setDefaultHook
+
+	# URL must be set here to dump
+	urlLine=0
+	timesLooped=0
+	while read line;do
+
+		url=$(echo "$line")
+		#echo "$url">"/tmp/url.tmp"
+
+		((x++))
+
+		# dumpHTML
+		#url=$(<"/tmp/url.tmp")
+		#rm "/tmp/url.tmp"
+		getRawHTML=$(wget $url -O $dumpFileHTML)
+		parseHTML=$(cat '/tmp/dump.html')
+		#parseHTML=$(filename='/tmp/dump.html'
+		#filelines=`cat $filename`
+		#for line in $filelines ; do
+		#    echo $line
+		#done)
+
+		# getMediaID
+		hook="$hookJWPlatform"
+		echo "$hookText">"/tmp/tmp_hookText"
+		mediaID=$(cat "$dumpFileHTML" | grep $hook | cut -d "." -f3 | cut -d "/" -f3 | cut -d "-" -f1)
+		pid=$(cat "$dumpFileHTML" | grep $hook | cut -d "." -f3 | cut -d "/" -f3 | cut -d "-" -f2)
+		echo "$mediaID">"/tmp/tmp_mediaID"
+		echo "$pid">"/tmp/tmp_pid"
+
+		# buildLinks
+		hookDirect="$hookJWPlatformJS"
+		ext="$extJWPlatform"
+		extPre="js"
+		urlPre="$hook$mediaID-$pid.$extPre"
+		#echo "$urlPre">"/tmp/urlPre.tmp"
+		urlNew="$hookDirect$mediaID.$ext"
+
+		# dumpJS
+		#urlPre=$(<"/tmp/urlPre.tmp")
+		#rm "/tmp/urlPre.tmp"
+		getRawJS=$(wget $urlPre -O $dumpFileJS)
+		parseJS=$(cat '/tmp/dump.js')
+		#parseJS=$(filename='/tmp/dump.js'
+		#filelines=`cat $filename`
+		#for line in $filelines ; do
+		#    echo $line
+		#done)
+
+		# getJSInfo
+		configJWPTemp=$(cat "$dumpFileJS" | sed -n -E -e '/Initialize player/,$ p' | sed '1 d')
+		configJWP=$(echo "$configJWPTemp" | sed -n -E -e '/playlist/,$ p' | sed '1 d')
+		echo "$configJWP">"/tmp/configJWP"
+		dumpList=$(cat "/tmp/configJWP" | grep $mediaID)
+		itemDuration=$(cat "/tmp/configJWP" | grep duration | cut -d "\"" -f3 | cut -d ":" -f2 | head -n 1 | sed 's/[ ]//' | sed 's/[,]//')
+		itemLegacyID=$(cat "/tmp/configJWP" | grep legacy_id | cut -d ":" -f2 | cut -d "\"" -f2)
+		itemPubDate=$(cat "/tmp/configJWP" | grep pubdate | cut -d "\"" -f4)
+		itemTitle=$(cat "/tmp/configJWP" | grep title | cut -d "\"" -f4)
+		itemTitleXML=$(cat "/tmp/configJWP" | grep title | cut -d "\"" -f4 | sed 's/[&]/&amp;/')
+		itemPlaylist=$(cat "/tmp/configJWP" | grep $hookJWPlatformJS | cut -d "\"" -f4)
+		itemAudio=$(cat "/tmp/configJWP" | grep $hookJWPlatformDirect | grep m4a | cut -d "\"" -f4)
+		itemVideoList=$(cat "/tmp/configJWP" | grep $hookJWPlatformDirect | grep mp4 | cut -d "\"" -f4)
+		itemVideoList1=$(cat "/tmp/configJWP" | grep $hookJWPlatformDirect | grep mp4 | cut -d "\"" -f4 | head -n 1)
+		itemVideoList2=$(cat "/tmp/configJWP" | grep $hookJWPlatformDirect | grep mp4 | cut -d "\"" -f4 | tail -n 1)
+		itemImage=$(cat "/tmp/configJWP" | grep image | cut -d "\"" -f4)
+		itemPreview=$(cat "/tmp/configJWP" | grep $hookJWPlatformPreview | cut -d "\"" -f4)
+		itemThumbnail=$(cat "/tmp/configJWP" | grep $hookJWPlatformThumbs | cut -d "\"" -f4)
+		itemThumbnailBig=$(cat "/tmp/configJWP" | grep thumbnail_url | cut -d "\"" -f4)
+		itemVTT=$(cat "/tmp/configJWP" | grep $hookJWPlatformVTT | cut -d "\"" -f4)
+		itemWebLink="$url"<"/tmp/url.tmp"
+		itemPlaylist=$(echo "http:$itemPlaylist")
+		itemAudio=$(echo "http:$itemAudio")
+		itemVideoList1=$(echo "http:$itemVideoList1")
+		itemVideoList2=$(echo "http:$itemVideoList2")
+		itemImage=$(echo "http:$itemImage")
+		itemPreview=$(echo "http:$itemPreview")
+		itemThumbnail=$(echo "http:$itemThumbnail")
+		itemThumbnailBig=$(echo "http:$itemThumbnailBig")
+		itemVTT=$(echo "http:$itemVTT")
+		itemWebLink=$(echo "http:$itemWebLink")
+
+
+		#createOutputFiles "plaintext"
+		#createOutputFiles "html"
+		#createOutputFiles "xml"
+
+		# Only building XML for Kodi plugin during testing (20160605)
+		xmlID=$(($xmlID+1))
+		xmlItemID=$(($xmlItemID+1))
+		echo "<item id=\"$xmlItemID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
+		echo "<title>AVGN: $itemTitleXML</title>">>"/$PWD/dump-xml.xml"
+		echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
+		echo "<id>$xmlID</id>">>"/$PWD/dump-xml.xml"
+		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
+		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
+		echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
+		echo "<duration>764</duration>">>"/$PWD/dump-xml.xml"
+		echo "<categories>">>"/$PWD/dump-xml.xml"
+		echo "<category id=\"402\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
+		echo "<category id=\"1065\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
+		echo "</categories>">>"/$PWD/dump-xml.xml"
+		echo "</item>">>"/$PWD/dump-xml.xml"
+		echo "">>"/$PWD/dump-xml.xml"
+
+	done < $urlList
+
+	#timesLooped=0
+	#timesLooped=$(($timesLooped+1))
+
+	#case "$loopList" in
+	
+	#	"1")
+
+	#	if (($timesLooped > 3)); then
+
+	#		echo "Reached End Of List!"
+	#		echo ""
+	#		read pause
+
+	#	fi
+
+	#	;;
+
+	#esac
+
+menuMain
 
 }
 
