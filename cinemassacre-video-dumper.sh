@@ -333,8 +333,214 @@ listShowsYKWB(){
 # LIST PROCESSING --> GAMES
 
 
+listGamesMikesGamingVideos(){
+
+	outFileOption="$PWD/list-games-mikevideos.txt"
+
+	listGamesMikesGamingVideos=$(echo "http://cinemassacre.com/category/mikevideos/page/1/")
+	readLinksToList "$listGamesMikesGamingVideos" "$outFileOption"
+	listGamesMikesGamingVideos=$(echo "http://cinemassacre.com/category/mikevideos/page/2/")
+	readLinksToList "$listGamesMikesGamingVideos" "$outFileOption"
+	listGamesMikesGamingVideos=$(echo "http://cinemassacre.com/category/mikevideos/page/3/")
+	readLinksToList "$listGamesMikesGamingVideos" "$outFileOption"
+	#listGamesMikesGamingVideos=$(echo "http://cinemassacre.com/category/mikevideos/page/4/")
+	#readLinksToList "$listGamesMikesGamingVideos" "$outFileOption"
+
+}
+
+
+listGamesBootsyBeats(){
+
+	outFileOption="$PWD/list-games-bootsybeats.txt"
+
+	listGamesBootsyBeats=$(echo "http://cinemassacre.com/category/gamevideos/bootsy-beats/page/1/")
+	readLinksToList "$listGamesBootsyBeats" "$outFileOption"
+	#listGamesBootsyBeats=$(echo "http://cinemassacre.com/category/gamevideos/bootsy-beats/page/2/")
+	#readLinksToList "$listGamesBootsyBeats" "$outFileOption"
+
+}
+
+
+listGamesJamesGamingVideos(){
+
+	outFileOption="$PWD/list-games-jamesgamingvideos.txt"
+
+	listGamesJamesGamingVideos=$(echo "http://cinemassacre.com/category/jamesgamingvideos/page/1/")
+	readLinksToList "$listGamesJamesGamingVideos" "$outFileOption"
+	#listGamesJamesGamingVideos=$(echo "http://cinemassacre.com/category/jamesgamingvideos/page/2/")
+	#readLinksToList "$listGamesJamesGamingVideos" "$outFileOption"
+
+}
+
+
+listGamesOtherGamingVideos(){
+
+	outFileOption="$PWD/list-games-othergamingvideos.txt"
+
+	listGamesOtherGamingVideos=$(echo "http://cinemassacre.com/category/othergaming-videos/page/1/")
+	readLinksToList "$listGamesOtherGamingVideos" "$outFileOption"
+	#listGamesOtherGamingVideos=$(echo "http://cinemassacre.com/category/othergaming-videos/page/2/")
+	#readLinksToList "$listGamesOtherGamingVideos" "$outFileOption"
+
+}
+
+
+listGamesGameCollection(){
+
+	outFileOption="$PWD/list-games-gamecollection.txt"
+
+	listGamesGameCollection=$(echo "http://cinemassacre.com/2007/03/22/game-collection/page/1/")
+	readLinksToList "$listGamesGameCollection" "$outFileOption"
+	#listGamesGameCollection=$(echo "http://cinemassacre.com/2007/03/22/game-collection/page/2/")
+	#readLinksToList "$listGamesGameCollection" "$outFileOption"
+
+}
 
 #-------------------------------------------------------------
+
+
+#-------------------------------------------------------------
+# LIST PROCESSING --> MOVIES
+
+
+listMoviesMovieReviewsAZ(){
+
+	outFileOption="$PWD/list-movies-moviereviewsatoz.txt"
+
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/1/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/2/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/3/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/4/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/5/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/6/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/7/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/8/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/9/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/10/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/11/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/12/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/13/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/14/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/15/")
+	readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+	#listMoviesMovieReviewsAZ=$(echo "http://cinemassacre.com/category/moviereviewsatoz/page/16/")
+	#readLinksToList "$listMoviesMovieReviewsAZ" "$outFileOption"
+
+}
+
+
+listMoviesTopTens(){
+
+	outFileOption="$PWD/list-movies-toptens.txt"
+
+	listMoviesTopTens=$(echo "http://cinemassacre.com/category/moviereviews/top-tens/page/1/")
+	readLinksToList "$listMoviesTopTens" "$outFileOption"
+	#listMoviesTopTens=$(echo "http://cinemassacre.com/category/moviereviews/top-tens/2/")
+	#readLinksToList "$listMoviesTopTens" "$outFileOption"
+
+}
+
+
+listMoviesAnimationRelated(){
+
+	outFileOption="$PWD/list-movies-animationrelated.txt"
+
+	listMoviesAnimationRelated=$(echo "http://cinemassacre.com/category/moviereviews/animation-moviereviews/page/1/")
+	readLinksToList "$listMoviesAnimationRelated" "$outFileOption"
+	#listMoviesAnimationRelated=$(echo "http://cinemassacre.com/category/moviereviews/animation-moviereviews/2/")
+	#readLinksToList "$listMoviesAnimationRelated" "$outFileOption"
+
+}
+
+
+listMoviesCommentaries(){
+
+	outFileOption="$PWD/list-movies-commentaries.txt"
+
+	listMoviesCommentaries=$(echo "http://cinemassacre.com/category/moviereviews/commentaries/1/")
+	readLinksToList "$listMoviesCommentaries" "$outFileOption"
+	#listMoviesCommentaries=$(echo "http://cinemassacre.com/category/moviereviews/commentaries/2/")
+	#readLinksToList "$listMoviesCommentaries" "$outFileOption"
+
+}
+
+
+listMoviesInterviews(){
+
+	outFileOption="$PWD/list-movies-interviews.txt"
+
+	listMoviesInterviews=$(echo "http://cinemassacre.com/category/interviews/1/")
+	readLinksToList "$listMoviesInterviews" "$outFileOption"
+	#listMoviesInterviews=$(echo "http://cinemassacre.com/category/interviews/2/")
+	#readLinksToList "$listMoviesInterviews" "$outFileOption"
+
+}
+
+
+listMoviesLocationTours(){
+
+	outFileOption="$PWD/list-movies-locationtours.txt"
+
+	listMoviesLocationTours=$(echo "http://cinemassacre.com/category/location-tours/page/1/")
+	readLinksToList "$listMoviesLocationTours" "$outFileOption"
+	#listMoviesLocationTours=$(echo "http://cinemassacre.com/category/location-tours/page/2/")
+	#readLinksToList "$listMoviesLocationTours" "$outFileOption"
+
+}
+
+
+listMoviesMonsterMadness(){
+
+	outFileOption="$PWD/list-movies-monstermadness.txt"
+
+	listMoviesMonsterMadness=$(echo "http://cinemassacre.com/category/moviereviews/monstermadness/page/1/")
+	readLinksToList "$listMoviesMonsterMadness" "$outFileOption"
+	#listMoviesMonsterMadness=$(echo "http://cinemassacre.com/category/moviereviews/monstermadness/page/2/")
+	#readLinksToList "$listMoviesMonsterMadness" "$outFileOption"
+
+}
+
+
+listMoviesTriviaVideos(){
+
+	outFileOption="$PWD/list-movies-triviavideos.txt"
+
+	listMoviesTriviaVideos=$(echo "http://cinemassacre.com/category/trivia-videos/1/")
+	readLinksToList "$listMoviesTriviaVideos" "$outFileOption"
+	#listMoviesTriviaVideos=$(echo "http://cinemassacre.com/category/trivia-videos/2/")
+	#readLinksToList "$listMoviesTriviaVideos" "$outFileOption"
+
+}
+
+
+listMoviesOtherMovieStuff(){
+
+	outFileOption="$PWD/list-movies-othermovierelatedvideos.txt"
+
+	listMoviesOtherMovieStuff=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/1/")
+	readLinksToList "$listMoviesOtherMovieStuff" "$outFileOption"
+	#listMoviesOtherMovieStuff=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/2/")
+	#readLinksToList "$listMoviesOtherMovieStuff" "$outFileOption"
+
+}
+
+#-------------------------------------------------------------
+
+
 
 
 menuMain(){
@@ -598,11 +804,135 @@ buildNewLists(){
 		;;
 
 		"3")
-		listBuilder "games"
+		#listBuilder "games"
+
+		banner
+		echo "Select A Sub Category To Build New List From:"
+		echo ""
+		echo ""
+		echo "1) Mike's Gaming Videos"
+		echo ""
+		echo "2) Bootsy Beats"
+		echo ""
+		echo "3) James' Gaming Videos"
+		echo ""
+		echo "4) Other Gaming Videos"
+		echo ""
+		echo "5) Game Collection"
+		echo ""
+		echo ""
+
+		read subCatGames
+
+		case "$subCatGames" in
+
+			"")
+			#buildNewLists
+			;;
+
+			"1")
+			listGamesMikesGamingVideos
+			;;
+
+			"2")
+			listGamesBootsyBeats
+			;;
+
+			"3")
+			listGamesJamesGamingVideos
+			;;
+
+			"4")
+			listGamesOtherGamingVideos
+			;;
+
+			"5")
+			listGamesGameCollection
+			;;
+
+			*)
+			#buildNewLists
+			;;
+
+		esac
 		;;
 
 		"4")
-		listBuilder "movies"
+		#listBuilder "movies"
+
+		banner
+		echo "Select A Sub Category To Build New List From:"
+		echo ""
+		echo ""
+		echo "1) Movie Reviews A-Z"
+		echo ""
+		echo "2) Top Tens"
+		echo ""
+		echo "3) Animation Related"
+		echo ""
+		echo "4) Commentaries"
+		echo ""
+		echo "5) Interviews"
+		echo ""
+		echo "6) Location Tours"
+		echo ""
+		echo "7) Monster Madness"
+		echo ""
+		echo "8) Trivia Videos"
+		echo ""
+		echo "9) Other Movie Stuff"
+		echo ""
+		#echo ""
+
+		read subCatMovies
+
+		case "$subCatMovies" in
+
+			"")
+			#buildNewLists
+			;;
+
+			"1")
+			listMoviesMovieReviewsAZ
+			;;
+
+			"2")
+			listMoviesTopTens
+			;;
+
+			"3")
+			listMoviesAnimationRelated
+			;;
+
+			"4")
+			listMoviesCommentaries
+			;;
+
+			"5")
+			listMoviesInterviews
+			;;
+
+			"6")
+			listMoviesLocationTours
+			;;
+
+			"7")
+			listMoviesMonsterMadness
+			;;
+
+			"8")
+			listMoviesTriviaVideos
+			;;
+
+			"9")
+			listMoviesOtherMovieStuff
+			;;
+
+			*)
+			#buildNewLists
+			;;
+
+		esac
 		;;
 
 		"5")
@@ -1517,6 +1847,7 @@ resizeWindow
 
 setDefaultHook
 menuMain
+
 
 
 
