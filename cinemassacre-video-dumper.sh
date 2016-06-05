@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-# Cinemassacre Video Dumper v0.8
-# esc0rtd3w 2014 / crackacademy.com
+# Cinemassacre Video Dumper v0.9
+# esc0rtd3w 2016 / https://github.com/esc0rtd3w
 
 
 #-------------------------------------------------------------
@@ -132,6 +132,14 @@ setDefaults(){
 	extGameTrailers="swf"
 	extJWPlatform="m3u8"
 
+	# For XML Output for Kodi plugin
+	xmlID="0"
+	xmlItemID="0"
+
+	# Used for batch-like processing
+	skipMain="0"
+
+
 	# This is for high quality setting. Variable can be BLANKED for normal quality
 	highToggle="_high"
 
@@ -215,12 +223,17 @@ banner(){
 
 menuMain(){
 
+	case "$skipMain" in
+
+		"1")
+		menuAuto
+		;;
+	
+	esac
+
 	cleanTemp
 
-	
-
 	banner
-
 
 	echo "Choose An Option and Press ENTER:"
 	echo ""
@@ -253,6 +266,25 @@ menuMain(){
 		;;
 
 		"a" | "A")
+		banner
+		echo "Skip Return Back To Main Menu After Parsing?"
+		echo ""
+		echo ""
+		echo "Press \"Y\" and ENTER To Skip or just press ENTER to Continue"
+		echo ""
+		echo ""
+		echo ""
+
+		read skipMainReturn
+
+		case "$skipMainReturn" in
+
+			"y" | "Y")
+			skipMain="1"
+			;;
+
+		esac
+
 		menuAuto
 		;;
 
@@ -298,10 +330,13 @@ menuMain(){
 
 menuMain
 
+
 }
 
 
 menuAuto(){
+
+	cleanTemp
 
 	setDefaultHook
 
@@ -316,6 +351,8 @@ menuAuto(){
 	createOutputFiles "plaintext"
 	#createOutputFiles "html"
 	createOutputFiles "xml"
+	
+	menuMain
 
 }
 
@@ -751,12 +788,15 @@ createOutputFiles(){
 		# </categories>
 		# </item>
 
+		# Increment ID each time called
+		xmlID=$(($xmlID+1))
+		xmlItemID=$(($xmlItemID+1))
 
-		echo "">>"/$PWD/dump-xml.xml"
-		echo "<item id=\"1392\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
+		#echo "">>"/$PWD/dump-xml.xml"
+		echo "<item id=\"$xmlItemID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
 		echo "<title>AVGN: $itemTitleXML</title>">>"/$PWD/dump-xml.xml"
 		echo "<link>http://cinemassacre.com/2009/06/17/transformers/</link>">>"/$PWD/dump-xml.xml"
-		echo "<id>1392</id>">>"/$PWD/dump-xml.xml"
+		echo "<id>$xmlID</id>">>"/$PWD/dump-xml.xml"
 		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
 		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
 		echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
@@ -948,21 +988,6 @@ getAVGNList(){
 
 cleanTemp(){
 
-
-	# This file is ONLY created if mediaID is not available and default name is used, resulting in a zero-byte file	
-	if [ -e "capture-.$ext" ]; then
-		rm "capture-.$ext"
-	fi
-
-	
-
-	banner
-
-}
-
-
-cleanExit(){
-
 	if [ -e "/tmp/url.tmp" ]; then
 		rm "/tmp/url.tmp"
 	fi
@@ -1003,6 +1028,22 @@ cleanExit(){
 		rm "/tmp/tmp_pid"
 	fi
 
+
+	# This file is ONLY created if mediaID is not available and default name is used, resulting in a zero-byte file	
+	if [ -e "capture-.$ext" ]; then
+		rm "capture-.$ext"
+	fi
+
+	
+
+	banner
+
+}
+
+
+cleanExit(){
+
+	cleanTemp
 
 	clear
 	echo "Cinemassacre Video Dumping Script v$scriptVersion Has Closed Gracefully ;)"
