@@ -416,10 +416,16 @@ menuMain(){
 
 			read urlListOption
 
-			cp "$urlListOption" "/tmp/urlList"
+			urlListOptionTrimmed=$(echo "$urlListOption" | sed "s/'//g")
+			echo "$urlListOptionTrimmed"
+			read pause
+
+			cp "$urlListOptionTrimmed" "/tmp/urlList"
+			read pause
 
 			dumpFileToParse="/tmp/dump.html"
-			loadList "loop"
+			#loadList "loop"
+			loadList
 			;;
 
 		esac
