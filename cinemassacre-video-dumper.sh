@@ -226,6 +226,117 @@ banner(){
 }
 
 
+
+#-------------------------------------------------------------
+# LIST PROCESSING --> SHOWS
+
+listShowsAVGN(){
+
+	outFileOption="$PWD/list-shows-avgn.txt"
+
+	listShowsAVGN=$(echo "http://cinemassacre.com/category/avgn/avgnepisodes/page/1/")
+	readLinksToList "$listShowsAVGN" "$outFileOption"
+	listShowsAVGN=$(echo "http://cinemassacre.com/category/avgn/avgnepisodes/page/2/")
+	readLinksToList "$listShowsAVGN" "$outFileOption"
+	listShowsAVGN=$(echo "http://cinemassacre.com/category/avgn/avgnepisodes/page/3/")
+	readLinksToList "$listShowsAVGN" "$outFileOption"
+	listShowsAVGN=$(echo "http://cinemassacre.com/category/avgn/avgnepisodes/page/4/")
+	readLinksToList "$listShowsAVGN" "$outFileOption"
+	listShowsAVGN=$(echo "http://cinemassacre.com/category/avgn/avgnepisodes/page/5/")
+	readLinksToList "$listShowsAVGN" "$outFileOption"
+	listShowsAVGN=$(echo "http://cinemassacre.com/category/avgn/avgnepisodes/page/6/")
+	readLinksToList "$listShowsAVGN" "$outFileOption"
+	#listShowsAVGN=$(echo "http://cinemassacre.com/category/avgn/avgnepisodes/page/7/")
+	#readLinksToList "$listShowsAVGN" "$outFileOption"
+
+}
+
+
+listShowsJamesMike(){
+
+	outFileOption="$PWD/list-shows-jamesmike.txt"
+
+	listShowsJamesMike=$(echo "http://cinemassacre.com/category/jamesandmike/page/1/")
+	readLinksToList "$listShowsJamesMike" "$outFileOption"
+	listShowsJamesMike=$(echo "http://cinemassacre.com/category/jamesandmike/page/2/")
+	readLinksToList "$listShowsJamesMike" "$outFileOption"
+	listShowsJamesMike=$(echo "http://cinemassacre.com/category/jamesandmike/page/3/")
+	readLinksToList "$listShowsJamesMike" "$outFileOption"
+	listShowsJamesMike=$(echo "http://cinemassacre.com/category/jamesandmike/page/4/")
+	readLinksToList "$listShowsJamesMike" "$outFileOption"
+	listShowsJamesMike=$(echo "http://cinemassacre.com/category/jamesandmike/page/5/")
+	readLinksToList "$listShowsJamesMike" "$outFileOption"
+	listShowsJamesMike=$(echo "http://cinemassacre.com/category/jamesandmike/page/6/")
+	readLinksToList "$listShowsJamesMike" "$outFileOption"
+	listShowsJamesMike=$(echo "http://cinemassacre.com/category/jamesandmike/page/7/")
+	readLinksToList "$listShowsJamesMike" "$outFileOption"
+	#listShowsJamesMike=$(echo "http://cinemassacre.com/category/jamesandmike/page/8/")
+	#readLinksToList "$listShowsJamesMike" "$outFileOption"
+
+}
+
+
+listShowsMikeRyan(){
+
+	outFileOption="$PWD/list-shows-mikeryan.txt"
+
+	listShowsMikeRyan=$(echo "http://cinemassacre.com/category/mikeryantalkaboutgames/page/1/")
+	readLinksToList "$listShowsMikeRyan" "$outFileOption"
+	#listShowsMikeRyan=$(echo "http://cinemassacre.com/category/mikeryantalkaboutgames/page/2/")
+	#readLinksToList "$listShowsMikeRyan" "$outFileOption"
+
+}
+
+
+listShowsMikeBootsy(){
+
+	outFileOption="$PWD/list-shows-mikebootsy.txt"
+
+	listShowsMikeBootsy=$(echo "http://cinemassacre.com/category/mike-bootsy/page/1/")
+	readLinksToList "$listShowsMikeBootsy" "$outFileOption"
+	#listShowsMikeBootsy=$(echo "http://cinemassacre.com/category/mike-bootsy/page/2/")
+	#readLinksToList "$listShowsMikeBootsy" "$outFileOption"
+
+}
+
+
+listShowsBoardJames(){
+
+	outFileOption="$PWD/list-shows-boardjames.txt"
+
+	listShowsBoardJames=$(echo "http://cinemassacre.com/category/boardjames/page/1/")
+	readLinksToList "$listShowsBoardJames" "$outFileOption"
+	listShowsBoardJames=$(echo "http://cinemassacre.com/category/boardjames/page/2/")
+	readLinksToList "$listShowsBoardJames" "$outFileOption"
+	#listShowsBoardJames=$(echo "http://cinemassacre.com/category/boardjames/page/3/")
+	#readLinksToList "$listShowsBoardJames" "$outFileOption"
+
+}
+
+
+listShowsYKWB(){
+
+	outFileOption="$PWD/list-shows-mikebootsy.txt"
+
+	listShowsYKWB=$(echo "http://cinemassacre.com/category/ykwb/page/1/")
+	readLinksToList "$listShowsYKWB" "$outFileOption"
+	listShowsYKWB=$(echo "http://cinemassacre.com/category/ykwb/page/2/")
+	readLinksToList "$listShowsYKWB" "$outFileOption"
+	#listShowsYKWB=$(echo "http://cinemassacre.com/category/ykwb/page/3/")
+	#readLinksToList "$listShowsYKWB" "$outFileOption"
+
+}
+#-------------------------------------------------------------
+
+
+#-------------------------------------------------------------
+# LIST PROCESSING --> GAMES
+
+
+
+#-------------------------------------------------------------
+
+
 menuMain(){
 
 	case "$skipMain" in
@@ -270,6 +381,10 @@ menuMain(){
 		menuMain
 		;;
 
+		"l" | "L")
+		getAVGNList
+		;;
+
 		"a" | "A")
 		banner
 		echo "Select An Option and Press ENTER:"
@@ -294,7 +409,7 @@ menuMain(){
 			;;
 
 			"2")
-			buildNewList
+			buildNewLists
 			;;
 
 			"3")
@@ -377,7 +492,7 @@ menuAuto(){
 }
 
 
-buildNewList(){
+buildNewLists(){
 
 	banner
 	echo "Select A Main Category To Build New List From:"
@@ -404,7 +519,7 @@ buildNewList(){
 	case "$buildOption" in
 
 		"")
-		buildNewList
+		buildNewLists
 		;;
 
 		"1")
@@ -412,9 +527,64 @@ buildNewList(){
 		;;
 
 		"2")
-		urlList="/tmp/linksShows"
-		dumpFileToParse="/tmp/dumpShowsTab.html"
-		listBuilder "shows"
+		#listBuilder "shows"
+
+		banner
+		echo "Select A Sub Category To Build New List From:"
+		echo ""
+		echo ""
+		echo "1) Angry Video Game Nerd"
+		echo ""
+		echo "2) James & Mike Mondays"
+		echo ""
+		echo "3) Mike & Ryan"
+		echo ""
+		echo "4) Mike & Bootsy"
+		echo ""
+		echo "5) Board James"
+		echo ""
+		echo "6) You Know What's Bullshit"
+		echo ""
+		echo ""
+
+		read subCatShows
+
+		case "$subCatShows" in
+
+			"")
+			#buildNewLists
+			;;
+
+			"1")
+			listShowsAVGN
+			;;
+
+			"2")
+			listShowsJamesMike
+			;;
+
+			"3")
+			listShowsMikeRyan
+			;;
+
+			"4")
+			listShowsMikeBootsy
+			;;
+
+			"5")
+			listShowsBoardJames
+			;;
+
+			"6")
+			listShowsYKWB
+			;;
+
+			*)
+			#buildNewLists
+			;;
+
+		esac
+
 		;;
 
 		"3")
@@ -438,10 +608,12 @@ buildNewList(){
 		;;
 
 		*)
-		buildNewList
+		buildNewLists
 		;;
 
 	esac
+
+menuMain
 
 }
 
@@ -458,56 +630,35 @@ listBuilder(){
 		;;
 
 		"all")
-		inLink="http://cinemassacre.com/category/"
-		outPage="/tmp/dumpAllTabs.html"
-		all_getRawHTML=$(wget $inLink -O $outPage)
-		all_parseHTML=$(cat "$outPage")
 		read pause
 		;;
 
 		"shows")
-		urlList="/tmp/linksShows"
-		dumpFileToParse="/tmp/dumpShowsTab.html"
-		loadList
+
+		read pause
 		;;
 
 		"games")
-		inLink="http://cinemassacre.com/category/"
-		outPage="/tmp/dumpGamesTab.html"
-		games_getRawHTML=$(wget $inLink -O $outPage)
-		games_parseHTML=$(cat "$outPage")
 		read pause
 		;;
 
 		"movies")
-		inLink="http://cinemassacre.com/category/moviereviews/"
-		outPage="/tmp/dumpMoviesTab.html"
-		movies_getRawHTML=$(wget $inLink -O $outPage)
-		movies_parseHTML=$(cat '/tmp/dumpMoviesTab.html')
+
 		read pause
 		;;
 
 		"originalfilms")
-		inLink="http://cinemassacre.com/category/films/"
-		outPage="/tmp/dumpOriginalFilmsTab.html"
-		originalfilms_getRawHTML=$(wget $inLink -O $outPage)
-		originalfilms_parseHTML=$(cat "$outPage")
+
 		read pause
 		;;
 
 		"music")
-		inLink="http://cinemassacre.com/category/music-2/"
-		outPage="/tmp/dumpMusicTab.html"
-		music_getRawHTML=$(wget $inLink -O $outPage)
-		music_parseHTML=$(cat "$outPage")
+
 		read pause
 		;;
 
 		"site")
-		inLink="http://cinemassacre.com/category/site-2/"
-		outPage="/tmp/dumpSiteTab.html"
-		site_getRawHTML=$(wget $inLink -O $outPage)
-		site_parseHTML=$(cat "$outPage")
+
 		read pause
 		;;
 
@@ -1101,7 +1252,7 @@ createOutputFiles(){
 
 		#echo "">>"/$PWD/dump-xml.xml"
 		echo "<item id=\"$xmlItemID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
-		echo "<title>AVGN: $itemTitleXML</title>">>"/$PWD/dump-xml.xml"
+		echo "<title>$itemTitleXML</title>">>"/$PWD/dump-xml.xml"
 		echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
 		echo "<id>$xmlID</id>">>"/$PWD/dump-xml.xml"
 		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
@@ -1239,6 +1390,43 @@ getNewFilename(){
 	esac
 
 }
+
+
+readLinksToList(){
+
+	banner
+	echo "Building Link List...."
+	echo ""
+	echo ""
+
+	inList="$1"
+	outFile="$2"
+
+	#echo "$inList"
+	#read pause
+
+	ListPagesTemp=$(lynx -listonly -dump "$inList")
+
+
+	getList2005=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2005/" | grep -v category)
+	getList2006=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2006/" | grep -v category)
+	getList2007=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2007/" | grep -v category)
+	getList2008=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2008/" | grep -v category)
+	getList2009=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2009/" | grep -v category)
+	getList2010=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2010/" | grep -v category)
+	getList2011=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2011/" | grep -v category)
+	getList2012=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2012/" | grep -v category)
+	getList2013=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2013/" | grep -v category)
+	getList2014=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2014/" | grep -v category)
+	getList2015=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2015/" | grep -v category)
+	getList2016=$(echo "$ListPagesTemp" | sed '1,3d' | cut -c 7- | grep "/2016/" | grep -v category)
+
+	ListPages=$(echo "$getList2005"$'\n'"$getList2006"$'\n'"$getList2007"$'\n'"$getList2008"$'\n'"$getList2009"$'\n'"$getList2010"$'\n'"$getList2011"$'\n'"$getList2012"$'\n'"$getList2013"$'\n'"$getList2014"$'\n'"$getList2015"$'\n'"$getList2016" | sort -u)
+
+	echo "$ListPages" >> "$outFile"
+
+}
+
 
 
 getAVGNList(){
