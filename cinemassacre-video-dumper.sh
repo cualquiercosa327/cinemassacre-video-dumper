@@ -409,9 +409,17 @@ menuMain(){
 			;;
 
 			"3")
+			banner
+			echo "Type or Drag List Name To Process and Press ENTER:"
+			echo ""
+			echo ""
+
+			read urlListOption
+
+			cp "$urlListOption" "/tmp/urlList"
+
 			dumpFileToParse="/tmp/dump.html"
 			loadList "loop"
-			#loadList
 			;;
 
 		esac
@@ -773,13 +781,13 @@ loadList(){
 		xmlID=$(($xmlID+1))
 		xmlItemID=$(($xmlItemID+1))
 		echo "<item id=\"$xmlItemID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
-		echo "<title>AVGN: $itemTitleXML</title>">>"/$PWD/dump-xml.xml"
+		echo "<title>$itemTitleXML</title>">>"/$PWD/dump-xml.xml"
 		echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
 		echo "<id>$xmlID</id>">>"/$PWD/dump-xml.xml"
 		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
 		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
 		echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
-		echo "<duration>764</duration>">>"/$PWD/dump-xml.xml"
+		echo "<duration>$itemDuration</duration>">>"/$PWD/dump-xml.xml"
 		echo "<categories>">>"/$PWD/dump-xml.xml"
 		echo "<category id=\"402\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
 		echo "<category id=\"1065\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
