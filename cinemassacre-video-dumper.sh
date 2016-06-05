@@ -198,6 +198,7 @@ setDefaults(){
 	#previewLink="$hookJWPlatformPreview$mediaID"
 
 	# HTML Source Dump (Per Page)
+	dumpFileToParse="/tmp/dump.html"
 	dumpFileHTML="/tmp/dump.html"
 	dumpFileJS="/tmp/dump.js"
 
@@ -297,6 +298,7 @@ menuMain(){
 			;;
 
 			"3")
+			dumpFileToParse="/tmp/dump.html"
 			loadList "loop"
 			#loadList
 			;;
@@ -410,6 +412,8 @@ buildNewList(){
 		;;
 
 		"2")
+		urlList="/tmp/linksShows"
+		dumpFileToParse="/tmp/dumpShowsTab.html"
 		listBuilder "shows"
 		;;
 
@@ -462,11 +466,9 @@ listBuilder(){
 		;;
 
 		"shows")
-		inLink="http://cinemassacre.com/category/mikevideos/page/1/"
-		outPage="/tmp/dumpShowsTab.html"
-		shows_getRawHTML=$(wget $inLink -O $outPage)
-		shows_parseHTML=$(cat "$outPage")
-		read pause
+		urlList="/tmp/linksShows"
+		dumpFileToParse="/tmp/dumpShowsTab.html"
+		loadList
 		;;
 
 		"games")
@@ -551,24 +553,24 @@ loadList(){
 	setDefaultHook
 
 	# URL must be set here to dump
-	urlLine=0
+	#urlLine=0
 	#timesLooped=0
 	while read line;do
 
 		url=$(echo "$line")
 
-		((x++))
+		#((urlLine++))
 
 		# dumpHTML
-		getRawHTML=$(wget $url -O $dumpFileHTML)
-		parseHTML=$(cat '/tmp/dump.html')
+		getRawHTML=$(wget $url -O $dumpFileToParse)
+		parseHTML=$(cat "$dumpFileToParse")
 
 
 		# getMediaID
 		hook="$hookJWPlatform"
 		echo "$hookText">"/tmp/tmp_hookText"
-		mediaID=$(cat "$dumpFileHTML" | grep $hook | cut -d "." -f3 | cut -d "/" -f3 | cut -d "-" -f1)
-		pid=$(cat "$dumpFileHTML" | grep $hook | cut -d "." -f3 | cut -d "/" -f3 | cut -d "-" -f2)
+		mediaID=$(cat "$dumpFileToParse" | grep $hook | cut -d "." -f3 | cut -d "/" -f3 | cut -d "-" -f1)
+		pid=$(cat "$dumpFileToParse" | grep $hook | cut -d "." -f3 | cut -d "/" -f3 | cut -d "-" -f2)
 		echo "$mediaID">"/tmp/tmp_mediaID"
 		echo "$pid">"/tmp/tmp_pid"
 
@@ -603,7 +605,7 @@ loadList(){
 		itemThumbnail=$(cat "/tmp/configJWP" | grep $hookJWPlatformThumbs | cut -d "\"" -f4)
 		itemThumbnailBig=$(cat "/tmp/configJWP" | grep thumbnail_url | cut -d "\"" -f4)
 		itemVTT=$(cat "/tmp/configJWP" | grep $hookJWPlatformVTT | cut -d "\"" -f4)
-		itemWebLink="$url"<"/tmp/url.tmp"
+		itemWebLink="$url"
 		itemPlaylist=$(echo "http:$itemPlaylist")
 		itemAudio=$(echo "http:$itemAudio")
 		itemVideoList1=$(echo "http:$itemVideoList1")
@@ -640,14 +642,12 @@ loadList(){
 
 	done < $urlList
 
-	#timesLooped=0
-	#timesLooped=$(($timesLooped+1))
 
 	#case "$loopList" in
 	
 	#	"1")
 
-	#	if (($timesLooped > 3)); then
+	#	if (($urlLine > 3)); then
 
 	#		echo "Reached End Of List!"
 	#		echo ""
@@ -1244,7 +1244,6 @@ getNewFilename(){
 getAVGNList(){
 
 	banner
-	#betaHeader
 
 	echo "Building AVGN Episode List...."
 	echo ""
