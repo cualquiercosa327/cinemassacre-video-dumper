@@ -1,0 +1,306 @@
+
+itemTitle: The Deader The Better (2005)
+itemWebLink: http://cinemassacre.com/2005/12/19/the-deader-the-better/
+itemPlaylist: http://content.jwplatform.com/manifests/Hv5JQcrh.m3u8
+itemAudio: http://content.jwplatform.com/videos/Hv5JQcrh-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Hv5JQcrh-QvH08cwS.mp4
+//content.jwplatform.com/videos/Hv5JQcrh-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Hv5JQcrh-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Hv5JQcrh-HTQw4Gzc.mp4
+itemDuration: 1006
+itemImage: http://content.jwplatform.com/thumbs/Hv5JQcrh-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:18:01 -0000
+itemPreview: http://content.jwplatform.com/previews/Hv5JQcrh
+itemThumbnail: http://content.jwplatform.com/thumbs/Hv5JQcrh-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/Hv5JQcrh-120.vtt
+itemShortLink: http://cinemassacre.com/?p=66
+itemShortLinkID: 66
+
+
+itemTitle: A Night of Total Terror (1996)
+itemWebLink: http://cinemassacre.com/2006/05/16/a-night-of-total-terror-1996/
+itemPlaylist: http://content.jwplatform.com/manifests/3Dc3MYue.m3u8
+itemAudio: http://content.jwplatform.com/videos/3Dc3MYue-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3Dc3MYue-QvH08cwS.mp4
+//content.jwplatform.com/videos/3Dc3MYue-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3Dc3MYue-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3Dc3MYue-HTQw4Gzc.mp4
+itemDuration: 203
+itemImage: http://content.jwplatform.com/thumbs/3Dc3MYue-720.jpg
+itemLegacyID: Cinemassacre-8196
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3Dc3MYue
+itemThumbnail: http://content.jwplatform.com/thumbs/3Dc3MYue-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8196_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3Dc3MYue-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8196
+itemShortLinkID: 8196
+
+
+itemTitle: A History of Haunted Tours
+itemWebLink: http://cinemassacre.com/2008/10/17/a-history-of-haunted-tours/
+itemPlaylist: http://content.jwplatform.com/manifests/SFGILfE9.m3u8
+itemAudio: http://content.jwplatform.com/videos/SFGILfE9-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SFGILfE9-QvH08cwS.mp4
+//content.jwplatform.com/videos/SFGILfE9-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SFGILfE9-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SFGILfE9-HTQw4Gzc.mp4
+itemDuration: 551
+itemImage: http://content.jwplatform.com/thumbs/SFGILfE9-720.jpg
+itemLegacyID: Cinemassacre-113
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/SFGILfE9
+itemThumbnail: http://content.jwplatform.com/thumbs/SFGILfE9-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-113_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/SFGILfE9-120.vtt
+itemShortLink: http://cinemassacre.com/?p=113
+itemShortLinkID: 113
+
+
+itemTitle: It Came From Beyond the Toilet
+itemWebLink: http://cinemassacre.com/2009/03/29/it-came-from-beyond-the-toilet/
+itemPlaylist: http://content.jwplatform.com/manifests/WHciIa7r.m3u8
+itemAudio: http://content.jwplatform.com/videos/WHciIa7r-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/WHciIa7r-QvH08cwS.mp4
+//content.jwplatform.com/videos/WHciIa7r-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/WHciIa7r-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/WHciIa7r-HTQw4Gzc.mp4
+itemDuration: 107
+itemImage: http://content.jwplatform.com/thumbs/WHciIa7r-720.jpg
+itemLegacyID: Cinemassacre-4568
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/WHciIa7r
+itemThumbnail: http://content.jwplatform.com/thumbs/WHciIa7r-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-4568_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/WHciIa7r-120.vtt
+itemShortLink: http://cinemassacre.com/?p=4568
+itemShortLinkID: 4568
+
+
+itemTitle: House of Horror (1992/1993)
+itemWebLink: http://cinemassacre.com/2011/09/21/house-of-horror-1993/
+itemPlaylist: http://content.jwplatform.com/manifests/yxNYP695.m3u8
+itemAudio: http://content.jwplatform.com/videos/yxNYP695-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/yxNYP695-QvH08cwS.mp4
+//content.jwplatform.com/videos/yxNYP695-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yxNYP695-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yxNYP695-HTQw4Gzc.mp4
+itemDuration: 342
+itemImage: http://content.jwplatform.com/thumbs/yxNYP695-720.jpg
+itemLegacyID: Cinemassacre-9629
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/yxNYP695
+itemThumbnail: http://content.jwplatform.com/thumbs/yxNYP695-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9629_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/yxNYP695-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9629
+itemShortLinkID: 9629
+
+
+itemTitle: 013 The Green Monster
+itemWebLink: http://cinemassacre.com/2011/11/28/the-green-monster-that-walked-into-my-house-1993/
+itemPlaylist: http://content.jwplatform.com/manifests/1F88qjhl.m3u8
+itemAudio: http://content.jwplatform.com/videos/1F88qjhl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/1F88qjhl-QvH08cwS.mp4
+//content.jwplatform.com/videos/1F88qjhl-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1F88qjhl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1F88qjhl-HTQw4Gzc.mp4
+itemDuration: 125
+itemImage: http://content.jwplatform.com/thumbs/1F88qjhl-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:03:55 -0000
+itemPreview: http://content.jwplatform.com/previews/1F88qjhl
+itemThumbnail: http://content.jwplatform.com/thumbs/1F88qjhl-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/1F88qjhl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9631
+itemShortLinkID: 9631
+
+
+itemTitle: SNIX 20th Anniversary introduction
+itemWebLink: http://cinemassacre.com/2013/04/06/snix-20th-anniversary-introduction/
+itemPlaylist: http://content.jwplatform.com/manifests/teP0omBg.m3u8
+itemAudio: http://content.jwplatform.com/videos/teP0omBg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/teP0omBg-QvH08cwS.mp4
+//content.jwplatform.com/videos/teP0omBg-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/teP0omBg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/teP0omBg-HTQw4Gzc.mp4
+itemDuration: 763
+itemImage: http://content.jwplatform.com/thumbs/teP0omBg-720.jpg
+itemLegacyID: Cinemassacre-24200
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/teP0omBg
+itemThumbnail: http://content.jwplatform.com/thumbs/teP0omBg-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24200_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/teP0omBg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24200
+itemShortLinkID: 24200
+
+
+itemTitle: SNIX (1993)
+itemWebLink: http://cinemassacre.com/2013/04/13/snix/
+itemPlaylist: http://content.jwplatform.com/manifests/VT7w0urv.m3u8
+itemAudio: http://content.jwplatform.com/videos/VT7w0urv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/VT7w0urv-QvH08cwS.mp4
+//content.jwplatform.com/videos/VT7w0urv-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/VT7w0urv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/VT7w0urv-HTQw4Gzc.mp4
+itemDuration: 879
+itemImage: http://content.jwplatform.com/thumbs/VT7w0urv-720.jpg
+itemLegacyID: Cinemassacre-24208
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/VT7w0urv
+itemThumbnail: http://content.jwplatform.com/thumbs/VT7w0urv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24208_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/VT7w0urv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24208
+itemShortLinkID: 24208
+
+
+itemTitle: SNIX: The Return (1996)
+itemWebLink: http://cinemassacre.com/2013/04/20/snix-the-return-1996/
+itemPlaylist: http://content.jwplatform.com/manifests/vNEfeRfp.m3u8
+itemAudio: http://content.jwplatform.com/videos/vNEfeRfp-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vNEfeRfp-QvH08cwS.mp4
+//content.jwplatform.com/videos/vNEfeRfp-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vNEfeRfp-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vNEfeRfp-HTQw4Gzc.mp4
+itemDuration: 1256
+itemImage: http://content.jwplatform.com/thumbs/vNEfeRfp-720.jpg
+itemLegacyID: Cinemassacre-24235
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/vNEfeRfp
+itemThumbnail: http://content.jwplatform.com/thumbs/vNEfeRfp-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24235_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/vNEfeRfp-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24235
+itemShortLinkID: 24235
+
+
+itemTitle: Snix Again (1997)
+itemWebLink: http://cinemassacre.com/2013/04/27/snix-again-1997/
+itemPlaylist: http://content.jwplatform.com/manifests/P6tsIbdQ.m3u8
+itemAudio: http://content.jwplatform.com/videos/P6tsIbdQ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/P6tsIbdQ-QvH08cwS.mp4
+//content.jwplatform.com/videos/P6tsIbdQ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/P6tsIbdQ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/P6tsIbdQ-HTQw4Gzc.mp4
+itemDuration: 1269
+itemImage: http://content.jwplatform.com/thumbs/P6tsIbdQ-720.jpg
+itemLegacyID: Cinemassacre-24238
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/P6tsIbdQ
+itemThumbnail: http://content.jwplatform.com/thumbs/P6tsIbdQ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24238_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/P6tsIbdQ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24238
+itemShortLinkID: 24238
+
+
+itemTitle: The Rotten Corpse of Snix (1998)
+itemWebLink: http://cinemassacre.com/2013/05/04/the-rotten-corpse-of-snix-1998/
+itemPlaylist: http://content.jwplatform.com/manifests/5La3fbOz.m3u8
+itemAudio: http://content.jwplatform.com/videos/5La3fbOz-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5La3fbOz-QvH08cwS.mp4
+//content.jwplatform.com/videos/5La3fbOz-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5La3fbOz-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5La3fbOz-HTQw4Gzc.mp4
+itemDuration: 1288
+itemImage: http://content.jwplatform.com/thumbs/5La3fbOz-720.jpg
+itemLegacyID: Cinemassacre-24241
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5La3fbOz
+itemThumbnail: http://content.jwplatform.com/thumbs/5La3fbOz-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24241_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5La3fbOz-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24241
+itemShortLinkID: 24241
+
+
+itemTitle: The Possessed Mask of Snix (1998)
+itemWebLink: http://cinemassacre.com/2013/05/11/the-possessed-mask-of-snix-1998/
+itemPlaylist: http://content.jwplatform.com/manifests/lLPuzWgT.m3u8
+itemAudio: http://content.jwplatform.com/videos/lLPuzWgT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/lLPuzWgT-QvH08cwS.mp4
+//content.jwplatform.com/videos/lLPuzWgT-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/lLPuzWgT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/lLPuzWgT-HTQw4Gzc.mp4
+itemDuration: 902
+itemImage: http://content.jwplatform.com/thumbs/lLPuzWgT-720.jpg
+itemLegacyID: Cinemassacre-24252
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/lLPuzWgT
+itemThumbnail: http://content.jwplatform.com/thumbs/lLPuzWgT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24252_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/lLPuzWgT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24252
+itemShortLinkID: 24252
+
+
+itemTitle: The Banishing of the Evil Spirit of Snix (1998)
+itemWebLink: http://cinemassacre.com/2013/05/18/the-banishing-of-the-evil-spirit-of-snix-1998/
+itemPlaylist: http://content.jwplatform.com/manifests/LKE0RqBW.m3u8
+itemAudio: http://content.jwplatform.com/videos/LKE0RqBW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/LKE0RqBW-QvH08cwS.mp4
+//content.jwplatform.com/videos/LKE0RqBW-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/LKE0RqBW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/LKE0RqBW-HTQw4Gzc.mp4
+itemDuration: 891
+itemImage: http://content.jwplatform.com/thumbs/LKE0RqBW-720.jpg
+itemLegacyID: Cinemassacre-24244
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/LKE0RqBW
+itemThumbnail: http://content.jwplatform.com/thumbs/LKE0RqBW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24244_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/LKE0RqBW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24244
+itemShortLinkID: 24244
+
+
+itemTitle: Dr. Jekyll and Mr. Hyde The Game The Movie TRAILER
+itemWebLink: http://cinemassacre.com/2015/11/24/dr-jekyll-mr-hyde-movie-trailer/
+itemPlaylist: http://content.jwplatform.com/manifests/DCyKIPsc.m3u8
+itemAudio: http://content.jwplatform.com/videos/DCyKIPsc-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DCyKIPsc-QvH08cwS.mp4
+//content.jwplatform.com/videos/DCyKIPsc-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DCyKIPsc-GzAUXplI.mp4
+//content.jwplatform.com/videos/DCyKIPsc-7spvWrjM.mp4
+//content.jwplatform.com/videos/DCyKIPsc-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DCyKIPsc-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DCyKIPsc-Qw1ADm9e.mp4
+itemDuration: 237
+itemImage: http://content.jwplatform.com/thumbs/DCyKIPsc-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 04:24:30 -0000
+itemPreview: http://content.jwplatform.com/previews/DCyKIPsc
+itemThumbnail: http://content.jwplatform.com/thumbs/DCyKIPsc-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/DCyKIPsc-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30287
+itemShortLinkID: 30287
+
+
+itemTitle: ANOTT - Making of 2015
+itemWebLink: http://cinemassacre.com/2016/05/27/the-making-of-a-night-of-total-terror-1996/
+itemPlaylist: http://content.jwplatform.com/manifests/tE6maxoD.m3u8
+itemAudio: http://content.jwplatform.com/videos/tE6maxoD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tE6maxoD-QvH08cwS.mp4
+//content.jwplatform.com/videos/tE6maxoD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/tE6maxoD-GzAUXplI.mp4
+//content.jwplatform.com/videos/tE6maxoD-7spvWrjM.mp4
+//content.jwplatform.com/videos/tE6maxoD-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tE6maxoD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tE6maxoD-Qw1ADm9e.mp4
+itemDuration: 765
+itemImage: http://content.jwplatform.com/thumbs/tE6maxoD-720.jpg
+itemLegacyID: Cinemassacre-556c8cc2e306b
+itemPubDate: Mon, 01 Jun 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/tE6maxoD
+itemThumbnail: http://content.jwplatform.com/thumbs/tE6maxoD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-556c8cc2e306b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/tE6maxoD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29679
+itemShortLinkID: 29679
+

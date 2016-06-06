@@ -1,0 +1,198 @@
+
+itemTitle: Chronologically Confused About AC/DC
+itemWebLink: http://cinemassacre.com/2008/09/30/chronologically-confused-about-acdc/
+itemPlaylist: http://content.jwplatform.com/manifests/z9HVCELZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/z9HVCELZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/z9HVCELZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/z9HVCELZ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/z9HVCELZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/z9HVCELZ-HTQw4Gzc.mp4
+itemDuration: 319
+itemImage: http://content.jwplatform.com/thumbs/z9HVCELZ-720.jpg
+itemLegacyID: Cinemassacre-97
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/z9HVCELZ
+itemThumbnail: http://content.jwplatform.com/thumbs/z9HVCELZ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-97_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/z9HVCELZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=97
+itemShortLinkID: 97
+
+
+itemTitle: GNR Chinese Democracy review
+itemWebLink: http://cinemassacre.com/2008/11/30/a-chat-with-tom-savini/
+itemPlaylist: http://content.jwplatform.com/manifests/DcJYxLJA.m3u8
+itemAudio: http://content.jwplatform.com/videos/DcJYxLJA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DcJYxLJA-QvH08cwS.mp4
+//content.jwplatform.com/videos/DcJYxLJA-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DcJYxLJA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DcJYxLJA-HTQw4Gzc.mp4
+itemDuration: 341
+itemImage: http://content.jwplatform.com/thumbs/DcJYxLJA-720.jpg
+itemLegacyID: Cinemassacre-127
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/DcJYxLJA
+itemThumbnail: http://content.jwplatform.com/thumbs/DcJYxLJA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-127_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/DcJYxLJA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=127
+itemShortLinkID: 127
+
+
+itemTitle: My concert tickets
+itemWebLink: http://cinemassacre.com/2010/03/22/my-concert-tickets/
+itemPlaylist: http://content.jwplatform.com/manifests/qhSOGQh9.m3u8
+itemAudio: http://content.jwplatform.com/videos/qhSOGQh9-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qhSOGQh9-QvH08cwS.mp4
+//content.jwplatform.com/videos/qhSOGQh9-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qhSOGQh9-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qhSOGQh9-HTQw4Gzc.mp4
+itemDuration: 1241
+itemImage: http://content.jwplatform.com/thumbs/qhSOGQh9-720.jpg
+itemLegacyID: Cinemassacre-3651
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qhSOGQh9
+itemThumbnail: http://content.jwplatform.com/thumbs/qhSOGQh9-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3651_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qhSOGQh9-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3651
+itemShortLinkID: 3651
+
+
+itemTitle: 01 - Black Sabbath
+itemWebLink: http://cinemassacre.com/2012/12/18/name-that-tune-black-sabbath/
+itemPlaylist: http://content.jwplatform.com/manifests/pnhCh0IR.m3u8
+itemAudio: http://content.jwplatform.com/videos/pnhCh0IR-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pnhCh0IR-QvH08cwS.mp4
+//content.jwplatform.com/videos/pnhCh0IR-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/pnhCh0IR-GzAUXplI.mp4
+//content.jwplatform.com/videos/pnhCh0IR-7spvWrjM.mp4
+//content.jwplatform.com/videos/pnhCh0IR-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pnhCh0IR-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pnhCh0IR-Qw1ADm9e.mp4
+itemDuration: 874
+itemImage: http://content.jwplatform.com/thumbs/pnhCh0IR-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:13:45 -0000
+itemPreview: http://content.jwplatform.com/previews/pnhCh0IR
+itemThumbnail: http://content.jwplatform.com/thumbs/pnhCh0IR-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/pnhCh0IR-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18845
+itemShortLinkID: 18845
+
+
+itemTitle: 02 - Metallica
+itemWebLink: http://cinemassacre.com/2013/01/04/name-that-tune-metallica/
+itemPlaylist: http://content.jwplatform.com/manifests/eyMv7wTg.m3u8
+itemAudio: http://content.jwplatform.com/videos/eyMv7wTg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/eyMv7wTg-QvH08cwS.mp4
+//content.jwplatform.com/videos/eyMv7wTg-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/eyMv7wTg-GzAUXplI.mp4
+//content.jwplatform.com/videos/eyMv7wTg-7spvWrjM.mp4
+//content.jwplatform.com/videos/eyMv7wTg-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/eyMv7wTg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/eyMv7wTg-Qw1ADm9e.mp4
+itemDuration: 816
+itemImage: http://content.jwplatform.com/thumbs/eyMv7wTg-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:13:50 -0000
+itemPreview: http://content.jwplatform.com/previews/eyMv7wTg
+itemThumbnail: http://content.jwplatform.com/thumbs/eyMv7wTg-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/eyMv7wTg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18849
+itemShortLinkID: 18849
+
+
+itemTitle: 03 - Elvis
+itemWebLink: http://cinemassacre.com/2013/01/08/name-that-tune-elvis/
+itemPlaylist: http://content.jwplatform.com/manifests/rRIXeACk.m3u8
+itemAudio: http://content.jwplatform.com/videos/rRIXeACk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/rRIXeACk-QvH08cwS.mp4
+//content.jwplatform.com/videos/rRIXeACk-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/rRIXeACk-GzAUXplI.mp4
+//content.jwplatform.com/videos/rRIXeACk-7spvWrjM.mp4
+//content.jwplatform.com/videos/rRIXeACk-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/rRIXeACk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/rRIXeACk-Qw1ADm9e.mp4
+itemDuration: 1020
+itemImage: http://content.jwplatform.com/thumbs/rRIXeACk-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:13:53 -0000
+itemPreview: http://content.jwplatform.com/previews/rRIXeACk
+itemThumbnail: http://content.jwplatform.com/thumbs/rRIXeACk-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/rRIXeACk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18852
+itemShortLinkID: 18852
+
+
+itemTitle: 04 - AC-DC.mov
+itemWebLink: http://cinemassacre.com/2013/01/16/name-that-tune-acdc/
+itemPlaylist: http://content.jwplatform.com/manifests/6T2ogoHv.m3u8
+itemAudio: http://content.jwplatform.com/videos/6T2ogoHv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6T2ogoHv-QvH08cwS.mp4
+//content.jwplatform.com/videos/6T2ogoHv-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/6T2ogoHv-GzAUXplI.mp4
+//content.jwplatform.com/videos/6T2ogoHv-7spvWrjM.mp4
+//content.jwplatform.com/videos/6T2ogoHv-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6T2ogoHv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6T2ogoHv-Qw1ADm9e.mp4
+itemDuration: 1041
+itemImage: http://content.jwplatform.com/thumbs/6T2ogoHv-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:13:57 -0000
+itemPreview: http://content.jwplatform.com/previews/6T2ogoHv
+itemThumbnail: http://content.jwplatform.com/thumbs/6T2ogoHv-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/6T2ogoHv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18854
+itemShortLinkID: 18854
+
+
+itemTitle: 05 - TV Themes
+itemWebLink: http://cinemassacre.com/2013/01/22/name-that-tune-tv-themes/
+itemPlaylist: http://content.jwplatform.com/manifests/17B0RxKU.m3u8
+itemAudio: http://content.jwplatform.com/videos/17B0RxKU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/17B0RxKU-QvH08cwS.mp4
+//content.jwplatform.com/videos/17B0RxKU-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/17B0RxKU-GzAUXplI.mp4
+//content.jwplatform.com/videos/17B0RxKU-7spvWrjM.mp4
+//content.jwplatform.com/videos/17B0RxKU-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/17B0RxKU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/17B0RxKU-Qw1ADm9e.mp4
+itemDuration: 851
+itemImage: http://content.jwplatform.com/thumbs/17B0RxKU-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:14:00 -0000
+itemPreview: http://content.jwplatform.com/previews/17B0RxKU
+itemThumbnail: http://content.jwplatform.com/thumbs/17B0RxKU-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/17B0RxKU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18857
+itemShortLinkID: 18857
+
+
+itemTitle: 06 - Judas Priest.mov
+itemWebLink: http://cinemassacre.com/2013/01/30/name-that-tune-judas-priest/
+itemPlaylist: http://content.jwplatform.com/manifests/BMp83Tf8.m3u8
+itemAudio: http://content.jwplatform.com/videos/BMp83Tf8-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/BMp83Tf8-QvH08cwS.mp4
+//content.jwplatform.com/videos/BMp83Tf8-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/BMp83Tf8-GzAUXplI.mp4
+//content.jwplatform.com/videos/BMp83Tf8-7spvWrjM.mp4
+//content.jwplatform.com/videos/BMp83Tf8-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BMp83Tf8-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BMp83Tf8-Qw1ADm9e.mp4
+itemDuration: 1329
+itemImage: http://content.jwplatform.com/thumbs/BMp83Tf8-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:14:03 -0000
+itemPreview: http://content.jwplatform.com/previews/BMp83Tf8
+itemThumbnail: http://content.jwplatform.com/thumbs/BMp83Tf8-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/BMp83Tf8-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18861
+itemShortLinkID: 18861
+

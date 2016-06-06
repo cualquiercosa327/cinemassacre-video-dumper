@@ -1,0 +1,60 @@
+
+itemTitle: Death Seen
+itemWebLink: http://cinemassacre.com/2005/12/19/death-seen/
+itemPlaylist: http://content.jwplatform.com/manifests/0POhCKja.m3u8
+itemAudio: http://content.jwplatform.com/videos/0POhCKja-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/0POhCKja-QvH08cwS.mp4
+//content.jwplatform.com/videos/0POhCKja-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0POhCKja-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0POhCKja-HTQw4Gzc.mp4
+itemDuration: 326
+itemImage: http://content.jwplatform.com/thumbs/0POhCKja-720.jpg
+itemLegacyID: Cinemassacre-101
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/0POhCKja
+itemThumbnail: http://content.jwplatform.com/thumbs/0POhCKja-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-101_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/0POhCKja-120.vtt
+itemShortLink: http://cinemassacre.com/?p=101
+itemShortLinkID: 101
+
+
+itemTitle: Death Secret
+itemWebLink: http://cinemassacre.com/2006/12/19/death-secret/
+itemPlaylist: http://content.jwplatform.com/manifests/I2ewWhZd.m3u8
+itemAudio: http://content.jwplatform.com/videos/I2ewWhZd-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/I2ewWhZd-QvH08cwS.mp4
+//content.jwplatform.com/videos/I2ewWhZd-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/I2ewWhZd-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/I2ewWhZd-HTQw4Gzc.mp4
+itemDuration: 361
+itemImage: http://content.jwplatform.com/thumbs/I2ewWhZd-720.jpg
+itemLegacyID: Cinemassacre-105
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/I2ewWhZd
+itemThumbnail: http://content.jwplatform.com/thumbs/I2ewWhZd-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-105_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/I2ewWhZd-120.vtt
+itemShortLink: http://cinemassacre.com/?p=105
+itemShortLinkID: 105
+
+
+itemTitle: Spaghetti Western
+itemWebLink: http://cinemassacre.com/2007/12/19/spaghetti-western/
+itemPlaylist: http://content.jwplatform.com/manifests/pAN9Vg5Z.m3u8
+itemAudio: http://content.jwplatform.com/videos/pAN9Vg5Z-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pAN9Vg5Z-QvH08cwS.mp4
+//content.jwplatform.com/videos/pAN9Vg5Z-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pAN9Vg5Z-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pAN9Vg5Z-HTQw4Gzc.mp4
+itemDuration: 292
+itemImage: http://content.jwplatform.com/thumbs/pAN9Vg5Z-720.jpg
+itemLegacyID: Cinemassacre-99
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/pAN9Vg5Z
+itemThumbnail: http://content.jwplatform.com/thumbs/pAN9Vg5Z-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-99_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/pAN9Vg5Z-120.vtt
+itemShortLink: http://cinemassacre.com/?p=99
+itemShortLinkID: 99
+

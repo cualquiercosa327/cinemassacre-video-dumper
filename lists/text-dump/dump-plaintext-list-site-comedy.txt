@@ -1,0 +1,220 @@
+
+itemTitle: Cooking With Stoney (2001)
+itemWebLink: http://cinemassacre.com/2011/11/23/cooking-with-stoney-2001/
+itemPlaylist: http://content.jwplatform.com/manifests/6UPJStGJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/6UPJStGJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6UPJStGJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/6UPJStGJ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6UPJStGJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6UPJStGJ-HTQw4Gzc.mp4
+itemDuration: 355
+itemImage: http://content.jwplatform.com/thumbs/6UPJStGJ-720.jpg
+itemLegacyID: Cinemassacre-11055
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/6UPJStGJ
+itemThumbnail: http://content.jwplatform.com/thumbs/6UPJStGJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-11055_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/6UPJStGJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=11055
+itemShortLinkID: 11055
+
+
+itemTitle: Beer Man (2004)
+itemWebLink: http://cinemassacre.com/2004/12/19/beer-man-2004/
+itemPlaylist: http://content.jwplatform.com/manifests/JigZlsnj.m3u8
+itemAudio: http://content.jwplatform.com/videos/JigZlsnj-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JigZlsnj-QvH08cwS.mp4
+//content.jwplatform.com/videos/JigZlsnj-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JigZlsnj-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JigZlsnj-HTQw4Gzc.mp4
+itemDuration: 694
+itemImage: http://content.jwplatform.com/thumbs/JigZlsnj-720.jpg
+itemLegacyID: Cinemassacre-173
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JigZlsnj
+itemThumbnail: http://content.jwplatform.com/thumbs/JigZlsnj-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-173_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JigZlsnj-120.vtt
+itemShortLink: http://cinemassacre.com/?p=173
+itemShortLinkID: 173
+
+
+itemTitle: The Boy Who Could Telepathically Tell if Butter Ha
+itemWebLink: http://cinemassacre.com/2003/01/01/the-boy-who-could-telepathically-tell-if-butter-has-salt-in-it-or-not-2003/
+itemPlaylist: http://content.jwplatform.com/manifests/20Wl3T6E.m3u8
+itemAudio: http://content.jwplatform.com/videos/20Wl3T6E-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/20Wl3T6E-QvH08cwS.mp4
+//content.jwplatform.com/videos/20Wl3T6E-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/20Wl3T6E-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/20Wl3T6E-HTQw4Gzc.mp4
+itemDuration: 285
+itemImage: http://content.jwplatform.com/thumbs/20Wl3T6E-720.jpg
+itemLegacyID: Cinemassacre-547
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/20Wl3T6E
+itemThumbnail: http://content.jwplatform.com/thumbs/20Wl3T6E-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-547_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/20Wl3T6E-120.vtt
+itemShortLink: http://cinemassacre.com/?p=547
+itemShortLinkID: 547
+
+
+itemTitle: Stoney (2001)
+itemWebLink: http://cinemassacre.com/2001/12/20/stoney-2001/
+itemPlaylist: http://content.jwplatform.com/manifests/2nMkWvYN.m3u8
+itemAudio: http://content.jwplatform.com/videos/2nMkWvYN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2nMkWvYN-QvH08cwS.mp4
+//content.jwplatform.com/videos/2nMkWvYN-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2nMkWvYN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2nMkWvYN-HTQw4Gzc.mp4
+itemDuration: 593
+itemImage: http://content.jwplatform.com/thumbs/2nMkWvYN-720.jpg
+itemLegacyID: Cinemassacre-517
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/2nMkWvYN
+itemThumbnail: http://content.jwplatform.com/thumbs/2nMkWvYN-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-517_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/2nMkWvYN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=517
+itemShortLinkID: 517
+
+
+itemTitle: It Came From the Toilet (2001)
+itemWebLink: http://cinemassacre.com/2001/12/19/it-came-from-the-toilet/
+itemPlaylist: http://content.jwplatform.com/manifests/UfDq2qmY.m3u8
+itemAudio: http://content.jwplatform.com/videos/UfDq2qmY-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/UfDq2qmY-QvH08cwS.mp4
+//content.jwplatform.com/videos/UfDq2qmY-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/UfDq2qmY-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/UfDq2qmY-HTQw4Gzc.mp4
+itemDuration: 107
+itemImage: http://content.jwplatform.com/thumbs/UfDq2qmY-720.jpg
+itemLegacyID: Cinemassacre-189
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/UfDq2qmY
+itemThumbnail: http://content.jwplatform.com/thumbs/UfDq2qmY-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-189_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/UfDq2qmY-120.vtt
+itemShortLink: http://cinemassacre.com/?p=189
+itemShortLinkID: 189
+
+
+itemTitle: Kung Fu Werewolf From Outer Space (2001)
+itemWebLink: http://cinemassacre.com/2001/01/09/kung-fu-werewolf-from-outer-space/
+itemPlaylist: http://content.jwplatform.com/manifests/vc8ydrQg.m3u8
+itemAudio: http://content.jwplatform.com/videos/vc8ydrQg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vc8ydrQg-QvH08cwS.mp4
+//content.jwplatform.com/videos/vc8ydrQg-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vc8ydrQg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vc8ydrQg-HTQw4Gzc.mp4
+itemDuration: 1595
+itemImage: http://content.jwplatform.com/thumbs/vc8ydrQg-720.jpg
+itemLegacyID: Cinemassacre-5255
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/vc8ydrQg
+itemThumbnail: http://content.jwplatform.com/thumbs/vc8ydrQg-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5255_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/vc8ydrQg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=5255
+itemShortLinkID: 5255
+
+
+itemTitle: Death Puppy
+itemWebLink: http://cinemassacre.com/2000/12/19/death-puppy/
+itemPlaylist: http://content.jwplatform.com/manifests/mf5okbVN.m3u8
+itemAudio: http://content.jwplatform.com/videos/mf5okbVN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/mf5okbVN-QvH08cwS.mp4
+//content.jwplatform.com/videos/mf5okbVN-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/mf5okbVN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/mf5okbVN-HTQw4Gzc.mp4
+itemDuration: 1166
+itemImage: http://content.jwplatform.com/thumbs/mf5okbVN-720.jpg
+itemLegacyID: Cinemassacre-185
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/mf5okbVN
+itemThumbnail: http://content.jwplatform.com/thumbs/mf5okbVN-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-185_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/mf5okbVN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=185
+itemShortLinkID: 185
+
+
+itemTitle: Holy Shit (1998)
+itemWebLink: http://cinemassacre.com/1998/12/20/holy-shit-1998/
+itemPlaylist: http://content.jwplatform.com/manifests/MtO67f8C.m3u8
+itemAudio: http://content.jwplatform.com/videos/MtO67f8C-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/MtO67f8C-QvH08cwS.mp4
+//content.jwplatform.com/videos/MtO67f8C-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/MtO67f8C-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/MtO67f8C-HTQw4Gzc.mp4
+itemDuration: 72
+itemImage: http://content.jwplatform.com/thumbs/MtO67f8C-720.jpg
+itemLegacyID: Cinemassacre-505
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/MtO67f8C
+itemThumbnail: http://content.jwplatform.com/thumbs/MtO67f8C-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-505_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/MtO67f8C-120.vtt
+itemShortLink: http://cinemassacre.com/?p=505
+itemShortLinkID: 505
+
+
+itemTitle: Timmy and Jimmy Play Basketball (1998)
+itemWebLink: http://cinemassacre.com/1998/01/01/timmy-and-jimmy-play-basketball-1998/
+itemPlaylist: http://content.jwplatform.com/manifests/FzDI2dXr.m3u8
+itemAudio: http://content.jwplatform.com/videos/FzDI2dXr-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/FzDI2dXr-QvH08cwS.mp4
+//content.jwplatform.com/videos/FzDI2dXr-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/FzDI2dXr-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/FzDI2dXr-HTQw4Gzc.mp4
+itemDuration: 249
+itemImage: http://content.jwplatform.com/thumbs/FzDI2dXr-720.jpg
+itemLegacyID: Cinemassacre-3216
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/FzDI2dXr
+itemThumbnail: http://content.jwplatform.com/thumbs/FzDI2dXr-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3216_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/FzDI2dXr-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3216
+itemShortLinkID: 3216
+
+
+itemTitle: Bicycle Speed (1997)
+itemWebLink: http://cinemassacre.com/1997/07/02/bicycle-speed-1997/
+itemPlaylist: http://content.jwplatform.com/manifests/KZoJv6cc.m3u8
+itemAudio: http://content.jwplatform.com/videos/KZoJv6cc-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KZoJv6cc-QvH08cwS.mp4
+//content.jwplatform.com/videos/KZoJv6cc-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KZoJv6cc-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KZoJv6cc-HTQw4Gzc.mp4
+itemDuration: 216
+itemImage: http://content.jwplatform.com/thumbs/KZoJv6cc-720.jpg
+itemLegacyID: Cinemassacre-575
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KZoJv6cc
+itemThumbnail: http://content.jwplatform.com/thumbs/KZoJv6cc-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-575_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KZoJv6cc-120.vtt
+itemShortLink: http://cinemassacre.com/?p=575
+itemShortLinkID: 575
+
+
+itemTitle: The Herbivore (1997)
+itemWebLink: http://cinemassacre.com/1997/04/19/the-herbivore-1997/
+itemPlaylist: http://content.jwplatform.com/manifests/OFu0ixXZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/OFu0ixXZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/OFu0ixXZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/OFu0ixXZ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/OFu0ixXZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/OFu0ixXZ-HTQw4Gzc.mp4
+itemDuration: 292
+itemImage: http://content.jwplatform.com/thumbs/OFu0ixXZ-720.jpg
+itemLegacyID: Cinemassacre-156
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/OFu0ixXZ
+itemThumbnail: http://content.jwplatform.com/thumbs/OFu0ixXZ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-156_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/OFu0ixXZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=156
+itemShortLinkID: 156
+

@@ -1,0 +1,22 @@
+
+itemTitle: Convention Appearances
+itemWebLink: http://cinemassacre.com/2014/03/08/convention-apperances/
+itemPlaylist: http://content.jwplatform.com/manifests/J67tp0E6.m3u8
+itemAudio: http://content.jwplatform.com/videos/J67tp0E6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/J67tp0E6-QvH08cwS.mp4
+//content.jwplatform.com/videos/J67tp0E6-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/J67tp0E6-GzAUXplI.mp4
+//content.jwplatform.com/videos/J67tp0E6-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/J67tp0E6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/J67tp0E6-7spvWrjM.mp4
+itemDuration: 587
+itemImage: http://content.jwplatform.com/thumbs/J67tp0E6-720.jpg
+itemLegacyID: Cinemassacre-531bb26e7f33a
+itemPubDate: Sat, 08 Mar 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/J67tp0E6
+itemThumbnail: http://content.jwplatform.com/thumbs/J67tp0E6-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-531bb26e7f33a_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/J67tp0E6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27526
+itemShortLinkID: 27526
+

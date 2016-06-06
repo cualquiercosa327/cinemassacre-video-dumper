@@ -1,0 +1,275 @@
+
+itemTitle: Convention Appearances
+itemWebLink: http://cinemassacre.com/2014/03/08/convention-apperances/
+itemPlaylist: http://content.jwplatform.com/manifests/J67tp0E6.m3u8
+itemAudio: http://content.jwplatform.com/videos/J67tp0E6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/J67tp0E6-QvH08cwS.mp4
+//content.jwplatform.com/videos/J67tp0E6-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/J67tp0E6-GzAUXplI.mp4
+//content.jwplatform.com/videos/J67tp0E6-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/J67tp0E6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/J67tp0E6-7spvWrjM.mp4
+itemDuration: 587
+itemImage: http://content.jwplatform.com/thumbs/J67tp0E6-720.jpg
+itemLegacyID: Cinemassacre-531bb26e7f33a
+itemPubDate: Sat, 08 Mar 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/J67tp0E6
+itemThumbnail: http://content.jwplatform.com/thumbs/J67tp0E6-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-531bb26e7f33a_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/J67tp0E6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27526
+itemShortLinkID: 27526
+
+
+itemTitle: #1 Nostalgic Scary Books
+itemWebLink: http://cinemassacre.com/2014/05/09/nostalgic-scary-books/
+itemPlaylist: http://content.jwplatform.com/manifests/EC0IKD62.m3u8
+itemAudio: http://content.jwplatform.com/videos/EC0IKD62-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EC0IKD62-QvH08cwS.mp4
+//content.jwplatform.com/videos/EC0IKD62-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/EC0IKD62-GzAUXplI.mp4
+//content.jwplatform.com/videos/EC0IKD62-7spvWrjM.mp4
+//content.jwplatform.com/videos/EC0IKD62-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EC0IKD62-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EC0IKD62-Qw1ADm9e.mp4
+itemDuration: 419
+itemImage: http://content.jwplatform.com/thumbs/EC0IKD62-720.jpg
+itemLegacyID: Cinemassacre-534f578c035b5
+itemPubDate: Wed, 16 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/EC0IKD62
+itemThumbnail: http://content.jwplatform.com/thumbs/EC0IKD62-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-534f578c035b5_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/EC0IKD62-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27711
+itemShortLinkID: 27711
+
+
+itemTitle: #2 Monster Movie Books Part 1
+itemWebLink: http://cinemassacre.com/2014/05/16/monster-movie-books-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/u2NiaLlF.m3u8
+itemAudio: http://content.jwplatform.com/videos/u2NiaLlF-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/u2NiaLlF-QvH08cwS.mp4
+//content.jwplatform.com/videos/u2NiaLlF-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/u2NiaLlF-GzAUXplI.mp4
+//content.jwplatform.com/videos/u2NiaLlF-7spvWrjM.mp4
+//content.jwplatform.com/videos/u2NiaLlF-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/u2NiaLlF-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/u2NiaLlF-Qw1ADm9e.mp4
+itemDuration: 455
+itemImage: http://content.jwplatform.com/thumbs/u2NiaLlF-720.jpg
+itemLegacyID: Cinemassacre-5351d205aa3e3
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/u2NiaLlF
+itemThumbnail: http://content.jwplatform.com/thumbs/u2NiaLlF-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351d205aa3e3_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/u2NiaLlF-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27715
+itemShortLinkID: 27715
+
+
+itemTitle: #3 Monster Movie Books Part 2
+itemWebLink: http://cinemassacre.com/2014/05/23/monster-movie-books-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/BAGkAPuA.m3u8
+itemAudio: http://content.jwplatform.com/videos/BAGkAPuA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/BAGkAPuA-QvH08cwS.mp4
+//content.jwplatform.com/videos/BAGkAPuA-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/BAGkAPuA-GzAUXplI.mp4
+//content.jwplatform.com/videos/BAGkAPuA-7spvWrjM.mp4
+//content.jwplatform.com/videos/BAGkAPuA-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BAGkAPuA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BAGkAPuA-Qw1ADm9e.mp4
+itemDuration: 497
+itemImage: http://content.jwplatform.com/thumbs/BAGkAPuA-720.jpg
+itemLegacyID: Cinemassacre-5351d4097ee4d
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/BAGkAPuA
+itemThumbnail: http://content.jwplatform.com/thumbs/BAGkAPuA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351d4097ee4d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/BAGkAPuA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27718
+itemShortLinkID: 27718
+
+
+itemTitle: #4 Monster Movie Books Part 3
+itemWebLink: http://cinemassacre.com/2014/05/31/monster-movie-books-part-3/
+itemPlaylist: http://content.jwplatform.com/manifests/StEb2QUv.m3u8
+itemAudio: http://content.jwplatform.com/videos/StEb2QUv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/StEb2QUv-QvH08cwS.mp4
+//content.jwplatform.com/videos/StEb2QUv-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/StEb2QUv-GzAUXplI.mp4
+//content.jwplatform.com/videos/StEb2QUv-7spvWrjM.mp4
+//content.jwplatform.com/videos/StEb2QUv-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/StEb2QUv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/StEb2QUv-Qw1ADm9e.mp4
+itemDuration: 309
+itemImage: http://content.jwplatform.com/thumbs/StEb2QUv-720.jpg
+itemLegacyID: Cinemassacre-5351d592233f6
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/StEb2QUv
+itemThumbnail: http://content.jwplatform.com/thumbs/StEb2QUv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351d592233f6_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/StEb2QUv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27722
+itemShortLinkID: 27722
+
+
+itemTitle: #5 Hard Rock and Metal Books
+itemWebLink: http://cinemassacre.com/2014/06/06/hard-rock-and-metal-books/
+itemPlaylist: http://content.jwplatform.com/manifests/vCkHzkB6.m3u8
+itemAudio: http://content.jwplatform.com/videos/vCkHzkB6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vCkHzkB6-QvH08cwS.mp4
+//content.jwplatform.com/videos/vCkHzkB6-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/vCkHzkB6-GzAUXplI.mp4
+//content.jwplatform.com/videos/vCkHzkB6-7spvWrjM.mp4
+//content.jwplatform.com/videos/vCkHzkB6-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vCkHzkB6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vCkHzkB6-Qw1ADm9e.mp4
+itemDuration: 709
+itemImage: http://content.jwplatform.com/thumbs/vCkHzkB6-720.jpg
+itemLegacyID: Cinemassacre-5351d88495bb1
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/vCkHzkB6
+itemThumbnail: http://content.jwplatform.com/thumbs/vCkHzkB6-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351d88495bb1_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/vCkHzkB6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27725
+itemShortLinkID: 27725
+
+
+itemTitle: #6 Autobiographies
+itemWebLink: http://cinemassacre.com/2014/06/14/autobiographies/
+itemPlaylist: http://content.jwplatform.com/manifests/jA7TWR9s.m3u8
+itemAudio: http://content.jwplatform.com/videos/jA7TWR9s-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jA7TWR9s-QvH08cwS.mp4
+//content.jwplatform.com/videos/jA7TWR9s-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/jA7TWR9s-GzAUXplI.mp4
+//content.jwplatform.com/videos/jA7TWR9s-7spvWrjM.mp4
+//content.jwplatform.com/videos/jA7TWR9s-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jA7TWR9s-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jA7TWR9s-Qw1ADm9e.mp4
+itemDuration: 561
+itemImage: http://content.jwplatform.com/thumbs/jA7TWR9s-720.jpg
+itemLegacyID: Cinemassacre-5351db5feba53
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/jA7TWR9s
+itemThumbnail: http://content.jwplatform.com/thumbs/jA7TWR9s-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351db5feba53_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/jA7TWR9s-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27728
+itemShortLinkID: 27728
+
+
+itemTitle: #7 Weird NJ
+itemWebLink: http://cinemassacre.com/2014/06/21/weird-nj/
+itemPlaylist: http://content.jwplatform.com/manifests/3Zba3T8Y.m3u8
+itemAudio: http://content.jwplatform.com/videos/3Zba3T8Y-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3Zba3T8Y-QvH08cwS.mp4
+//content.jwplatform.com/videos/3Zba3T8Y-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/3Zba3T8Y-GzAUXplI.mp4
+//content.jwplatform.com/videos/3Zba3T8Y-7spvWrjM.mp4
+//content.jwplatform.com/videos/3Zba3T8Y-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3Zba3T8Y-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3Zba3T8Y-Qw1ADm9e.mp4
+itemDuration: 579
+itemImage: http://content.jwplatform.com/thumbs/3Zba3T8Y-720.jpg
+itemLegacyID: Cinemassacre-5351ddc221bab
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3Zba3T8Y
+itemThumbnail: http://content.jwplatform.com/thumbs/3Zba3T8Y-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351ddc221bab_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3Zba3T8Y-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27731
+itemShortLinkID: 27731
+
+
+itemTitle: #8 Filmmaking Books
+itemWebLink: http://cinemassacre.com/2014/06/27/filmmaking-books/
+itemPlaylist: http://content.jwplatform.com/manifests/0dgepMab.m3u8
+itemAudio: http://content.jwplatform.com/videos/0dgepMab-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/0dgepMab-QvH08cwS.mp4
+//content.jwplatform.com/videos/0dgepMab-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/0dgepMab-GzAUXplI.mp4
+//content.jwplatform.com/videos/0dgepMab-7spvWrjM.mp4
+//content.jwplatform.com/videos/0dgepMab-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0dgepMab-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0dgepMab-Qw1ADm9e.mp4
+itemDuration: 600
+itemImage: http://content.jwplatform.com/thumbs/0dgepMab-720.jpg
+itemLegacyID: Cinemassacre-5351e06705e30
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/0dgepMab
+itemThumbnail: http://content.jwplatform.com/thumbs/0dgepMab-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351e06705e30_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/0dgepMab-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27734
+itemShortLinkID: 27734
+
+
+itemTitle: #9 Fiction books - Horror and Sci-fi
+itemWebLink: http://cinemassacre.com/2014/07/04/fiction-books-horror-and-sci-fi/
+itemPlaylist: http://content.jwplatform.com/manifests/rfsTPtiU.m3u8
+itemAudio: http://content.jwplatform.com/videos/rfsTPtiU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/rfsTPtiU-QvH08cwS.mp4
+//content.jwplatform.com/videos/rfsTPtiU-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/rfsTPtiU-GzAUXplI.mp4
+//content.jwplatform.com/videos/rfsTPtiU-7spvWrjM.mp4
+//content.jwplatform.com/videos/rfsTPtiU-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/rfsTPtiU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/rfsTPtiU-Qw1ADm9e.mp4
+itemDuration: 447
+itemImage: http://content.jwplatform.com/thumbs/rfsTPtiU-720.jpg
+itemLegacyID: Cinemassacre-5351e221d22c2
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/rfsTPtiU
+itemThumbnail: http://content.jwplatform.com/thumbs/rfsTPtiU-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351e221d22c2_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/rfsTPtiU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27737
+itemShortLinkID: 27737
+
+
+itemTitle: #10 Comics
+itemWebLink: http://cinemassacre.com/2014/07/11/comics/
+itemPlaylist: http://content.jwplatform.com/manifests/BGiRYi5u.m3u8
+itemAudio: http://content.jwplatform.com/videos/BGiRYi5u-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/BGiRYi5u-QvH08cwS.mp4
+//content.jwplatform.com/videos/BGiRYi5u-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/BGiRYi5u-GzAUXplI.mp4
+//content.jwplatform.com/videos/BGiRYi5u-7spvWrjM.mp4
+//content.jwplatform.com/videos/BGiRYi5u-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BGiRYi5u-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BGiRYi5u-Qw1ADm9e.mp4
+itemDuration: 470
+itemImage: http://content.jwplatform.com/thumbs/BGiRYi5u-720.jpg
+itemLegacyID: Cinemassacre-5351e4f1dcd51
+itemPubDate: Fri, 18 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/BGiRYi5u
+itemThumbnail: http://content.jwplatform.com/thumbs/BGiRYi5u-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5351e4f1dcd51_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/BGiRYi5u-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27740
+itemShortLinkID: 27740
+
+
+itemTitle: TCM TRIBUTE.mov
+itemWebLink: http://cinemassacre.com/2015/03/04/turner-classic-movies/
+itemPlaylist: http://content.jwplatform.com/manifests/87IcK9ls.m3u8
+itemAudio: http://content.jwplatform.com/videos/87IcK9ls-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/87IcK9ls-QvH08cwS.mp4
+//content.jwplatform.com/videos/87IcK9ls-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/87IcK9ls-GzAUXplI.mp4
+//content.jwplatform.com/videos/87IcK9ls-7spvWrjM.mp4
+//content.jwplatform.com/videos/87IcK9ls-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/87IcK9ls-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/87IcK9ls-Qw1ADm9e.mp4
+itemDuration: 310
+itemImage: http://content.jwplatform.com/thumbs/87IcK9ls-720.jpg
+itemLegacyID: Cinemassacre-54f384a448085
+itemPubDate: Sun, 01 Mar 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/87IcK9ls
+itemThumbnail: http://content.jwplatform.com/thumbs/87IcK9ls-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54f384a448085_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/87IcK9ls-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29322
+itemShortLinkID: 29322
+

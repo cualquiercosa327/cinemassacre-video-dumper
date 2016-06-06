@@ -1,0 +1,106 @@
+
+itemTitle: The Deader The Better (2005)
+itemWebLink: http://cinemassacre.com/2005/12/19/the-deader-the-better/
+itemPlaylist: http://content.jwplatform.com/manifests/Hv5JQcrh.m3u8
+itemAudio: http://content.jwplatform.com/videos/Hv5JQcrh-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Hv5JQcrh-QvH08cwS.mp4
+//content.jwplatform.com/videos/Hv5JQcrh-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Hv5JQcrh-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Hv5JQcrh-HTQw4Gzc.mp4
+itemDuration: 1006
+itemImage: http://content.jwplatform.com/thumbs/Hv5JQcrh-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:18:01 -0000
+itemPreview: http://content.jwplatform.com/previews/Hv5JQcrh
+itemThumbnail: http://content.jwplatform.com/thumbs/Hv5JQcrh-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/Hv5JQcrh-120.vtt
+itemShortLink: http://cinemassacre.com/?p=66
+itemShortLinkID: 66
+
+
+itemTitle: CineMassacre 200
+itemWebLink: http://cinemassacre.com/2008/12/20/cinemassacre-200/
+itemPlaylist: http://content.jwplatform.com/manifests/yNsbJPSZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/yNsbJPSZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/yNsbJPSZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/yNsbJPSZ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yNsbJPSZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yNsbJPSZ-HTQw4Gzc.mp4
+itemDuration: 1384
+itemImage: http://content.jwplatform.com/thumbs/yNsbJPSZ-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:18:01 -0000
+itemPreview: http://content.jwplatform.com/previews/yNsbJPSZ
+itemThumbnail: http://content.jwplatform.com/thumbs/yNsbJPSZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/yNsbJPSZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=543
+itemShortLinkID: 543
+
+
+itemTitle: The Dragon in my Dreams
+itemWebLink: http://cinemassacre.com/2010/06/21/the-dragon-in-my-dreams/
+itemPlaylist: http://content.jwplatform.com/manifests/ebSr9WBw.m3u8
+itemAudio: http://content.jwplatform.com/videos/ebSr9WBw-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ebSr9WBw-QvH08cwS.mp4
+//content.jwplatform.com/videos/ebSr9WBw-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ebSr9WBw-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ebSr9WBw-HTQw4Gzc.mp4
+itemDuration: 534
+itemImage: http://content.jwplatform.com/thumbs/ebSr9WBw-720.jpg
+itemLegacyID: Cinemassacre-6283
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ebSr9WBw
+itemThumbnail: http://content.jwplatform.com/thumbs/ebSr9WBw-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6283_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ebSr9WBw-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6283
+itemShortLinkID: 6283
+
+
+itemTitle: Angry Video Game Nerd: The Movie - Trailer
+itemWebLink: http://cinemassacre.com/2012/11/10/avgn-the-movie-trailer/
+itemPlaylist: http://content.jwplatform.com/manifests/j1Uz0A6w.m3u8
+itemAudio: http://content.jwplatform.com/videos/j1Uz0A6w-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/j1Uz0A6w-QvH08cwS.mp4
+//content.jwplatform.com/videos/j1Uz0A6w-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/j1Uz0A6w-GzAUXplI.mp4
+//content.jwplatform.com/videos/j1Uz0A6w-7spvWrjM.mp4
+//content.jwplatform.com/videos/j1Uz0A6w-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/j1Uz0A6w-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/j1Uz0A6w-Qw1ADm9e.mp4
+itemDuration: 169
+itemImage: http://content.jwplatform.com/thumbs/j1Uz0A6w-720.jpg
+itemLegacyID: Cinemassacre-19911
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/j1Uz0A6w
+itemThumbnail: http://content.jwplatform.com/thumbs/j1Uz0A6w-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-19911_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/j1Uz0A6w-120.vtt
+itemShortLink: http://cinemassacre.com/?p=19911
+itemShortLinkID: 19911
+
+
+itemTitle: Dr. Jekyll and Mr. Hyde The Game The Movie TRAILER
+itemWebLink: http://cinemassacre.com/2015/11/24/dr-jekyll-mr-hyde-movie-trailer/
+itemPlaylist: http://content.jwplatform.com/manifests/DCyKIPsc.m3u8
+itemAudio: http://content.jwplatform.com/videos/DCyKIPsc-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DCyKIPsc-QvH08cwS.mp4
+//content.jwplatform.com/videos/DCyKIPsc-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DCyKIPsc-GzAUXplI.mp4
+//content.jwplatform.com/videos/DCyKIPsc-7spvWrjM.mp4
+//content.jwplatform.com/videos/DCyKIPsc-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DCyKIPsc-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DCyKIPsc-Qw1ADm9e.mp4
+itemDuration: 237
+itemImage: http://content.jwplatform.com/thumbs/DCyKIPsc-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 04:24:30 -0000
+itemPreview: http://content.jwplatform.com/previews/DCyKIPsc
+itemThumbnail: http://content.jwplatform.com/thumbs/DCyKIPsc-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/DCyKIPsc-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30287
+itemShortLinkID: 30287
+

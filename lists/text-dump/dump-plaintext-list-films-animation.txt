@@ -1,0 +1,176 @@
+
+itemTitle: The Mexican Mummy
+itemWebLink: http://cinemassacre.com/2005/12/20/the-mexican-mummy-la-momia-mexicana/
+itemPlaylist: http://content.jwplatform.com/manifests/ZQHrQOOa.m3u8
+itemAudio: http://content.jwplatform.com/videos/ZQHrQOOa-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ZQHrQOOa-QvH08cwS.mp4
+//content.jwplatform.com/videos/ZQHrQOOa-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ZQHrQOOa-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ZQHrQOOa-HTQw4Gzc.mp4
+itemDuration: 145
+itemImage: http://content.jwplatform.com/thumbs/ZQHrQOOa-720.jpg
+itemLegacyID: Cinemassacre-557
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ZQHrQOOa
+itemThumbnail: http://content.jwplatform.com/thumbs/ZQHrQOOa-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-557_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ZQHrQOOa-120.vtt
+itemShortLink: http://cinemassacre.com/?p=557
+itemShortLinkID: 557
+
+
+itemTitle: Wizard of Oz 3: Dorothy Goes to Hell (2006)
+itemWebLink: http://cinemassacre.com/2006/06/11/wizard-of-oz-3-dorothy-goes-to-hell-2006/
+itemPlaylist: http://content.jwplatform.com/manifests/cOxH1J0w.m3u8
+itemAudio: http://content.jwplatform.com/videos/cOxH1J0w-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/cOxH1J0w-QvH08cwS.mp4
+//content.jwplatform.com/videos/cOxH1J0w-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/cOxH1J0w-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/cOxH1J0w-HTQw4Gzc.mp4
+itemDuration: 1380
+itemImage: http://content.jwplatform.com/thumbs/cOxH1J0w-720.jpg
+itemLegacyID: Cinemassacre-3293
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/cOxH1J0w
+itemThumbnail: http://content.jwplatform.com/thumbs/cOxH1J0w-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3293_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/cOxH1J0w-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3293
+itemShortLinkID: 3293
+
+
+itemTitle: Kung Fu Bandito
+itemWebLink: http://cinemassacre.com/2007/02/06/kung-fu-bandito/
+itemPlaylist: http://content.jwplatform.com/manifests/kgJRIb5e.m3u8
+itemAudio: http:
+itemVideoList: //content.jwplatform.com/videos/kgJRIb5e-QvH08cwS.mp4
+itemVideoList1: http://content.jwplatform.com/videos/kgJRIb5e-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/kgJRIb5e-QvH08cwS.mp4
+itemDuration: 101
+itemImage: http://content.jwplatform.com/thumbs/kgJRIb5e-720.jpg
+itemLegacyID: Cinemassacre-605
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/kgJRIb5e
+itemThumbnail: http://content.jwplatform.com/thumbs/kgJRIb5e-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-605_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/kgJRIb5e-120.vtt
+itemShortLink: http://cinemassacre.com/?p=605
+itemShortLinkID: 605
+
+
+itemTitle: Shit Pickle Episode 1
+itemWebLink: http://cinemassacre.com/2007/08/11/shit-pickle-episode-1/
+itemPlaylist: http://content.jwplatform.com/manifests/jqcbCXGK.m3u8
+itemAudio: http:
+itemVideoList: //content.jwplatform.com/videos/jqcbCXGK-QvH08cwS.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jqcbCXGK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jqcbCXGK-QvH08cwS.mp4
+itemDuration: 109
+itemImage: http://content.jwplatform.com/thumbs/jqcbCXGK-720.jpg
+itemLegacyID: Cinemassacre-3
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/jqcbCXGK
+itemThumbnail: http://content.jwplatform.com/thumbs/jqcbCXGK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/jqcbCXGK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3
+itemShortLinkID: 3
+
+
+itemTitle: Shit Pickle Episode 2
+itemWebLink: http://cinemassacre.com/2007/09/14/shit-pickle-episode-2/
+itemPlaylist: http://content.jwplatform.com/manifests/gPChB9LS.m3u8
+itemAudio: http://content.jwplatform.com/videos/gPChB9LS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/gPChB9LS-QvH08cwS.mp4
+itemVideoList1: http://content.jwplatform.com/videos/gPChB9LS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/gPChB9LS-QvH08cwS.mp4
+itemDuration: 196
+itemImage: http://content.jwplatform.com/thumbs/gPChB9LS-720.jpg
+itemLegacyID: Cinemassacre-8
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/gPChB9LS
+itemThumbnail: http://content.jwplatform.com/thumbs/gPChB9LS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/gPChB9LS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8
+itemShortLinkID: 8
+
+
+itemTitle: Shit Pickle Episode 3
+itemWebLink: http://cinemassacre.com/2008/02/26/shit-pickle-episode-3/
+itemPlaylist: http://content.jwplatform.com/manifests/k1zJHBZS.m3u8
+itemAudio: http://content.jwplatform.com/videos/k1zJHBZS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/k1zJHBZS-QvH08cwS.mp4
+itemVideoList1: http://content.jwplatform.com/videos/k1zJHBZS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/k1zJHBZS-QvH08cwS.mp4
+itemDuration: 212
+itemImage: http://content.jwplatform.com/thumbs/k1zJHBZS-720.jpg
+itemLegacyID: Cinemassacre-12
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/k1zJHBZS
+itemThumbnail: http://content.jwplatform.com/thumbs/k1zJHBZS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-12_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/k1zJHBZS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=12
+itemShortLinkID: 12
+
+
+itemTitle: Late Night With Ganondorf Dragmire
+itemWebLink: http://cinemassacre.com/2008/12/15/late-night-with-ganondorf-dragmire-2/
+itemPlaylist: http://content.jwplatform.com/manifests/LNtYxx6i.m3u8
+itemAudio: http://content.jwplatform.com/videos/LNtYxx6i-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/LNtYxx6i-QvH08cwS.mp4
+//content.jwplatform.com/videos/LNtYxx6i-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/LNtYxx6i-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/LNtYxx6i-HTQw4Gzc.mp4
+itemDuration: 329
+itemImage: http://content.jwplatform.com/thumbs/LNtYxx6i-720.jpg
+itemLegacyID: Cinemassacre-140
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/LNtYxx6i
+itemThumbnail: http://content.jwplatform.com/thumbs/LNtYxx6i-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-140_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/LNtYxx6i-120.vtt
+itemShortLink: http://cinemassacre.com/?p=140
+itemShortLinkID: 140
+
+
+itemTitle: History of Super Mecha Death Christ
+itemWebLink: http://cinemassacre.com/2009/11/25/history-of-super-mecha-death-christ/
+itemPlaylist: http://content.jwplatform.com/manifests/qYkjDpaT.m3u8
+itemAudio: http://content.jwplatform.com/videos/qYkjDpaT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qYkjDpaT-QvH08cwS.mp4
+//content.jwplatform.com/videos/qYkjDpaT-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qYkjDpaT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qYkjDpaT-HTQw4Gzc.mp4
+itemDuration: 418
+itemImage: http://content.jwplatform.com/thumbs/qYkjDpaT-720.jpg
+itemLegacyID: Cinemassacre-537
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qYkjDpaT
+itemThumbnail: http://content.jwplatform.com/thumbs/qYkjDpaT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-537_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qYkjDpaT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=537
+itemShortLinkID: 537
+
+
+itemTitle: Monkey Cheese 4
+itemWebLink: http://cinemassacre.com/2012/02/03/munky-cheez-4/
+itemPlaylist: http://content.jwplatform.com/manifests/1sIpeZLn.m3u8
+itemAudio: http://content.jwplatform.com/videos/1sIpeZLn-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/1sIpeZLn-QvH08cwS.mp4
+//content.jwplatform.com/videos/1sIpeZLn-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1sIpeZLn-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1sIpeZLn-HTQw4Gzc.mp4
+itemDuration: 135
+itemImage: http://content.jwplatform.com/thumbs/1sIpeZLn-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 23:13:13 -0000
+itemPreview: http://content.jwplatform.com/previews/1sIpeZLn
+itemThumbnail: http://content.jwplatform.com/thumbs/1sIpeZLn-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/1sIpeZLn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=14471
+itemShortLinkID: 14471
+

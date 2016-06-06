@@ -1,0 +1,304 @@
+
+itemTitle: One Man's Epic (2006)
+itemWebLink: http://cinemassacre.com/2005/12/20/one-mans-epic-2006-music-by-ryan-paul/
+itemPlaylist: http://content.jwplatform.com/manifests/CgYhxtFb.m3u8
+itemAudio: http://content.jwplatform.com/videos/CgYhxtFb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/CgYhxtFb-QvH08cwS.mp4
+//content.jwplatform.com/videos/CgYhxtFb-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/CgYhxtFb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/CgYhxtFb-HTQw4Gzc.mp4
+itemDuration: 291
+itemImage: http://content.jwplatform.com/thumbs/CgYhxtFb-720.jpg
+itemLegacyID: Cinemassacre-569
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/CgYhxtFb
+itemThumbnail: http://content.jwplatform.com/thumbs/CgYhxtFb-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-569_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/CgYhxtFb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=569
+itemShortLinkID: 569
+
+
+itemTitle: The Deader the Better - Cast and crew commentary
+itemWebLink: http://cinemassacre.com/2006/02/10/the-deader-the-better-cast-and-crew-commentary/
+itemPlaylist: http://content.jwplatform.com/manifests/F9I1ABk7.m3u8
+itemAudio: http://content.jwplatform.com/videos/F9I1ABk7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/F9I1ABk7-QvH08cwS.mp4
+//content.jwplatform.com/videos/F9I1ABk7-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/F9I1ABk7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/F9I1ABk7-HTQw4Gzc.mp4
+itemDuration: 1019
+itemImage: http://content.jwplatform.com/thumbs/F9I1ABk7-720.jpg
+itemLegacyID: Cinemassacre-109
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/F9I1ABk7
+itemThumbnail: http://content.jwplatform.com/thumbs/F9I1ABk7-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-109_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/F9I1ABk7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=109
+itemShortLinkID: 109
+
+
+itemTitle: A History of Haunted Tours
+itemWebLink: http://cinemassacre.com/2008/10/17/a-history-of-haunted-tours/
+itemPlaylist: http://content.jwplatform.com/manifests/SFGILfE9.m3u8
+itemAudio: http://content.jwplatform.com/videos/SFGILfE9-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SFGILfE9-QvH08cwS.mp4
+//content.jwplatform.com/videos/SFGILfE9-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SFGILfE9-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SFGILfE9-HTQw4Gzc.mp4
+itemDuration: 551
+itemImage: http://content.jwplatform.com/thumbs/SFGILfE9-720.jpg
+itemLegacyID: Cinemassacre-113
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/SFGILfE9
+itemThumbnail: http://content.jwplatform.com/thumbs/SFGILfE9-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-113_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/SFGILfE9-120.vtt
+itemShortLink: http://cinemassacre.com/?p=113
+itemShortLinkID: 113
+
+
+itemTitle: CineMassacre 200
+itemWebLink: http://cinemassacre.com/2008/12/20/cinemassacre-200/
+itemPlaylist: http://content.jwplatform.com/manifests/yNsbJPSZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/yNsbJPSZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/yNsbJPSZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/yNsbJPSZ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yNsbJPSZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yNsbJPSZ-HTQw4Gzc.mp4
+itemDuration: 1384
+itemImage: http://content.jwplatform.com/thumbs/yNsbJPSZ-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:18:01 -0000
+itemPreview: http://content.jwplatform.com/previews/yNsbJPSZ
+itemThumbnail: http://content.jwplatform.com/thumbs/yNsbJPSZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/yNsbJPSZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=543
+itemShortLinkID: 543
+
+
+itemTitle: Shitty commentary
+itemWebLink: http://cinemassacre.com/2009/03/30/shitty-commentary/
+itemPlaylist: http://content.jwplatform.com/manifests/4kMn2HWv.m3u8
+itemAudio: http://content.jwplatform.com/videos/4kMn2HWv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/4kMn2HWv-QvH08cwS.mp4
+//content.jwplatform.com/videos/4kMn2HWv-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/4kMn2HWv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/4kMn2HWv-HTQw4Gzc.mp4
+itemDuration: 239
+itemImage: http://content.jwplatform.com/thumbs/4kMn2HWv-720.jpg
+itemLegacyID: Cinemassacre-4566
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/4kMn2HWv
+itemThumbnail: http://content.jwplatform.com/thumbs/4kMn2HWv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-4566_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/4kMn2HWv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=4566
+itemShortLinkID: 4566
+
+
+itemTitle: Making a Shitty Movie
+itemWebLink: http://cinemassacre.com/2009/04/01/making-a-shitty-movie/
+itemPlaylist: http://content.jwplatform.com/manifests/qKiLfNzV.m3u8
+itemAudio: http://content.jwplatform.com/videos/qKiLfNzV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qKiLfNzV-QvH08cwS.mp4
+//content.jwplatform.com/videos/qKiLfNzV-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qKiLfNzV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qKiLfNzV-HTQw4Gzc.mp4
+itemDuration: 282
+itemImage: http://content.jwplatform.com/thumbs/qKiLfNzV-720.jpg
+itemLegacyID: Cinemassacre-4562
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qKiLfNzV
+itemThumbnail: http://content.jwplatform.com/thumbs/qKiLfNzV-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-4562_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qKiLfNzV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=4562
+itemShortLinkID: 4562
+
+
+itemTitle: Jim, the man who dumped the shit
+itemWebLink: http://cinemassacre.com/2009/07/03/jim-the-man-who-dumped-the-shit-2/
+itemPlaylist: http://content.jwplatform.com/manifests/0P4iiRhO.m3u8
+itemAudio: http://content.jwplatform.com/videos/0P4iiRhO-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/0P4iiRhO-QvH08cwS.mp4
+//content.jwplatform.com/videos/0P4iiRhO-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0P4iiRhO-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0P4iiRhO-HTQw4Gzc.mp4
+itemDuration: 151
+itemImage: http://content.jwplatform.com/thumbs/0P4iiRhO-720.jpg
+itemLegacyID: Cinemassacre-4521
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/0P4iiRhO
+itemThumbnail: http://content.jwplatform.com/thumbs/0P4iiRhO-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-4521_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/0P4iiRhO-120.vtt
+itemShortLink: http://cinemassacre.com/?p=4521
+itemShortLinkID: 4521
+
+
+itemTitle: A Trip to Sleepy Hollow (2009)
+itemWebLink: http://cinemassacre.com/2009/11/10/a-trip-to-sleepy-hollow-2009/
+itemPlaylist: http://content.jwplatform.com/manifests/y6VuJGLq.m3u8
+itemAudio: http://content.jwplatform.com/videos/y6VuJGLq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/y6VuJGLq-QvH08cwS.mp4
+//content.jwplatform.com/videos/y6VuJGLq-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/y6VuJGLq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/y6VuJGLq-HTQw4Gzc.mp4
+itemDuration: 643
+itemImage: http://content.jwplatform.com/thumbs/y6VuJGLq-720.jpg
+itemLegacyID: Cinemassacre-503
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/y6VuJGLq
+itemThumbnail: http://content.jwplatform.com/thumbs/y6VuJGLq-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-503_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/y6VuJGLq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=503
+itemShortLinkID: 503
+
+
+itemTitle: Kill For Thrill (2000)
+itemWebLink: http://cinemassacre.com/2010/04/12/kill-for-thrill-2000/
+itemPlaylist: http://content.jwplatform.com/manifests/WLMvls9i.m3u8
+itemAudio: http://content.jwplatform.com/videos/WLMvls9i-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/WLMvls9i-QvH08cwS.mp4
+//content.jwplatform.com/videos/WLMvls9i-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/WLMvls9i-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/WLMvls9i-HTQw4Gzc.mp4
+itemDuration: 945
+itemImage: http://content.jwplatform.com/thumbs/WLMvls9i-720.jpg
+itemLegacyID: Cinemassacre-4902
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/WLMvls9i
+itemThumbnail: http://content.jwplatform.com/thumbs/WLMvls9i-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-4902_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/WLMvls9i-120.vtt
+itemShortLink: http://cinemassacre.com/?p=4902
+itemShortLinkID: 4902
+
+
+itemTitle: VHS Generation loss
+itemWebLink: http://cinemassacre.com/2010/05/26/vhs-generation-loss/
+itemPlaylist: http://content.jwplatform.com/manifests/CfXULfRk.m3u8
+itemAudio: http://content.jwplatform.com/videos/CfXULfRk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/CfXULfRk-QvH08cwS.mp4
+//content.jwplatform.com/videos/CfXULfRk-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/CfXULfRk-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/CfXULfRk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/CfXULfRk-GzAUXplI.mp4
+itemDuration: 178
+itemImage: http://content.jwplatform.com/thumbs/CfXULfRk-720.jpg
+itemLegacyID: Cinemassacre-6208
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/CfXULfRk
+itemThumbnail: http://content.jwplatform.com/thumbs/CfXULfRk-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6208_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/CfXULfRk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6208
+itemShortLinkID: 6208
+
+
+itemTitle: The Dragon in my Dreams
+itemWebLink: http://cinemassacre.com/2010/06/21/the-dragon-in-my-dreams/
+itemPlaylist: http://content.jwplatform.com/manifests/ebSr9WBw.m3u8
+itemAudio: http://content.jwplatform.com/videos/ebSr9WBw-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ebSr9WBw-QvH08cwS.mp4
+//content.jwplatform.com/videos/ebSr9WBw-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ebSr9WBw-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ebSr9WBw-HTQw4Gzc.mp4
+itemDuration: 534
+itemImage: http://content.jwplatform.com/thumbs/ebSr9WBw-720.jpg
+itemLegacyID: Cinemassacre-6283
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ebSr9WBw
+itemThumbnail: http://content.jwplatform.com/thumbs/ebSr9WBw-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6283_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ebSr9WBw-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6283
+itemShortLinkID: 6283
+
+
+itemTitle: OUTTAKES - The Dragon in My Dreams
+itemWebLink: http://cinemassacre.com/2010/06/22/outtakes-the-dragon-in-my-dreams/
+itemPlaylist: http://content.jwplatform.com/manifests/IOHOepaW.m3u8
+itemAudio: http://content.jwplatform.com/videos/IOHOepaW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/IOHOepaW-QvH08cwS.mp4
+//content.jwplatform.com/videos/IOHOepaW-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/IOHOepaW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/IOHOepaW-HTQw4Gzc.mp4
+itemDuration: 161
+itemImage: http://content.jwplatform.com/thumbs/IOHOepaW-720.jpg
+itemLegacyID: Cinemassacre-8613
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/IOHOepaW
+itemThumbnail: http://content.jwplatform.com/thumbs/IOHOepaW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8613_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/IOHOepaW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8613
+itemShortLinkID: 8613
+
+
+itemTitle: Maze of Dementia (2003)
+itemWebLink: http://cinemassacre.com/2011/08/06/maze-of-dementia-2003/
+itemPlaylist: http://content.jwplatform.com/manifests/SpWw8KDv.m3u8
+itemAudio: http://content.jwplatform.com/videos/SpWw8KDv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SpWw8KDv-QvH08cwS.mp4
+//content.jwplatform.com/videos/SpWw8KDv-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SpWw8KDv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SpWw8KDv-HTQw4Gzc.mp4
+itemDuration: 181
+itemImage: http://content.jwplatform.com/thumbs/SpWw8KDv-720.jpg
+itemLegacyID: Cinemassacre-9655
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/SpWw8KDv
+itemThumbnail: http://content.jwplatform.com/thumbs/SpWw8KDv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9655_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/SpWw8KDv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9655
+itemShortLinkID: 9655
+
+
+itemTitle: ROLFE: A No-Budget Dream (2002)
+itemWebLink: http://cinemassacre.com/2011/11/30/rolfe-a-no-budget-dream-2002/
+itemPlaylist: http://content.jwplatform.com/manifests/eh0atBMs.m3u8
+itemAudio: http://content.jwplatform.com/videos/eh0atBMs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/eh0atBMs-QvH08cwS.mp4
+//content.jwplatform.com/videos/eh0atBMs-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/eh0atBMs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/eh0atBMs-HTQw4Gzc.mp4
+itemDuration: 288
+itemImage: http://content.jwplatform.com/thumbs/eh0atBMs-720.jpg
+itemLegacyID: Cinemassacre-13612
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/eh0atBMs
+itemThumbnail: http://content.jwplatform.com/thumbs/eh0atBMs-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13612_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/eh0atBMs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13612
+itemShortLinkID: 13612
+
+
+itemTitle: ANOTT - Making of 2015
+itemWebLink: http://cinemassacre.com/2016/05/27/the-making-of-a-night-of-total-terror-1996/
+itemPlaylist: http://content.jwplatform.com/manifests/tE6maxoD.m3u8
+itemAudio: http://content.jwplatform.com/videos/tE6maxoD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tE6maxoD-QvH08cwS.mp4
+//content.jwplatform.com/videos/tE6maxoD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/tE6maxoD-GzAUXplI.mp4
+//content.jwplatform.com/videos/tE6maxoD-7spvWrjM.mp4
+//content.jwplatform.com/videos/tE6maxoD-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tE6maxoD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tE6maxoD-Qw1ADm9e.mp4
+itemDuration: 765
+itemImage: http://content.jwplatform.com/thumbs/tE6maxoD-720.jpg
+itemLegacyID: Cinemassacre-556c8cc2e306b
+itemPubDate: Mon, 01 Jun 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/tE6maxoD
+itemThumbnail: http://content.jwplatform.com/thumbs/tE6maxoD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-556c8cc2e306b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/tE6maxoD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29679
+itemShortLinkID: 29679
+
