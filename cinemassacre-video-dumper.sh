@@ -649,6 +649,7 @@ menuMain(){
 			#read pause
 
 			dumpFileToParse="/tmp/dump.html"
+
 			#loadList "loop"
 			loadList
 			;;
@@ -1130,46 +1131,58 @@ loadList(){
 		#itemWebLink=$(echo "http:$itemWebLink")
 
 
-		# Build PlainText List
-		echo "">>"/$PWD/dump-plaintext.txt"
-		echo "itemTitle: $itemTitle">>"/$PWD/dump-plaintext.txt"
-		echo "itemWebLink: $itemWebLink">>"/$PWD/dump-plaintext.txt"
-		echo "itemPlaylist: $itemPlaylist">>"/$PWD/dump-plaintext.txt"
-		echo "itemAudio: $itemAudio">>"/$PWD/dump-plaintext.txt"
-		echo "itemVideoList: $itemVideoList">>"/$PWD/dump-plaintext.txt"
-		echo "itemVideoList1: $itemVideoList1">>"/$PWD/dump-plaintext.txt"
-		echo "itemVideoList2: $itemVideoList2">>"/$PWD/dump-plaintext.txt"
-		echo "itemDuration: $itemDuration">>"/$PWD/dump-plaintext.txt"
-		echo "itemImage: $itemImage">>"/$PWD/dump-plaintext.txt"
-		echo "itemLegacyID: $itemLegacyID">>"/$PWD/dump-plaintext.txt"
-		echo "itemPubDate: $itemPubDate">>"/$PWD/dump-plaintext.txt"
-		echo "itemPreview: $itemPreview">>"/$PWD/dump-plaintext.txt"
-		echo "itemThumbnail: $itemThumbnail">>"/$PWD/dump-plaintext.txt"
-		echo "itemThumbnailBig: $itemThumbnailBig">>"/$PWD/dump-plaintext.txt"
-		echo "itemVTT: $itemVTT">>"/$PWD/dump-plaintext.txt"
-		echo "itemShortLink: $itemShortLink">>"/$PWD/dump-plaintext.txt"
-		echo "itemShortLinkID: $itemShortLinkID">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
+		# If pubDate is BLANK, then the url is INVALID
+		case "$itemPubDate" in
+		
+			"")
+				
+			;;
+
+			*)
+			# Build PlainText List
+			echo "">>"/$PWD/dump-plaintext.txt"
+			echo "itemTitle: $itemTitle">>"/$PWD/dump-plaintext.txt"
+			echo "itemWebLink: $itemWebLink">>"/$PWD/dump-plaintext.txt"
+			echo "itemPlaylist: $itemPlaylist">>"/$PWD/dump-plaintext.txt"
+			echo "itemAudio: $itemAudio">>"/$PWD/dump-plaintext.txt"
+			echo "itemVideoList: $itemVideoList">>"/$PWD/dump-plaintext.txt"
+			echo "itemVideoList1: $itemVideoList1">>"/$PWD/dump-plaintext.txt"
+			echo "itemVideoList2: $itemVideoList2">>"/$PWD/dump-plaintext.txt"
+			echo "itemDuration: $itemDuration">>"/$PWD/dump-plaintext.txt"
+			echo "itemImage: $itemImage">>"/$PWD/dump-plaintext.txt"
+			echo "itemLegacyID: $itemLegacyID">>"/$PWD/dump-plaintext.txt"
+			echo "itemPubDate: $itemPubDate">>"/$PWD/dump-plaintext.txt"
+			echo "itemPreview: $itemPreview">>"/$PWD/dump-plaintext.txt"
+			echo "itemThumbnail: $itemThumbnail">>"/$PWD/dump-plaintext.txt"
+			echo "itemThumbnailBig: $itemThumbnailBig">>"/$PWD/dump-plaintext.txt"
+			echo "itemVTT: $itemVTT">>"/$PWD/dump-plaintext.txt"
+			echo "itemShortLink: $itemShortLink">>"/$PWD/dump-plaintext.txt"
+			echo "itemShortLinkID: $itemShortLinkID">>"/$PWD/dump-plaintext.txt"
+			echo "">>"/$PWD/dump-plaintext.txt"
 
 
-		# Build XML for Kodi plugin
-		#xmlID=$(($xmlID+1))
-		#xmlItemID=$(($xmlItemID+1))
-		echo "<item id=\"$itemShortLinkID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
-		echo "<title>$itemTitleXML</title>">>"/$PWD/dump-xml.xml"
-		echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
-		echo "<pubDate>$itemPubDate</pubDate>">>"/$PWD/dump-xml.xml"
-		echo "<id>$itemShortLinkID</id>">>"/$PWD/dump-xml.xml"
-		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
-		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
-		echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
-		echo "<duration>$itemDuration</duration>">>"/$PWD/dump-xml.xml"
-		echo "<categories>">>"/$PWD/dump-xml.xml"
-		echo "<category id=\"402\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
-		echo "<category id=\"1065\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
-		echo "</categories>">>"/$PWD/dump-xml.xml"
-		echo "</item>">>"/$PWD/dump-xml.xml"
-		echo "">>"/$PWD/dump-xml.xml"
+			# Build XML for Kodi plugin
+			#xmlID=$(($xmlID+1))
+			#xmlItemID=$(($xmlItemID+1))
+			echo "<item id=\"$itemShortLinkID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
+			echo "<title>$itemTitleXML</title>">>"/$PWD/dump-xml.xml"
+			echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
+			echo "<pubDate>$itemPubDate</pubDate>">>"/$PWD/dump-xml.xml"
+			echo "<id>$itemShortLinkID</id>">>"/$PWD/dump-xml.xml"
+			echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
+			echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
+			echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
+			echo "<duration>$itemDuration</duration>">>"/$PWD/dump-xml.xml"
+			echo "<categories>">>"/$PWD/dump-xml.xml"
+			echo "<category id=\"402\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
+			echo "<category id=\"1065\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
+			echo "</categories>">>"/$PWD/dump-xml.xml"
+			echo "</item>">>"/$PWD/dump-xml.xml"
+			echo "">>"/$PWD/dump-xml.xml"
+			;;
+
+		esac
+		
 
 	done < $urlList
 
@@ -1583,25 +1596,37 @@ createOutputFiles(){
 	case "$1" in
 
 		"plaintext")
-		echo "">>"/$PWD/dump-plaintext.txt"
-		echo "itemTitle: $itemTitle">>"/$PWD/dump-plaintext.txt"
-		echo "itemWebLink: $itemWebLink">>"/$PWD/dump-plaintext.txt"
-		echo "itemPlaylist: $itemPlaylist">>"/$PWD/dump-plaintext.txt"
-		echo "itemAudio: $itemAudio">>"/$PWD/dump-plaintext.txt"
-		echo "itemVideoList: $itemVideoList">>"/$PWD/dump-plaintext.txt"
-		echo "itemVideoList1: $itemVideoList1">>"/$PWD/dump-plaintext.txt"
-		echo "itemVideoList2: $itemVideoList2">>"/$PWD/dump-plaintext.txt"
-		echo "itemDuration: $itemDuration">>"/$PWD/dump-plaintext.txt"
-		echo "itemImage: $itemImage">>"/$PWD/dump-plaintext.txt"
-		echo "itemLegacyID: $itemLegacyID">>"/$PWD/dump-plaintext.txt"
-		echo "itemPubDate: $itemPubDate">>"/$PWD/dump-plaintext.txt"
-		echo "itemPreview: $itemPreview">>"/$PWD/dump-plaintext.txt"
-		echo "itemThumbnail: $itemThumbnail">>"/$PWD/dump-plaintext.txt"
-		echo "itemThumbnailBig: $itemThumbnailBig">>"/$PWD/dump-plaintext.txt"
-		echo "itemVTT: $itemVTT">>"/$PWD/dump-plaintext.txt"
-		echo "itemShortLink: $itemShortLink">>"/$PWD/dump-plaintext.txt"
-		echo "itemShortLinkID: $itemShortLinkID">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
+
+		# If pubDate is BLANK, then the url is INVALID
+		case "$itemPubDate" in
+		
+			"")
+				
+			;;
+
+			*)
+			echo "">>"/$PWD/dump-plaintext.txt"
+			echo "itemTitle: $itemTitle">>"/$PWD/dump-plaintext.txt"
+			echo "itemWebLink: $itemWebLink">>"/$PWD/dump-plaintext.txt"
+			echo "itemPlaylist: $itemPlaylist">>"/$PWD/dump-plaintext.txt"
+			echo "itemAudio: $itemAudio">>"/$PWD/dump-plaintext.txt"
+			echo "itemVideoList: $itemVideoList">>"/$PWD/dump-plaintext.txt"
+			echo "itemVideoList1: $itemVideoList1">>"/$PWD/dump-plaintext.txt"
+			echo "itemVideoList2: $itemVideoList2">>"/$PWD/dump-plaintext.txt"
+			echo "itemDuration: $itemDuration">>"/$PWD/dump-plaintext.txt"
+			echo "itemImage: $itemImage">>"/$PWD/dump-plaintext.txt"
+			echo "itemLegacyID: $itemLegacyID">>"/$PWD/dump-plaintext.txt"
+			echo "itemPubDate: $itemPubDate">>"/$PWD/dump-plaintext.txt"
+			echo "itemPreview: $itemPreview">>"/$PWD/dump-plaintext.txt"
+			echo "itemThumbnail: $itemThumbnail">>"/$PWD/dump-plaintext.txt"
+			echo "itemThumbnailBig: $itemThumbnailBig">>"/$PWD/dump-plaintext.txt"
+			echo "itemVTT: $itemVTT">>"/$PWD/dump-plaintext.txt"
+			echo "itemShortLink: $itemShortLink">>"/$PWD/dump-plaintext.txt"
+			echo "itemShortLinkID: $itemShortLinkID">>"/$PWD/dump-plaintext.txt"
+			echo "">>"/$PWD/dump-plaintext.txt"
+			;;
+
+		esac
 		;;
 
 		"html")
@@ -1631,25 +1656,33 @@ createOutputFiles(){
 		# </categories>
 		# </item>
 
-		#xmlID=$(($xmlID+1))
-		#xmlItemID=$(($xmlItemID+1))
+		# If pubDate is BLANK, then the url is INVALID
+		case "$itemPubDate" in
+		
+			"")
+				
+			;;
 
-		#echo "">>"/$PWD/dump-xml.xml"
-		echo "<item id=\"$itemShortLinkID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
-		echo "<title>$itemTitleXML</title>">>"/$PWD/dump-xml.xml"
-		echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
-		echo "<pubDate>$itemPubDate</pubDate>">>"/$PWD/dump-xml.xml"
-		echo "<id>$itemShortLinkID</id>">>"/$PWD/dump-xml.xml"
-		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
-		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
-		echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
-		echo "<duration>$itemDuration</duration>">>"/$PWD/dump-xml.xml"
-		echo "<categories>">>"/$PWD/dump-xml.xml"
-		echo "<category id=\"402\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
-		echo "<category id=\"1065\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
-		echo "</categories>">>"/$PWD/dump-xml.xml"
-		echo "</item>">>"/$PWD/dump-xml.xml"
-		echo "">>"/$PWD/dump-xml.xml"
+			*)
+			# Build XML for Kodi plugin
+			echo "<item id=\"$itemShortLinkID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
+			echo "<title>$itemTitleXML</title>">>"/$PWD/dump-xml.xml"
+			echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
+			echo "<pubDate>$itemPubDate</pubDate>">>"/$PWD/dump-xml.xml"
+			echo "<id>$itemShortLinkID</id>">>"/$PWD/dump-xml.xml"
+			echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
+			echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
+			echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
+			echo "<duration>$itemDuration</duration>">>"/$PWD/dump-xml.xml"
+			echo "<categories>">>"/$PWD/dump-xml.xml"
+			echo "<category id=\"402\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
+			echo "<category id=\"1065\" activeInd=\"Y\"/>">>"/$PWD/dump-xml.xml"
+			echo "</categories>">>"/$PWD/dump-xml.xml"
+			echo "</item>">>"/$PWD/dump-xml.xml"
+			echo "">>"/$PWD/dump-xml.xml"
+			;;
+
+		esac
 		;;
 
 	esac
