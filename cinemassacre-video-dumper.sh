@@ -463,7 +463,7 @@ listMoviesTopTens(){
 
 	listMoviesTopTens=$(echo "http://cinemassacre.com/category/moviereviews/top-tens/page/1/")
 	readLinksToList "$listMoviesTopTens" "$outFileOption"
-	#listMoviesTopTens=$(echo "http://cinemassacre.com/category/moviereviews/top-tens/2/")
+	#listMoviesTopTens=$(echo "http://cinemassacre.com/category/moviereviews/top-tens/page/2/")
 	#readLinksToList "$listMoviesTopTens" "$outFileOption"
 
 }
@@ -475,7 +475,7 @@ listMoviesAnimationRelated(){
 
 	listMoviesAnimationRelated=$(echo "http://cinemassacre.com/category/moviereviews/animation-moviereviews/page/1/")
 	readLinksToList "$listMoviesAnimationRelated" "$outFileOption"
-	#listMoviesAnimationRelated=$(echo "http://cinemassacre.com/category/moviereviews/animation-moviereviews/2/")
+	#listMoviesAnimationRelated=$(echo "http://cinemassacre.com/category/moviereviews/animation-moviereviews/page/2/")
 	#readLinksToList "$listMoviesAnimationRelated" "$outFileOption"
 
 }
@@ -485,9 +485,9 @@ listMoviesCommentaries(){
 
 	outFileOption="$PWD/list-movies-commentaries.txt"
 
-	listMoviesCommentaries=$(echo "http://cinemassacre.com/category/moviereviews/commentaries/1/")
+	listMoviesCommentaries=$(echo "http://cinemassacre.com/category/moviereviews/commentaries/page/1/")
 	readLinksToList "$listMoviesCommentaries" "$outFileOption"
-	#listMoviesCommentaries=$(echo "http://cinemassacre.com/category/moviereviews/commentaries/2/")
+	#listMoviesCommentaries=$(echo "http://cinemassacre.com/category/moviereviews/commentaries/page/2/")
 	#readLinksToList "$listMoviesCommentaries" "$outFileOption"
 
 }
@@ -497,9 +497,9 @@ listMoviesInterviews(){
 
 	outFileOption="$PWD/list-movies-interviews.txt"
 
-	listMoviesInterviews=$(echo "http://cinemassacre.com/category/interviews/1/")
+	listMoviesInterviews=$(echo "http://cinemassacre.com/category/interviews/page/1/")
 	readLinksToList "$listMoviesInterviews" "$outFileOption"
-	#listMoviesInterviews=$(echo "http://cinemassacre.com/category/interviews/2/")
+	#listMoviesInterviews=$(echo "http://cinemassacre.com/category/interviews/page/2/")
 	#readLinksToList "$listMoviesInterviews" "$outFileOption"
 
 }
@@ -533,9 +533,9 @@ listMoviesTriviaVideos(){
 
 	outFileOption="$PWD/list-movies-triviavideos.txt"
 
-	listMoviesTriviaVideos=$(echo "http://cinemassacre.com/category/trivia-videos/1/")
+	listMoviesTriviaVideos=$(echo "http://cinemassacre.com/category/trivia-videos/page/1/")
 	readLinksToList "$listMoviesTriviaVideos" "$outFileOption"
-	#listMoviesTriviaVideos=$(echo "http://cinemassacre.com/category/trivia-videos/2/")
+	#listMoviesTriviaVideos=$(echo "http://cinemassacre.com/category/trivia-videos/page/2/")
 	#readLinksToList "$listMoviesTriviaVideos" "$outFileOption"
 
 }
@@ -545,9 +545,9 @@ listMoviesOtherMovieStuff(){
 
 	outFileOption="$PWD/list-movies-othermovierelatedvideos.txt"
 
-	listMoviesOtherMovieStuff=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/1/")
+	listMoviesOtherMovieStuff=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/page/1/")
 	readLinksToList "$listMoviesOtherMovieStuff" "$outFileOption"
-	#listMoviesOtherMovieStuff=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/2/")
+	#listMoviesOtherMovieStuff=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/page/2/")
 	#readLinksToList "$listMoviesOtherMovieStuff" "$outFileOption"
 
 }
@@ -563,15 +563,15 @@ listFilmsMain(){
 
 	outFileOption="$PWD/list-films-main.txt"
 
-	listFilmsMain=$(echo "http://cinemassacre.com/category/films/1/")
+	listFilmsMain=$(echo "http://cinemassacre.com/category/films/page/1/")
 	readLinksToList "$listFilmsMain" "$outFileOption"
-	listFilmsMain=$(echo "http://cinemassacre.com/category/films/2/")
+	listFilmsMain=$(echo "http://cinemassacre.com/category/films/page/2/")
 	readLinksToList "$listFilmsMain" "$outFileOption"
-	listFilmsMain=$(echo "http://cinemassacre.com/category/films/3/")
+	listFilmsMain=$(echo "http://cinemassacre.com/category/films/page/3/")
 	readLinksToList "$listFilmsMain" "$outFileOption"
-	listFilmsMain=$(echo "http://cinemassacre.com/category/films/4/")
+	listFilmsMain=$(echo "http://cinemassacre.com/category/films/page/4/")
 	readLinksToList "$listFilmsMain" "$outFileOption"
-	#listFilmsMain=$(echo "http://cinemassacre.com/category/films/5/")
+	#listFilmsMain=$(echo "http://cinemassacre.com/category/films/page/5/")
 	#readLinksToList "$listFilmsMain" "$outFileOption"
 
 }
@@ -729,14 +729,14 @@ listMusicNameThatTune(){
 # LIST PROCESSING --> SITE
 
 
-listSite(){
+listSiteMain(){
 
-	outFileOption="$PWD/list-movies-othermovierelatedvideos.txt"
+	outFileOption="$PWD/list-site-main.txt"
 
-	listSite=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/1/")
-	readLinksToList "$listSite" "$outFileOption"
-	#listSite=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/2/")
-	#readLinksToList "$listSite" "$outFileOption"
+	listSiteMain=$(echo "http://cinemassacre.com/category/site-2/page/1/")
+	readLinksToList "$listSiteMain" "$outFileOption"
+	#listSiteMain=$(echo "http://cinemassacre.com/category/site-2/page/2/")
+	#readLinksToList "$listSiteMain" "$outFileOption"
 
 }
 
