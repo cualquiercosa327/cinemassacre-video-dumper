@@ -650,20 +650,6 @@ listFilmsOther(){
 
 }
 
-
-listFilmsGallery(){
-
-	outFileOption="$PWD/list-films-gallery.txt"
-
-	listFilmsGallery=$(echo "http://cinemassacre.com/category/photo-gallery/page/1/")
-	readLinksToList "$listFilmsGallery" "$outFileOption"
-	listFilmsGallery=$(echo "http://cinemassacre.com/category/photo-gallery/page/2/")
-	readLinksToList "$listFilmsGallery" "$outFileOption"
-	#listFilmsGallery=$(echo "http://cinemassacre.com/category/photo-gallery/page/3/")
-	#readLinksToList "$listFilmsGallery" "$outFileOption"
-
-}
-
 #-------------------------------------------------------------
 
 
@@ -1210,8 +1196,6 @@ buildNewLists(){
 		echo ""
 		echo "7) Other Personal Films"
 		echo ""
-		echo "8) Gallery"
-		echo ""
 		echo ""
 
 		read subCatFilms
@@ -1248,10 +1232,6 @@ buildNewLists(){
 
 			"7")
 			listFilmsOther
-			;;
-
-			"8")
-			listFilmsGallery
 			;;
 
 			*)
