@@ -232,6 +232,15 @@ banner(){
 
 
 
+# If you want to do NOTHING, DO IT HERE!!!
+doNothing() {
+
+	nothing="0"
+
+}
+
+
+
 #-------------------------------------------------------------
 # LIST PROCESSING --> SHOWS
 
@@ -546,6 +555,154 @@ listMoviesOtherMovieStuff(){
 #-------------------------------------------------------------
 
 
+#-------------------------------------------------------------
+# LIST PROCESSING --> ORIGINAL FILMS
+
+
+listFilmsMain(){
+
+	outFileOption="$PWD/list-films-main.txt"
+
+	listFilmsMain=$(echo "http://cinemassacre.com/category/films/1/")
+	readLinksToList "$listFilmsMain" "$outFileOption"
+	listFilmsMain=$(echo "http://cinemassacre.com/category/films/2/")
+	readLinksToList "$listFilmsMain" "$outFileOption"
+	listFilmsMain=$(echo "http://cinemassacre.com/category/films/3/")
+	readLinksToList "$listFilmsMain" "$outFileOption"
+	listFilmsMain=$(echo "http://cinemassacre.com/category/films/4/")
+	readLinksToList "$listFilmsMain" "$outFileOption"
+	#listFilmsMain=$(echo "http://cinemassacre.com/category/films/5/")
+	#readLinksToList "$listFilmsMain" "$outFileOption"
+
+}
+
+
+listFilmsFavorites(){
+
+	outFileOption="$PWD/list-films-favorites.txt"
+
+	listFilmsFavorites=$(echo "http://cinemassacre.com/category/films/favorites/page/1/")
+	readLinksToList "$listFilmsFavorites" "$outFileOption"
+	#listFilmsFavorites=$(echo "http://cinemassacre.com/category/films/favorites/page/2/")
+	#readLinksToList "$listFilmsFavorites" "$outFileOption"
+
+}
+
+
+listFilmsAnimation(){
+
+	outFileOption="$PWD/list-films-animation.txt"
+
+	listFilmsAnimation=$(echo "http://cinemassacre.com/category/films/animation/page/1/")
+	readLinksToList "$listFilmsAnimation" "$outFileOption"
+	#listFilmsAnimation=$(echo "http://cinemassacre.com/category/films/animation/page/2/")
+	#readLinksToList "$listFilmsAnimation" "$outFileOption"
+
+}
+
+
+listFilmsHorror(){
+
+	outFileOption="$PWD/list-films-horror.txt"
+
+	listFilmsHorror=$(echo "http://cinemassacre.com/category/films/horror-films/page/1/")
+	readLinksToList "$listFilmsHorror" "$outFileOption"
+	listFilmsHorror=$(echo "http://cinemassacre.com/category/films/horror-films/page/2/")
+	readLinksToList "$listFilmsHorror" "$outFileOption"
+	#listFilmsHorror=$(echo "http://cinemassacre.com/category/films/horror-films/page/3/")
+	#readLinksToList "$listFilmsHorror" "$outFileOption"
+
+}
+
+
+listFilmsComedy(){
+
+	outFileOption="$PWD/list-films-comedy.txt"
+
+	listFilmsComedy=$(echo "http://cinemassacre.com/category/films/comedy/page/1/")
+	readLinksToList "$listFilmsComedy" "$outFileOption"
+	#listFilmsComedy=$(echo "http://cinemassacre.com/category/films/comedy/page/2/")
+	#readLinksToList "$listFilmsComedy" "$outFileOption"
+
+}
+
+
+listFilmsFortyEightHours(){
+
+	outFileOption="$PWD/list-films-48hour.txt"
+
+	listFilmsFortyEightHours=$(echo "http://cinemassacre.com/category/films/48-hour-films/page/1/")
+	readLinksToList "$listFilmsFortyEightHours" "$outFileOption"
+	#listFilmsFortyEightHours=$(echo "http://cinemassacre.com/category/films/48-hour-films/page/2/")
+	#readLinksToList "$listFilmsFortyEightHours" "$outFileOption"
+
+}
+
+
+listFilmsOther(){
+
+	outFileOption="$PWD/list-films-other.txt"
+
+	listFilmsOther=$(echo "http://cinemassacre.com/category/films/other/page/1/")
+	readLinksToList "$listFilmsOther" "$outFileOption"
+	#listFilmsOther=$(echo "http://cinemassacre.com/category/films/other/page/2/")
+	#readLinksToList "$listFilmsOther" "$outFileOption"
+
+}
+
+
+listFilmsGallery(){
+
+	outFileOption="$PWD/list-films-gallery.txt"
+
+	listFilmsGallery=$(echo "http://cinemassacre.com/category/photo-gallery/page/1/")
+	readLinksToList "$listFilmsGallery" "$outFileOption"
+	listFilmsGallery=$(echo "http://cinemassacre.com/category/photo-gallery/page/2/")
+	readLinksToList "$listFilmsGallery" "$outFileOption"
+	#listFilmsGallery=$(echo "http://cinemassacre.com/category/photo-gallery/page/3/")
+	#readLinksToList "$listFilmsGallery" "$outFileOption"
+
+}
+
+#-------------------------------------------------------------
+
+
+#-------------------------------------------------------------
+# LIST PROCESSING --> MUSIC
+
+
+listMusic(){
+
+	outFileOption="$PWD/list-movies-othermovierelatedvideos.txt"
+
+	listMusic=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/1/")
+	readLinksToList "$listMusic" "$outFileOption"
+	#listMusic=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/2/")
+	#readLinksToList "$listMusic" "$outFileOption"
+
+}
+
+#-------------------------------------------------------------
+
+
+#-------------------------------------------------------------
+# LIST PROCESSING --> SITE
+
+
+listSite(){
+
+	outFileOption="$PWD/list-movies-othermovierelatedvideos.txt"
+
+	listSite=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/1/")
+	readLinksToList "$listSite" "$outFileOption"
+	#listSite=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/2/")
+	#readLinksToList "$listSite" "$outFileOption"
+
+}
+
+#-------------------------------------------------------------
+
+
 
 
 menuMain(){
@@ -789,7 +946,7 @@ buildNewLists(){
 		case "$subCatShows" in
 
 			"")
-			#buildNewLists
+			doNothing
 			;;
 
 			"1")
@@ -817,7 +974,7 @@ buildNewLists(){
 			;;
 
 			*)
-			#buildNewLists
+			doNothing
 			;;
 
 		esac
@@ -848,7 +1005,7 @@ buildNewLists(){
 		case "$subCatGames" in
 
 			"")
-			#buildNewLists
+			doNothing
 			;;
 
 			"1")
@@ -872,7 +1029,7 @@ buildNewLists(){
 			;;
 
 			*)
-			#buildNewLists
+			doNothing
 			;;
 
 		esac
@@ -910,7 +1067,7 @@ buildNewLists(){
 		case "$subCatMovies" in
 
 			"")
-			#buildNewLists
+			doNothing
 			;;
 
 			"1")
@@ -950,22 +1107,238 @@ buildNewLists(){
 			;;
 
 			*)
-			#buildNewLists
+			doNothing
 			;;
 
 		esac
 		;;
 
 		"5")
-		listBuilder "originalfilms"
+		#listBuilder "originalfilms"
+
+		banner
+		echo "Select A Sub Category To Build New List From:"
+		echo ""
+		echo ""
+		echo "1) Main Page"
+		echo ""
+		echo "2) Favorites"
+		echo ""
+		echo "3) Animation"
+		echo ""
+		echo "4) Horror"
+		echo ""
+		echo "5) Comedy"
+		echo ""
+		echo "6) 48-Hour Films"
+		echo ""
+		echo "7) Other Personal Films"
+		echo ""
+		echo "8) Gallery"
+		echo ""
+		echo ""
+
+		read subCatFilms
+
+		case "$subCatFilms" in
+
+			"")
+			doNothing
+			;;
+
+			"1")
+			listFilmsMain
+			;;
+
+			"2")
+			listFilmsFavorites
+			;;
+
+			"3")
+			listFilmsAnimation
+			;;
+
+			"4")
+			listFilmsHorror
+			;;
+
+			"5")
+			listFilmsComedy
+			;;
+
+			"6")
+			listFilmsFortyEightHours
+			;;
+
+			"7")
+			listFilmsOther
+			;;
+
+			"8")
+			listFilmsGallery
+			;;
+
+			*)
+			doNothing
+			;;
+
+		esac
 		;;
 
 		"6")
-		listBuilder "music"
+		#listBuilder "music"
+
+		banner
+		echo "Select A Sub Category To Build New List From:"
+		echo ""
+		echo ""
+		echo "1) "
+		echo ""
+		echo "2) "
+		echo ""
+		echo "3) "
+		echo ""
+		echo "4) "
+		echo ""
+		echo "5) "
+		echo ""
+		echo "6) "
+		echo ""
+		echo "7) "
+		echo ""
+		echo "8) "
+		echo ""
+		echo "9) "
+		echo ""
+		#echo ""
+
+		read subCat
+
+		case "$subCat" in
+
+			"")
+			doNothing
+			;;
+
+			"1")
+			doNothing
+			;;
+
+			"2")
+			doNothing
+			;;
+
+			"3")
+			doNothing
+			;;
+
+			"4")
+			doNothing
+			;;
+
+			"5")
+			doNothing
+			;;
+
+			"6")
+			doNothing
+			;;
+
+			"7")
+			doNothing
+			;;
+
+			"8")
+			doNothing
+			;;
+
+			"9")
+			doNothing
+			;;
+
+			*)
+			doNothing
+			;;
+
+		esac
 		;;
 
 		"7")
-		listBuilder "site"
+		#listBuilder "site"
+
+		banner
+		echo "Select A Sub Category To Build New List From:"
+		echo ""
+		echo ""
+		echo "1) "
+		echo ""
+		echo "2) "
+		echo ""
+		echo "3) "
+		echo ""
+		echo "4) "
+		echo ""
+		echo "5) "
+		echo ""
+		echo "6) "
+		echo ""
+		echo "7) "
+		echo ""
+		echo "8) "
+		echo ""
+		echo "9) "
+		echo ""
+		#echo ""
+
+		read subCat
+
+		case "$subCat" in
+
+			"")
+			doNothing
+			;;
+
+			"1")
+			doNothing
+			;;
+
+			"2")
+			doNothing
+			;;
+
+			"3")
+			doNothing
+			;;
+
+			"4")
+			doNothing
+			;;
+
+			"5")
+			doNothing
+			;;
+
+			"6")
+			doNothing
+			;;
+
+			"7")
+			doNothing
+			;;
+
+			"8")
+			doNothing
+			;;
+
+			"9")
+			doNothing
+			;;
+
+			*)
+			doNothing
+			;;
+
+		esac
 		;;
 
 		*)
