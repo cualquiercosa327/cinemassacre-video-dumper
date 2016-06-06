@@ -1232,68 +1232,38 @@ buildNewLists(){
 		echo "Select A Sub Category To Build New List From:"
 		echo ""
 		echo ""
-		echo "1) "
+		echo "1) Main Page"
 		echo ""
-		echo "2) "
+		echo "2) Audio Slaughter"
 		echo ""
-		echo "3) "
+		echo "3) Kyle Justin"
 		echo ""
-		echo "4) "
+		echo "4) Name That Tune"
 		echo ""
-		echo "5) "
 		echo ""
-		echo "6) "
-		echo ""
-		echo "7) "
-		echo ""
-		echo "8) "
-		echo ""
-		echo "9) "
-		echo ""
-		#echo ""
 
-		read subCat
+		read subCatMusic
 
-		case "$subCat" in
+		case "$subCatMusic" in
 
 			"")
 			doNothing
 			;;
 
 			"1")
-			doNothing
+			listMusicMain
 			;;
 
 			"2")
-			doNothing
+			listMusicAudioSlaughter
 			;;
 
 			"3")
-			doNothing
+			listMusicKyleJustin
 			;;
 
 			"4")
-			doNothing
-			;;
-
-			"5")
-			doNothing
-			;;
-
-			"6")
-			doNothing
-			;;
-
-			"7")
-			doNothing
-			;;
-
-			"8")
-			doNothing
-			;;
-
-			"9")
-			doNothing
+			listMusicNameThatTune
 			;;
 
 			*)
