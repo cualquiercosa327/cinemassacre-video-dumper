@@ -1043,9 +1043,10 @@ loadList(){
 	banner
 	echo ""
 
-	cleanTemp
+	#cleanTemp
 
 	setDefaultHook
+
 
 	# URL must be set here to dump
 	#urlLine=0
@@ -1059,6 +1060,7 @@ loadList(){
 		# dumpHTML
 		getRawHTML=$(wget $url -O $dumpFileToParse)
 		parseHTML=$(cat "$dumpFileToParse")
+		getShortLink
 
 		# getMediaID
 		hook="$hookJWPlatform"
@@ -1107,30 +1109,24 @@ loadList(){
 		itemImage=$(echo "http:$itemImage")
 		itemPreview=$(echo "http:$itemPreview")
 		itemThumbnail=$(echo "http:$itemThumbnail")
-		itemThumbnailBig=$(echo "http:$itemThumbnailBig")
+		#itemThumbnailBig=$(echo "http:$itemThumbnailBig")
 		itemVTT=$(echo "http:$itemVTT")
-		itemWebLink=$(echo "http:$itemWebLink")
+		#itemWebLink=$(echo "http:$itemWebLink")
 
 
 		# Build PlainText List
 		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemTitle: $itemTitle">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemWebLink: $itemWebLink">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
-		echo "itemPlaylist: $itemPlaylist">"/$PWD/dump-plaintext.txt"
+		echo "itemPlaylist: $itemPlaylist">>"/$PWD/dump-plaintext.txt"
 		echo "itemAudio: $itemAudio">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemVideoList: $itemVideoList">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemVideoList1: $itemVideoList1">>"/$PWD/dump-plaintext.txt"
 		echo "itemVideoList2: $itemVideoList2">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemDuration: $itemDuration">>"/$PWD/dump-plaintext.txt"
 		echo "itemImage: $itemImage">>"/$PWD/dump-plaintext.txt"
 		echo "itemLegacyID: $itemLegacyID">>"/$PWD/dump-plaintext.txt"
 		echo "itemPubDate: $itemPubDate">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemPreview: $itemPreview">>"/$PWD/dump-plaintext.txt"
 		echo "itemThumbnail: $itemThumbnail">>"/$PWD/dump-plaintext.txt"
 		echo "itemThumbnailBig: $itemThumbnailBig">>"/$PWD/dump-plaintext.txt"
@@ -1532,9 +1528,9 @@ getJSInfo(){
 	itemImage=$(echo "http:$itemImage")
 	itemPreview=$(echo "http:$itemPreview")
 	itemThumbnail=$(echo "http:$itemThumbnail")
-	itemThumbnailBig=$(echo "http:$itemThumbnailBig")
+	#itemThumbnailBig=$(echo "http:$itemThumbnailBig")
 	itemVTT=$(echo "http:$itemVTT")
-	itemWebLink=$(echo "http:$itemWebLink")
+	#itemWebLink=$(echo "http:$itemWebLink")
 
 
 	#clear
@@ -1573,22 +1569,16 @@ createOutputFiles(){
 		"plaintext")
 		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemTitle: $itemTitle">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemWebLink: $itemWebLink">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
-		echo "itemPlaylist: $itemPlaylist">"/$PWD/dump-plaintext.txt"
+		echo "itemPlaylist: $itemPlaylist">>"/$PWD/dump-plaintext.txt"
 		echo "itemAudio: $itemAudio">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemVideoList: $itemVideoList">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemVideoList1: $itemVideoList1">>"/$PWD/dump-plaintext.txt"
 		echo "itemVideoList2: $itemVideoList2">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemDuration: $itemDuration">>"/$PWD/dump-plaintext.txt"
 		echo "itemImage: $itemImage">>"/$PWD/dump-plaintext.txt"
 		echo "itemLegacyID: $itemLegacyID">>"/$PWD/dump-plaintext.txt"
 		echo "itemPubDate: $itemPubDate">>"/$PWD/dump-plaintext.txt"
-		echo "">>"/$PWD/dump-plaintext.txt"
 		echo "itemPreview: $itemPreview">>"/$PWD/dump-plaintext.txt"
 		echo "itemThumbnail: $itemThumbnail">>"/$PWD/dump-plaintext.txt"
 		echo "itemThumbnailBig: $itemThumbnailBig">>"/$PWD/dump-plaintext.txt"
@@ -1695,7 +1685,7 @@ getVideoName(){
 
 getNewFilename(){
 
-	cleanTemp
+	#cleanTemp
 
 	getVideoName
 
@@ -1849,8 +1839,24 @@ cleanTemp(){
 		rm "/tmp/tmp_mediaID"
 	fi
 
+	if [ -e "/tmp/tmp_mediaID" ]; then
+		rm "/tmp/tmp_shortLink"
+	fi
+
+	if [ -e "/tmp/tmp_mediaID" ]; then
+		rm "/tmp/tmp_shortLinkID"
+	fi
+
 	if [ -e "/tmp/tmp_pid" ]; then
 		rm "/tmp/tmp_pid"
+	fi
+
+	if [ -e "/$PWD/dump-plaintext.txt" ]; then
+		rm "/$PWD/dump-plaintext.txt"
+	fi
+
+	if [ -e "/$PWD/dump-xml.xml" ]; then
+		rm "/$PWD/dump-xml.xml"
 	fi
 
 
