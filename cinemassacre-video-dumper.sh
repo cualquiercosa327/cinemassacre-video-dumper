@@ -601,6 +601,9 @@ menuMain(){
 		echo ""
 		echo ""
 		echo ""
+		echo "** YOU MAY JUST PRESS ENTER TO CONTINUE NORMALLY **"
+		echo ""
+		echo ""
 
 		read autoOptions
 
@@ -1109,18 +1112,42 @@ loadList(){
 		itemWebLink=$(echo "http:$itemWebLink")
 
 
-		#createOutputFiles "plaintext"
-		#createOutputFiles "html"
-		#createOutputFiles "xml"
+		# Build PlainText List
+		echo "">>"/$PWD/dump-plaintext.txt"
+		echo "itemTitle: $itemTitle">>"/$PWD/dump-plaintext.txt"
+		echo "">>"/$PWD/dump-plaintext.txt"
+		echo "itemWebLink: $itemWebLink">>"/$PWD/dump-plaintext.txt"
+		echo "">>"/$PWD/dump-plaintext.txt"
+		echo "itemPlaylist: $itemPlaylist">"/$PWD/dump-plaintext.txt"
+		echo "itemAudio: $itemAudio">>"/$PWD/dump-plaintext.txt"
+		echo "">>"/$PWD/dump-plaintext.txt"
+		echo "itemVideoList: $itemVideoList">>"/$PWD/dump-plaintext.txt"
+		echo "">>"/$PWD/dump-plaintext.txt"
+		echo "itemVideoList1: $itemVideoList1">>"/$PWD/dump-plaintext.txt"
+		echo "itemVideoList2: $itemVideoList2">>"/$PWD/dump-plaintext.txt"
+		echo "">>"/$PWD/dump-plaintext.txt"
+		echo "itemDuration: $itemDuration">>"/$PWD/dump-plaintext.txt"
+		echo "itemImage: $itemImage">>"/$PWD/dump-plaintext.txt"
+		echo "itemLegacyID: $itemLegacyID">>"/$PWD/dump-plaintext.txt"
+		echo "itemPubDate: $itemPubDate">>"/$PWD/dump-plaintext.txt"
+		echo "">>"/$PWD/dump-plaintext.txt"
+		echo "itemPreview: $itemPreview">>"/$PWD/dump-plaintext.txt"
+		echo "itemThumbnail: $itemThumbnail">>"/$PWD/dump-plaintext.txt"
+		echo "itemThumbnailBig: $itemThumbnailBig">>"/$PWD/dump-plaintext.txt"
+		echo "itemVTT: $itemVTT">>"/$PWD/dump-plaintext.txt"
+		echo "itemShortLink: $itemShortLink">>"/$PWD/dump-plaintext.txt"
+		echo "itemShortLinkID: $itemShortLinkID">>"/$PWD/dump-plaintext.txt"
+		echo "">>"/$PWD/dump-plaintext.txt"
 
-		# Only building XML for Kodi plugin during testing (20160605)
-		xmlID=$(($xmlID+1))
-		xmlItemID=$(($xmlItemID+1))
-		echo "<item id=\"$xmlItemID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
+
+		# Build XML for Kodi plugin
+		#xmlID=$(($xmlID+1))
+		#xmlItemID=$(($xmlItemID+1))
+		echo "<item id=\"$itemShortLinkID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
 		echo "<title>$itemTitleXML</title>">>"/$PWD/dump-xml.xml"
 		echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
 		echo "<pubDate>$itemPubDate</pubDate>">>"/$PWD/dump-xml.xml"
-		echo "<id>$xmlID</id>">>"/$PWD/dump-xml.xml"
+		echo "<id>$itemShortLinkID</id>">>"/$PWD/dump-xml.xml"
 		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
 		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
 		echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
@@ -1532,6 +1559,8 @@ getJSInfo(){
 	#echo "itemThumbnail: $itemThumbnail"
 	#echo "itemThumbnailBig: $itemThumbnailBig"
 	#echo "itemVTT: $itemVTT"
+	#echo "itemShortLink: $itemShortLink"
+	#echo "itemShortLinkID: $itemShortLinkID"
 	#read pause
 
 }
@@ -1564,6 +1593,8 @@ createOutputFiles(){
 		echo "itemThumbnail: $itemThumbnail">>"/$PWD/dump-plaintext.txt"
 		echo "itemThumbnailBig: $itemThumbnailBig">>"/$PWD/dump-plaintext.txt"
 		echo "itemVTT: $itemVTT">>"/$PWD/dump-plaintext.txt"
+		echo "itemShortLink: $itemShortLink">>"/$PWD/dump-plaintext.txt"
+		echo "itemShortLinkID: $itemShortLinkID">>"/$PWD/dump-plaintext.txt"
 		echo "">>"/$PWD/dump-plaintext.txt"
 		;;
 
@@ -1594,16 +1625,15 @@ createOutputFiles(){
 		# </categories>
 		# </item>
 
-		# Increment ID each time called
-		xmlID=$(($xmlID+1))
-		xmlItemID=$(($xmlItemID+1))
+		#xmlID=$(($xmlID+1))
+		#xmlItemID=$(($xmlItemID+1))
 
 		#echo "">>"/$PWD/dump-xml.xml"
-		echo "<item id=\"$xmlItemID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
+		echo "<item id=\"$itemShortLinkID\" activeInd=\"Y\">">>"/$PWD/dump-xml.xml"
 		echo "<title>$itemTitleXML</title>">>"/$PWD/dump-xml.xml"
 		echo "<link>$itemWebLink</link>">>"/$PWD/dump-xml.xml"
 		echo "<pubDate>$itemPubDate</pubDate>">>"/$PWD/dump-xml.xml"
-		echo "<id>$xmlID</id>">>"/$PWD/dump-xml.xml"
+		echo "<id>$itemShortLinkID</id>">>"/$PWD/dump-xml.xml"
 		echo "<movieURL>$mediaID</movieURL>">>"/$PWD/dump-xml.xml"
 		echo "<description>$itemTitleXML</description>">>"/$PWD/dump-xml.xml"
 		echo "<smallThumbnail>$itemThumbnail</smallThumbnail>">>"/$PWD/dump-xml.xml"
