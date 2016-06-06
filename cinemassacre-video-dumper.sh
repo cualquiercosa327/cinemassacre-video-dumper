@@ -671,14 +671,54 @@ listFilmsGallery(){
 # LIST PROCESSING --> MUSIC
 
 
-listMusic(){
+listMusicMain(){
 
-	outFileOption="$PWD/list-movies-othermovierelatedvideos.txt"
+	outFileOption="$PWD/list-music-main.txt"
 
-	listMusic=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/1/")
-	readLinksToList "$listMusic" "$outFileOption"
-	#listMusic=$(echo "http://cinemassacre.com/category/othermovierelatedvideos/2/")
-	#readLinksToList "$listMusic" "$outFileOption"
+	listMusicMain=$(echo "http://cinemassacre.com/category/music-2/page/1/")
+	readLinksToList "$listMusicMain" "$outFileOption"
+
+	#listMusicMain=$(echo "http://cinemassacre.com/category/music-2/page/1/")
+	#readLinksToList "$listMusicMain" "$outFileOption"
+
+}
+
+
+listMusicAudioSlaughter(){
+
+	outFileOption="$PWD/list-music-audioslaughter.txt"
+
+	listMusicAudioSlaughter=$(echo "http://cinemassacre.com/category/music-2/audio-slaughter/page/1/")
+	readLinksToList "$listMusicAudioSlaughter" "$outFileOption"
+
+	#listMusicAudioSlaughter=$(echo "http://cinemassacre.com/category/music-2/audio-slaughter/page/1/")
+	#readLinksToList "$listMusicAudioSlaughter" "$outFileOption"
+
+}
+
+
+listMusicKyleJustin(){
+
+	outFileOption="$PWD/list-music-kylejustin.txt"
+
+	listMusicKyleJustin=$(echo "http://cinemassacre.com/category/music-2/kylejustin/page/1/")
+	readLinksToList "$listMusicKyleJustin" "$outFileOption"
+
+	#listMusicKyleJustin=$(echo "http://cinemassacre.com/category/music-2/kylejustin/page/1/")
+	#readLinksToList "$listMusicKyleJustin" "$outFileOption"
+
+}
+
+
+listMusicNameThatTune(){
+
+	outFileOption="$PWD/list-music-namethattune.txt"
+
+	listMusicNameThatTune=$(echo "http://cinemassacre.com/category/music-2/namethattune/page/1/")
+	readLinksToList "$listMusicNameThatTune" "$outFileOption"
+
+	#listMusicNameThatTune=$(echo "http://cinemassacre.com/category/music-2/namethattune/page/1/")
+	#readLinksToList "$listMusicNameThatTune" "$outFileOption"
 
 }
 
