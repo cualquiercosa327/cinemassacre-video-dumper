@@ -694,6 +694,7 @@ menuAuto(){
 	getURL
 	dumpHTML
 	getMediaID
+	getShortLink
 	buildLinks
 
 	dumpJS
@@ -1056,7 +1057,6 @@ loadList(){
 		getRawHTML=$(wget $url -O $dumpFileToParse)
 		parseHTML=$(cat "$dumpFileToParse")
 
-
 		# getMediaID
 		hook="$hookJWPlatform"
 		echo "$hookText">"/tmp/tmp_hookText"
@@ -1411,6 +1411,17 @@ setExtension(){
 
 	esac
 
+}
+
+
+getShortLink(){
+
+	# Grab shortlink from HTML for XML ID
+	itemShortLink=$(cat "$dumpFileToParse" | grep shortlink | cut -d "'" -f4)
+	echo "$itemShortLink">"/tmp/tmp_itemShortLink"
+	itemShortLinkID=$(cat "$dumpFileToParse" | grep shortlink | cut -d "'" -f4 | cut -d "=" -f2)
+	echo "$itemShortLinkID">"/tmp/tmp_itemShortLinkID"
+	#read pause
 }
 
 
@@ -1847,7 +1858,6 @@ resizeWindow
 
 setDefaultHook
 menuMain
-
 
 
 
