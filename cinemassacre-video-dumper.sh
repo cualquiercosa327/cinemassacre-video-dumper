@@ -740,6 +740,42 @@ listSiteMain(){
 
 }
 
+
+listSiteArticles(){
+
+	outFileOption="$PWD/list-site-featuredarticles.txt"
+
+	listSiteArticles=$(echo "http://cinemassacre.com/category/site-2/featuredarticles/page/1/")
+	readLinksToList "$listSiteArticles" "$outFileOption"
+	#listSiteArticles=$(echo "http://cinemassacre.com/category/site-2/featuredarticles/page/2/")
+	#readLinksToList "$listSiteArticles" "$outFileOption"
+
+}
+
+
+listSiteAppearances(){
+
+	outFileOption="$PWD/list-site-appearances.txt"
+
+	listSiteAppearances=$(echo "http://cinemassacre.com/category/site-2/appearances/page/1/")
+	readLinksToList "$listSiteAppearances" "$outFileOption"
+	#listSiteAppearances=$(echo "http://cinemassacre.com/category/site-2/appearances/page/2/")
+	#readLinksToList "$listSiteAppearances" "$outFileOption"
+
+}
+
+
+listSiteMiscVideos(){
+
+	outFileOption="$PWD/list-site-miscvideos.txt"
+
+	listSiteMiscVideos=$(echo "http://cinemassacre.com/category/site-2/misc-videos/page/1/")
+	readLinksToList "$listSiteMiscVideos" "$outFileOption"
+	#listSiteMiscVideos=$(echo "http://cinemassacre.com/category/site-2/misc-videos/page/2/")
+	#readLinksToList "$listSiteMiscVideos" "$outFileOption"
+
+}
+
 #-------------------------------------------------------------
 
 
@@ -1280,68 +1316,38 @@ buildNewLists(){
 		echo "Select A Sub Category To Build New List From:"
 		echo ""
 		echo ""
-		echo "1) "
+		echo "1) Main Page"
 		echo ""
-		echo "2) "
+		echo "2) Articles"
 		echo ""
-		echo "3) "
+		echo "3) Appearances"
 		echo ""
-		echo "4) "
+		echo "4) Misc Videos"
 		echo ""
-		echo "5) "
 		echo ""
-		echo "6) "
-		echo ""
-		echo "7) "
-		echo ""
-		echo "8) "
-		echo ""
-		echo "9) "
-		echo ""
-		#echo ""
 
-		read subCat
+		read subCatSite
 
-		case "$subCat" in
+		case "$subCatSite" in
 
 			"")
 			doNothing
 			;;
 
 			"1")
-			doNothing
+			listSiteMain
 			;;
 
 			"2")
-			doNothing
+			listSiteArticles
 			;;
 
 			"3")
-			doNothing
+			listSiteAppearances
 			;;
 
 			"4")
-			doNothing
-			;;
-
-			"5")
-			doNothing
-			;;
-
-			"6")
-			doNothing
-			;;
-
-			"7")
-			doNothing
-			;;
-
-			"8")
-			doNothing
-			;;
-
-			"9")
-			doNothing
+			listSiteMiscVideos
 			;;
 
 			*)
