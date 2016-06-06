@@ -9,6 +9,8 @@
 # Version History
 
 # v0.9
+# - Rewrote most of the script.
+# - Added support for outputting Text and XML dump files
 # - Added support for jwplatform video links.
 # - Added main menu to choose options.
 # - Cleaned up code.
@@ -142,6 +144,9 @@ setDefaults(){
 
 	loopList="0"
 	urlList="/tmp/urlList"
+
+	# This is solely for letting scripting know if you just launched script or it has been running
+	freshStart="1"
 
 
 	# This is for high quality setting. Variable can be BLANKED for normal quality
@@ -545,6 +550,14 @@ listMoviesOtherMovieStuff(){
 
 menuMain(){
 
+	case "$freshStart" in
+
+		"1")
+		cleanOutput
+		;;
+	
+	esac
+
 	case "$skipMain" in
 
 		"1")
@@ -553,7 +566,10 @@ menuMain(){
 	
 	esac
 
-	cleanTemp
+	# Set fresh start as "0" to prevent cleaning of files when returning to main menu from within script
+	freshStart="0"
+
+	cleanTemp	
 
 	banner
 
@@ -1851,14 +1867,6 @@ cleanTemp(){
 		rm "/tmp/tmp_pid"
 	fi
 
-	if [ -e "/$PWD/dump-plaintext.txt" ]; then
-		rm "/$PWD/dump-plaintext.txt"
-	fi
-
-	if [ -e "/$PWD/dump-xml.xml" ]; then
-		rm "/$PWD/dump-xml.xml"
-	fi
-
 
 	# This file is ONLY created if mediaID is not available and default name is used, resulting in a zero-byte file	
 	if [ -e "capture-.$ext" ]; then
@@ -1869,6 +1877,18 @@ cleanTemp(){
 
 	banner
 
+}
+
+
+cleanOutput(){
+
+	if [ -e "/$PWD/dump-plaintext.txt" ]; then
+		rm "/$PWD/dump-plaintext.txt"
+	fi
+
+	if [ -e "/$PWD/dump-xml.xml" ]; then
+		rm "/$PWD/dump-xml.xml"
+	fi
 }
 
 
