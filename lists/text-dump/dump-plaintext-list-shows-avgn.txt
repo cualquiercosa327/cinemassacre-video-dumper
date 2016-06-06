@@ -1,0 +1,2830 @@
+
+itemTitle: AVGN - Wish List (PART 1)
+itemWebLink: http://cinemassacre.com/2013/12/17/avgn-wish-list-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/X2w7CsMB.m3u8
+itemAudio: http://content.jwplatform.com/videos/X2w7CsMB-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/X2w7CsMB-QvH08cwS.mp4
+//content.jwplatform.com/videos/X2w7CsMB-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/X2w7CsMB-GzAUXplI.mp4
+//content.jwplatform.com/videos/X2w7CsMB-7spvWrjM.mp4
+//content.jwplatform.com/videos/X2w7CsMB-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/X2w7CsMB-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/X2w7CsMB-Qw1ADm9e.mp4
+itemDuration: 906
+itemImage: http://content.jwplatform.com/thumbs/X2w7CsMB-720.jpg
+itemLegacyID: Cinemassacre-52b0adeb9ea41
+itemPubDate: Tue, 17 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/X2w7CsMB
+itemThumbnail: http://content.jwplatform.com/thumbs/X2w7CsMB-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52b0adeb9ea41_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/X2w7CsMB-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27194
+itemShortLinkID: 27194
+
+
+itemTitle: AVGN: Wish List (Part 2)
+itemWebLink: http://cinemassacre.com/2013/12/19/avgn-wish-list-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/atr4Zcs6.m3u8
+itemAudio: http://content.jwplatform.com/videos/atr4Zcs6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/atr4Zcs6-QvH08cwS.mp4
+//content.jwplatform.com/videos/atr4Zcs6-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/atr4Zcs6-GzAUXplI.mp4
+//content.jwplatform.com/videos/atr4Zcs6-7spvWrjM.mp4
+//content.jwplatform.com/videos/atr4Zcs6-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/atr4Zcs6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/atr4Zcs6-Qw1ADm9e.mp4
+itemDuration: 927
+itemImage: http://content.jwplatform.com/thumbs/atr4Zcs6-720.jpg
+itemLegacyID: Cinemassacre-52b376f669a3d
+itemPubDate: Thu, 19 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/atr4Zcs6
+itemThumbnail: http://content.jwplatform.com/thumbs/atr4Zcs6-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52b376f669a3d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/atr4Zcs6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27199
+itemShortLinkID: 27199
+
+
+itemTitle: AVGN: Big Rigs: Over the Road Racing
+itemWebLink: http://cinemassacre.com/2014/03/19/avgn-big-rigs-over-the-road-racing/
+itemPlaylist: http://content.jwplatform.com/manifests/U5zjKSFT.m3u8
+itemAudio: http://content.jwplatform.com/videos/U5zjKSFT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/U5zjKSFT-QvH08cwS.mp4
+//content.jwplatform.com/videos/U5zjKSFT-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/U5zjKSFT-GzAUXplI.mp4
+//content.jwplatform.com/videos/U5zjKSFT-7spvWrjM.mp4
+//content.jwplatform.com/videos/U5zjKSFT-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/U5zjKSFT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/U5zjKSFT-Qw1ADm9e.mp4
+itemDuration: 944
+itemImage: http://content.jwplatform.com/thumbs/U5zjKSFT-720.jpg
+itemLegacyID: Cinemassacre-53100fa8e149f
+itemPubDate: Thu, 27 Feb 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/U5zjKSFT
+itemThumbnail: http://content.jwplatform.com/thumbs/U5zjKSFT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53100fa8e149f_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/U5zjKSFT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27503
+itemShortLinkID: 27503
+
+
+itemTitle: AVGN Desert Bus Episode 119
+itemWebLink: http://cinemassacre.com/2014/05/28/avgn-desert-bus/
+itemPlaylist: http://content.jwplatform.com/manifests/0I6xK6Fy.m3u8
+itemAudio: http://content.jwplatform.com/videos/0I6xK6Fy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/0I6xK6Fy-QvH08cwS.mp4
+//content.jwplatform.com/videos/0I6xK6Fy-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/0I6xK6Fy-GzAUXplI.mp4
+//content.jwplatform.com/videos/0I6xK6Fy-7spvWrjM.mp4
+//content.jwplatform.com/videos/0I6xK6Fy-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0I6xK6Fy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0I6xK6Fy-Qw1ADm9e.mp4
+itemDuration: 929
+itemImage: http://content.jwplatform.com/thumbs/0I6xK6Fy-720.jpg
+itemLegacyID: Cinemassacre-537f50ecdff28
+itemPubDate: Fri, 23 May 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/0I6xK6Fy
+itemThumbnail: http://content.jwplatform.com/thumbs/0I6xK6Fy-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-537f50ecdff28_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/0I6xK6Fy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27886
+itemShortLinkID: 27886
+
+
+itemTitle: E.T. Atari 2600 - AVGN - Episode 120
+itemWebLink: http://cinemassacre.com/2014/10/10/e-t-atari-2600-angry-video-game-nerd-episode-120/
+itemPlaylist: http://content.jwplatform.com/manifests/StMOetNi.m3u8
+itemAudio: http://content.jwplatform.com/videos/StMOetNi-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/StMOetNi-QvH08cwS.mp4
+//content.jwplatform.com/videos/StMOetNi-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/StMOetNi-GzAUXplI.mp4
+//content.jwplatform.com/videos/StMOetNi-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/StMOetNi-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/StMOetNi-7spvWrjM.mp4
+itemDuration: 420
+itemImage: http://content.jwplatform.com/thumbs/StMOetNi-720.jpg
+itemLegacyID: Cinemassacre-54373b5abafc5
+itemPubDate: Thu, 09 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/StMOetNi
+itemThumbnail: http://content.jwplatform.com/thumbs/StMOetNi-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54373b5abafc5_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/StMOetNi-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28685
+itemShortLinkID: 28685
+
+
+itemTitle: AVGN: Beetlejuice - Episode 121
+itemWebLink: http://cinemassacre.com/2014/10/15/avgn-beetlejuice-episode-121/
+itemPlaylist: http://content.jwplatform.com/manifests/q8be1I0P.m3u8
+itemAudio: http://content.jwplatform.com/videos/q8be1I0P-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/q8be1I0P-QvH08cwS.mp4
+//content.jwplatform.com/videos/q8be1I0P-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/q8be1I0P-GzAUXplI.mp4
+//content.jwplatform.com/videos/q8be1I0P-7spvWrjM.mp4
+//content.jwplatform.com/videos/q8be1I0P-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/q8be1I0P-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/q8be1I0P-Qw1ADm9e.mp4
+itemDuration: 833
+itemImage: http://content.jwplatform.com/thumbs/q8be1I0P-720.jpg
+itemLegacyID: Cinemassacre-539d8137b3016
+itemPubDate: Sun, 15 Jun 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/q8be1I0P
+itemThumbnail: http://content.jwplatform.com/thumbs/q8be1I0P-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-539d8137b3016_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/q8be1I0P-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27996
+itemShortLinkID: 27996
+
+
+itemTitle: Tagin' Dragon - Angry Video Game Nerd - Episode 12
+itemWebLink: http://cinemassacre.com/2014/12/11/tagin-dragon-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/6Udxa40b.m3u8
+itemAudio: http://content.jwplatform.com/videos/6Udxa40b-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6Udxa40b-QvH08cwS.mp4
+//content.jwplatform.com/videos/6Udxa40b-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/6Udxa40b-GzAUXplI.mp4
+//content.jwplatform.com/videos/6Udxa40b-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6Udxa40b-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6Udxa40b-7spvWrjM.mp4
+itemDuration: 230
+itemImage: http://content.jwplatform.com/thumbs/6Udxa40b-720.jpg
+itemLegacyID: Cinemassacre-54873f5b550d8
+itemPubDate: Tue, 09 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/6Udxa40b
+itemThumbnail: http://content.jwplatform.com/thumbs/6Udxa40b-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54873f5b550d8_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/6Udxa40b-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28867
+itemShortLinkID: 28867
+
+
+itemTitle: ALF - Angry Video Game Nerd - Episode 123
+itemWebLink: http://cinemassacre.com/2014/12/12/alf-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/dJChcZDd.m3u8
+itemAudio: http://content.jwplatform.com/videos/dJChcZDd-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/dJChcZDd-QvH08cwS.mp4
+//content.jwplatform.com/videos/dJChcZDd-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/dJChcZDd-GzAUXplI.mp4
+//content.jwplatform.com/videos/dJChcZDd-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/dJChcZDd-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/dJChcZDd-7spvWrjM.mp4
+itemDuration: 241
+itemImage: http://content.jwplatform.com/thumbs/dJChcZDd-720.jpg
+itemLegacyID: Cinemassacre-54873ffa99885
+itemPubDate: Tue, 09 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/dJChcZDd
+itemThumbnail: http://content.jwplatform.com/thumbs/dJChcZDd-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54873ffa99885_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/dJChcZDd-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28870
+itemShortLinkID: 28870
+
+
+itemTitle: CrazyBus - Angry Video Game Nerd - Episode 124
+itemWebLink: http://cinemassacre.com/2014/12/13/crazy-bus-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/XQq0JirJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/XQq0JirJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XQq0JirJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/XQq0JirJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XQq0JirJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/XQq0JirJ-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XQq0JirJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XQq0JirJ-7spvWrjM.mp4
+itemDuration: 246
+itemImage: http://content.jwplatform.com/thumbs/XQq0JirJ-720.jpg
+itemLegacyID: Cinemassacre-54877489d550f
+itemPubDate: Tue, 09 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XQq0JirJ
+itemThumbnail: http://content.jwplatform.com/thumbs/XQq0JirJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54877489d550f_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/XQq0JirJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28874
+itemShortLinkID: 28874
+
+
+itemTitle: AVGN Ren & Stimpy Fire Dogs - ReUpload
+itemWebLink: http://cinemassacre.com/2014/12/14/ren-stimpy-fire-dogs-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/A8yKkigh.m3u8
+itemAudio: http://content.jwplatform.com/videos/A8yKkigh-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/A8yKkigh-QvH08cwS.mp4
+//content.jwplatform.com/videos/A8yKkigh-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/A8yKkigh-GzAUXplI.mp4
+//content.jwplatform.com/videos/A8yKkigh-7spvWrjM.mp4
+//content.jwplatform.com/videos/A8yKkigh-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/A8yKkigh-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/A8yKkigh-Qw1ADm9e.mp4
+itemDuration: 316
+itemImage: http://content.jwplatform.com/thumbs/A8yKkigh-720.jpg
+itemLegacyID: Cinemassacre-548a0b9884a62
+itemPubDate: Thu, 11 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/A8yKkigh
+itemThumbnail: http://content.jwplatform.com/thumbs/A8yKkigh-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-548a0b9884a62_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/A8yKkigh-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28882
+itemShortLinkID: 28882
+
+
+itemTitle: Rocky and Bullwinkle - Angry Video Game Nerd - Epi
+itemWebLink: http://cinemassacre.com/2014/12/15/rocky-and-bullwinkle-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/134KOmsy.m3u8
+itemAudio: http://content.jwplatform.com/videos/134KOmsy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/134KOmsy-QvH08cwS.mp4
+//content.jwplatform.com/videos/134KOmsy-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/134KOmsy-GzAUXplI.mp4
+//content.jwplatform.com/videos/134KOmsy-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/134KOmsy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/134KOmsy-7spvWrjM.mp4
+itemDuration: 246
+itemImage: http://content.jwplatform.com/thumbs/134KOmsy-720.jpg
+itemLegacyID: Cinemassacre-5488b3057eb70
+itemPubDate: Wed, 10 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/134KOmsy
+itemThumbnail: http://content.jwplatform.com/thumbs/134KOmsy-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5488b3057eb70_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/134KOmsy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28889
+itemShortLinkID: 28889
+
+
+itemTitle: Mary-Kate and Ashley \
+itemWebLink: http://cinemassacre.com/2014/12/16/mary-kate-and-ashley-get-a-clue-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/sb1UBfGU.m3u8
+itemAudio: http://content.jwplatform.com/videos/sb1UBfGU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sb1UBfGU-QvH08cwS.mp4
+//content.jwplatform.com/videos/sb1UBfGU-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/sb1UBfGU-GzAUXplI.mp4
+//content.jwplatform.com/videos/sb1UBfGU-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sb1UBfGU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sb1UBfGU-7spvWrjM.mp4
+itemDuration: 255
+itemImage: http://content.jwplatform.com/thumbs/sb1UBfGU-720.jpg
+itemLegacyID: Cinemassacre-5488b3461e44e
+itemPubDate: Wed, 10 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/sb1UBfGU
+itemThumbnail: http://content.jwplatform.com/thumbs/sb1UBfGU-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5488b3461e44e_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/sb1UBfGU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28894
+itemShortLinkID: 28894
+
+
+itemTitle: Pamela Anderson VIP - Angry Video Game Nerd - Epis
+itemWebLink: http://cinemassacre.com/2014/12/17/avgn-v-i-p-starring-pamela-anderson/
+itemPlaylist: http://content.jwplatform.com/manifests/qbv36kyM.m3u8
+itemAudio: http://content.jwplatform.com/videos/qbv36kyM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qbv36kyM-QvH08cwS.mp4
+//content.jwplatform.com/videos/qbv36kyM-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/qbv36kyM-GzAUXplI.mp4
+//content.jwplatform.com/videos/qbv36kyM-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qbv36kyM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qbv36kyM-7spvWrjM.mp4
+itemDuration: 293
+itemImage: http://content.jwplatform.com/thumbs/qbv36kyM-720.jpg
+itemLegacyID: Cinemassacre-5488b36c8f4e9
+itemPubDate: Wed, 10 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qbv36kyM
+itemThumbnail: http://content.jwplatform.com/thumbs/qbv36kyM-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5488b36c8f4e9_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qbv36kyM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28903
+itemShortLinkID: 28903
+
+
+itemTitle: Lethal Weapon - Angry Video Game Nerd - Episode 12
+itemWebLink: http://cinemassacre.com/2014/12/18/avgn-lethal-weapon/
+itemPlaylist: http://content.jwplatform.com/manifests/BaEU7AvT.m3u8
+itemAudio: http://content.jwplatform.com/videos/BaEU7AvT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/BaEU7AvT-QvH08cwS.mp4
+//content.jwplatform.com/videos/BaEU7AvT-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/BaEU7AvT-GzAUXplI.mp4
+//content.jwplatform.com/videos/BaEU7AvT-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BaEU7AvT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BaEU7AvT-7spvWrjM.mp4
+itemDuration: 277
+itemImage: http://content.jwplatform.com/thumbs/BaEU7AvT-720.jpg
+itemLegacyID: Cinemassacre-5488b3988d89d
+itemPubDate: Wed, 10 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/BaEU7AvT
+itemThumbnail: http://content.jwplatform.com/thumbs/BaEU7AvT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5488b3988d89d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/BaEU7AvT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28906
+itemShortLinkID: 28906
+
+
+itemTitle: Porky's - Angry Video Game Nerd - Episode 130
+itemWebLink: http://cinemassacre.com/2014/12/19/avgn-porkys/
+itemPlaylist: http://content.jwplatform.com/manifests/XFK3Z0Gl.m3u8
+itemAudio: http://content.jwplatform.com/videos/XFK3Z0Gl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XFK3Z0Gl-QvH08cwS.mp4
+//content.jwplatform.com/videos/XFK3Z0Gl-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XFK3Z0Gl-GzAUXplI.mp4
+//content.jwplatform.com/videos/XFK3Z0Gl-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XFK3Z0Gl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XFK3Z0Gl-7spvWrjM.mp4
+itemDuration: 362
+itemImage: http://content.jwplatform.com/thumbs/XFK3Z0Gl-720.jpg
+itemLegacyID: Cinemassacre-5488e1cd84f82
+itemPubDate: Wed, 10 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XFK3Z0Gl
+itemThumbnail: http://content.jwplatform.com/thumbs/XFK3Z0Gl-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5488e1cd84f82_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/XFK3Z0Gl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28915
+itemShortLinkID: 28915
+
+
+itemTitle: HyperScan - Angry Video Game Nerd - Episode 131
+itemWebLink: http://cinemassacre.com/2014/12/20/avgn-hyperscan/
+itemPlaylist: http://content.jwplatform.com/manifests/GPaojEMY.m3u8
+itemAudio: http://content.jwplatform.com/videos/GPaojEMY-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GPaojEMY-QvH08cwS.mp4
+//content.jwplatform.com/videos/GPaojEMY-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/GPaojEMY-GzAUXplI.mp4
+//content.jwplatform.com/videos/GPaojEMY-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GPaojEMY-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GPaojEMY-7spvWrjM.mp4
+itemDuration: 392
+itemImage: http://content.jwplatform.com/thumbs/GPaojEMY-720.jpg
+itemLegacyID: Cinemassacre-548a29ee3a752
+itemPubDate: Thu, 11 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/GPaojEMY
+itemThumbnail: http://content.jwplatform.com/thumbs/GPaojEMY-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-548a29ee3a752_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/GPaojEMY-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28920
+itemShortLinkID: 28920
+
+
+itemTitle: Universal Studios Theme Parks Adventure - Angry Vi
+itemWebLink: http://cinemassacre.com/2014/12/21/avgn-universal-studios-theme-parks-adventure/
+itemPlaylist: http://content.jwplatform.com/manifests/XoxgQiX5.m3u8
+itemAudio: http://content.jwplatform.com/videos/XoxgQiX5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XoxgQiX5-QvH08cwS.mp4
+//content.jwplatform.com/videos/XoxgQiX5-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XoxgQiX5-GzAUXplI.mp4
+//content.jwplatform.com/videos/XoxgQiX5-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XoxgQiX5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XoxgQiX5-7spvWrjM.mp4
+itemDuration: 689
+itemImage: http://content.jwplatform.com/thumbs/XoxgQiX5-720.jpg
+itemLegacyID: Cinemassacre-5489f686119ac
+itemPubDate: Thu, 11 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XoxgQiX5
+itemThumbnail: http://content.jwplatform.com/thumbs/XoxgQiX5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5489f686119ac_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/XoxgQiX5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28922
+itemShortLinkID: 28922
+
+
+itemTitle: Video Art - Angry Video Game Nerd - Episode 133
+itemWebLink: http://cinemassacre.com/2014/12/22/avgn-ljn-video-art/
+itemPlaylist: http://content.jwplatform.com/manifests/72aPvBnz.m3u8
+itemAudio: http://content.jwplatform.com/videos/72aPvBnz-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/72aPvBnz-QvH08cwS.mp4
+//content.jwplatform.com/videos/72aPvBnz-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/72aPvBnz-GzAUXplI.mp4
+//content.jwplatform.com/videos/72aPvBnz-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/72aPvBnz-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/72aPvBnz-7spvWrjM.mp4
+itemDuration: 523
+itemImage: http://content.jwplatform.com/thumbs/72aPvBnz-720.jpg
+itemLegacyID: Cinemassacre-548a2a0234d99
+itemPubDate: Thu, 11 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/72aPvBnz
+itemThumbnail: http://content.jwplatform.com/thumbs/72aPvBnz-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-548a2a0234d99_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/72aPvBnz-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28918
+itemShortLinkID: 28918
+
+
+itemTitle: AVGN Hong Kong 97 Episode 134
+itemWebLink: http://cinemassacre.com/2015/03/26/hong-kong-97-super-famicom-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/GQ36aasp.m3u8
+itemAudio: http://content.jwplatform.com/videos/GQ36aasp-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GQ36aasp-QvH08cwS.mp4
+//content.jwplatform.com/videos/GQ36aasp-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/GQ36aasp-GzAUXplI.mp4
+//content.jwplatform.com/videos/GQ36aasp-7spvWrjM.mp4
+//content.jwplatform.com/videos/GQ36aasp-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GQ36aasp-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GQ36aasp-Qw1ADm9e.mp4
+itemDuration: 750
+itemImage: http://content.jwplatform.com/thumbs/GQ36aasp-720.jpg
+itemLegacyID: Cinemassacre-5513a57c0629e
+itemPubDate: Thu, 26 Mar 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/GQ36aasp
+itemThumbnail: http://content.jwplatform.com/thumbs/GQ36aasp-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5513a57c0629e_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/GQ36aasp-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29427
+itemShortLinkID: 29427
+
+
+itemTitle: AVGN Darkwing Duck
+itemWebLink: http://cinemassacre.com/2015/05/13/darkwing-duck-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/xtATVrON.m3u8
+itemAudio: http://content.jwplatform.com/videos/xtATVrON-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xtATVrON-QvH08cwS.mp4
+//content.jwplatform.com/videos/xtATVrON-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xtATVrON-GzAUXplI.mp4
+//content.jwplatform.com/videos/xtATVrON-7spvWrjM.mp4
+//content.jwplatform.com/videos/xtATVrON-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xtATVrON-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xtATVrON-Qw1ADm9e.mp4
+itemDuration: 802
+itemImage: http://content.jwplatform.com/thumbs/xtATVrON-720.jpg
+itemLegacyID: Cinemassacre-55430f9321f38
+itemPubDate: Thu, 30 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xtATVrON
+itemThumbnail: http://content.jwplatform.com/thumbs/xtATVrON-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55430f9321f38_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xtATVrON-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29608
+itemShortLinkID: 29608
+
+
+itemTitle: Seaman AVGN Episode 136
+itemWebLink: http://cinemassacre.com/2015/07/28/avgn-seaman-for-dreamcast/
+itemPlaylist: http://content.jwplatform.com/manifests/okcDH3ua.m3u8
+itemAudio: http://content.jwplatform.com/videos/okcDH3ua-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/okcDH3ua-QvH08cwS.mp4
+//content.jwplatform.com/videos/okcDH3ua-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/okcDH3ua-GzAUXplI.mp4
+//content.jwplatform.com/videos/okcDH3ua-7spvWrjM.mp4
+//content.jwplatform.com/videos/okcDH3ua-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/okcDH3ua-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/okcDH3ua-Qw1ADm9e.mp4
+itemDuration: 1044
+itemImage: http://content.jwplatform.com/thumbs/okcDH3ua-720.jpg
+itemLegacyID: Cinemassacre-55b29f38c3494
+itemPubDate: Fri, 24 Jul 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/okcDH3ua
+itemThumbnail: http://content.jwplatform.com/thumbs/okcDH3ua-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55b29f38c3494_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/okcDH3ua-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29848
+itemShortLinkID: 29848
+
+
+itemTitle: The Crow (Sega Saturn) - Angry Video Game Nerd - Episode 137.mp4
+itemWebLink: http://cinemassacre.com/2015/10/30/the-crow-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/EOKBHv4V.m3u8
+itemAudio: http://content.jwplatform.com/videos/EOKBHv4V-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EOKBHv4V-QvH08cwS.mp4
+//content.jwplatform.com/videos/EOKBHv4V-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/EOKBHv4V-GzAUXplI.mp4
+//content.jwplatform.com/videos/EOKBHv4V-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EOKBHv4V-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EOKBHv4V-7spvWrjM.mp4
+itemDuration: 582
+itemImage: http://content.jwplatform.com/thumbs/EOKBHv4V-720.jpg
+itemLegacyID: 
+itemPubDate: Wed, 11 May 2016 22:06:15 -0000
+itemPreview: http://content.jwplatform.com/previews/EOKBHv4V
+itemThumbnail: http://content.jwplatform.com/thumbs/EOKBHv4V-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/EOKBHv4V-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30226
+itemShortLinkID: 30226
+
+
+itemTitle: Mortal Kombat Mythologies- Sub-Zero (N64) Angry Video Game Nerd - Episode 138.mp4
+itemWebLink: http://cinemassacre.com/2015/12/22/mortal-kombat-mythologies-sub-zero-n64-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/QBuE6osl.m3u8
+itemAudio: http://content.jwplatform.com/videos/QBuE6osl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/QBuE6osl-QvH08cwS.mp4
+//content.jwplatform.com/videos/QBuE6osl-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/QBuE6osl-GzAUXplI.mp4
+//content.jwplatform.com/videos/QBuE6osl-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/QBuE6osl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/QBuE6osl-7spvWrjM.mp4
+itemDuration: 722
+itemImage: http://content.jwplatform.com/thumbs/QBuE6osl-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:40:48 -0000
+itemPreview: http://content.jwplatform.com/previews/QBuE6osl
+itemThumbnail: http://content.jwplatform.com/thumbs/QBuE6osl-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/QBuE6osl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30554
+itemShortLinkID: 30554
+
+
+itemTitle: MEGA MAN Games (DOS, PS1, PS2) Angry Video Game Nerd- Episode 139.mp4
+itemWebLink: http://cinemassacre.com/2016/04/06/mega-man-games-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/XMma2ld5.m3u8
+itemAudio: http://content.jwplatform.com/videos/XMma2ld5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XMma2ld5-QvH08cwS.mp4
+//content.jwplatform.com/videos/XMma2ld5-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XMma2ld5-GzAUXplI.mp4
+//content.jwplatform.com/videos/XMma2ld5-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XMma2ld5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XMma2ld5-7spvWrjM.mp4
+itemDuration: 1506
+itemImage: http://content.jwplatform.com/thumbs/XMma2ld5-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 00:48:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XMma2ld5
+itemThumbnail: http://content.jwplatform.com/thumbs/XMma2ld5-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/XMma2ld5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30894
+itemShortLinkID: 30894
+
+
+itemTitle: AVGN Paperboy Episode 140
+itemWebLink: http://cinemassacre.com/2016/05/26/avgn-paperboy/
+itemPlaylist: http://content.jwplatform.com/manifests/WXjhuCeQ.m3u8
+itemAudio: http://content.jwplatform.com/videos/WXjhuCeQ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/WXjhuCeQ-QvH08cwS.mp4
+//content.jwplatform.com/videos/WXjhuCeQ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/WXjhuCeQ-GzAUXplI.mp4
+//content.jwplatform.com/videos/WXjhuCeQ-7spvWrjM.mp4
+//content.jwplatform.com/videos/WXjhuCeQ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/WXjhuCeQ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/WXjhuCeQ-Qw1ADm9e.mp4
+itemDuration: 965
+itemImage: http://content.jwplatform.com/thumbs/WXjhuCeQ-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 02:12:20 -0000
+itemPreview: http://content.jwplatform.com/previews/WXjhuCeQ
+itemThumbnail: http://content.jwplatform.com/thumbs/WXjhuCeQ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/WXjhuCeQ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30984
+itemShortLinkID: 30984
+
+
+itemTitle: AVGN: Cheetahmen
+itemWebLink: http://cinemassacre.com/2010/06/09/avgn-cheetahmen/
+itemPlaylist: http://content.jwplatform.com/manifests/joSA8jRl.m3u8
+itemAudio: http://content.jwplatform.com/videos/joSA8jRl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/joSA8jRl-QvH08cwS.mp4
+//content.jwplatform.com/videos/joSA8jRl-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/joSA8jRl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/joSA8jRl-HTQw4Gzc.mp4
+itemDuration: 1225
+itemImage: http://content.jwplatform.com/thumbs/joSA8jRl-720.jpg
+itemLegacyID: Cinemassacre-6268
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/joSA8jRl
+itemThumbnail: http://content.jwplatform.com/thumbs/joSA8jRl-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6268_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/joSA8jRl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6268
+itemShortLinkID: 6268
+
+
+itemTitle: AVGN: Game Glitches
+itemWebLink: http://cinemassacre.com/2010/07/07/avgn-game-glitches/
+itemPlaylist: http://content.jwplatform.com/manifests/hqydVTjY.m3u8
+itemAudio: http://content.jwplatform.com/videos/hqydVTjY-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hqydVTjY-QvH08cwS.mp4
+//content.jwplatform.com/videos/hqydVTjY-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hqydVTjY-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hqydVTjY-HTQw4Gzc.mp4
+itemDuration: 967
+itemImage: http://content.jwplatform.com/thumbs/hqydVTjY-720.jpg
+itemLegacyID: Cinemassacre-6442
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hqydVTjY
+itemThumbnail: http://content.jwplatform.com/thumbs/hqydVTjY-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6442_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hqydVTjY-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6442
+itemShortLinkID: 6442
+
+
+itemTitle: AVGN: Zelda 2 The Adventure of Link
+itemWebLink: http://cinemassacre.com/2010/08/04/avgn-zelda-2-the-adventure-of-link/
+itemPlaylist: http://content.jwplatform.com/manifests/0MVIdLaC.m3u8
+itemAudio: http://content.jwplatform.com/videos/0MVIdLaC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/0MVIdLaC-QvH08cwS.mp4
+//content.jwplatform.com/videos/0MVIdLaC-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0MVIdLaC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0MVIdLaC-HTQw4Gzc.mp4
+itemDuration: 907
+itemImage: http://content.jwplatform.com/thumbs/0MVIdLaC-720.jpg
+itemLegacyID: Cinemassacre-6753
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/0MVIdLaC
+itemThumbnail: http://content.jwplatform.com/thumbs/0MVIdLaC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6753_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/0MVIdLaC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6753
+itemShortLinkID: 6753
+
+
+itemTitle: AVGN: Back to the Future Trilogy
+itemWebLink: http://cinemassacre.com/2010/09/03/angry-video-game-nerd-episode-94/
+itemPlaylist: http://content.jwplatform.com/manifests/jNymxqrU.m3u8
+itemAudio: http://content.jwplatform.com/videos/jNymxqrU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jNymxqrU-QvH08cwS.mp4
+//content.jwplatform.com/videos/jNymxqrU-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jNymxqrU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jNymxqrU-HTQw4Gzc.mp4
+itemDuration: 1383
+itemImage: http://content.jwplatform.com/thumbs/jNymxqrU-720.jpg
+itemLegacyID: Cinemassacre-6951
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/jNymxqrU
+itemThumbnail: http://content.jwplatform.com/thumbs/jNymxqrU-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6951_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/jNymxqrU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6951
+itemShortLinkID: 6951
+
+
+itemTitle: AVGN: Dr. Jekyll and Mr. Hyde Re-Revisited
+itemWebLink: http://cinemassacre.com/2010/10/07/avgn-dr-jekyll-mr-hyde-revisited/
+itemPlaylist: http://content.jwplatform.com/manifests/uTOjmk0W.m3u8
+itemAudio: http://content.jwplatform.com/videos/uTOjmk0W-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/uTOjmk0W-QvH08cwS.mp4
+//content.jwplatform.com/videos/uTOjmk0W-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/uTOjmk0W-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/uTOjmk0W-HTQw4Gzc.mp4
+itemDuration: 1000
+itemImage: http://content.jwplatform.com/thumbs/uTOjmk0W-720.jpg
+itemLegacyID: Cinemassacre-8066
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/uTOjmk0W
+itemThumbnail: http://content.jwplatform.com/thumbs/uTOjmk0W-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8066_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/uTOjmk0W-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8066
+itemShortLinkID: 8066
+
+
+itemTitle: AVGN: Lester the Unlikely
+itemWebLink: http://cinemassacre.com/2010/11/03/avgn-lester-the-unlikely/
+itemPlaylist: http://content.jwplatform.com/manifests/iHD4Tdg4.m3u8
+itemAudio: http://content.jwplatform.com/videos/iHD4Tdg4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/iHD4Tdg4-QvH08cwS.mp4
+//content.jwplatform.com/videos/iHD4Tdg4-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/iHD4Tdg4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/iHD4Tdg4-HTQw4Gzc.mp4
+itemDuration: 644
+itemImage: http://content.jwplatform.com/thumbs/iHD4Tdg4-720.jpg
+itemLegacyID: Cinemassacre-8267
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/iHD4Tdg4
+itemThumbnail: http://content.jwplatform.com/thumbs/iHD4Tdg4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8267_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/iHD4Tdg4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8267
+itemShortLinkID: 8267
+
+
+itemTitle: AVGN: How the Nerd Stole Christmas
+itemWebLink: http://cinemassacre.com/2010/12/06/avgn-episode-97-christmas-special-2010/
+itemPlaylist: http://content.jwplatform.com/manifests/q6ysKg5R.m3u8
+itemAudio: http://content.jwplatform.com/videos/q6ysKg5R-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/q6ysKg5R-QvH08cwS.mp4
+//content.jwplatform.com/videos/q6ysKg5R-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/q6ysKg5R-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/q6ysKg5R-HTQw4Gzc.mp4
+itemDuration: 726
+itemImage: http://content.jwplatform.com/thumbs/q6ysKg5R-720.jpg
+itemLegacyID: Cinemassacre-8521
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/q6ysKg5R
+itemThumbnail: http://content.jwplatform.com/thumbs/q6ysKg5R-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8521_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/q6ysKg5R-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8521
+itemShortLinkID: 8521
+
+
+itemTitle: AVGN: Day Dreamin' Davey
+itemWebLink: http://cinemassacre.com/2011/01/05/avgn-episode-98-day-dreamin-davey/
+itemPlaylist: http://content.jwplatform.com/manifests/8S5MYtHR.m3u8
+itemAudio: http://content.jwplatform.com/videos/8S5MYtHR-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/8S5MYtHR-QvH08cwS.mp4
+//content.jwplatform.com/videos/8S5MYtHR-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/8S5MYtHR-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/8S5MYtHR-HTQw4Gzc.mp4
+itemDuration: 840
+itemImage: http://content.jwplatform.com/thumbs/8S5MYtHR-720.jpg
+itemLegacyID: Cinemassacre-8709
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/8S5MYtHR
+itemThumbnail: http://content.jwplatform.com/thumbs/8S5MYtHR-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8709_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/8S5MYtHR-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8709
+itemShortLinkID: 8709
+
+
+itemTitle: AVGN: Star Wars
+itemWebLink: http://cinemassacre.com/2011/02/03/avgn-star-wars/
+itemPlaylist: http://content.jwplatform.com/manifests/2T9YYQUd.m3u8
+itemAudio: http://content.jwplatform.com/videos/2T9YYQUd-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2T9YYQUd-QvH08cwS.mp4
+//content.jwplatform.com/videos/2T9YYQUd-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2T9YYQUd-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2T9YYQUd-HTQw4Gzc.mp4
+itemDuration: 1348
+itemImage: http://content.jwplatform.com/thumbs/2T9YYQUd-720.jpg
+itemLegacyID: Cinemassacre-8930
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/2T9YYQUd
+itemThumbnail: http://content.jwplatform.com/thumbs/2T9YYQUd-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8930_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/2T9YYQUd-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8930
+itemShortLinkID: 8930
+
+
+itemTitle: AVGN: ROB the Robot
+itemWebLink: http://cinemassacre.com/2011/03/03/avgn-rob-the-robot/
+itemPlaylist: http://content.jwplatform.com/manifests/tCVGIR6X.m3u8
+itemAudio: http://content.jwplatform.com/videos/tCVGIR6X-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tCVGIR6X-QvH08cwS.mp4
+//content.jwplatform.com/videos/tCVGIR6X-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tCVGIR6X-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tCVGIR6X-HTQw4Gzc.mp4
+itemDuration: 1134
+itemImage: http://content.jwplatform.com/thumbs/tCVGIR6X-720.jpg
+itemLegacyID: Cinemassacre-9356
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/tCVGIR6X
+itemThumbnail: http://content.jwplatform.com/thumbs/tCVGIR6X-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9356_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/tCVGIR6X-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9356
+itemShortLinkID: 9356
+
+
+itemTitle: AVGN: Spielberg Games
+itemWebLink: http://cinemassacre.com/2011/04/06/avgn-spielberg-games/
+itemPlaylist: http://content.jwplatform.com/manifests/1ZBH9hlU.m3u8
+itemAudio: http://content.jwplatform.com/videos/1ZBH9hlU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/1ZBH9hlU-QvH08cwS.mp4
+//content.jwplatform.com/videos/1ZBH9hlU-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1ZBH9hlU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1ZBH9hlU-HTQw4Gzc.mp4
+itemDuration: 1278
+itemImage: http://content.jwplatform.com/thumbs/1ZBH9hlU-720.jpg
+itemLegacyID: Cinemassacre-9842
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/1ZBH9hlU
+itemThumbnail: http://content.jwplatform.com/thumbs/1ZBH9hlU-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9842_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/1ZBH9hlU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9842
+itemShortLinkID: 9842
+
+
+itemTitle: 102_MAKING OF AVGN.mov
+itemWebLink: http://cinemassacre.com/2011/07/06/the-making-of-the-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/GY2DBdP4.m3u8
+itemAudio: http://content.jwplatform.com/videos/GY2DBdP4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GY2DBdP4-QvH08cwS.mp4
+//content.jwplatform.com/videos/GY2DBdP4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/GY2DBdP4-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GY2DBdP4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GY2DBdP4-GzAUXplI.mp4
+itemDuration: 2105
+itemImage: http://content.jwplatform.com/thumbs/GY2DBdP4-720.jpg
+itemLegacyID: 
+itemPubDate: Sun, 08 May 2016 06:41:03 -0000
+itemPreview: http://content.jwplatform.com/previews/GY2DBdP4
+itemThumbnail: http://content.jwplatform.com/thumbs/GY2DBdP4-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/GY2DBdP4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=11887
+itemShortLinkID: 11887
+
+
+itemTitle: AVGN: Kid Kool
+itemWebLink: http://cinemassacre.com/2011/08/03/avgn-kid-kool/
+itemPlaylist: http://content.jwplatform.com/manifests/t2ydfAbw.m3u8
+itemAudio: http://content.jwplatform.com/videos/t2ydfAbw-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/t2ydfAbw-QvH08cwS.mp4
+//content.jwplatform.com/videos/t2ydfAbw-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/t2ydfAbw-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/t2ydfAbw-HTQw4Gzc.mp4
+itemDuration: 494
+itemImage: http://content.jwplatform.com/thumbs/t2ydfAbw-720.jpg
+itemLegacyID: Cinemassacre-12805
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/t2ydfAbw
+itemThumbnail: http://content.jwplatform.com/thumbs/t2ydfAbw-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-12805_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/t2ydfAbw-120.vtt
+itemShortLink: http://cinemassacre.com/?p=12805
+itemShortLinkID: 12805
+
+
+itemTitle: AVGN: Nintendo World Championships
+itemWebLink: http://cinemassacre.com/2011/08/26/avgn-nintendo-world-championships/
+itemPlaylist: http://content.jwplatform.com/manifests/RO0sV8hm.m3u8
+itemAudio: http://content.jwplatform.com/videos/RO0sV8hm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RO0sV8hm-QvH08cwS.mp4
+//content.jwplatform.com/videos/RO0sV8hm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/RO0sV8hm-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RO0sV8hm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RO0sV8hm-GzAUXplI.mp4
+itemDuration: 1022
+itemImage: http://content.jwplatform.com/thumbs/RO0sV8hm-720.jpg
+itemLegacyID: Cinemassacre-12974
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/RO0sV8hm
+itemThumbnail: http://content.jwplatform.com/thumbs/RO0sV8hm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-12974_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/RO0sV8hm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=12974
+itemShortLinkID: 12974
+
+
+itemTitle: 105_Dark Castle
+itemWebLink: http://cinemassacre.com/2011/10/06/avgn-episode-105-dark-castle/
+itemPlaylist: http://content.jwplatform.com/manifests/O6vzSnO8.m3u8
+itemAudio: http://content.jwplatform.com/videos/O6vzSnO8-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/O6vzSnO8-QvH08cwS.mp4
+//content.jwplatform.com/videos/O6vzSnO8-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/O6vzSnO8-GzAUXplI.mp4
+//content.jwplatform.com/videos/O6vzSnO8-7spvWrjM.mp4
+//content.jwplatform.com/videos/O6vzSnO8-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/O6vzSnO8-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/O6vzSnO8-Qw1ADm9e.mp4
+itemDuration: 727
+itemImage: http://content.jwplatform.com/thumbs/O6vzSnO8-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 05:37:49 -0000
+itemPreview: http://content.jwplatform.com/previews/O6vzSnO8
+itemThumbnail: http://content.jwplatform.com/thumbs/O6vzSnO8-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/O6vzSnO8-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13354
+itemShortLinkID: 13354
+
+
+itemTitle: BIBLE GAMES 3 AVGN
+itemWebLink: http://cinemassacre.com/2011/12/07/avgn-bible-games-3/
+itemPlaylist: http://content.jwplatform.com/manifests/IQh64ICZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/IQh64ICZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/IQh64ICZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/IQh64ICZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/IQh64ICZ-GzAUXplI.mp4
+//content.jwplatform.com/videos/IQh64ICZ-7spvWrjM.mp4
+//content.jwplatform.com/videos/IQh64ICZ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/IQh64ICZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/IQh64ICZ-Qw1ADm9e.mp4
+itemDuration: 854
+itemImage: http://content.jwplatform.com/thumbs/IQh64ICZ-720.jpg
+itemLegacyID: 
+itemPubDate: Wed, 11 May 2016 20:52:49 -0000
+itemPreview: http://content.jwplatform.com/previews/IQh64ICZ
+itemThumbnail: http://content.jwplatform.com/thumbs/IQh64ICZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/IQh64ICZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=14880
+itemShortLinkID: 14880
+
+
+itemTitle: AVGN: Schwarzenegger Games
+itemWebLink: http://cinemassacre.com/2012/07/23/avgn-schwarzenegger-games/
+itemPlaylist: http://content.jwplatform.com/manifests/4kvF79i7.m3u8
+itemAudio: http://content.jwplatform.com/videos/4kvF79i7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/4kvF79i7-QvH08cwS.mp4
+//content.jwplatform.com/videos/4kvF79i7-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/4kvF79i7-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/4kvF79i7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/4kvF79i7-GzAUXplI.mp4
+itemDuration: 1345
+itemImage: http://content.jwplatform.com/thumbs/4kvF79i7-720.jpg
+itemLegacyID: Cinemassacre-17828
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/4kvF79i7
+itemThumbnail: http://content.jwplatform.com/thumbs/4kvF79i7-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17828_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/4kvF79i7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17828
+itemShortLinkID: 17828
+
+
+itemTitle: AVGN: Ghosts N' Goblins
+itemWebLink: http://cinemassacre.com/2012/10/24/avgn-ghosts-n-goblins/
+itemPlaylist: http://content.jwplatform.com/manifests/DgFtshsj.m3u8
+itemAudio: http://content.jwplatform.com/videos/DgFtshsj-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DgFtshsj-QvH08cwS.mp4
+//content.jwplatform.com/videos/DgFtshsj-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DgFtshsj-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DgFtshsj-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DgFtshsj-GzAUXplI.mp4
+itemDuration: 1023
+itemImage: http://content.jwplatform.com/thumbs/DgFtshsj-720.jpg
+itemLegacyID: Cinemassacre-19445
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/DgFtshsj
+itemThumbnail: http://content.jwplatform.com/thumbs/DgFtshsj-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-19445_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/DgFtshsj-120.vtt
+itemShortLink: http://cinemassacre.com/?p=19445
+itemShortLinkID: 19445
+
+
+itemTitle: AVGN: Atari Sports
+itemWebLink: http://cinemassacre.com/2012/12/17/avgn-atari-sports/
+itemPlaylist: http://content.jwplatform.com/manifests/MOfieJ6I.m3u8
+itemAudio: http://content.jwplatform.com/videos/MOfieJ6I-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/MOfieJ6I-QvH08cwS.mp4
+//content.jwplatform.com/videos/MOfieJ6I-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/MOfieJ6I-GzAUXplI.mp4
+//content.jwplatform.com/videos/MOfieJ6I-7spvWrjM.mp4
+//content.jwplatform.com/videos/MOfieJ6I-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/MOfieJ6I-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/MOfieJ6I-Qw1ADm9e.mp4
+itemDuration: 761
+itemImage: http://content.jwplatform.com/thumbs/MOfieJ6I-720.jpg
+itemLegacyID: Cinemassacre-20160
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/MOfieJ6I
+itemThumbnail: http://content.jwplatform.com/thumbs/MOfieJ6I-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-20160_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/MOfieJ6I-120.vtt
+itemShortLink: http://cinemassacre.com/?p=20160
+itemShortLinkID: 20160
+
+
+itemTitle: AVGN: Ikari Warriors
+itemWebLink: http://cinemassacre.com/2013/03/06/avgn-ikari-warriors/
+itemPlaylist: http://content.jwplatform.com/manifests/agQ6cjXH.m3u8
+itemAudio: http://content.jwplatform.com/videos/agQ6cjXH-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/agQ6cjXH-QvH08cwS.mp4
+//content.jwplatform.com/videos/agQ6cjXH-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/agQ6cjXH-GzAUXplI.mp4
+//content.jwplatform.com/videos/agQ6cjXH-7spvWrjM.mp4
+//content.jwplatform.com/videos/agQ6cjXH-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/agQ6cjXH-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/agQ6cjXH-Qw1ADm9e.mp4
+itemDuration: 1238
+itemImage: http://content.jwplatform.com/thumbs/agQ6cjXH-720.jpg
+itemLegacyID: Cinemassacre-24611
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/agQ6cjXH
+itemThumbnail: http://content.jwplatform.com/thumbs/agQ6cjXH-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24611_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/agQ6cjXH-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24611
+itemShortLinkID: 24611
+
+
+itemTitle: AVGN: Toxic Crusaders
+itemWebLink: http://cinemassacre.com/2013/04/30/avgn-toxic-crusaders/
+itemPlaylist: http://content.jwplatform.com/manifests/NZVlTwjJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/NZVlTwjJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/NZVlTwjJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/NZVlTwjJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/NZVlTwjJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/NZVlTwjJ-7spvWrjM.mp4
+//content.jwplatform.com/videos/NZVlTwjJ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/NZVlTwjJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/NZVlTwjJ-Qw1ADm9e.mp4
+itemDuration: 881
+itemImage: http://content.jwplatform.com/thumbs/NZVlTwjJ-720.jpg
+itemLegacyID: Cinemassacre-24997
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/NZVlTwjJ
+itemThumbnail: http://content.jwplatform.com/thumbs/NZVlTwjJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24997_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/NZVlTwjJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24997
+itemShortLinkID: 24997
+
+
+itemTitle: AVGN: Bill & Ted's Excellent Adventure
+itemWebLink: http://cinemassacre.com/2013/07/01/avgn-bill-teds-excellent-adventure/
+itemPlaylist: http://content.jwplatform.com/manifests/SXmfIXI4.m3u8
+itemAudio: http://content.jwplatform.com/videos/SXmfIXI4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SXmfIXI4-QvH08cwS.mp4
+//content.jwplatform.com/videos/SXmfIXI4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/SXmfIXI4-GzAUXplI.mp4
+//content.jwplatform.com/videos/SXmfIXI4-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SXmfIXI4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SXmfIXI4-7spvWrjM.mp4
+itemDuration: 1071
+itemImage: http://content.jwplatform.com/thumbs/SXmfIXI4-720.jpg
+itemLegacyID: Cinemassacre-25823
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/SXmfIXI4
+itemThumbnail: http://content.jwplatform.com/thumbs/SXmfIXI4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25823_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/SXmfIXI4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25823
+itemShortLinkID: 25823
+
+
+itemTitle: AVGN: Tiger Electronic Games
+itemWebLink: http://cinemassacre.com/2013/09/06/avgn-tiger-electronic/
+itemPlaylist: http://content.jwplatform.com/manifests/oyhYIkjA.m3u8
+itemAudio: http://content.jwplatform.com/videos/oyhYIkjA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/oyhYIkjA-QvH08cwS.mp4
+//content.jwplatform.com/videos/oyhYIkjA-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/oyhYIkjA-GzAUXplI.mp4
+//content.jwplatform.com/videos/oyhYIkjA-7spvWrjM.mp4
+//content.jwplatform.com/videos/oyhYIkjA-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/oyhYIkjA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/oyhYIkjA-Qw1ADm9e.mp4
+itemDuration: 1119
+itemImage: http://content.jwplatform.com/thumbs/oyhYIkjA-720.jpg
+itemLegacyID: Cinemassacre-52273484b87b2
+itemPubDate: Wed, 04 Sep 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/oyhYIkjA
+itemThumbnail: http://content.jwplatform.com/thumbs/oyhYIkjA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52273484b87b2_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/oyhYIkjA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26542
+itemShortLinkID: 26542
+
+
+itemTitle: Alien 3 - AVGN fixed
+itemWebLink: http://cinemassacre.com/2013/10/22/alien-3-angry-video-game-nerd/
+itemPlaylist: http://content.jwplatform.com/manifests/qnywJliD.m3u8
+itemAudio: http://content.jwplatform.com/videos/qnywJliD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qnywJliD-QvH08cwS.mp4
+//content.jwplatform.com/videos/qnywJliD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/qnywJliD-GzAUXplI.mp4
+//content.jwplatform.com/videos/qnywJliD-7spvWrjM.mp4
+//content.jwplatform.com/videos/qnywJliD-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qnywJliD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qnywJliD-Qw1ADm9e.mp4
+itemDuration: 616
+itemImage: http://content.jwplatform.com/thumbs/qnywJliD-720.jpg
+itemLegacyID: Cinemassacre-5265c3fb9873f
+itemPubDate: Mon, 21 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qnywJliD
+itemThumbnail: http://content.jwplatform.com/thumbs/qnywJliD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5265c3fb9873f_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qnywJliD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26754
+itemShortLinkID: 26754
+
+
+itemTitle: AVGN Games
+itemWebLink: http://cinemassacre.com/2013/11/19/avgn-avgn-games/
+itemPlaylist: http://content.jwplatform.com/manifests/JIuceeAy.m3u8
+itemAudio: http://content.jwplatform.com/videos/JIuceeAy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JIuceeAy-QvH08cwS.mp4
+//content.jwplatform.com/videos/JIuceeAy-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/JIuceeAy-GzAUXplI.mp4
+//content.jwplatform.com/videos/JIuceeAy-7spvWrjM.mp4
+//content.jwplatform.com/videos/JIuceeAy-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JIuceeAy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JIuceeAy-Qw1ADm9e.mp4
+itemDuration: 1315
+itemImage: http://content.jwplatform.com/thumbs/JIuceeAy-720.jpg
+itemLegacyID: Cinemassacre-528c1b5eed643
+itemPubDate: Tue, 19 Nov 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JIuceeAy
+itemThumbnail: http://content.jwplatform.com/thumbs/JIuceeAy-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-528c1b5eed643_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JIuceeAy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27010
+itemShortLinkID: 27010
+
+
+itemTitle: AVGN: Atari Jaguar Part 2
+itemWebLink: http://cinemassacre.com/2009/03/25/atari-jaguar-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/5EQzs4zS.m3u8
+itemAudio: http://content.jwplatform.com/videos/5EQzs4zS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5EQzs4zS-QvH08cwS.mp4
+//content.jwplatform.com/videos/5EQzs4zS-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5EQzs4zS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5EQzs4zS-HTQw4Gzc.mp4
+itemDuration: 861
+itemImage: http://content.jwplatform.com/thumbs/5EQzs4zS-720.jpg
+itemLegacyID: Cinemassacre-1379
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5EQzs4zS
+itemThumbnail: http://content.jwplatform.com/thumbs/5EQzs4zS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1379_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5EQzs4zS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1379
+itemShortLinkID: 1379
+
+
+itemTitle: AVGN: Metal Gear
+itemWebLink: http://cinemassacre.com/2009/04/08/metal-gear/
+itemPlaylist: http://content.jwplatform.com/manifests/nFrd6fY0.m3u8
+itemAudio: http://content.jwplatform.com/videos/nFrd6fY0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/nFrd6fY0-QvH08cwS.mp4
+//content.jwplatform.com/videos/nFrd6fY0-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nFrd6fY0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nFrd6fY0-HTQw4Gzc.mp4
+itemDuration: 797
+itemImage: http://content.jwplatform.com/thumbs/nFrd6fY0-720.jpg
+itemLegacyID: Cinemassacre-1381
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/nFrd6fY0
+itemThumbnail: http://content.jwplatform.com/thumbs/nFrd6fY0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1381_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/nFrd6fY0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1381
+itemShortLinkID: 1381
+
+
+itemTitle: AVGN: The Odyssey
+itemWebLink: http://cinemassacre.com/2009/04/21/the-odyssey/
+itemPlaylist: http://content.jwplatform.com/manifests/3WVb4Pf5.m3u8
+itemAudio: http://content.jwplatform.com/videos/3WVb4Pf5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3WVb4Pf5-QvH08cwS.mp4
+//content.jwplatform.com/videos/3WVb4Pf5-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3WVb4Pf5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3WVb4Pf5-HTQw4Gzc.mp4
+itemDuration: 658
+itemImage: http://content.jwplatform.com/thumbs/3WVb4Pf5-720.jpg
+itemLegacyID: Cinemassacre-1383
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3WVb4Pf5
+itemThumbnail: http://content.jwplatform.com/thumbs/3WVb4Pf5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1383_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3WVb4Pf5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1383
+itemShortLinkID: 1383
+
+
+itemTitle: AVGN: X-Men
+itemWebLink: http://cinemassacre.com/2009/05/06/x-men/
+itemPlaylist: http://content.jwplatform.com/manifests/jhX8OXrB.m3u8
+itemAudio: http://content.jwplatform.com/videos/jhX8OXrB-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jhX8OXrB-QvH08cwS.mp4
+//content.jwplatform.com/videos/jhX8OXrB-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jhX8OXrB-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jhX8OXrB-HTQw4Gzc.mp4
+itemDuration: 851
+itemImage: http://content.jwplatform.com/thumbs/jhX8OXrB-720.jpg
+itemLegacyID: Cinemassacre-1385
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/jhX8OXrB
+itemThumbnail: http://content.jwplatform.com/thumbs/jhX8OXrB-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1385_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/jhX8OXrB-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1385
+itemShortLinkID: 1385
+
+
+itemTitle: AVGN: The Terminator
+itemWebLink: http://cinemassacre.com/2009/05/19/the-terminator-2/
+itemPlaylist: http://content.jwplatform.com/manifests/gUtmw4NA.m3u8
+itemAudio: http://content.jwplatform.com/videos/gUtmw4NA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/gUtmw4NA-QvH08cwS.mp4
+//content.jwplatform.com/videos/gUtmw4NA-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/gUtmw4NA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/gUtmw4NA-HTQw4Gzc.mp4
+itemDuration: 894
+itemImage: http://content.jwplatform.com/thumbs/gUtmw4NA-720.jpg
+itemLegacyID: Cinemassacre-1387
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/gUtmw4NA
+itemThumbnail: http://content.jwplatform.com/thumbs/gUtmw4NA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1387_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/gUtmw4NA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1387
+itemShortLinkID: 1387
+
+
+itemTitle: AVGN: Terminator 2
+itemWebLink: http://cinemassacre.com/2009/06/02/terminator-2-2/
+itemPlaylist: http://content.jwplatform.com/manifests/VhA0CmsV.m3u8
+itemAudio: http://content.jwplatform.com/videos/VhA0CmsV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/VhA0CmsV-QvH08cwS.mp4
+//content.jwplatform.com/videos/VhA0CmsV-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/VhA0CmsV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/VhA0CmsV-HTQw4Gzc.mp4
+itemDuration: 805
+itemImage: http://content.jwplatform.com/thumbs/VhA0CmsV-720.jpg
+itemLegacyID: Cinemassacre-1390
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/VhA0CmsV
+itemThumbnail: http://content.jwplatform.com/thumbs/VhA0CmsV-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1390_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/VhA0CmsV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1390
+itemShortLinkID: 1390
+
+
+itemTitle: AVGN: Transformers
+itemWebLink: http://cinemassacre.com/2009/06/17/transformers/
+itemPlaylist: http://content.jwplatform.com/manifests/2NsS1EPl.m3u8
+itemAudio: http://content.jwplatform.com/videos/2NsS1EPl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2NsS1EPl-QvH08cwS.mp4
+//content.jwplatform.com/videos/2NsS1EPl-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2NsS1EPl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2NsS1EPl-HTQw4Gzc.mp4
+itemDuration: 763
+itemImage: http://content.jwplatform.com/thumbs/2NsS1EPl-720.jpg
+itemLegacyID: Cinemassacre-1392
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/2NsS1EPl
+itemThumbnail: http://content.jwplatform.com/thumbs/2NsS1EPl-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1392_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/2NsS1EPl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1392
+itemShortLinkID: 1392
+
+
+itemTitle: AVGN: Mario is Missing
+itemWebLink: http://cinemassacre.com/2009/07/01/mario-is-missing/
+itemPlaylist: http://content.jwplatform.com/manifests/88IvHgZL.m3u8
+itemAudio: http://content.jwplatform.com/videos/88IvHgZL-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/88IvHgZL-QvH08cwS.mp4
+//content.jwplatform.com/videos/88IvHgZL-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/88IvHgZL-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/88IvHgZL-HTQw4Gzc.mp4
+itemDuration: 570
+itemImage: http://content.jwplatform.com/thumbs/88IvHgZL-720.jpg
+itemLegacyID: Cinemassacre-1394
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/88IvHgZL
+itemThumbnail: http://content.jwplatform.com/thumbs/88IvHgZL-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1394_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/88IvHgZL-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1394
+itemShortLinkID: 1394
+
+
+itemTitle: AVGN: Plumbers Don't Wear Ties
+itemWebLink: http://cinemassacre.com/2009/07/21/plumbers-dont-wear-ties/
+itemPlaylist: http://content.jwplatform.com/manifests/uLdQO3k2.m3u8
+itemAudio: http://content.jwplatform.com/videos/uLdQO3k2-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/uLdQO3k2-QvH08cwS.mp4
+//content.jwplatform.com/videos/uLdQO3k2-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/uLdQO3k2-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/uLdQO3k2-HTQw4Gzc.mp4
+itemDuration: 1238
+itemImage: http://content.jwplatform.com/thumbs/uLdQO3k2-720.jpg
+itemLegacyID: Cinemassacre-1396
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/uLdQO3k2
+itemThumbnail: http://content.jwplatform.com/thumbs/uLdQO3k2-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1396_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/uLdQO3k2-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1396
+itemShortLinkID: 1396
+
+
+itemTitle: AVGN: Bugs Bunny's Crazy Castle
+itemWebLink: http://cinemassacre.com/2009/08/05/bugs-bunnys-crazy-castle/
+itemPlaylist: http://content.jwplatform.com/manifests/caIdG3q0.m3u8
+itemAudio: http://content.jwplatform.com/videos/caIdG3q0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/caIdG3q0-QvH08cwS.mp4
+//content.jwplatform.com/videos/caIdG3q0-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/caIdG3q0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/caIdG3q0-HTQw4Gzc.mp4
+itemDuration: 1018
+itemImage: http://content.jwplatform.com/thumbs/caIdG3q0-720.jpg
+itemLegacyID: Cinemassacre-1398
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/caIdG3q0
+itemThumbnail: http://content.jwplatform.com/thumbs/caIdG3q0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1398_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/caIdG3q0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1398
+itemShortLinkID: 1398
+
+
+itemTitle: AVGN: Super Pitfall
+itemWebLink: http://cinemassacre.com/2009/08/20/super-pitfall/
+itemPlaylist: http://content.jwplatform.com/manifests/mcGCkwUX.m3u8
+itemAudio: http://content.jwplatform.com/videos/mcGCkwUX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/mcGCkwUX-QvH08cwS.mp4
+//content.jwplatform.com/videos/mcGCkwUX-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/mcGCkwUX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/mcGCkwUX-HTQw4Gzc.mp4
+itemDuration: 667
+itemImage: http://content.jwplatform.com/thumbs/mcGCkwUX-720.jpg
+itemLegacyID: Cinemassacre-1400
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/mcGCkwUX
+itemThumbnail: http://content.jwplatform.com/thumbs/mcGCkwUX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1400_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/mcGCkwUX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1400
+itemShortLinkID: 1400
+
+
+itemTitle: AVGN: Godzilla
+itemWebLink: http://cinemassacre.com/2009/09/04/avgn-godzilla/
+itemPlaylist: http://content.jwplatform.com/manifests/69vzXzSI.m3u8
+itemAudio: http://content.jwplatform.com/videos/69vzXzSI-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/69vzXzSI-QvH08cwS.mp4
+//content.jwplatform.com/videos/69vzXzSI-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/69vzXzSI-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/69vzXzSI-HTQw4Gzc.mp4
+itemDuration: 946
+itemImage: http://content.jwplatform.com/thumbs/69vzXzSI-720.jpg
+itemLegacyID: Cinemassacre-1402
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/69vzXzSI
+itemThumbnail: http://content.jwplatform.com/thumbs/69vzXzSI-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1402_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/69vzXzSI-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1402
+itemShortLinkID: 1402
+
+
+itemTitle: AVGN: Wayne's World
+itemWebLink: http://cinemassacre.com/2009/09/24/avgn-waynes-world/
+itemPlaylist: http://content.jwplatform.com/manifests/sL6D69xn.m3u8
+itemAudio: http://content.jwplatform.com/videos/sL6D69xn-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sL6D69xn-QvH08cwS.mp4
+//content.jwplatform.com/videos/sL6D69xn-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sL6D69xn-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sL6D69xn-HTQw4Gzc.mp4
+itemDuration: 735
+itemImage: http://content.jwplatform.com/thumbs/sL6D69xn-720.jpg
+itemLegacyID: Cinemassacre-1404
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/sL6D69xn
+itemThumbnail: http://content.jwplatform.com/thumbs/sL6D69xn-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1404_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/sL6D69xn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1404
+itemShortLinkID: 1404
+
+
+itemTitle: AVGN: Castlevania Part 1
+itemWebLink: http://cinemassacre.com/2009/10/08/castlevania-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/f8BYg7so.m3u8
+itemAudio: http://content.jwplatform.com/videos/f8BYg7so-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/f8BYg7so-QvH08cwS.mp4
+//content.jwplatform.com/videos/f8BYg7so-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/f8BYg7so-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/f8BYg7so-HTQw4Gzc.mp4
+itemDuration: 608
+itemImage: http://content.jwplatform.com/thumbs/f8BYg7so-720.jpg
+itemLegacyID: Cinemassacre-1406
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/f8BYg7so
+itemThumbnail: http://content.jwplatform.com/thumbs/f8BYg7so-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1406_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/f8BYg7so-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1406
+itemShortLinkID: 1406
+
+
+itemTitle: AVGN: Castlevania Part 2
+itemWebLink: http://cinemassacre.com/2009/10/21/castlevania-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/R6pt3N2q.m3u8
+itemAudio: http://content.jwplatform.com/videos/R6pt3N2q-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/R6pt3N2q-QvH08cwS.mp4
+//content.jwplatform.com/videos/R6pt3N2q-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/R6pt3N2q-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/R6pt3N2q-HTQw4Gzc.mp4
+itemDuration: 767
+itemImage: http://content.jwplatform.com/thumbs/R6pt3N2q-720.jpg
+itemLegacyID: Cinemassacre-1408
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/R6pt3N2q
+itemThumbnail: http://content.jwplatform.com/thumbs/R6pt3N2q-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1408_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/R6pt3N2q-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1408
+itemShortLinkID: 1408
+
+
+itemTitle: AVGN: Castlevania Part 3
+itemWebLink: http://cinemassacre.com/2009/11/05/castlevania-part-3/
+itemPlaylist: http://content.jwplatform.com/manifests/5oPIT7zG.m3u8
+itemAudio: http://content.jwplatform.com/videos/5oPIT7zG-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5oPIT7zG-QvH08cwS.mp4
+//content.jwplatform.com/videos/5oPIT7zG-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5oPIT7zG-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5oPIT7zG-HTQw4Gzc.mp4
+itemDuration: 772
+itemImage: http://content.jwplatform.com/thumbs/5oPIT7zG-720.jpg
+itemLegacyID: Cinemassacre-1410
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5oPIT7zG
+itemThumbnail: http://content.jwplatform.com/thumbs/5oPIT7zG-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1410_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5oPIT7zG-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1410
+itemShortLinkID: 1410
+
+
+itemTitle: AVGN: Castlevania Part 4
+itemWebLink: http://cinemassacre.com/2009/11/19/castlevania-part-4/
+itemPlaylist: http://content.jwplatform.com/manifests/ft1Y4cMl.m3u8
+itemAudio: http://content.jwplatform.com/videos/ft1Y4cMl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ft1Y4cMl-QvH08cwS.mp4
+//content.jwplatform.com/videos/ft1Y4cMl-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ft1Y4cMl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ft1Y4cMl-HTQw4Gzc.mp4
+itemDuration: 588
+itemImage: http://content.jwplatform.com/thumbs/ft1Y4cMl-720.jpg
+itemLegacyID: Cinemassacre-1412
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ft1Y4cMl
+itemThumbnail: http://content.jwplatform.com/thumbs/ft1Y4cMl-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1412_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ft1Y4cMl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1412
+itemShortLinkID: 1412
+
+
+itemTitle: AVGN: Little Red Hood
+itemWebLink: http://cinemassacre.com/2009/12/03/little-red-hood/
+itemPlaylist: http://content.jwplatform.com/manifests/sRoSqmT6.m3u8
+itemAudio: http://content.jwplatform.com/videos/sRoSqmT6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sRoSqmT6-QvH08cwS.mp4
+//content.jwplatform.com/videos/sRoSqmT6-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sRoSqmT6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sRoSqmT6-HTQw4Gzc.mp4
+itemDuration: 894
+itemImage: http://content.jwplatform.com/thumbs/sRoSqmT6-720.jpg
+itemLegacyID: Cinemassacre-1414
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/sRoSqmT6
+itemThumbnail: http://content.jwplatform.com/thumbs/sRoSqmT6-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1414_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/sRoSqmT6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1414
+itemShortLinkID: 1414
+
+
+itemTitle: AVGN: Winter Games
+itemWebLink: http://cinemassacre.com/2009/12/25/winter-games/
+itemPlaylist: http://content.jwplatform.com/manifests/nPzoD4XB.m3u8
+itemAudio: http://content.jwplatform.com/videos/nPzoD4XB-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/nPzoD4XB-QvH08cwS.mp4
+//content.jwplatform.com/videos/nPzoD4XB-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nPzoD4XB-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nPzoD4XB-HTQw4Gzc.mp4
+itemDuration: 628
+itemImage: http://content.jwplatform.com/thumbs/nPzoD4XB-720.jpg
+itemLegacyID: Cinemassacre-3151
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/nPzoD4XB
+itemThumbnail: http://content.jwplatform.com/thumbs/nPzoD4XB-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3151_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/nPzoD4XB-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3151
+itemShortLinkID: 3151
+
+
+itemTitle: AVGN: Street Fighter 2010
+itemWebLink: http://cinemassacre.com/2010/01/06/street-fighter-2010/
+itemPlaylist: http://content.jwplatform.com/manifests/irHRD7o3.m3u8
+itemAudio: http://content.jwplatform.com/videos/irHRD7o3-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/irHRD7o3-QvH08cwS.mp4
+//content.jwplatform.com/videos/irHRD7o3-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/irHRD7o3-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/irHRD7o3-HTQw4Gzc.mp4
+itemDuration: 1076
+itemImage: http://content.jwplatform.com/thumbs/irHRD7o3-720.jpg
+itemLegacyID: Cinemassacre-3153
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/irHRD7o3
+itemThumbnail: http://content.jwplatform.com/thumbs/irHRD7o3-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3153_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/irHRD7o3-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3153
+itemShortLinkID: 3153
+
+
+itemTitle: AVGN: Hydlide
+itemWebLink: http://cinemassacre.com/2010/01/20/avgn-hydlide-2/
+itemPlaylist: http://content.jwplatform.com/manifests/5byVSjAv.m3u8
+itemAudio: http://content.jwplatform.com/videos/5byVSjAv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5byVSjAv-QvH08cwS.mp4
+//content.jwplatform.com/videos/5byVSjAv-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5byVSjAv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5byVSjAv-HTQw4Gzc.mp4
+itemDuration: 508
+itemImage: http://content.jwplatform.com/thumbs/5byVSjAv-720.jpg
+itemLegacyID: Cinemassacre-3155
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5byVSjAv
+itemThumbnail: http://content.jwplatform.com/thumbs/5byVSjAv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3155_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5byVSjAv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3155
+itemShortLinkID: 3155
+
+
+itemTitle: AVGN: Ninja Gaiden
+itemWebLink: http://cinemassacre.com/2010/02/04/avgn-ninja-gaiden/
+itemPlaylist: http://content.jwplatform.com/manifests/3tXdrW3j.m3u8
+itemAudio: http://content.jwplatform.com/videos/3tXdrW3j-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3tXdrW3j-QvH08cwS.mp4
+//content.jwplatform.com/videos/3tXdrW3j-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3tXdrW3j-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3tXdrW3j-HTQw4Gzc.mp4
+itemDuration: 940
+itemImage: http://content.jwplatform.com/thumbs/3tXdrW3j-720.jpg
+itemLegacyID: Cinemassacre-3157
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3tXdrW3j
+itemThumbnail: http://content.jwplatform.com/thumbs/3tXdrW3j-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3157_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3tXdrW3j-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3157
+itemShortLinkID: 3157
+
+
+itemTitle: AVGN: Swordquest
+itemWebLink: http://cinemassacre.com/2010/02/18/avgn-swordquest/
+itemPlaylist: http://content.jwplatform.com/manifests/jqCrbfmB.m3u8
+itemAudio: http://content.jwplatform.com/videos/jqCrbfmB-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jqCrbfmB-QvH08cwS.mp4
+//content.jwplatform.com/videos/jqCrbfmB-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jqCrbfmB-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jqCrbfmB-HTQw4Gzc.mp4
+itemDuration: 552
+itemImage: http://content.jwplatform.com/thumbs/jqCrbfmB-720.jpg
+itemLegacyID: Cinemassacre-3159
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/jqCrbfmB
+itemThumbnail: http://content.jwplatform.com/thumbs/jqCrbfmB-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3159_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/jqCrbfmB-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3159
+itemShortLinkID: 3159
+
+
+itemTitle: AVGN: Pong Consoles
+itemWebLink: http://cinemassacre.com/2010/03/06/avgn-pong-consoles/
+itemPlaylist: http://content.jwplatform.com/manifests/WwfFdz3l.m3u8
+itemAudio: http://content.jwplatform.com/videos/WwfFdz3l-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/WwfFdz3l-QvH08cwS.mp4
+//content.jwplatform.com/videos/WwfFdz3l-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/WwfFdz3l-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/WwfFdz3l-HTQw4Gzc.mp4
+itemDuration: 720
+itemImage: http://content.jwplatform.com/thumbs/WwfFdz3l-720.jpg
+itemLegacyID: Cinemassacre-3193
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/WwfFdz3l
+itemThumbnail: http://content.jwplatform.com/thumbs/WwfFdz3l-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3193_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/WwfFdz3l-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3193
+itemShortLinkID: 3193
+
+
+itemTitle: AVGN: Action 52
+itemWebLink: http://cinemassacre.com/2010/04/30/avgn-episode-90-action-52/
+itemPlaylist: http://content.jwplatform.com/manifests/xCPK3viY.m3u8
+itemAudio: http://content.jwplatform.com/videos/xCPK3viY-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xCPK3viY-QvH08cwS.mp4
+//content.jwplatform.com/videos/xCPK3viY-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xCPK3viY-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xCPK3viY-HTQw4Gzc.mp4
+itemDuration: 1610
+itemImage: http://content.jwplatform.com/thumbs/xCPK3viY-720.jpg
+itemLegacyID: Cinemassacre-6057
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xCPK3viY
+itemThumbnail: http://content.jwplatform.com/thumbs/xCPK3viY-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6057_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xCPK3viY-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6057
+itemShortLinkID: 6057
+
+
+itemTitle: AVGN: Rambo
+itemWebLink: http://cinemassacre.com/2008/01/22/rambo/
+itemPlaylist: http://content.jwplatform.com/manifests/aT2SculS.m3u8
+itemAudio: http://content.jwplatform.com/videos/aT2SculS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/aT2SculS-QvH08cwS.mp4
+//content.jwplatform.com/videos/aT2SculS-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/aT2SculS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/aT2SculS-HTQw4Gzc.mp4
+itemDuration: 793
+itemImage: http://content.jwplatform.com/thumbs/aT2SculS-720.jpg
+itemLegacyID: Cinemassacre-1306
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/aT2SculS
+itemThumbnail: http://content.jwplatform.com/thumbs/aT2SculS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1306_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/aT2SculS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1306
+itemShortLinkID: 1306
+
+
+itemTitle: AVGN: Virtual Boy
+itemWebLink: http://cinemassacre.com/2008/02/19/virtual-boy/
+itemPlaylist: http://content.jwplatform.com/manifests/5Z9y3dNs.m3u8
+itemAudio: http://content.jwplatform.com/videos/5Z9y3dNs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5Z9y3dNs-QvH08cwS.mp4
+//content.jwplatform.com/videos/5Z9y3dNs-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5Z9y3dNs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5Z9y3dNs-HTQw4Gzc.mp4
+itemDuration: 905
+itemImage: http://content.jwplatform.com/thumbs/5Z9y3dNs-720.jpg
+itemLegacyID: Cinemassacre-1309
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5Z9y3dNs
+itemThumbnail: http://content.jwplatform.com/thumbs/5Z9y3dNs-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1309_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5Z9y3dNs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1309
+itemShortLinkID: 1309
+
+
+itemTitle: AVGN: Wizard of Oz
+itemWebLink: http://cinemassacre.com/2008/03/04/wizard-of-oz/
+itemPlaylist: http://content.jwplatform.com/manifests/euO2eiA3.m3u8
+itemAudio: http://content.jwplatform.com/videos/euO2eiA3-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/euO2eiA3-QvH08cwS.mp4
+//content.jwplatform.com/videos/euO2eiA3-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/euO2eiA3-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/euO2eiA3-HTQw4Gzc.mp4
+itemDuration: 692
+itemImage: http://content.jwplatform.com/thumbs/euO2eiA3-720.jpg
+itemLegacyID: Cinemassacre-1311
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/euO2eiA3
+itemThumbnail: http://content.jwplatform.com/thumbs/euO2eiA3-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1311_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/euO2eiA3-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1311
+itemShortLinkID: 1311
+
+
+itemTitle: AVGN: Doublevision Part 1 - Intellivision
+itemWebLink: http://cinemassacre.com/2008/03/25/doublevision-part-1-intellivision/
+itemPlaylist: http://content.jwplatform.com/manifests/aMOY0Mip.m3u8
+itemAudio: http://content.jwplatform.com/videos/aMOY0Mip-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/aMOY0Mip-QvH08cwS.mp4
+//content.jwplatform.com/videos/aMOY0Mip-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/aMOY0Mip-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/aMOY0Mip-HTQw4Gzc.mp4
+itemDuration: 603
+itemImage: http://content.jwplatform.com/thumbs/aMOY0Mip-720.jpg
+itemLegacyID: Cinemassacre-1331
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/aMOY0Mip
+itemThumbnail: http://content.jwplatform.com/thumbs/aMOY0Mip-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1331_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/aMOY0Mip-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1331
+itemShortLinkID: 1331
+
+
+itemTitle: AVGN: Doublevision Part 2 - Colecovision
+itemWebLink: http://cinemassacre.com/2008/04/08/doublevision-part-2-colecovision/
+itemPlaylist: http://content.jwplatform.com/manifests/p90COAhL.m3u8
+itemAudio: http://content.jwplatform.com/videos/p90COAhL-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/p90COAhL-QvH08cwS.mp4
+//content.jwplatform.com/videos/p90COAhL-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/p90COAhL-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/p90COAhL-HTQw4Gzc.mp4
+itemDuration: 503
+itemImage: http://content.jwplatform.com/thumbs/p90COAhL-720.jpg
+itemLegacyID: Cinemassacre-1335
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/p90COAhL
+itemThumbnail: http://content.jwplatform.com/thumbs/p90COAhL-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1335_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/p90COAhL-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1335
+itemShortLinkID: 1335
+
+
+itemTitle: AVGN: The Wizard and Super Mario Bros 3
+itemWebLink: http://cinemassacre.com/2008/04/22/the-wizard-and-super-mario-bros-3/
+itemPlaylist: http://content.jwplatform.com/manifests/mDvW7KCQ.m3u8
+itemAudio: http://content.jwplatform.com/videos/mDvW7KCQ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/mDvW7KCQ-QvH08cwS.mp4
+//content.jwplatform.com/videos/mDvW7KCQ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/mDvW7KCQ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/mDvW7KCQ-HTQw4Gzc.mp4
+itemDuration: 1038
+itemImage: http://content.jwplatform.com/thumbs/mDvW7KCQ-720.jpg
+itemLegacyID: Cinemassacre-1337
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/mDvW7KCQ
+itemThumbnail: http://content.jwplatform.com/thumbs/mDvW7KCQ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1337_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/mDvW7KCQ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1337
+itemShortLinkID: 1337
+
+
+itemTitle: AVGN: Nes Accessories
+itemWebLink: http://cinemassacre.com/2008/05/14/nes-accessories/
+itemPlaylist: http://content.jwplatform.com/manifests/2ItMYyHs.m3u8
+itemAudio: http://content.jwplatform.com/videos/2ItMYyHs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2ItMYyHs-QvH08cwS.mp4
+//content.jwplatform.com/videos/2ItMYyHs-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2ItMYyHs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2ItMYyHs-HTQw4Gzc.mp4
+itemDuration: 830
+itemImage: http://content.jwplatform.com/thumbs/2ItMYyHs-720.jpg
+itemLegacyID: Cinemassacre-1339
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/2ItMYyHs
+itemThumbnail: http://content.jwplatform.com/thumbs/2ItMYyHs-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1339_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/2ItMYyHs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1339
+itemShortLinkID: 1339
+
+
+itemTitle: AVGN: Indiana Jones Trilogy
+itemWebLink: http://cinemassacre.com/2008/05/20/indiana-jones-trilogy-2/
+itemPlaylist: http://content.jwplatform.com/manifests/szNfoCcb.m3u8
+itemAudio: http://content.jwplatform.com/videos/szNfoCcb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/szNfoCcb-QvH08cwS.mp4
+//content.jwplatform.com/videos/szNfoCcb-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/szNfoCcb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/szNfoCcb-HTQw4Gzc.mp4
+itemDuration: 1046
+itemImage: http://content.jwplatform.com/thumbs/szNfoCcb-720.jpg
+itemLegacyID: Cinemassacre-1341
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/szNfoCcb
+itemThumbnail: http://content.jwplatform.com/thumbs/szNfoCcb-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1341_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/szNfoCcb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1341
+itemShortLinkID: 1341
+
+
+itemTitle: AVGN: Star Trek
+itemWebLink: http://cinemassacre.com/2008/06/11/avgn-star-trek-2/
+itemPlaylist: http://content.jwplatform.com/manifests/w4xAqfdz.m3u8
+itemAudio: http://content.jwplatform.com/videos/w4xAqfdz-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/w4xAqfdz-QvH08cwS.mp4
+//content.jwplatform.com/videos/w4xAqfdz-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/w4xAqfdz-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/w4xAqfdz-HTQw4Gzc.mp4
+itemDuration: 645
+itemImage: http://content.jwplatform.com/thumbs/w4xAqfdz-720.jpg
+itemLegacyID: Cinemassacre-1343
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/w4xAqfdz
+itemThumbnail: http://content.jwplatform.com/thumbs/w4xAqfdz-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1343_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/w4xAqfdz-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1343
+itemShortLinkID: 1343
+
+
+itemTitle: AVGN: Superman
+itemWebLink: http://cinemassacre.com/2008/06/26/avgn-superman-2/
+itemPlaylist: http://content.jwplatform.com/manifests/muh3KF13.m3u8
+itemAudio: http://content.jwplatform.com/videos/muh3KF13-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/muh3KF13-QvH08cwS.mp4
+//content.jwplatform.com/videos/muh3KF13-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/muh3KF13-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/muh3KF13-HTQw4Gzc.mp4
+itemDuration: 705
+itemImage: http://content.jwplatform.com/thumbs/muh3KF13-720.jpg
+itemLegacyID: Cinemassacre-1345
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/muh3KF13
+itemThumbnail: http://content.jwplatform.com/thumbs/muh3KF13-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1345_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/muh3KF13-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1345
+itemShortLinkID: 1345
+
+
+itemTitle: AVGN: Superman 64
+itemWebLink: http://cinemassacre.com/2008/07/08/avgn-superman-64-2/
+itemPlaylist: http://content.jwplatform.com/manifests/AlkutvII.m3u8
+itemAudio: http://content.jwplatform.com/videos/AlkutvII-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/AlkutvII-QvH08cwS.mp4
+//content.jwplatform.com/videos/AlkutvII-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/AlkutvII-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/AlkutvII-HTQw4Gzc.mp4
+itemDuration: 636
+itemImage: http://content.jwplatform.com/thumbs/AlkutvII-720.jpg
+itemLegacyID: Cinemassacre-1347
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/AlkutvII
+itemThumbnail: http://content.jwplatform.com/thumbs/AlkutvII-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1347_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/AlkutvII-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1347
+itemShortLinkID: 1347
+
+
+itemTitle: AVGN: Batman Part 1
+itemWebLink: http://cinemassacre.com/2008/07/22/batman-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/WgMcNttt.m3u8
+itemAudio: http://content.jwplatform.com/videos/WgMcNttt-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/WgMcNttt-QvH08cwS.mp4
+//content.jwplatform.com/videos/WgMcNttt-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/WgMcNttt-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/WgMcNttt-HTQw4Gzc.mp4
+itemDuration: 704
+itemImage: http://content.jwplatform.com/thumbs/WgMcNttt-720.jpg
+itemLegacyID: Cinemassacre-1349
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/WgMcNttt
+itemThumbnail: http://content.jwplatform.com/thumbs/WgMcNttt-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1349_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/WgMcNttt-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1349
+itemShortLinkID: 1349
+
+
+itemTitle: AVGN: Batman Part 2
+itemWebLink: http://cinemassacre.com/2008/08/10/batman-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/w7JVjQoJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/w7JVjQoJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/w7JVjQoJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/w7JVjQoJ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/w7JVjQoJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/w7JVjQoJ-HTQw4Gzc.mp4
+itemDuration: 582
+itemImage: http://content.jwplatform.com/thumbs/w7JVjQoJ-720.jpg
+itemLegacyID: Cinemassacre-1351
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/w7JVjQoJ
+itemThumbnail: http://content.jwplatform.com/thumbs/w7JVjQoJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1351_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/w7JVjQoJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1351
+itemShortLinkID: 1351
+
+
+itemTitle: AVGN: Deadly Towers
+itemWebLink: http://cinemassacre.com/2008/08/19/deadly-towers/
+itemPlaylist: http://content.jwplatform.com/manifests/1ELaxkJ4.m3u8
+itemAudio: http://content.jwplatform.com/videos/1ELaxkJ4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/1ELaxkJ4-QvH08cwS.mp4
+//content.jwplatform.com/videos/1ELaxkJ4-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1ELaxkJ4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1ELaxkJ4-HTQw4Gzc.mp4
+itemDuration: 500
+itemImage: http://content.jwplatform.com/thumbs/1ELaxkJ4-720.jpg
+itemLegacyID: Cinemassacre-1353
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/1ELaxkJ4
+itemThumbnail: http://content.jwplatform.com/thumbs/1ELaxkJ4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1353_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/1ELaxkJ4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1353
+itemShortLinkID: 1353
+
+
+itemTitle: AVGN: Battletoads
+itemWebLink: http://cinemassacre.com/2008/09/03/battletoads/
+itemPlaylist: http://content.jwplatform.com/manifests/b0v3uI21.m3u8
+itemAudio: http://content.jwplatform.com/videos/b0v3uI21-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/b0v3uI21-QvH08cwS.mp4
+//content.jwplatform.com/videos/b0v3uI21-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/b0v3uI21-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/b0v3uI21-HTQw4Gzc.mp4
+itemDuration: 472
+itemImage: http://content.jwplatform.com/thumbs/b0v3uI21-720.jpg
+itemLegacyID: Cinemassacre-1355
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/b0v3uI21
+itemThumbnail: http://content.jwplatform.com/thumbs/b0v3uI21-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1355_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/b0v3uI21-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1355
+itemShortLinkID: 1355
+
+
+itemTitle: AVGN: Dick Tracy
+itemWebLink: http://cinemassacre.com/2008/09/16/dick-tracy/
+itemPlaylist: http://content.jwplatform.com/manifests/FcDhf4J5.m3u8
+itemAudio: http://content.jwplatform.com/videos/FcDhf4J5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/FcDhf4J5-QvH08cwS.mp4
+//content.jwplatform.com/videos/FcDhf4J5-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/FcDhf4J5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/FcDhf4J5-HTQw4Gzc.mp4
+itemDuration: 844
+itemImage: http://content.jwplatform.com/thumbs/FcDhf4J5-720.jpg
+itemLegacyID: Cinemassacre-1357
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/FcDhf4J5
+itemThumbnail: http://content.jwplatform.com/thumbs/FcDhf4J5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1357_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/FcDhf4J5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1357
+itemShortLinkID: 1357
+
+
+itemTitle: AVGN: Dracula
+itemWebLink: http://cinemassacre.com/2008/10/14/avgn-dracula-2/
+itemPlaylist: http://content.jwplatform.com/manifests/U3vDmRaT.m3u8
+itemAudio: http://content.jwplatform.com/videos/U3vDmRaT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/U3vDmRaT-QvH08cwS.mp4
+//content.jwplatform.com/videos/U3vDmRaT-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/U3vDmRaT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/U3vDmRaT-HTQw4Gzc.mp4
+itemDuration: 717
+itemImage: http://content.jwplatform.com/thumbs/U3vDmRaT-720.jpg
+itemLegacyID: Cinemassacre-1360
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/U3vDmRaT
+itemThumbnail: http://content.jwplatform.com/thumbs/U3vDmRaT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1360_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/U3vDmRaT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1360
+itemShortLinkID: 1360
+
+
+itemTitle: AVGN: Frankenstein
+itemWebLink: http://cinemassacre.com/2008/10/29/avgn-frankenstein/
+itemPlaylist: http://content.jwplatform.com/manifests/tORTJPDw.m3u8
+itemAudio: http://content.jwplatform.com/videos/tORTJPDw-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tORTJPDw-QvH08cwS.mp4
+//content.jwplatform.com/videos/tORTJPDw-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tORTJPDw-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tORTJPDw-HTQw4Gzc.mp4
+itemDuration: 848
+itemImage: http://content.jwplatform.com/thumbs/tORTJPDw-720.jpg
+itemLegacyID: Cinemassacre-1362
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/tORTJPDw
+itemThumbnail: http://content.jwplatform.com/thumbs/tORTJPDw-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1362_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/tORTJPDw-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1362
+itemShortLinkID: 1362
+
+
+itemTitle: AVGN: CD-I Part 1 - Hotel Mario
+itemWebLink: http://cinemassacre.com/2008/11/12/avgn-cd-i-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/GN2K0pgI.m3u8
+itemAudio: http://content.jwplatform.com/videos/GN2K0pgI-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GN2K0pgI-QvH08cwS.mp4
+//content.jwplatform.com/videos/GN2K0pgI-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GN2K0pgI-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GN2K0pgI-HTQw4Gzc.mp4
+itemDuration: 477
+itemImage: http://content.jwplatform.com/thumbs/GN2K0pgI-720.jpg
+itemLegacyID: Cinemassacre-1364
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/GN2K0pgI
+itemThumbnail: http://content.jwplatform.com/thumbs/GN2K0pgI-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1364_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/GN2K0pgI-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1364
+itemShortLinkID: 1364
+
+
+itemTitle: AVGN: CD-I Part 2 - Zelda Wand of Gamelon
+itemWebLink: http://cinemassacre.com/2008/11/25/avgn-cd-i-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/Ul2RVtG6.m3u8
+itemAudio: http://content.jwplatform.com/videos/Ul2RVtG6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Ul2RVtG6-QvH08cwS.mp4
+//content.jwplatform.com/videos/Ul2RVtG6-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Ul2RVtG6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Ul2RVtG6-HTQw4Gzc.mp4
+itemDuration: 755
+itemImage: http://content.jwplatform.com/thumbs/Ul2RVtG6-720.jpg
+itemLegacyID: Cinemassacre-1366
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Ul2RVtG6
+itemThumbnail: http://content.jwplatform.com/thumbs/Ul2RVtG6-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1366_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Ul2RVtG6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1366
+itemShortLinkID: 1366
+
+
+itemTitle: AVGN: CD-I Part 3 - Link The Faces of Evil
+itemWebLink: http://cinemassacre.com/2008/12/09/avgn-cd-i-part-3/
+itemPlaylist: http://content.jwplatform.com/manifests/aVkntu6W.m3u8
+itemAudio: http://content.jwplatform.com/videos/aVkntu6W-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/aVkntu6W-QvH08cwS.mp4
+//content.jwplatform.com/videos/aVkntu6W-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/aVkntu6W-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/aVkntu6W-HTQw4Gzc.mp4
+itemDuration: 855
+itemImage: http://content.jwplatform.com/thumbs/aVkntu6W-720.jpg
+itemLegacyID: Cinemassacre-1368
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/aVkntu6W
+itemThumbnail: http://content.jwplatform.com/thumbs/aVkntu6W-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1368_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/aVkntu6W-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1368
+itemShortLinkID: 1368
+
+
+itemTitle: AVGN: Bible Games 2
+itemWebLink: http://cinemassacre.com/2008/12/23/bible-games-2/
+itemPlaylist: http://content.jwplatform.com/manifests/ieCOo5Yn.m3u8
+itemAudio: http://content.jwplatform.com/videos/ieCOo5Yn-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ieCOo5Yn-QvH08cwS.mp4
+//content.jwplatform.com/videos/ieCOo5Yn-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ieCOo5Yn-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ieCOo5Yn-HTQw4Gzc.mp4
+itemDuration: 1020
+itemImage: http://content.jwplatform.com/thumbs/ieCOo5Yn-720.jpg
+itemLegacyID: Cinemassacre-1370
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ieCOo5Yn
+itemThumbnail: http://content.jwplatform.com/thumbs/ieCOo5Yn-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1370_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ieCOo5Yn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1370
+itemShortLinkID: 1370
+
+
+itemTitle: AVGN: Michael Jackson's Moonwalker
+itemWebLink: http://cinemassacre.com/2009/01/07/michael-jacksons-moonwalker/
+itemPlaylist: http://content.jwplatform.com/manifests/6hvaouqZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/6hvaouqZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6hvaouqZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/6hvaouqZ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6hvaouqZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6hvaouqZ-HTQw4Gzc.mp4
+itemDuration: 604
+itemImage: http://content.jwplatform.com/thumbs/6hvaouqZ-720.jpg
+itemLegacyID: Cinemassacre-1373
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/6hvaouqZ
+itemThumbnail: http://content.jwplatform.com/thumbs/6hvaouqZ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1373_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/6hvaouqZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1373
+itemShortLinkID: 1373
+
+
+itemTitle: 064 Milon's Secret Castle
+itemWebLink: http://cinemassacre.com/2009/01/27/milons-secret-castle-2/
+itemPlaylist: http://content.jwplatform.com/manifests/yPll14q5.m3u8
+itemAudio: http://content.jwplatform.com/videos/yPll14q5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/yPll14q5-QvH08cwS.mp4
+//content.jwplatform.com/videos/yPll14q5-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yPll14q5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yPll14q5-HTQw4Gzc.mp4
+itemDuration: 693
+itemImage: http://content.jwplatform.com/thumbs/yPll14q5-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 02:43:23 -0000
+itemPreview: http://content.jwplatform.com/previews/yPll14q5
+itemThumbnail: http://content.jwplatform.com/thumbs/yPll14q5-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/yPll14q5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1375
+itemShortLinkID: 1375
+
+
+itemTitle: AVGN: Atari Jaguar Part 1
+itemWebLink: http://cinemassacre.com/2009/03/16/atari-jaguar-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/K9o9pyJt.m3u8
+itemAudio: http://content.jwplatform.com/videos/K9o9pyJt-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/K9o9pyJt-QvH08cwS.mp4
+//content.jwplatform.com/videos/K9o9pyJt-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/K9o9pyJt-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/K9o9pyJt-HTQw4Gzc.mp4
+itemDuration: 503
+itemImage: http://content.jwplatform.com/thumbs/K9o9pyJt-720.jpg
+itemLegacyID: Cinemassacre-1377
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/K9o9pyJt
+itemThumbnail: http://content.jwplatform.com/thumbs/K9o9pyJt-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1377_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/K9o9pyJt-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1377
+itemShortLinkID: 1377
+
+
+itemTitle: AVGN: Rocky
+itemWebLink: http://cinemassacre.com/2006/12/20/rocky/
+itemPlaylist: http://content.jwplatform.com/manifests/EjVnWE2F.m3u8
+itemAudio: http://content.jwplatform.com/videos/EjVnWE2F-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EjVnWE2F-QvH08cwS.mp4
+//content.jwplatform.com/videos/EjVnWE2F-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EjVnWE2F-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EjVnWE2F-HTQw4Gzc.mp4
+itemDuration: 585
+itemImage: http://content.jwplatform.com/thumbs/EjVnWE2F-720.jpg
+itemLegacyID: Cinemassacre-807
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/EjVnWE2F
+itemThumbnail: http://content.jwplatform.com/thumbs/EjVnWE2F-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-807_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/EjVnWE2F-120.vtt
+itemShortLink: http://cinemassacre.com/?p=807
+itemShortLinkID: 807
+
+
+itemTitle: AVGN: Bible Games
+itemWebLink: http://cinemassacre.com/2006/12/25/bible-games/
+itemPlaylist: http://content.jwplatform.com/manifests/5uYzsPtK.m3u8
+itemAudio: http://content.jwplatform.com/videos/5uYzsPtK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5uYzsPtK-QvH08cwS.mp4
+//content.jwplatform.com/videos/5uYzsPtK-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5uYzsPtK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5uYzsPtK-HTQw4Gzc.mp4
+itemDuration: 1288
+itemImage: http://content.jwplatform.com/thumbs/5uYzsPtK-720.jpg
+itemLegacyID: Cinemassacre-812
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5uYzsPtK
+itemThumbnail: http://content.jwplatform.com/thumbs/5uYzsPtK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-812_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5uYzsPtK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=812
+itemShortLinkID: 812
+
+
+itemTitle: AVGN: TMNT 3 Movie Review
+itemWebLink: http://cinemassacre.com/2007/01/25/tmnt-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/EWxlxme7.m3u8
+itemAudio: http://content.jwplatform.com/videos/EWxlxme7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EWxlxme7-QvH08cwS.mp4
+//content.jwplatform.com/videos/EWxlxme7-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EWxlxme7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EWxlxme7-HTQw4Gzc.mp4
+itemDuration: 1338
+itemImage: http://content.jwplatform.com/thumbs/EWxlxme7-720.jpg
+itemLegacyID: Cinemassacre-613
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/EWxlxme7
+itemThumbnail: http://content.jwplatform.com/thumbs/EWxlxme7-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-613_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/EWxlxme7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=613
+itemShortLinkID: 613
+
+
+itemTitle: AVGN: Atari 5200
+itemWebLink: http://cinemassacre.com/2007/02/13/atari-5200/
+itemPlaylist: http://content.jwplatform.com/manifests/slwMITH4.m3u8
+itemAudio: http://content.jwplatform.com/videos/slwMITH4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/slwMITH4-QvH08cwS.mp4
+//content.jwplatform.com/videos/slwMITH4-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/slwMITH4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/slwMITH4-HTQw4Gzc.mp4
+itemDuration: 618
+itemImage: http://content.jwplatform.com/thumbs/slwMITH4-720.jpg
+itemLegacyID: Cinemassacre-829
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/slwMITH4
+itemThumbnail: http://content.jwplatform.com/thumbs/slwMITH4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-829_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/slwMITH4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=829
+itemShortLinkID: 829
+
+
+itemTitle: AVGN: Ghostbusters
+itemWebLink: http://cinemassacre.com/2007/02/27/ghostbusters/
+itemPlaylist: http://content.jwplatform.com/manifests/9NNaxibS.m3u8
+itemAudio: http://content.jwplatform.com/videos/9NNaxibS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/9NNaxibS-QvH08cwS.mp4
+//content.jwplatform.com/videos/9NNaxibS-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/9NNaxibS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/9NNaxibS-HTQw4Gzc.mp4
+itemDuration: 1026
+itemImage: http://content.jwplatform.com/thumbs/9NNaxibS-720.jpg
+itemLegacyID: Cinemassacre-1042
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/9NNaxibS
+itemThumbnail: http://content.jwplatform.com/thumbs/9NNaxibS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1042_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/9NNaxibS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1042
+itemShortLinkID: 1042
+
+
+itemTitle: AVGN: Ghostbusters Follow-Up
+itemWebLink: http://cinemassacre.com/2007/03/20/ghostbusters-follow-up/
+itemPlaylist: http://content.jwplatform.com/manifests/yVSKC84W.m3u8
+itemAudio: http://content.jwplatform.com/videos/yVSKC84W-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/yVSKC84W-QvH08cwS.mp4
+//content.jwplatform.com/videos/yVSKC84W-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yVSKC84W-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yVSKC84W-HTQw4Gzc.mp4
+itemDuration: 674
+itemImage: http://content.jwplatform.com/thumbs/yVSKC84W-720.jpg
+itemLegacyID: Cinemassacre-1260
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/yVSKC84W
+itemThumbnail: http://content.jwplatform.com/thumbs/yVSKC84W-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1260_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/yVSKC84W-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1260
+itemShortLinkID: 1260
+
+
+itemTitle: AVGN: Ghostbusters Conclusion
+itemWebLink: http://cinemassacre.com/2007/04/03/ghostbusters-conclusion/
+itemPlaylist: http://content.jwplatform.com/manifests/Tda0yJ7k.m3u8
+itemAudio: http://content.jwplatform.com/videos/Tda0yJ7k-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Tda0yJ7k-QvH08cwS.mp4
+//content.jwplatform.com/videos/Tda0yJ7k-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Tda0yJ7k-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Tda0yJ7k-HTQw4Gzc.mp4
+itemDuration: 768
+itemImage: http://content.jwplatform.com/thumbs/Tda0yJ7k-720.jpg
+itemLegacyID: Cinemassacre-1262
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Tda0yJ7k
+itemThumbnail: http://content.jwplatform.com/thumbs/Tda0yJ7k-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1262_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Tda0yJ7k-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1262
+itemShortLinkID: 1262
+
+
+itemTitle: AVGN: Spiderman
+itemWebLink: http://cinemassacre.com/2007/04/17/spiderman/
+itemPlaylist: http://content.jwplatform.com/manifests/bqgNGupn.m3u8
+itemAudio: http://content.jwplatform.com/videos/bqgNGupn-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/bqgNGupn-QvH08cwS.mp4
+//content.jwplatform.com/videos/bqgNGupn-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/bqgNGupn-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/bqgNGupn-HTQw4Gzc.mp4
+itemDuration: 620
+itemImage: http://content.jwplatform.com/thumbs/bqgNGupn-720.jpg
+itemLegacyID: Cinemassacre-1266
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/bqgNGupn
+itemThumbnail: http://content.jwplatform.com/thumbs/bqgNGupn-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1266_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/bqgNGupn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1266
+itemShortLinkID: 1266
+
+
+itemTitle: AVGN: Sega CD
+itemWebLink: http://cinemassacre.com/2007/05/02/sega-cd/
+itemPlaylist: http://content.jwplatform.com/manifests/J1bHi9rz.m3u8
+itemAudio: http://content.jwplatform.com/videos/J1bHi9rz-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/J1bHi9rz-QvH08cwS.mp4
+//content.jwplatform.com/videos/J1bHi9rz-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/J1bHi9rz-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/J1bHi9rz-HTQw4Gzc.mp4
+itemDuration: 792
+itemImage: http://content.jwplatform.com/thumbs/J1bHi9rz-720.jpg
+itemLegacyID: Cinemassacre-1268
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/J1bHi9rz
+itemThumbnail: http://content.jwplatform.com/thumbs/J1bHi9rz-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1268_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/J1bHi9rz-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1268
+itemShortLinkID: 1268
+
+
+itemTitle: AVGN: Sega 32X
+itemWebLink: http://cinemassacre.com/2007/05/15/sega-32x/
+itemPlaylist: http://content.jwplatform.com/manifests/iF6JBh84.m3u8
+itemAudio: http://content.jwplatform.com/videos/iF6JBh84-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/iF6JBh84-QvH08cwS.mp4
+//content.jwplatform.com/videos/iF6JBh84-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/iF6JBh84-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/iF6JBh84-HTQw4Gzc.mp4
+itemDuration: 535
+itemImage: http://content.jwplatform.com/thumbs/iF6JBh84-720.jpg
+itemLegacyID: Cinemassacre-1270
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/iF6JBh84
+itemThumbnail: http://content.jwplatform.com/thumbs/iF6JBh84-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1270_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/iF6JBh84-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1270
+itemShortLinkID: 1270
+
+
+itemTitle: AVGN: Silver Surfer
+itemWebLink: http://cinemassacre.com/2007/06/05/silver-surfer/
+itemPlaylist: http://content.jwplatform.com/manifests/8Hhqg3Zj.m3u8
+itemAudio: http://content.jwplatform.com/videos/8Hhqg3Zj-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/8Hhqg3Zj-QvH08cwS.mp4
+//content.jwplatform.com/videos/8Hhqg3Zj-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/8Hhqg3Zj-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/8Hhqg3Zj-HTQw4Gzc.mp4
+itemDuration: 668
+itemImage: http://content.jwplatform.com/thumbs/8Hhqg3Zj-720.jpg
+itemLegacyID: Cinemassacre-1273
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/8Hhqg3Zj
+itemThumbnail: http://content.jwplatform.com/thumbs/8Hhqg3Zj-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1273_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/8Hhqg3Zj-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1273
+itemShortLinkID: 1273
+
+
+itemTitle: AVGN: Die Hard
+itemWebLink: http://cinemassacre.com/2007/06/19/avgn-die-hard/
+itemPlaylist: http://content.jwplatform.com/manifests/EijVYgaS.m3u8
+itemAudio: http://content.jwplatform.com/videos/EijVYgaS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EijVYgaS-QvH08cwS.mp4
+//content.jwplatform.com/videos/EijVYgaS-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EijVYgaS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EijVYgaS-HTQw4Gzc.mp4
+itemDuration: 530
+itemImage: http://content.jwplatform.com/thumbs/EijVYgaS-720.jpg
+itemLegacyID: Cinemassacre-1275
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/EijVYgaS
+itemThumbnail: http://content.jwplatform.com/thumbs/EijVYgaS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1275_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/EijVYgaS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1275
+itemShortLinkID: 1275
+
+
+itemTitle: AVGN: Independence Day
+itemWebLink: http://cinemassacre.com/2007/07/03/independence-day/
+itemPlaylist: http://content.jwplatform.com/manifests/uIQd3139.m3u8
+itemAudio: http://content.jwplatform.com/videos/uIQd3139-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/uIQd3139-QvH08cwS.mp4
+//content.jwplatform.com/videos/uIQd3139-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/uIQd3139-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/uIQd3139-HTQw4Gzc.mp4
+itemDuration: 371
+itemImage: http://content.jwplatform.com/thumbs/uIQd3139-720.jpg
+itemLegacyID: Cinemassacre-1278
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/uIQd3139
+itemThumbnail: http://content.jwplatform.com/thumbs/uIQd3139-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1278_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/uIQd3139-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1278
+itemShortLinkID: 1278
+
+
+itemTitle: AVGN: The Simpsons
+itemWebLink: http://cinemassacre.com/2007/07/17/avgn-the-simpsons/
+itemPlaylist: http://content.jwplatform.com/manifests/RtqCPu8E.m3u8
+itemAudio: http://content.jwplatform.com/videos/RtqCPu8E-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RtqCPu8E-QvH08cwS.mp4
+//content.jwplatform.com/videos/RtqCPu8E-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RtqCPu8E-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RtqCPu8E-HTQw4Gzc.mp4
+itemDuration: 788
+itemImage: http://content.jwplatform.com/thumbs/RtqCPu8E-720.jpg
+itemLegacyID: Cinemassacre-1281
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/RtqCPu8E
+itemThumbnail: http://content.jwplatform.com/thumbs/RtqCPu8E-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1281_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/RtqCPu8E-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1281
+itemShortLinkID: 1281
+
+
+itemTitle: AVGN: Bugs Bunnys Birthday Blowout
+itemWebLink: http://cinemassacre.com/2007/08/07/bugs-bunnys-birthday-blowout/
+itemPlaylist: http://content.jwplatform.com/manifests/O1IKeYH0.m3u8
+itemAudio: http://content.jwplatform.com/videos/O1IKeYH0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/O1IKeYH0-QvH08cwS.mp4
+//content.jwplatform.com/videos/O1IKeYH0-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/O1IKeYH0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/O1IKeYH0-HTQw4Gzc.mp4
+itemDuration: 524
+itemImage: http://content.jwplatform.com/thumbs/O1IKeYH0-720.jpg
+itemLegacyID: Cinemassacre-1283
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/O1IKeYH0
+itemThumbnail: http://content.jwplatform.com/thumbs/O1IKeYH0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1283_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/O1IKeYH0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1283
+itemShortLinkID: 1283
+
+
+itemTitle: AVGN: Atari Porn
+itemWebLink: http://cinemassacre.com/2007/08/22/atari-porn/
+itemPlaylist: http://content.jwplatform.com/manifests/La9WLQBD.m3u8
+itemAudio: http://content.jwplatform.com/videos/La9WLQBD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/La9WLQBD-QvH08cwS.mp4
+//content.jwplatform.com/videos/La9WLQBD-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/La9WLQBD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/La9WLQBD-HTQw4Gzc.mp4
+itemDuration: 603
+itemImage: http://content.jwplatform.com/thumbs/La9WLQBD-720.jpg
+itemLegacyID: Cinemassacre-1285
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/La9WLQBD
+itemThumbnail: http://content.jwplatform.com/thumbs/La9WLQBD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1285_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/La9WLQBD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1285
+itemShortLinkID: 1285
+
+
+itemTitle: AVGN: Nintendo Power
+itemWebLink: http://cinemassacre.com/2007/09/04/avgn-nintendo-power/
+itemPlaylist: http://content.jwplatform.com/manifests/a9x0gJN5.m3u8
+itemAudio: http://content.jwplatform.com/videos/a9x0gJN5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/a9x0gJN5-QvH08cwS.mp4
+//content.jwplatform.com/videos/a9x0gJN5-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/a9x0gJN5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/a9x0gJN5-HTQw4Gzc.mp4
+itemDuration: 884
+itemImage: http://content.jwplatform.com/thumbs/a9x0gJN5-720.jpg
+itemLegacyID: Cinemassacre-1287
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/a9x0gJN5
+itemThumbnail: http://content.jwplatform.com/thumbs/a9x0gJN5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1287_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/a9x0gJN5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1287
+itemShortLinkID: 1287
+
+
+itemTitle: AVGN: Festers Quest
+itemWebLink: http://cinemassacre.com/2007/09/18/festers-quest/
+itemPlaylist: http://content.jwplatform.com/manifests/P4Ocn5yz.m3u8
+itemAudio: http://content.jwplatform.com/videos/P4Ocn5yz-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/P4Ocn5yz-QvH08cwS.mp4
+//content.jwplatform.com/videos/P4Ocn5yz-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/P4Ocn5yz-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/P4Ocn5yz-HTQw4Gzc.mp4
+itemDuration: 564
+itemImage: http://content.jwplatform.com/thumbs/P4Ocn5yz-720.jpg
+itemLegacyID: Cinemassacre-1290
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/P4Ocn5yz
+itemThumbnail: http://content.jwplatform.com/thumbs/P4Ocn5yz-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1290_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/P4Ocn5yz-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1290
+itemShortLinkID: 1290
+
+
+itemTitle: AVGN: Texas Chainsaw Massacre
+itemWebLink: http://cinemassacre.com/2007/10/09/texas-chainsaw-massacre-2/
+itemPlaylist: http://content.jwplatform.com/manifests/Y1KnfQ2e.m3u8
+itemAudio: http://content.jwplatform.com/videos/Y1KnfQ2e-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Y1KnfQ2e-QvH08cwS.mp4
+//content.jwplatform.com/videos/Y1KnfQ2e-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Y1KnfQ2e-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Y1KnfQ2e-HTQw4Gzc.mp4
+itemDuration: 765
+itemImage: http://content.jwplatform.com/thumbs/Y1KnfQ2e-720.jpg
+itemLegacyID: Cinemassacre-1293
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Y1KnfQ2e
+itemThumbnail: http://content.jwplatform.com/thumbs/Y1KnfQ2e-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1293_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Y1KnfQ2e-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1293
+itemShortLinkID: 1293
+
+
+itemTitle: 036 Halloween
+itemWebLink: http://cinemassacre.com/2007/10/30/halloween-2/
+itemPlaylist: http://content.jwplatform.com/manifests/B1mlp7QY.m3u8
+itemAudio: http://content.jwplatform.com/videos/B1mlp7QY-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/B1mlp7QY-QvH08cwS.mp4
+//content.jwplatform.com/videos/B1mlp7QY-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/B1mlp7QY-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/B1mlp7QY-HTQw4Gzc.mp4
+itemDuration: 967
+itemImage: http://content.jwplatform.com/thumbs/B1mlp7QY-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 05:28:04 -0000
+itemPreview: http://content.jwplatform.com/previews/B1mlp7QY
+itemThumbnail: http://content.jwplatform.com/thumbs/B1mlp7QY-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/B1mlp7QY-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1295
+itemShortLinkID: 1295
+
+
+itemTitle: AVGN: Dragons Lair
+itemWebLink: http://cinemassacre.com/2007/11/20/dragons-lair/
+itemPlaylist: http://content.jwplatform.com/manifests/mpDhgU9b.m3u8
+itemAudio: http://content.jwplatform.com/videos/mpDhgU9b-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/mpDhgU9b-QvH08cwS.mp4
+//content.jwplatform.com/videos/mpDhgU9b-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/mpDhgU9b-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/mpDhgU9b-HTQw4Gzc.mp4
+itemDuration: 563
+itemImage: http://content.jwplatform.com/thumbs/mpDhgU9b-720.jpg
+itemLegacyID: Cinemassacre-1297
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/mpDhgU9b
+itemThumbnail: http://content.jwplatform.com/thumbs/mpDhgU9b-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1297_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/mpDhgU9b-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1297
+itemShortLinkID: 1297
+
+
+itemTitle: AVGN: Christmas Carol Part 1 - Home Alone 2
+itemWebLink: http://cinemassacre.com/2007/12/18/christmas-carol-part-1-home-alone-2/
+itemPlaylist: http://content.jwplatform.com/manifests/edbwOELh.m3u8
+itemAudio: http://content.jwplatform.com/videos/edbwOELh-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/edbwOELh-QvH08cwS.mp4
+//content.jwplatform.com/videos/edbwOELh-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/edbwOELh-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/edbwOELh-HTQw4Gzc.mp4
+itemDuration: 353
+itemImage: http://content.jwplatform.com/thumbs/edbwOELh-720.jpg
+itemLegacyID: Cinemassacre-1299
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/edbwOELh
+itemThumbnail: http://content.jwplatform.com/thumbs/edbwOELh-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1299_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/edbwOELh-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1299
+itemShortLinkID: 1299
+
+
+itemTitle: AVGN: Christmas Carol Part 2 - Shaq Fu
+itemWebLink: http://cinemassacre.com/2007/12/24/christmas-carol-part-2-shaq-fu/
+itemPlaylist: http://content.jwplatform.com/manifests/rSgkKsW8.m3u8
+itemAudio: http://content.jwplatform.com/videos/rSgkKsW8-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/rSgkKsW8-QvH08cwS.mp4
+//content.jwplatform.com/videos/rSgkKsW8-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/rSgkKsW8-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/rSgkKsW8-HTQw4Gzc.mp4
+itemDuration: 587
+itemImage: http://content.jwplatform.com/thumbs/rSgkKsW8-720.jpg
+itemLegacyID: Cinemassacre-1302
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/rSgkKsW8
+itemThumbnail: http://content.jwplatform.com/thumbs/rSgkKsW8-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1302_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/rSgkKsW8-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1302
+itemShortLinkID: 1302
+
+
+itemTitle: AVGN: Chronologically Confused About The Legend Of
+itemWebLink: http://cinemassacre.com/2008/01/08/chronologically-confused-about-the-legend-of-zelda-timeline/
+itemPlaylist: http://content.jwplatform.com/manifests/QWWNtFDM.m3u8
+itemAudio: http://content.jwplatform.com/videos/QWWNtFDM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/QWWNtFDM-QvH08cwS.mp4
+//content.jwplatform.com/videos/QWWNtFDM-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/QWWNtFDM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/QWWNtFDM-HTQw4Gzc.mp4
+itemDuration: 1135
+itemImage: http://content.jwplatform.com/thumbs/QWWNtFDM-720.jpg
+itemLegacyID: Cinemassacre-1304
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/QWWNtFDM
+itemThumbnail: http://content.jwplatform.com/thumbs/QWWNtFDM-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1304_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/QWWNtFDM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1304
+itemShortLinkID: 1304
+
+
+itemTitle: AVGN: The Karate Kid
+itemWebLink: http://cinemassacre.com/2006/02/10/the-karate-kid/
+itemPlaylist: http://content.jwplatform.com/manifests/qjWvTyBR.m3u8
+itemAudio: http://content.jwplatform.com/videos/qjWvTyBR-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qjWvTyBR-QvH08cwS.mp4
+//content.jwplatform.com/videos/qjWvTyBR-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qjWvTyBR-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qjWvTyBR-HTQw4Gzc.mp4
+itemDuration: 270
+itemImage: http://content.jwplatform.com/thumbs/qjWvTyBR-720.jpg
+itemLegacyID: Cinemassacre-747
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qjWvTyBR
+itemThumbnail: http://content.jwplatform.com/thumbs/qjWvTyBR-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-747_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qjWvTyBR-120.vtt
+itemShortLink: http://cinemassacre.com/?p=747
+itemShortLinkID: 747
+
+
+itemTitle: Who Framed Roger Rabbit
+itemWebLink: http://cinemassacre.com/2006/04/24/who-framed-roger-rabbit/
+itemPlaylist: http://content.jwplatform.com/manifests/yPR8FuSy.m3u8
+itemAudio: http://content.jwplatform.com/videos/yPR8FuSy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/yPR8FuSy-QvH08cwS.mp4
+//content.jwplatform.com/videos/yPR8FuSy-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yPR8FuSy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yPR8FuSy-HTQw4Gzc.mp4
+itemDuration: 226
+itemImage: http://content.jwplatform.com/thumbs/yPR8FuSy-720.jpg
+itemLegacyID: Cinemassacre-749
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/yPR8FuSy
+itemThumbnail: http://content.jwplatform.com/thumbs/yPR8FuSy-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-749_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/yPR8FuSy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=749
+itemShortLinkID: 749
+
+
+itemTitle: AVGN: Teenage Mutant Ninja Turtles TMNT
+itemWebLink: http://cinemassacre.com/2006/06/29/teenage-mutant-ninja-turtles/
+itemPlaylist: http://content.jwplatform.com/manifests/Yh3SNitM.m3u8
+itemAudio: http://content.jwplatform.com/videos/Yh3SNitM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Yh3SNitM-QvH08cwS.mp4
+//content.jwplatform.com/videos/Yh3SNitM-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Yh3SNitM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Yh3SNitM-HTQw4Gzc.mp4
+itemDuration: 428
+itemImage: http://content.jwplatform.com/thumbs/Yh3SNitM-720.jpg
+itemLegacyID: Cinemassacre-756
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Yh3SNitM
+itemThumbnail: http://content.jwplatform.com/thumbs/Yh3SNitM-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-756_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Yh3SNitM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=756
+itemShortLinkID: 756
+
+
+itemTitle: AVGN: Back To The Future
+itemWebLink: http://cinemassacre.com/2006/07/29/back-to-the-future/
+itemPlaylist: http://content.jwplatform.com/manifests/OiHscRfr.m3u8
+itemAudio: http://content.jwplatform.com/videos/OiHscRfr-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/OiHscRfr-QvH08cwS.mp4
+//content.jwplatform.com/videos/OiHscRfr-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/OiHscRfr-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/OiHscRfr-HTQw4Gzc.mp4
+itemDuration: 402
+itemImage: http://content.jwplatform.com/thumbs/OiHscRfr-720.jpg
+itemLegacyID: Cinemassacre-758
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/OiHscRfr
+itemThumbnail: http://content.jwplatform.com/thumbs/OiHscRfr-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-758_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/OiHscRfr-120.vtt
+itemShortLink: http://cinemassacre.com/?p=758
+itemShortLinkID: 758
+
+
+itemTitle: AVGN: McKids
+itemWebLink: http://cinemassacre.com/2006/09/01/mckids/
+itemPlaylist: http://content.jwplatform.com/manifests/TppSJTS9.m3u8
+itemAudio: http://content.jwplatform.com/videos/TppSJTS9-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/TppSJTS9-QvH08cwS.mp4
+//content.jwplatform.com/videos/TppSJTS9-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/TppSJTS9-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/TppSJTS9-HTQw4Gzc.mp4
+itemDuration: 428
+itemImage: http://content.jwplatform.com/thumbs/TppSJTS9-720.jpg
+itemLegacyID: Cinemassacre-762
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/TppSJTS9
+itemThumbnail: http://content.jwplatform.com/thumbs/TppSJTS9-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-762_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/TppSJTS9-120.vtt
+itemShortLink: http://cinemassacre.com/?p=762
+itemShortLinkID: 762
+
+
+itemTitle: AVGN: Wally Bear and the NO! Gang
+itemWebLink: http://cinemassacre.com/2006/09/08/wally-bear-and-the-no-gang/
+itemPlaylist: http://content.jwplatform.com/manifests/YvGtfka0.m3u8
+itemAudio: http://content.jwplatform.com/videos/YvGtfka0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/YvGtfka0-QvH08cwS.mp4
+//content.jwplatform.com/videos/YvGtfka0-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/YvGtfka0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/YvGtfka0-HTQw4Gzc.mp4
+itemDuration: 272
+itemImage: http://content.jwplatform.com/thumbs/YvGtfka0-720.jpg
+itemLegacyID: Cinemassacre-764
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/YvGtfka0
+itemThumbnail: http://content.jwplatform.com/thumbs/YvGtfka0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-764_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/YvGtfka0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=764
+itemShortLinkID: 764
+
+
+itemTitle: AVGN: Master Chu and the Drunkard Hu
+itemWebLink: http://cinemassacre.com/2006/09/24/master-chu-and-the-drunkard-hu/
+itemPlaylist: http://content.jwplatform.com/manifests/4tVqrOBr.m3u8
+itemAudio: http://content.jwplatform.com/videos/4tVqrOBr-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/4tVqrOBr-QvH08cwS.mp4
+//content.jwplatform.com/videos/4tVqrOBr-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/4tVqrOBr-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/4tVqrOBr-HTQw4Gzc.mp4
+itemDuration: 259
+itemImage: http://content.jwplatform.com/thumbs/4tVqrOBr-720.jpg
+itemLegacyID: Cinemassacre-766
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/4tVqrOBr
+itemThumbnail: http://content.jwplatform.com/thumbs/4tVqrOBr-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-766_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/4tVqrOBr-120.vtt
+itemShortLink: http://cinemassacre.com/?p=766
+itemShortLinkID: 766
+
+
+itemTitle: AVGN: Top Gun
+itemWebLink: http://cinemassacre.com/2006/09/24/top-gun/
+itemPlaylist: http://content.jwplatform.com/manifests/ijhMmGkx.m3u8
+itemAudio: http://content.jwplatform.com/videos/ijhMmGkx-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ijhMmGkx-QvH08cwS.mp4
+//content.jwplatform.com/videos/ijhMmGkx-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ijhMmGkx-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ijhMmGkx-HTQw4Gzc.mp4
+itemDuration: 454
+itemImage: http://content.jwplatform.com/thumbs/ijhMmGkx-720.jpg
+itemLegacyID: Cinemassacre-768
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ijhMmGkx
+itemThumbnail: http://content.jwplatform.com/thumbs/ijhMmGkx-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-768_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ijhMmGkx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=768
+itemShortLinkID: 768
+
+
+itemTitle: AVGN: Double Dragon 3
+itemWebLink: http://cinemassacre.com/2006/10/02/double-dragon-3/
+itemPlaylist: http://content.jwplatform.com/manifests/fOWEsTIb.m3u8
+itemAudio: http://content.jwplatform.com/videos/fOWEsTIb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/fOWEsTIb-QvH08cwS.mp4
+//content.jwplatform.com/videos/fOWEsTIb-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/fOWEsTIb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/fOWEsTIb-HTQw4Gzc.mp4
+itemDuration: 249
+itemImage: http://content.jwplatform.com/thumbs/fOWEsTIb-720.jpg
+itemLegacyID: Cinemassacre-771
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/fOWEsTIb
+itemThumbnail: http://content.jwplatform.com/thumbs/fOWEsTIb-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-771_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/fOWEsTIb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=771
+itemShortLinkID: 771
+
+
+itemTitle: AVGN: Friday the 13th
+itemWebLink: http://cinemassacre.com/2006/10/13/friday-the-13th-2/
+itemPlaylist: http://content.jwplatform.com/manifests/G12qrFHC.m3u8
+itemAudio: http://content.jwplatform.com/videos/G12qrFHC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/G12qrFHC-QvH08cwS.mp4
+//content.jwplatform.com/videos/G12qrFHC-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/G12qrFHC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/G12qrFHC-HTQw4Gzc.mp4
+itemDuration: 741
+itemImage: http://content.jwplatform.com/thumbs/G12qrFHC-720.jpg
+itemLegacyID: Cinemassacre-781
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/G12qrFHC
+itemThumbnail: http://content.jwplatform.com/thumbs/G12qrFHC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-781_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/G12qrFHC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=781
+itemShortLinkID: 781
+
+
+itemTitle: AVGN: A Nightmare On Elm Street
+itemWebLink: http://cinemassacre.com/2006/10/31/a-nightmare-on-elm-street-2/
+itemPlaylist: http://content.jwplatform.com/manifests/bu1r6wif.m3u8
+itemAudio: http://content.jwplatform.com/videos/bu1r6wif-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/bu1r6wif-QvH08cwS.mp4
+//content.jwplatform.com/videos/bu1r6wif-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/bu1r6wif-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/bu1r6wif-HTQw4Gzc.mp4
+itemDuration: 885
+itemImage: http://content.jwplatform.com/thumbs/bu1r6wif-720.jpg
+itemLegacyID: Cinemassacre-787
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/bu1r6wif
+itemThumbnail: http://content.jwplatform.com/thumbs/bu1r6wif-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-787_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/bu1r6wif-120.vtt
+itemShortLink: http://cinemassacre.com/?p=787
+itemShortLinkID: 787
+
+
+itemTitle: AVGN: The Power Glove
+itemWebLink: http://cinemassacre.com/2006/11/22/the-power-glove/
+itemPlaylist: http://content.jwplatform.com/manifests/8HXYzVRN.m3u8
+itemAudio: http://content.jwplatform.com/videos/8HXYzVRN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/8HXYzVRN-QvH08cwS.mp4
+//content.jwplatform.com/videos/8HXYzVRN-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/8HXYzVRN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/8HXYzVRN-HTQw4Gzc.mp4
+itemDuration: 747
+itemImage: http://content.jwplatform.com/thumbs/8HXYzVRN-720.jpg
+itemLegacyID: Cinemassacre-793
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/8HXYzVRN
+itemThumbnail: http://content.jwplatform.com/thumbs/8HXYzVRN-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-793_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/8HXYzVRN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=793
+itemShortLinkID: 793
+
+
+itemTitle: Chronologically Confused about Sequel Titles - Angry Video Game Nerd - Episode 15
+itemWebLink: http://cinemassacre.com/2006/12/07/chronologically-confused-about-bad-movie-and-video-game-sequel-titles/
+itemPlaylist: http://content.jwplatform.com/manifests/ptx1NEmH.m3u8
+itemAudio: http://content.jwplatform.com/videos/ptx1NEmH-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ptx1NEmH-QvH08cwS.mp4
+//content.jwplatform.com/videos/ptx1NEmH-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ptx1NEmH-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ptx1NEmH-HTQw4Gzc.mp4
+itemDuration: 693
+itemImage: http://content.jwplatform.com/thumbs/ptx1NEmH-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 06:16:05 -0000
+itemPreview: http://content.jwplatform.com/previews/ptx1NEmH
+itemThumbnail: http://content.jwplatform.com/thumbs/ptx1NEmH-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/ptx1NEmH-120.vtt
+itemShortLink: http://cinemassacre.com/?p=800
+itemShortLinkID: 800
+

@@ -1,0 +1,665 @@
+
+itemTitle: Episode #8 - Printers
+itemWebLink: http://cinemassacre.com/2008/06/03/you-know-whats-bullshit-episode-8/
+itemPlaylist: http://content.jwplatform.com/manifests/pS6h59XR.m3u8
+itemAudio: http://content.jwplatform.com/videos/pS6h59XR-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pS6h59XR-QvH08cwS.mp4
+//content.jwplatform.com/videos/pS6h59XR-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pS6h59XR-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pS6h59XR-HTQw4Gzc.mp4
+itemDuration: 82
+itemImage: http://content.jwplatform.com/thumbs/pS6h59XR-720.jpg
+itemLegacyID: Cinemassacre-81
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/pS6h59XR
+itemThumbnail: http://content.jwplatform.com/thumbs/pS6h59XR-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-81_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/pS6h59XR-120.vtt
+itemShortLink: http://cinemassacre.com/?p=81
+itemShortLinkID: 81
+
+
+itemTitle: Episode #9 - Christmas Aftermath
+itemWebLink: http://cinemassacre.com/2009/01/12/you-know-whats-bullshit-episode-9/
+itemPlaylist: http://content.jwplatform.com/manifests/oRGyq6sD.m3u8
+itemAudio: http://content.jwplatform.com/videos/oRGyq6sD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/oRGyq6sD-QvH08cwS.mp4
+//content.jwplatform.com/videos/oRGyq6sD-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/oRGyq6sD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/oRGyq6sD-HTQw4Gzc.mp4
+itemDuration: 108
+itemImage: http://content.jwplatform.com/thumbs/oRGyq6sD-720.jpg
+itemLegacyID: Cinemassacre-83
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/oRGyq6sD
+itemThumbnail: http://content.jwplatform.com/thumbs/oRGyq6sD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-83_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/oRGyq6sD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=83
+itemShortLinkID: 83
+
+
+itemTitle: Episode #10 - Hotel TV's
+itemWebLink: http://cinemassacre.com/2009/02/27/you-know-whats-bullshit-episode-10/
+itemPlaylist: http://content.jwplatform.com/manifests/eUffQXMw.m3u8
+itemAudio: http://content.jwplatform.com/videos/eUffQXMw-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/eUffQXMw-QvH08cwS.mp4
+//content.jwplatform.com/videos/eUffQXMw-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/eUffQXMw-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/eUffQXMw-HTQw4Gzc.mp4
+itemDuration: 122
+itemImage: http://content.jwplatform.com/thumbs/eUffQXMw-720.jpg
+itemLegacyID: Cinemassacre-85
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/eUffQXMw
+itemThumbnail: http://content.jwplatform.com/thumbs/eUffQXMw-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-85_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/eUffQXMw-120.vtt
+itemShortLink: http://cinemassacre.com/?p=85
+itemShortLinkID: 85
+
+
+itemTitle: Episode #11 - DVD's
+itemWebLink: http://cinemassacre.com/2009/06/08/you-know-whats-bullshit-11/
+itemPlaylist: http://content.jwplatform.com/manifests/SZSQ36uC.m3u8
+itemAudio: http://content.jwplatform.com/videos/SZSQ36uC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SZSQ36uC-QvH08cwS.mp4
+//content.jwplatform.com/videos/SZSQ36uC-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SZSQ36uC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SZSQ36uC-HTQw4Gzc.mp4
+itemDuration: 382
+itemImage: http://content.jwplatform.com/thumbs/SZSQ36uC-720.jpg
+itemLegacyID: Cinemassacre-87
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/SZSQ36uC
+itemThumbnail: http://content.jwplatform.com/thumbs/SZSQ36uC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-87_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/SZSQ36uC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=87
+itemShortLinkID: 87
+
+
+itemTitle: Episode #12 Movie Titles
+itemWebLink: http://cinemassacre.com/2009/06/23/you-know-whats-bullshit-12/
+itemPlaylist: http://content.jwplatform.com/manifests/viBN3DNl.m3u8
+itemAudio: http://content.jwplatform.com/videos/viBN3DNl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/viBN3DNl-QvH08cwS.mp4
+//content.jwplatform.com/videos/viBN3DNl-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/viBN3DNl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/viBN3DNl-HTQw4Gzc.mp4
+itemDuration: 118
+itemImage: http://content.jwplatform.com/thumbs/viBN3DNl-720.jpg
+itemLegacyID: Cinemassacre-89
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/viBN3DNl
+itemThumbnail: http://content.jwplatform.com/thumbs/viBN3DNl-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-89_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/viBN3DNl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=89
+itemShortLinkID: 89
+
+
+itemTitle: Episode #13 Too Much Cream Cheese
+itemWebLink: http://cinemassacre.com/2009/07/27/you-know-whats-bullshit-13/
+itemPlaylist: http://content.jwplatform.com/manifests/2yq6MbqS.m3u8
+itemAudio: http://content.jwplatform.com/videos/2yq6MbqS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2yq6MbqS-QvH08cwS.mp4
+//content.jwplatform.com/videos/2yq6MbqS-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2yq6MbqS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2yq6MbqS-HTQw4Gzc.mp4
+itemDuration: 122
+itemImage: http://content.jwplatform.com/thumbs/2yq6MbqS-720.jpg
+itemLegacyID: Cinemassacre-91
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/2yq6MbqS
+itemThumbnail: http://content.jwplatform.com/thumbs/2yq6MbqS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-91_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/2yq6MbqS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=91
+itemShortLinkID: 91
+
+
+itemTitle: Episode #14 - Fiber envelopes & packing peanuts
+itemWebLink: http://cinemassacre.com/2011/04/25/you-know-whats-bullshit/
+itemPlaylist: http://content.jwplatform.com/manifests/onmMwn0n.m3u8
+itemAudio: http://content.jwplatform.com/videos/onmMwn0n-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/onmMwn0n-QvH08cwS.mp4
+//content.jwplatform.com/videos/onmMwn0n-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/onmMwn0n-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/onmMwn0n-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/onmMwn0n-GzAUXplI.mp4
+itemDuration: 108
+itemImage: http://content.jwplatform.com/thumbs/onmMwn0n-720.jpg
+itemLegacyID: Cinemassacre-9722
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/onmMwn0n
+itemThumbnail: http://content.jwplatform.com/thumbs/onmMwn0n-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9722_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/onmMwn0n-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9722
+itemShortLinkID: 9722
+
+
+itemTitle: Episode #15 - DVD & Blu ray cases
+itemWebLink: http://cinemassacre.com/2011/05/21/you-know-whats-bullshit-episode-15/
+itemPlaylist: http://content.jwplatform.com/manifests/13MblOF1.m3u8
+itemAudio: http://content.jwplatform.com/videos/13MblOF1-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/13MblOF1-QvH08cwS.mp4
+//content.jwplatform.com/videos/13MblOF1-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/13MblOF1-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/13MblOF1-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/13MblOF1-GzAUXplI.mp4
+itemDuration: 210
+itemImage: http://content.jwplatform.com/thumbs/13MblOF1-720.jpg
+itemLegacyID: Cinemassacre-9726
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/13MblOF1
+itemThumbnail: http://content.jwplatform.com/thumbs/13MblOF1-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9726_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/13MblOF1-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9726
+itemShortLinkID: 9726
+
+
+itemTitle: Episode #16 - Traffic Spikes
+itemWebLink: http://cinemassacre.com/2012/06/13/you-know-whats-bullshit-episode-16/
+itemPlaylist: http://content.jwplatform.com/manifests/tc4Bs2ys.m3u8
+itemAudio: http://content.jwplatform.com/videos/tc4Bs2ys-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tc4Bs2ys-QvH08cwS.mp4
+//content.jwplatform.com/videos/tc4Bs2ys-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/tc4Bs2ys-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tc4Bs2ys-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tc4Bs2ys-GzAUXplI.mp4
+itemDuration: 115
+itemImage: http://content.jwplatform.com/thumbs/tc4Bs2ys-720.jpg
+itemLegacyID: Cinemassacre-17497
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/tc4Bs2ys
+itemThumbnail: http://content.jwplatform.com/thumbs/tc4Bs2ys-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17497_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/tc4Bs2ys-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17497
+itemShortLinkID: 17497
+
+
+itemTitle: Episode 17 - iTunes
+itemWebLink: http://cinemassacre.com/2012/06/19/you-know-whats-bullshit-17/
+itemPlaylist: http://content.jwplatform.com/manifests/qGKTjeGD.m3u8
+itemAudio: http://content.jwplatform.com/videos/qGKTjeGD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qGKTjeGD-QvH08cwS.mp4
+//content.jwplatform.com/videos/qGKTjeGD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/qGKTjeGD-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qGKTjeGD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qGKTjeGD-GzAUXplI.mp4
+itemDuration: 254
+itemImage: http://content.jwplatform.com/thumbs/qGKTjeGD-720.jpg
+itemLegacyID: Cinemassacre-17521
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qGKTjeGD
+itemThumbnail: http://content.jwplatform.com/thumbs/qGKTjeGD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17521_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qGKTjeGD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17521
+itemShortLinkID: 17521
+
+
+itemTitle: Episode #18 - Feeding Birds
+itemWebLink: http://cinemassacre.com/2012/06/27/you-know-whats-bullshit-episode-18/
+itemPlaylist: http://content.jwplatform.com/manifests/fbEp5jSx.m3u8
+itemAudio: http://content.jwplatform.com/videos/fbEp5jSx-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/fbEp5jSx-QvH08cwS.mp4
+//content.jwplatform.com/videos/fbEp5jSx-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/fbEp5jSx-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/fbEp5jSx-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/fbEp5jSx-GzAUXplI.mp4
+itemDuration: 110
+itemImage: http://content.jwplatform.com/thumbs/fbEp5jSx-720.jpg
+itemLegacyID: Cinemassacre-17519
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/fbEp5jSx
+itemThumbnail: http://content.jwplatform.com/thumbs/fbEp5jSx-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17519_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/fbEp5jSx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17519
+itemShortLinkID: 17519
+
+
+itemTitle: Episode 19 - Wire Hangers
+itemWebLink: http://cinemassacre.com/2012/07/04/you-know-whats-bullshit-19/
+itemPlaylist: http://content.jwplatform.com/manifests/Ju0W7mVz.m3u8
+itemAudio: http://content.jwplatform.com/videos/Ju0W7mVz-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Ju0W7mVz-QvH08cwS.mp4
+//content.jwplatform.com/videos/Ju0W7mVz-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Ju0W7mVz-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Ju0W7mVz-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Ju0W7mVz-GzAUXplI.mp4
+itemDuration: 100
+itemImage: http://content.jwplatform.com/thumbs/Ju0W7mVz-720.jpg
+itemLegacyID: Cinemassacre-17524
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Ju0W7mVz
+itemThumbnail: http://content.jwplatform.com/thumbs/Ju0W7mVz-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17524_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Ju0W7mVz-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17524
+itemShortLinkID: 17524
+
+
+itemTitle: Episode #20 - Microwaves
+itemWebLink: http://cinemassacre.com/2012/07/10/you-know-whats-bullshit-20/
+itemPlaylist: http://content.jwplatform.com/manifests/hzsyc6Cm.m3u8
+itemAudio: http://content.jwplatform.com/videos/hzsyc6Cm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hzsyc6Cm-QvH08cwS.mp4
+//content.jwplatform.com/videos/hzsyc6Cm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hzsyc6Cm-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hzsyc6Cm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hzsyc6Cm-GzAUXplI.mp4
+itemDuration: 165
+itemImage: http://content.jwplatform.com/thumbs/hzsyc6Cm-720.jpg
+itemLegacyID: Cinemassacre-17527
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hzsyc6Cm
+itemThumbnail: http://content.jwplatform.com/thumbs/hzsyc6Cm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17527_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hzsyc6Cm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17527
+itemShortLinkID: 17527
+
+
+itemTitle: Episode #21 - Assholes
+itemWebLink: http://cinemassacre.com/2012/07/18/you-know-whats-bullshit-21/
+itemPlaylist: http://content.jwplatform.com/manifests/XcUxbuYx.m3u8
+itemAudio: http://content.jwplatform.com/videos/XcUxbuYx-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XcUxbuYx-QvH08cwS.mp4
+//content.jwplatform.com/videos/XcUxbuYx-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XcUxbuYx-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XcUxbuYx-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XcUxbuYx-GzAUXplI.mp4
+itemDuration: 129
+itemImage: http://content.jwplatform.com/thumbs/XcUxbuYx-720.jpg
+itemLegacyID: Cinemassacre-17530
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XcUxbuYx
+itemThumbnail: http://content.jwplatform.com/thumbs/XcUxbuYx-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17530_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/XcUxbuYx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17530
+itemShortLinkID: 17530
+
+
+itemTitle: Episode #22 - Car GPS
+itemWebLink: http://cinemassacre.com/2012/07/29/you-know-whats-bullshit-22/
+itemPlaylist: http://content.jwplatform.com/manifests/58dvznFP.m3u8
+itemAudio: http://content.jwplatform.com/videos/58dvznFP-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/58dvznFP-QvH08cwS.mp4
+//content.jwplatform.com/videos/58dvznFP-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/58dvznFP-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/58dvznFP-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/58dvznFP-GzAUXplI.mp4
+itemDuration: 123
+itemImage: http://content.jwplatform.com/thumbs/58dvznFP-720.jpg
+itemLegacyID: Cinemassacre-17533
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/58dvznFP
+itemThumbnail: http://content.jwplatform.com/thumbs/58dvznFP-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17533_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/58dvznFP-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17533
+itemShortLinkID: 17533
+
+
+itemTitle: Episode #23 - Warranties
+itemWebLink: http://cinemassacre.com/2012/08/07/you-know-whats-bullshit-23/
+itemPlaylist: http://content.jwplatform.com/manifests/DxQkHJC0.m3u8
+itemAudio: http://content.jwplatform.com/videos/DxQkHJC0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DxQkHJC0-QvH08cwS.mp4
+//content.jwplatform.com/videos/DxQkHJC0-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DxQkHJC0-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DxQkHJC0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DxQkHJC0-GzAUXplI.mp4
+itemDuration: 121
+itemImage: http://content.jwplatform.com/thumbs/DxQkHJC0-720.jpg
+itemLegacyID: Cinemassacre-17535
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/DxQkHJC0
+itemThumbnail: http://content.jwplatform.com/thumbs/DxQkHJC0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17535_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/DxQkHJC0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17535
+itemShortLinkID: 17535
+
+
+itemTitle: Episode #24 - Amps That Don't Go To 11
+itemWebLink: http://cinemassacre.com/2012/08/12/you-know-whats-bullshit-24/
+itemPlaylist: http://content.jwplatform.com/manifests/OovyA7Zs.m3u8
+itemAudio: http://content.jwplatform.com/videos/OovyA7Zs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/OovyA7Zs-QvH08cwS.mp4
+//content.jwplatform.com/videos/OovyA7Zs-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/OovyA7Zs-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/OovyA7Zs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/OovyA7Zs-GzAUXplI.mp4
+itemDuration: 87
+itemImage: http://content.jwplatform.com/thumbs/OovyA7Zs-720.jpg
+itemLegacyID: Cinemassacre-17537
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/OovyA7Zs
+itemThumbnail: http://content.jwplatform.com/thumbs/OovyA7Zs-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17537_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/OovyA7Zs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17537
+itemShortLinkID: 17537
+
+
+itemTitle: Episode #25 - Grass
+itemWebLink: http://cinemassacre.com/2012/08/20/you-know-whats-bullshit-25/
+itemPlaylist: http://content.jwplatform.com/manifests/XSwNccMK.m3u8
+itemAudio: http://content.jwplatform.com/videos/XSwNccMK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XSwNccMK-QvH08cwS.mp4
+//content.jwplatform.com/videos/XSwNccMK-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XSwNccMK-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XSwNccMK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XSwNccMK-GzAUXplI.mp4
+itemDuration: 110
+itemImage: http://content.jwplatform.com/thumbs/XSwNccMK-720.jpg
+itemLegacyID: Cinemassacre-17539
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XSwNccMK
+itemThumbnail: http://content.jwplatform.com/thumbs/XSwNccMK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17539_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/XSwNccMK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17539
+itemShortLinkID: 17539
+
+
+itemTitle: Episode #26 - Vampires
+itemWebLink: http://cinemassacre.com/2012/10/16/you-know-whats-bullshit-vampires/
+itemPlaylist: http://content.jwplatform.com/manifests/xozNbtj7.m3u8
+itemAudio: http://content.jwplatform.com/videos/xozNbtj7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xozNbtj7-QvH08cwS.mp4
+//content.jwplatform.com/videos/xozNbtj7-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xozNbtj7-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xozNbtj7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xozNbtj7-GzAUXplI.mp4
+itemDuration: 231
+itemImage: http://content.jwplatform.com/thumbs/xozNbtj7-720.jpg
+itemLegacyID: Cinemassacre-19124
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xozNbtj7
+itemThumbnail: http://content.jwplatform.com/thumbs/xozNbtj7-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-19124_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xozNbtj7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=19124
+itemShortLinkID: 19124
+
+
+itemTitle: You Know What's Bullshit!? - Hotel Rooms
+itemWebLink: http://cinemassacre.com/2014/11/12/you-know-whats-bullshit-hotel-rooms/
+itemPlaylist: http://content.jwplatform.com/manifests/3jUJvBkD.m3u8
+itemAudio: http://content.jwplatform.com/videos/3jUJvBkD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3jUJvBkD-QvH08cwS.mp4
+//content.jwplatform.com/videos/3jUJvBkD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/3jUJvBkD-GzAUXplI.mp4
+//content.jwplatform.com/videos/3jUJvBkD-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3jUJvBkD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3jUJvBkD-7spvWrjM.mp4
+itemDuration: 144
+itemImage: http://content.jwplatform.com/thumbs/3jUJvBkD-720.jpg
+itemLegacyID: Cinemassacre-545b08723eda3
+itemPubDate: Wed, 05 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3jUJvBkD
+itemThumbnail: http://content.jwplatform.com/thumbs/3jUJvBkD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-545b08723eda3_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3jUJvBkD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28800
+itemShortLinkID: 28800
+
+
+itemTitle: You Know What's Bullshit!? - Word Pronunciations
+itemWebLink: http://cinemassacre.com/2014/11/19/you-know-whats-bullshit-word-pronunciations/
+itemPlaylist: http://content.jwplatform.com/manifests/lyUV20Az.m3u8
+itemAudio: http://content.jwplatform.com/videos/lyUV20Az-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/lyUV20Az-QvH08cwS.mp4
+//content.jwplatform.com/videos/lyUV20Az-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/lyUV20Az-GzAUXplI.mp4
+//content.jwplatform.com/videos/lyUV20Az-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/lyUV20Az-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/lyUV20Az-7spvWrjM.mp4
+itemDuration: 198
+itemImage: http://content.jwplatform.com/thumbs/lyUV20Az-720.jpg
+itemLegacyID: Cinemassacre-545b088d32679
+itemPubDate: Wed, 05 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/lyUV20Az
+itemThumbnail: http://content.jwplatform.com/thumbs/lyUV20Az-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-545b088d32679_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/lyUV20Az-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28804
+itemShortLinkID: 28804
+
+
+itemTitle: You Know What's Bullshit!? - Public Bathrooms
+itemWebLink: http://cinemassacre.com/2014/11/26/you-know-whats-bullshit-public-bathrooms/
+itemPlaylist: http://content.jwplatform.com/manifests/08kXqneW.m3u8
+itemAudio: http://content.jwplatform.com/videos/08kXqneW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/08kXqneW-QvH08cwS.mp4
+//content.jwplatform.com/videos/08kXqneW-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/08kXqneW-GzAUXplI.mp4
+//content.jwplatform.com/videos/08kXqneW-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/08kXqneW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/08kXqneW-7spvWrjM.mp4
+itemDuration: 128
+itemImage: http://content.jwplatform.com/thumbs/08kXqneW-720.jpg
+itemLegacyID: Cinemassacre-545b08a929578
+itemPubDate: Wed, 05 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/08kXqneW
+itemThumbnail: http://content.jwplatform.com/thumbs/08kXqneW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-545b08a929578_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/08kXqneW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28802
+itemShortLinkID: 28802
+
+
+itemTitle: You Know What's Bullshit!? - Water
+itemWebLink: http://cinemassacre.com/2014/12/03/you-know-whats-bullshit-water/
+itemPlaylist: http://content.jwplatform.com/manifests/JyRGFOQK.m3u8
+itemAudio: http://content.jwplatform.com/videos/JyRGFOQK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JyRGFOQK-QvH08cwS.mp4
+//content.jwplatform.com/videos/JyRGFOQK-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/JyRGFOQK-GzAUXplI.mp4
+//content.jwplatform.com/videos/JyRGFOQK-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JyRGFOQK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JyRGFOQK-7spvWrjM.mp4
+itemDuration: 122
+itemImage: http://content.jwplatform.com/thumbs/JyRGFOQK-720.jpg
+itemLegacyID: Cinemassacre-545b08c2180de
+itemPubDate: Wed, 05 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JyRGFOQK
+itemThumbnail: http://content.jwplatform.com/thumbs/JyRGFOQK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-545b08c2180de_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JyRGFOQK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28807
+itemShortLinkID: 28807
+
+
+itemTitle: You Know What's Bullshit!? - Sleep
+itemWebLink: http://cinemassacre.com/2014/12/05/you-know-whats-bullshit-sleep/
+itemPlaylist: http://content.jwplatform.com/manifests/DtvpMUvd.m3u8
+itemAudio: http://content.jwplatform.com/videos/DtvpMUvd-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DtvpMUvd-QvH08cwS.mp4
+//content.jwplatform.com/videos/DtvpMUvd-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DtvpMUvd-GzAUXplI.mp4
+//content.jwplatform.com/videos/DtvpMUvd-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DtvpMUvd-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DtvpMUvd-7spvWrjM.mp4
+itemDuration: 157
+itemImage: http://content.jwplatform.com/thumbs/DtvpMUvd-720.jpg
+itemLegacyID: Cinemassacre-545b08d78578f
+itemPubDate: Wed, 05 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/DtvpMUvd
+itemThumbnail: http://content.jwplatform.com/thumbs/DtvpMUvd-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-545b08d78578f_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/DtvpMUvd-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28809
+itemShortLinkID: 28809
+
+
+itemTitle: You Know What's Bullshit!? - Dangerous Funeral Pro
+itemWebLink: http://cinemassacre.com/2014/12/10/you-know-whats-bullshit-dangerous-funeral-processions/
+itemPlaylist: http://content.jwplatform.com/manifests/xygqb5dm.m3u8
+itemAudio: http://content.jwplatform.com/videos/xygqb5dm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xygqb5dm-QvH08cwS.mp4
+//content.jwplatform.com/videos/xygqb5dm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xygqb5dm-GzAUXplI.mp4
+//content.jwplatform.com/videos/xygqb5dm-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xygqb5dm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xygqb5dm-7spvWrjM.mp4
+itemDuration: 123
+itemImage: http://content.jwplatform.com/thumbs/xygqb5dm-720.jpg
+itemLegacyID: Cinemassacre-545b08e3416cd
+itemPubDate: Wed, 05 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xygqb5dm
+itemThumbnail: http://content.jwplatform.com/thumbs/xygqb5dm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-545b08e3416cd_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xygqb5dm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28811
+itemShortLinkID: 28811
+
+
+itemTitle: Episode #1 - DVD Packaging
+itemWebLink: http://cinemassacre.com/2007/05/06/you-know-whats-bullshit-episode-1/
+itemPlaylist: http://content.jwplatform.com/manifests/3PhjqWNG.m3u8
+itemAudio: http://content.jwplatform.com/videos/3PhjqWNG-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3PhjqWNG-QvH08cwS.mp4
+//content.jwplatform.com/videos/3PhjqWNG-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3PhjqWNG-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3PhjqWNG-HTQw4Gzc.mp4
+itemDuration: 65
+itemImage: http://content.jwplatform.com/thumbs/3PhjqWNG-720.jpg
+itemLegacyID: Cinemassacre-36
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3PhjqWNG
+itemThumbnail: http://content.jwplatform.com/thumbs/3PhjqWNG-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-36_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3PhjqWNG-120.vtt
+itemShortLink: http://cinemassacre.com/?p=36
+itemShortLinkID: 36
+
+
+itemTitle: Episode #2 Pennies
+itemWebLink: http://cinemassacre.com/2007/05/13/you-know-whats-bullshit-episode-2/
+itemPlaylist: http://content.jwplatform.com/manifests/bCE3iZFr.m3u8
+itemAudio: http://content.jwplatform.com/videos/bCE3iZFr-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/bCE3iZFr-QvH08cwS.mp4
+//content.jwplatform.com/videos/bCE3iZFr-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/bCE3iZFr-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/bCE3iZFr-HTQw4Gzc.mp4
+itemDuration: 64
+itemImage: http://content.jwplatform.com/thumbs/bCE3iZFr-720.jpg
+itemLegacyID: Cinemassacre-69
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/bCE3iZFr
+itemThumbnail: http://content.jwplatform.com/thumbs/bCE3iZFr-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-69_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/bCE3iZFr-120.vtt
+itemShortLink: http://cinemassacre.com/?p=69
+itemShortLinkID: 69
+
+
+itemTitle: Episode #3 Shoelaces
+itemWebLink: http://cinemassacre.com/2007/05/28/you-know-whats-bullshit-episode-3/
+itemPlaylist: http://content.jwplatform.com/manifests/vOUpR2Jk.m3u8
+itemAudio: http://content.jwplatform.com/videos/vOUpR2Jk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vOUpR2Jk-QvH08cwS.mp4
+//content.jwplatform.com/videos/vOUpR2Jk-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vOUpR2Jk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vOUpR2Jk-HTQw4Gzc.mp4
+itemDuration: 76
+itemImage: http://content.jwplatform.com/thumbs/vOUpR2Jk-720.jpg
+itemLegacyID: Cinemassacre-71
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/vOUpR2Jk
+itemThumbnail: http://content.jwplatform.com/thumbs/vOUpR2Jk-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-71_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/vOUpR2Jk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=71
+itemShortLinkID: 71
+
+
+itemTitle: Episode #4 Penguin Movies
+itemWebLink: http://cinemassacre.com/2007/06/04/you-know-whats-bullshit-episode-4/
+itemPlaylist: http://content.jwplatform.com/manifests/Jll4gAPU.m3u8
+itemAudio: http://content.jwplatform.com/videos/Jll4gAPU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Jll4gAPU-QvH08cwS.mp4
+//content.jwplatform.com/videos/Jll4gAPU-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Jll4gAPU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Jll4gAPU-HTQw4Gzc.mp4
+itemDuration: 50
+itemImage: http://content.jwplatform.com/thumbs/Jll4gAPU-720.jpg
+itemLegacyID: Cinemassacre-73
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Jll4gAPU
+itemThumbnail: http://content.jwplatform.com/thumbs/Jll4gAPU-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-73_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Jll4gAPU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=73
+itemShortLinkID: 73
+
+
+itemTitle: Episode #5 Post Office Pens
+itemWebLink: http://cinemassacre.com/2007/06/17/you-know-whats-bullshit-episode-5/
+itemPlaylist: http://content.jwplatform.com/manifests/w6dd0qQl.m3u8
+itemAudio: http://content.jwplatform.com/videos/w6dd0qQl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/w6dd0qQl-QvH08cwS.mp4
+//content.jwplatform.com/videos/w6dd0qQl-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/w6dd0qQl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/w6dd0qQl-HTQw4Gzc.mp4
+itemDuration: 63
+itemImage: http://content.jwplatform.com/thumbs/w6dd0qQl-720.jpg
+itemLegacyID: Cinemassacre-75
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/w6dd0qQl
+itemThumbnail: http://content.jwplatform.com/thumbs/w6dd0qQl-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-75_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/w6dd0qQl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=75
+itemShortLinkID: 75
+
+
+itemTitle: Episode #6 Pay Toilets
+itemWebLink: http://cinemassacre.com/2007/12/07/you-know-whats-bullshit-episode-6/
+itemPlaylist: http://content.jwplatform.com/manifests/onNyIBwe.m3u8
+itemAudio: http://content.jwplatform.com/videos/onNyIBwe-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/onNyIBwe-QvH08cwS.mp4
+//content.jwplatform.com/videos/onNyIBwe-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/onNyIBwe-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/onNyIBwe-HTQw4Gzc.mp4
+itemDuration: 71
+itemImage: http://content.jwplatform.com/thumbs/onNyIBwe-720.jpg
+itemLegacyID: Cinemassacre-77
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/onNyIBwe
+itemThumbnail: http://content.jwplatform.com/thumbs/onNyIBwe-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-77_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/onNyIBwe-120.vtt
+itemShortLink: http://cinemassacre.com/?p=77
+itemShortLinkID: 77
+
+
+itemTitle: Episode #7 - Temperature
+itemWebLink: http://cinemassacre.com/2008/02/08/you-know-whats-bullshit-episode-7/
+itemPlaylist: http://content.jwplatform.com/manifests/RCPH2nc8.m3u8
+itemAudio: http://content.jwplatform.com/videos/RCPH2nc8-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RCPH2nc8-QvH08cwS.mp4
+//content.jwplatform.com/videos/RCPH2nc8-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RCPH2nc8-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RCPH2nc8-HTQw4Gzc.mp4
+itemDuration: 81
+itemImage: http://content.jwplatform.com/thumbs/RCPH2nc8-720.jpg
+itemLegacyID: Cinemassacre-79
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/RCPH2nc8
+itemThumbnail: http://content.jwplatform.com/thumbs/RCPH2nc8-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-79_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/RCPH2nc8-120.vtt
+itemShortLink: http://cinemassacre.com/?p=79
+itemShortLinkID: 79
+

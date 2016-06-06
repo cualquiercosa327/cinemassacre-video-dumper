@@ -1,0 +1,365 @@
+
+itemTitle: Axiom Verge WEB.mov
+itemWebLink: http://cinemassacre.com/2015/04/11/axiom-verge-ps4-mike-ryan/
+itemPlaylist: http://content.jwplatform.com/manifests/B559lceX.m3u8
+itemAudio: http://content.jwplatform.com/videos/B559lceX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/B559lceX-QvH08cwS.mp4
+//content.jwplatform.com/videos/B559lceX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/B559lceX-GzAUXplI.mp4
+//content.jwplatform.com/videos/B559lceX-7spvWrjM.mp4
+//content.jwplatform.com/videos/B559lceX-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/B559lceX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/B559lceX-Qw1ADm9e.mp4
+itemDuration: 1062
+itemImage: http://content.jwplatform.com/thumbs/B559lceX-720.jpg
+itemLegacyID: Cinemassacre-5528da7b5b740
+itemPubDate: Sat, 11 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/B559lceX
+itemThumbnail: http://content.jwplatform.com/thumbs/B559lceX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5528da7b5b740_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/B559lceX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29524
+itemShortLinkID: 29524
+
+
+itemTitle: Shovel Knight WEB.mov
+itemWebLink: http://cinemassacre.com/2015/04/30/shovel-knight-battletoads-xbox-one-mike-ryan/
+itemPlaylist: http://content.jwplatform.com/manifests/GQC73GKe.m3u8
+itemAudio: http://content.jwplatform.com/videos/GQC73GKe-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GQC73GKe-QvH08cwS.mp4
+//content.jwplatform.com/videos/GQC73GKe-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/GQC73GKe-GzAUXplI.mp4
+//content.jwplatform.com/videos/GQC73GKe-7spvWrjM.mp4
+//content.jwplatform.com/videos/GQC73GKe-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GQC73GKe-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GQC73GKe-Qw1ADm9e.mp4
+itemDuration: 751
+itemImage: http://content.jwplatform.com/thumbs/GQC73GKe-720.jpg
+itemLegacyID: Cinemassacre-5541e89d5590c
+itemPubDate: Thu, 30 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/GQC73GKe
+itemThumbnail: http://content.jwplatform.com/thumbs/GQC73GKe-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5541e89d5590c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/GQC73GKe-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29601
+itemShortLinkID: 29601
+
+
+itemTitle: Toren End Fix WEB.mov
+itemWebLink: http://cinemassacre.com/2015/05/14/toren-pc-ps4-ryan-mike-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/zAHyPEtA.m3u8
+itemAudio: http://content.jwplatform.com/videos/zAHyPEtA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/zAHyPEtA-QvH08cwS.mp4
+//content.jwplatform.com/videos/zAHyPEtA-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/zAHyPEtA-GzAUXplI.mp4
+//content.jwplatform.com/videos/zAHyPEtA-7spvWrjM.mp4
+//content.jwplatform.com/videos/zAHyPEtA-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/zAHyPEtA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/zAHyPEtA-Qw1ADm9e.mp4
+itemDuration: 1054
+itemImage: http://content.jwplatform.com/thumbs/zAHyPEtA-720.jpg
+itemLegacyID: Cinemassacre-55538ac9233f5
+itemPubDate: Wed, 13 May 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/zAHyPEtA
+itemThumbnail: http://content.jwplatform.com/thumbs/zAHyPEtA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55538ac9233f5_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/zAHyPEtA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29628
+itemShortLinkID: 29628
+
+
+itemTitle: LakeView Cabin Collection Talk About Games
+itemWebLink: http://cinemassacre.com/2015/06/04/lakeview-cabin-collection-ryan-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/zoQRyAmJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/zoQRyAmJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/zoQRyAmJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/zoQRyAmJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/zoQRyAmJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/zoQRyAmJ-7spvWrjM.mp4
+//content.jwplatform.com/videos/zoQRyAmJ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/zoQRyAmJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/zoQRyAmJ-Qw1ADm9e.mp4
+itemDuration: 920
+itemImage: http://content.jwplatform.com/thumbs/zoQRyAmJ-720.jpg
+itemLegacyID: Cinemassacre-556fdb538502d
+itemPubDate: Wed, 03 Jun 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/zoQRyAmJ
+itemThumbnail: http://content.jwplatform.com/thumbs/zoQRyAmJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-556fdb538502d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/zoQRyAmJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29720
+itemShortLinkID: 29720
+
+
+itemTitle: Guild of Dungeoneering
+itemWebLink: http://cinemassacre.com/2015/07/10/guild-of-dungeoneering-pc-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/kgfijM8G.m3u8
+itemAudio: http://content.jwplatform.com/videos/kgfijM8G-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/kgfijM8G-QvH08cwS.mp4
+//content.jwplatform.com/videos/kgfijM8G-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/kgfijM8G-GzAUXplI.mp4
+//content.jwplatform.com/videos/kgfijM8G-7spvWrjM.mp4
+//content.jwplatform.com/videos/kgfijM8G-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/kgfijM8G-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/kgfijM8G-Qw1ADm9e.mp4
+itemDuration: 861
+itemImage: http://content.jwplatform.com/thumbs/kgfijM8G-720.jpg
+itemLegacyID: Cinemassacre-559fa136a51ef
+itemPubDate: Fri, 10 Jul 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/kgfijM8G
+itemThumbnail: http://content.jwplatform.com/thumbs/kgfijM8G-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-559fa136a51ef_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/kgfijM8G-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29811
+itemShortLinkID: 29811
+
+
+itemTitle: Ronin WEB.mov
+itemWebLink: http://cinemassacre.com/2015/07/16/ronin-pc-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/1QA70kNC.m3u8
+itemAudio: http://content.jwplatform.com/videos/1QA70kNC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/1QA70kNC-QvH08cwS.mp4
+//content.jwplatform.com/videos/1QA70kNC-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/1QA70kNC-GzAUXplI.mp4
+//content.jwplatform.com/videos/1QA70kNC-7spvWrjM.mp4
+//content.jwplatform.com/videos/1QA70kNC-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1QA70kNC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1QA70kNC-Qw1ADm9e.mp4
+itemDuration: 883
+itemImage: http://content.jwplatform.com/thumbs/1QA70kNC-720.jpg
+itemLegacyID: Cinemassacre-55a77d2c4f0f0
+itemPubDate: Thu, 16 Jul 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/1QA70kNC
+itemThumbnail: http://content.jwplatform.com/thumbs/1QA70kNC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55a77d2c4f0f0_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/1QA70kNC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29819
+itemShortLinkID: 29819
+
+
+itemTitle: Layers of Fear
+itemWebLink: http://cinemassacre.com/2015/09/15/layers-of-fear/
+itemPlaylist: http://content.jwplatform.com/manifests/a943Oxv4.m3u8
+itemAudio: http://content.jwplatform.com/videos/a943Oxv4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/a943Oxv4-QvH08cwS.mp4
+//content.jwplatform.com/videos/a943Oxv4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/a943Oxv4-GzAUXplI.mp4
+//content.jwplatform.com/videos/a943Oxv4-7spvWrjM.mp4
+//content.jwplatform.com/videos/a943Oxv4-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/a943Oxv4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/a943Oxv4-Qw1ADm9e.mp4
+itemDuration: 1541
+itemImage: http://content.jwplatform.com/thumbs/a943Oxv4-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:28:29 -0000
+itemPreview: http://content.jwplatform.com/previews/a943Oxv4
+itemThumbnail: http://content.jwplatform.com/thumbs/a943Oxv4-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/a943Oxv4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30088
+itemShortLinkID: 30088
+
+
+itemTitle: Transformers Dev
+itemWebLink: http://cinemassacre.com/2015/09/30/transformers-devastation-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/3CY1N6ka.m3u8
+itemAudio: http://content.jwplatform.com/videos/3CY1N6ka-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3CY1N6ka-QvH08cwS.mp4
+//content.jwplatform.com/videos/3CY1N6ka-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/3CY1N6ka-GzAUXplI.mp4
+//content.jwplatform.com/videos/3CY1N6ka-7spvWrjM.mp4
+//content.jwplatform.com/videos/3CY1N6ka-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3CY1N6ka-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3CY1N6ka-Qw1ADm9e.mp4
+itemDuration: 1232
+itemImage: http://content.jwplatform.com/thumbs/3CY1N6ka-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:43:42 -0000
+itemPreview: http://content.jwplatform.com/previews/3CY1N6ka
+itemThumbnail: http://content.jwplatform.com/thumbs/3CY1N6ka-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/3CY1N6ka-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30131
+itemShortLinkID: 30131
+
+
+itemTitle: Prison Arch web.mov
+itemWebLink: http://cinemassacre.com/2015/10/10/prison-architect-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/i9wP78pf.m3u8
+itemAudio: http://content.jwplatform.com/videos/i9wP78pf-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/i9wP78pf-QvH08cwS.mp4
+//content.jwplatform.com/videos/i9wP78pf-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/i9wP78pf-GzAUXplI.mp4
+//content.jwplatform.com/videos/i9wP78pf-7spvWrjM.mp4
+//content.jwplatform.com/videos/i9wP78pf-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/i9wP78pf-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/i9wP78pf-Qw1ADm9e.mp4
+itemDuration: 827
+itemImage: http://content.jwplatform.com/thumbs/i9wP78pf-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:18:13 -0000
+itemPreview: http://content.jwplatform.com/previews/i9wP78pf
+itemThumbnail: http://content.jwplatform.com/thumbs/i9wP78pf-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/i9wP78pf-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30153
+itemShortLinkID: 30153
+
+
+itemTitle: Dungeon Defenders 2 WEB.mov
+itemWebLink: http://cinemassacre.com/2015/10/14/dungeon-defenders-2-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/fGI3OuUK.m3u8
+itemAudio: http://content.jwplatform.com/videos/fGI3OuUK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/fGI3OuUK-QvH08cwS.mp4
+//content.jwplatform.com/videos/fGI3OuUK-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/fGI3OuUK-GzAUXplI.mp4
+//content.jwplatform.com/videos/fGI3OuUK-7spvWrjM.mp4
+//content.jwplatform.com/videos/fGI3OuUK-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/fGI3OuUK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/fGI3OuUK-Qw1ADm9e.mp4
+itemDuration: 901
+itemImage: http://content.jwplatform.com/thumbs/fGI3OuUK-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:15:08 -0000
+itemPreview: http://content.jwplatform.com/previews/fGI3OuUK
+itemThumbnail: http://content.jwplatform.com/thumbs/fGI3OuUK-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/fGI3OuUK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30159
+itemShortLinkID: 30159
+
+
+itemTitle: Shadow Complex (PC) Mike & Ryan Talk About Games.mp4
+itemWebLink: http://cinemassacre.com/2015/12/31/shadow-complex-pc-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/KQBdVfsq.m3u8
+itemAudio: http://content.jwplatform.com/videos/KQBdVfsq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KQBdVfsq-QvH08cwS.mp4
+//content.jwplatform.com/videos/KQBdVfsq-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/KQBdVfsq-GzAUXplI.mp4
+//content.jwplatform.com/videos/KQBdVfsq-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KQBdVfsq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KQBdVfsq-7spvWrjM.mp4
+itemDuration: 1029
+itemImage: http://content.jwplatform.com/thumbs/KQBdVfsq-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:34:10 -0000
+itemPreview: http://content.jwplatform.com/previews/KQBdVfsq
+itemThumbnail: http://content.jwplatform.com/thumbs/KQBdVfsq-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/KQBdVfsq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30600
+itemShortLinkID: 30600
+
+
+itemTitle: Guns Gore and Canolli (PC) Talk About Games
+itemWebLink: http://cinemassacre.com/2016/02/27/guns-gore-cannoli-pc-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/7vXu3QhO.m3u8
+itemAudio: http://content.jwplatform.com/videos/7vXu3QhO-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/7vXu3QhO-QvH08cwS.mp4
+//content.jwplatform.com/videos/7vXu3QhO-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/7vXu3QhO-GzAUXplI.mp4
+//content.jwplatform.com/videos/7vXu3QhO-7spvWrjM.mp4
+//content.jwplatform.com/videos/7vXu3QhO-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/7vXu3QhO-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/7vXu3QhO-Qw1ADm9e.mp4
+itemDuration: 545
+itemImage: http://content.jwplatform.com/thumbs/7vXu3QhO-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 06:56:15 -0000
+itemPreview: http://content.jwplatform.com/previews/7vXu3QhO
+itemThumbnail: http://content.jwplatform.com/thumbs/7vXu3QhO-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/7vXu3QhO-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30834
+itemShortLinkID: 30834
+
+
+itemTitle: Stardew Valley (PC) Mike & Ryan - Talk About Games.mp4
+itemWebLink: http://cinemassacre.com/2016/03/11/stardew-valley/
+itemPlaylist: http://content.jwplatform.com/manifests/imvCLf2K.m3u8
+itemAudio: http://content.jwplatform.com/videos/imvCLf2K-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/imvCLf2K-QvH08cwS.mp4
+//content.jwplatform.com/videos/imvCLf2K-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/imvCLf2K-GzAUXplI.mp4
+//content.jwplatform.com/videos/imvCLf2K-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/imvCLf2K-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/imvCLf2K-7spvWrjM.mp4
+itemDuration: 920
+itemImage: http://content.jwplatform.com/thumbs/imvCLf2K-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:32:02 -0000
+itemPreview: http://content.jwplatform.com/previews/imvCLf2K
+itemThumbnail: http://content.jwplatform.com/thumbs/imvCLf2K-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/imvCLf2K-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30866
+itemShortLinkID: 30866
+
+
+itemTitle: Overwatch (PC) Mike & Ryan - Talk About Games.mp4
+itemWebLink: http://cinemassacre.com/2016/03/29/overwatch-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/AhKJpola.m3u8
+itemAudio: http://content.jwplatform.com/videos/AhKJpola-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/AhKJpola-QvH08cwS.mp4
+//content.jwplatform.com/videos/AhKJpola-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/AhKJpola-GzAUXplI.mp4
+//content.jwplatform.com/videos/AhKJpola-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/AhKJpola-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/AhKJpola-7spvWrjM.mp4
+itemDuration: 603
+itemImage: http://content.jwplatform.com/thumbs/AhKJpola-720.jpg
+itemLegacyID: 
+itemPubDate: Sun, 08 May 2016 06:05:39 -0000
+itemPreview: http://content.jwplatform.com/previews/AhKJpola
+itemThumbnail: http://content.jwplatform.com/thumbs/AhKJpola-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/AhKJpola-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30903
+itemShortLinkID: 30903
+
+
+itemTitle: Slain (PC) Talk About Games
+itemWebLink: http://cinemassacre.com/2016/04/07/slain-pc-mike-ryan-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/En4OAhsn.m3u8
+itemAudio: http://content.jwplatform.com/videos/En4OAhsn-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/En4OAhsn-QvH08cwS.mp4
+//content.jwplatform.com/videos/En4OAhsn-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/En4OAhsn-GzAUXplI.mp4
+//content.jwplatform.com/videos/En4OAhsn-7spvWrjM.mp4
+//content.jwplatform.com/videos/En4OAhsn-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/En4OAhsn-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/En4OAhsn-Qw1ADm9e.mp4
+itemDuration: 704
+itemImage: http://content.jwplatform.com/thumbs/En4OAhsn-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 22:43:01 -0000
+itemPreview: http://content.jwplatform.com/previews/En4OAhsn
+itemThumbnail: http://content.jwplatform.com/thumbs/En4OAhsn-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/En4OAhsn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30946
+itemShortLinkID: 30946
+
+
+itemTitle: Heads Up
+itemWebLink: http://cinemassacre.com/2016/05/11/heads-up-mike-ryan-talk-about-games/
+itemPlaylist: http://content.jwplatform.com/manifests/unxCO9KD.m3u8
+itemAudio: http://content.jwplatform.com/videos/unxCO9KD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/unxCO9KD-QvH08cwS.mp4
+//content.jwplatform.com/videos/unxCO9KD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/unxCO9KD-GzAUXplI.mp4
+//content.jwplatform.com/videos/unxCO9KD-7spvWrjM.mp4
+//content.jwplatform.com/videos/unxCO9KD-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/unxCO9KD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/unxCO9KD-Qw1ADm9e.mp4
+itemDuration: 889
+itemImage: http://content.jwplatform.com/thumbs/unxCO9KD-720.jpg
+itemLegacyID: 
+itemPubDate: Thu, 12 May 2016 03:54:27 -0000
+itemPreview: http://content.jwplatform.com/previews/unxCO9KD
+itemThumbnail: http://content.jwplatform.com/thumbs/unxCO9KD-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/unxCO9KD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31124
+itemShortLinkID: 31124
+

@@ -1,0 +1,3727 @@
+
+itemTitle: Killing Time
+itemWebLink: http://cinemassacre.com/2016/01/04/killing-time-panasonic-3do-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/LOqIEQYZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/LOqIEQYZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/LOqIEQYZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/LOqIEQYZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/LOqIEQYZ-GzAUXplI.mp4
+//content.jwplatform.com/videos/LOqIEQYZ-7spvWrjM.mp4
+//content.jwplatform.com/videos/LOqIEQYZ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/LOqIEQYZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/LOqIEQYZ-Qw1ADm9e.mp4
+itemDuration: 567
+itemImage: http://content.jwplatform.com/thumbs/LOqIEQYZ-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 05:56:08 -0000
+itemPreview: http://content.jwplatform.com/previews/LOqIEQYZ
+itemThumbnail: http://content.jwplatform.com/thumbs/LOqIEQYZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/LOqIEQYZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30537
+itemShortLinkID: 30537
+
+
+itemTitle: Spirit of Speed WEB.mov
+itemWebLink: http://cinemassacre.com/2016/01/11/spirit-of-speed-1937-dreamcast-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/zwpfvcC7.m3u8
+itemAudio: http://content.jwplatform.com/videos/zwpfvcC7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/zwpfvcC7-QvH08cwS.mp4
+//content.jwplatform.com/videos/zwpfvcC7-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/zwpfvcC7-GzAUXplI.mp4
+//content.jwplatform.com/videos/zwpfvcC7-7spvWrjM.mp4
+//content.jwplatform.com/videos/zwpfvcC7-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/zwpfvcC7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/zwpfvcC7-Qw1ADm9e.mp4
+itemDuration: 516
+itemImage: http://content.jwplatform.com/thumbs/zwpfvcC7-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:29:21 -0000
+itemPreview: http://content.jwplatform.com/previews/zwpfvcC7
+itemThumbnail: http://content.jwplatform.com/thumbs/zwpfvcC7-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/zwpfvcC7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30604
+itemShortLinkID: 30604
+
+
+itemTitle: Rod Land New Edit web.mov
+itemWebLink: http://cinemassacre.com/2016/01/18/rod-land-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/8PQnGEMx.m3u8
+itemAudio: http://content.jwplatform.com/videos/8PQnGEMx-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/8PQnGEMx-QvH08cwS.mp4
+//content.jwplatform.com/videos/8PQnGEMx-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/8PQnGEMx-GzAUXplI.mp4
+//content.jwplatform.com/videos/8PQnGEMx-7spvWrjM.mp4
+//content.jwplatform.com/videos/8PQnGEMx-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/8PQnGEMx-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/8PQnGEMx-Qw1ADm9e.mp4
+itemDuration: 392
+itemImage: http://content.jwplatform.com/thumbs/8PQnGEMx-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:32:49 -0000
+itemPreview: http://content.jwplatform.com/previews/8PQnGEMx
+itemThumbnail: http://content.jwplatform.com/thumbs/8PQnGEMx-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/8PQnGEMx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30616
+itemShortLinkID: 30616
+
+
+itemTitle: Supreme Warrior Sega CD 32X
+itemWebLink: http://cinemassacre.com/2016/01/18/supreme-warrior-sega-cd-32x/
+itemPlaylist: http://content.jwplatform.com/manifests/3bkezNLm.m3u8
+itemAudio: http://content.jwplatform.com/videos/3bkezNLm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3bkezNLm-QvH08cwS.mp4
+//content.jwplatform.com/videos/3bkezNLm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/3bkezNLm-GzAUXplI.mp4
+//content.jwplatform.com/videos/3bkezNLm-7spvWrjM.mp4
+//content.jwplatform.com/videos/3bkezNLm-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3bkezNLm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3bkezNLm-Qw1ADm9e.mp4
+itemDuration: 425
+itemImage: http://content.jwplatform.com/thumbs/3bkezNLm-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:32:57 -0000
+itemPreview: http://content.jwplatform.com/previews/3bkezNLm
+itemThumbnail: http://content.jwplatform.com/thumbs/3bkezNLm-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/3bkezNLm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30611
+itemShortLinkID: 30611
+
+
+itemTitle: Flintstones web.mov
+itemWebLink: http://cinemassacre.com/2016/01/25/flintstones-surprise-at-dinosaur-peak/
+itemPlaylist: http://content.jwplatform.com/manifests/GxOzSaaI.m3u8
+itemAudio: http://content.jwplatform.com/videos/GxOzSaaI-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GxOzSaaI-QvH08cwS.mp4
+//content.jwplatform.com/videos/GxOzSaaI-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/GxOzSaaI-GzAUXplI.mp4
+//content.jwplatform.com/videos/GxOzSaaI-7spvWrjM.mp4
+//content.jwplatform.com/videos/GxOzSaaI-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GxOzSaaI-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GxOzSaaI-Qw1ADm9e.mp4
+itemDuration: 730
+itemImage: http://content.jwplatform.com/thumbs/GxOzSaaI-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:30:48 -0000
+itemPreview: http://content.jwplatform.com/previews/GxOzSaaI
+itemThumbnail: http://content.jwplatform.com/thumbs/GxOzSaaI-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/GxOzSaaI-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30619
+itemShortLinkID: 30619
+
+
+itemTitle: Mega Man Ultra WEB.mov
+itemWebLink: http://cinemassacre.com/2016/02/01/mega-man-ultra-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/fhWAf6hb.m3u8
+itemAudio: http://content.jwplatform.com/videos/fhWAf6hb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/fhWAf6hb-QvH08cwS.mp4
+//content.jwplatform.com/videos/fhWAf6hb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/fhWAf6hb-GzAUXplI.mp4
+//content.jwplatform.com/videos/fhWAf6hb-7spvWrjM.mp4
+//content.jwplatform.com/videos/fhWAf6hb-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/fhWAf6hb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/fhWAf6hb-Qw1ADm9e.mp4
+itemDuration: 1594
+itemImage: http://content.jwplatform.com/thumbs/fhWAf6hb-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:29:44 -0000
+itemPreview: http://content.jwplatform.com/previews/fhWAf6hb
+itemThumbnail: http://content.jwplatform.com/thumbs/fhWAf6hb-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/fhWAf6hb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30637
+itemShortLinkID: 30637
+
+
+itemTitle: Smash Bros 64 (N64) Jontron, Mike Matei and James Rolfe
+itemWebLink: http://cinemassacre.com/2016/02/07/smash-bros-64-n64-jontron-james-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/AaENXiwo.m3u8
+itemAudio: http://content.jwplatform.com/videos/AaENXiwo-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/AaENXiwo-QvH08cwS.mp4
+//content.jwplatform.com/videos/AaENXiwo-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/AaENXiwo-GzAUXplI.mp4
+//content.jwplatform.com/videos/AaENXiwo-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/AaENXiwo-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/AaENXiwo-7spvWrjM.mp4
+itemDuration: 854
+itemImage: http://content.jwplatform.com/thumbs/AaENXiwo-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 07:21:06 -0000
+itemPreview: http://content.jwplatform.com/previews/AaENXiwo
+itemThumbnail: http://content.jwplatform.com/thumbs/AaENXiwo-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/AaENXiwo-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30664
+itemShortLinkID: 30664
+
+
+itemTitle: Sky Kid (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2016/02/08/sky-kid-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/6ham0kJ2.m3u8
+itemAudio: http://content.jwplatform.com/videos/6ham0kJ2-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6ham0kJ2-QvH08cwS.mp4
+//content.jwplatform.com/videos/6ham0kJ2-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/6ham0kJ2-GzAUXplI.mp4
+//content.jwplatform.com/videos/6ham0kJ2-7spvWrjM.mp4
+//content.jwplatform.com/videos/6ham0kJ2-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6ham0kJ2-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6ham0kJ2-Qw1ADm9e.mp4
+itemDuration: 763
+itemImage: http://content.jwplatform.com/thumbs/6ham0kJ2-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 22:42:43 -0000
+itemPreview: http://content.jwplatform.com/previews/6ham0kJ2
+itemThumbnail: http://content.jwplatform.com/thumbs/6ham0kJ2-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/6ham0kJ2-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30624
+itemShortLinkID: 30624
+
+
+itemTitle: Keep Talking and Nobody Explodes (PC) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2016/02/15/keep-talking-and-nobody-explodes/
+itemPlaylist: http://content.jwplatform.com/manifests/NGVwUo7V.m3u8
+itemAudio: http://content.jwplatform.com/videos/NGVwUo7V-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/NGVwUo7V-QvH08cwS.mp4
+//content.jwplatform.com/videos/NGVwUo7V-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/NGVwUo7V-GzAUXplI.mp4
+//content.jwplatform.com/videos/NGVwUo7V-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/NGVwUo7V-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/NGVwUo7V-7spvWrjM.mp4
+itemDuration: 650
+itemImage: http://content.jwplatform.com/thumbs/NGVwUo7V-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 06:19:22 -0000
+itemPreview: http://content.jwplatform.com/previews/NGVwUo7V
+itemThumbnail: http://content.jwplatform.com/thumbs/NGVwUo7V-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/NGVwUo7V-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30654
+itemShortLinkID: 30654
+
+
+itemTitle: Metroid II- Return of Samus (Game Boy) Part 1 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2016/02/22/metroid-ii-return-of-samus-game-boy-part-1-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/en4BmciJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/en4BmciJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/en4BmciJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/en4BmciJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/en4BmciJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/en4BmciJ-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/en4BmciJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/en4BmciJ-7spvWrjM.mp4
+itemDuration: 1406
+itemImage: http://content.jwplatform.com/thumbs/en4BmciJ-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:18:01 -0000
+itemPreview: http://content.jwplatform.com/previews/en4BmciJ
+itemThumbnail: http://content.jwplatform.com/thumbs/en4BmciJ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/en4BmciJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30658
+itemShortLinkID: 30658
+
+
+itemTitle: J&M - SuperGameBoy-WEB.mov
+itemWebLink: http://cinemassacre.com/2016/02/22/super-game-boy-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/hmVN6gIv.m3u8
+itemAudio: http://content.jwplatform.com/videos/hmVN6gIv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hmVN6gIv-QvH08cwS.mp4
+//content.jwplatform.com/videos/hmVN6gIv-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hmVN6gIv-GzAUXplI.mp4
+//content.jwplatform.com/videos/hmVN6gIv-7spvWrjM.mp4
+//content.jwplatform.com/videos/hmVN6gIv-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hmVN6gIv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hmVN6gIv-Qw1ADm9e.mp4
+itemDuration: 597
+itemImage: http://content.jwplatform.com/thumbs/hmVN6gIv-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:38:10 -0000
+itemPreview: http://content.jwplatform.com/previews/hmVN6gIv
+itemThumbnail: http://content.jwplatform.com/thumbs/hmVN6gIv-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/hmVN6gIv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30651
+itemShortLinkID: 30651
+
+
+itemTitle: Metroid II- Return of Samus (Game Boy) Part 2 - James & Mike Mondays.mp4
+itemWebLink: http://cinemassacre.com/2016/02/29/metroid-ii-return-of-samus-game-boy-part-2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/0xsWkmHb.m3u8
+itemAudio: http://content.jwplatform.com/videos/0xsWkmHb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/0xsWkmHb-QvH08cwS.mp4
+//content.jwplatform.com/videos/0xsWkmHb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/0xsWkmHb-GzAUXplI.mp4
+//content.jwplatform.com/videos/0xsWkmHb-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0xsWkmHb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0xsWkmHb-7spvWrjM.mp4
+itemDuration: 1819
+itemImage: http://content.jwplatform.com/thumbs/0xsWkmHb-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:18:01 -0000
+itemPreview: http://content.jwplatform.com/previews/0xsWkmHb
+itemThumbnail: http://content.jwplatform.com/thumbs/0xsWkmHb-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/0xsWkmHb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30661
+itemShortLinkID: 30661
+
+
+itemTitle: Goat Simulator web.mov
+itemWebLink: http://cinemassacre.com/2016/03/07/goat-simulator/
+itemPlaylist: http://content.jwplatform.com/manifests/O4SmKjVs.m3u8
+itemAudio: http://content.jwplatform.com/videos/O4SmKjVs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/O4SmKjVs-QvH08cwS.mp4
+//content.jwplatform.com/videos/O4SmKjVs-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/O4SmKjVs-GzAUXplI.mp4
+//content.jwplatform.com/videos/O4SmKjVs-7spvWrjM.mp4
+//content.jwplatform.com/videos/O4SmKjVs-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/O4SmKjVs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/O4SmKjVs-Qw1ADm9e.mp4
+itemDuration: 949
+itemImage: http://content.jwplatform.com/thumbs/O4SmKjVs-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 00:27:30 -0000
+itemPreview: http://content.jwplatform.com/previews/O4SmKjVs
+itemThumbnail: http://content.jwplatform.com/thumbs/O4SmKjVs-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/O4SmKjVs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30853
+itemShortLinkID: 30853
+
+
+itemTitle: Action 53 Part 1 (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2016/03/14/action-53-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/ckgXFZPd.m3u8
+itemAudio: http://content.jwplatform.com/videos/ckgXFZPd-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ckgXFZPd-QvH08cwS.mp4
+//content.jwplatform.com/videos/ckgXFZPd-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/ckgXFZPd-GzAUXplI.mp4
+//content.jwplatform.com/videos/ckgXFZPd-7spvWrjM.mp4
+//content.jwplatform.com/videos/ckgXFZPd-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ckgXFZPd-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ckgXFZPd-Qw1ADm9e.mp4
+itemDuration: 938
+itemImage: http://content.jwplatform.com/thumbs/ckgXFZPd-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 06:57:42 -0000
+itemPreview: http://content.jwplatform.com/previews/ckgXFZPd
+itemThumbnail: http://content.jwplatform.com/thumbs/ckgXFZPd-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/ckgXFZPd-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30844
+itemShortLinkID: 30844
+
+
+itemTitle: Action 53 Part 2 web.mov
+itemWebLink: http://cinemassacre.com/2016/03/21/action-53-nes-part-2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/8PokZZjX.m3u8
+itemAudio: http://content.jwplatform.com/videos/8PokZZjX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/8PokZZjX-QvH08cwS.mp4
+//content.jwplatform.com/videos/8PokZZjX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/8PokZZjX-GzAUXplI.mp4
+//content.jwplatform.com/videos/8PokZZjX-7spvWrjM.mp4
+//content.jwplatform.com/videos/8PokZZjX-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/8PokZZjX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/8PokZZjX-Qw1ADm9e.mp4
+itemDuration: 784
+itemImage: http://content.jwplatform.com/thumbs/8PokZZjX-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 00:28:08 -0000
+itemPreview: http://content.jwplatform.com/previews/8PokZZjX
+itemThumbnail: http://content.jwplatform.com/thumbs/8PokZZjX-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/8PokZZjX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30847
+itemShortLinkID: 30847
+
+
+itemTitle: Super Amazing Wagon Adventure
+itemWebLink: http://cinemassacre.com/2016/03/28/super-amazing-wagon-adventure-pc-james-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/rUKRqDEY.m3u8
+itemAudio: http://content.jwplatform.com/videos/rUKRqDEY-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/rUKRqDEY-QvH08cwS.mp4
+//content.jwplatform.com/videos/rUKRqDEY-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/rUKRqDEY-GzAUXplI.mp4
+//content.jwplatform.com/videos/rUKRqDEY-7spvWrjM.mp4
+//content.jwplatform.com/videos/rUKRqDEY-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/rUKRqDEY-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/rUKRqDEY-Qw1ADm9e.mp4
+itemDuration: 525
+itemImage: http://content.jwplatform.com/thumbs/rUKRqDEY-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:30:37 -0000
+itemPreview: http://content.jwplatform.com/previews/rUKRqDEY
+itemThumbnail: http://content.jwplatform.com/thumbs/rUKRqDEY-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/rUKRqDEY-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30872
+itemShortLinkID: 30872
+
+
+itemTitle: Power Glove Uforce James & Mike
+itemWebLink: http://cinemassacre.com/2016/04/04/power-glove-vs-u-force-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/PuESUYMt.m3u8
+itemAudio: http://content.jwplatform.com/videos/PuESUYMt-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/PuESUYMt-QvH08cwS.mp4
+//content.jwplatform.com/videos/PuESUYMt-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/PuESUYMt-GzAUXplI.mp4
+//content.jwplatform.com/videos/PuESUYMt-7spvWrjM.mp4
+//content.jwplatform.com/videos/PuESUYMt-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/PuESUYMt-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/PuESUYMt-Qw1ADm9e.mp4
+itemDuration: 1184
+itemImage: http://content.jwplatform.com/thumbs/PuESUYMt-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 22:42:17 -0000
+itemPreview: http://content.jwplatform.com/previews/PuESUYMt
+itemThumbnail: http://content.jwplatform.com/thumbs/PuESUYMt-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/PuESUYMt-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30883
+itemShortLinkID: 30883
+
+
+itemTitle: Food Fight (Atari 2600) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2016/04/11/food-fight-fast-food-atari-2600-james-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/SmFcoO2P.m3u8
+itemAudio: http://content.jwplatform.com/videos/SmFcoO2P-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SmFcoO2P-QvH08cwS.mp4
+//content.jwplatform.com/videos/SmFcoO2P-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/SmFcoO2P-GzAUXplI.mp4
+//content.jwplatform.com/videos/SmFcoO2P-7spvWrjM.mp4
+//content.jwplatform.com/videos/SmFcoO2P-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SmFcoO2P-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SmFcoO2P-Qw1ADm9e.mp4
+itemDuration: 794
+itemImage: http://content.jwplatform.com/thumbs/SmFcoO2P-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 22:39:01 -0000
+itemPreview: http://content.jwplatform.com/previews/SmFcoO2P
+itemThumbnail: http://content.jwplatform.com/thumbs/SmFcoO2P-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/SmFcoO2P-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30916
+itemShortLinkID: 30916
+
+
+itemTitle: Goat Simulator Devil Goat J&MM
+itemWebLink: http://cinemassacre.com/2016/04/18/goat-simulator-devil-goat-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/VjylSerM.m3u8
+itemAudio: http://content.jwplatform.com/videos/VjylSerM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/VjylSerM-QvH08cwS.mp4
+//content.jwplatform.com/videos/VjylSerM-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/VjylSerM-GzAUXplI.mp4
+//content.jwplatform.com/videos/VjylSerM-7spvWrjM.mp4
+//content.jwplatform.com/videos/VjylSerM-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/VjylSerM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/VjylSerM-Qw1ADm9e.mp4
+itemDuration: 611
+itemImage: http://content.jwplatform.com/thumbs/VjylSerM-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 22:42:31 -0000
+itemPreview: http://content.jwplatform.com/previews/VjylSerM
+itemThumbnail: http://content.jwplatform.com/thumbs/VjylSerM-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/VjylSerM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30950
+itemShortLinkID: 30950
+
+
+itemTitle: Resident Evil: The Umbrella Chronicles
+itemWebLink: http://cinemassacre.com/2016/04/25/resident-evil-the-umbrella-chronicles-wii-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/DOC3OlZP.m3u8
+itemAudio: http://content.jwplatform.com/videos/DOC3OlZP-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DOC3OlZP-QvH08cwS.mp4
+//content.jwplatform.com/videos/DOC3OlZP-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DOC3OlZP-GzAUXplI.mp4
+//content.jwplatform.com/videos/DOC3OlZP-7spvWrjM.mp4
+//content.jwplatform.com/videos/DOC3OlZP-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DOC3OlZP-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DOC3OlZP-Qw1ADm9e.mp4
+itemDuration: 820
+itemImage: http://content.jwplatform.com/thumbs/DOC3OlZP-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 20:09:55 -0000
+itemPreview: http://content.jwplatform.com/previews/DOC3OlZP
+itemThumbnail: http://content.jwplatform.com/thumbs/DOC3OlZP-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/DOC3OlZP-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30992
+itemShortLinkID: 30992
+
+
+itemTitle: Mortal Kombat XL (PS4) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2016/05/02/mortal-kombat-xl/
+itemPlaylist: http://content.jwplatform.com/manifests/aO4nziAl.m3u8
+itemAudio: http://content.jwplatform.com/videos/aO4nziAl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/aO4nziAl-QvH08cwS.mp4
+//content.jwplatform.com/videos/aO4nziAl-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/aO4nziAl-GzAUXplI.mp4
+//content.jwplatform.com/videos/aO4nziAl-7spvWrjM.mp4
+//content.jwplatform.com/videos/aO4nziAl-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/aO4nziAl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/aO4nziAl-Qw1ADm9e.mp4
+itemDuration: 608
+itemImage: http://content.jwplatform.com/thumbs/aO4nziAl-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 19:40:07 -0000
+itemPreview: http:
+itemThumbnail: http://content.jwplatform.com/thumbs/aO4nziAl-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/aO4nziAl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31011
+itemShortLinkID: 31011
+
+
+itemTitle: DOOM \
+itemWebLink: http://cinemassacre.com/2016/05/09/doom-knee-deep-in-the-dead-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/zHnECQH0.m3u8
+itemAudio: http://content.jwplatform.com/videos/zHnECQH0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/zHnECQH0-QvH08cwS.mp4
+//content.jwplatform.com/videos/zHnECQH0-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/zHnECQH0-GzAUXplI.mp4
+//content.jwplatform.com/videos/zHnECQH0-7spvWrjM.mp4
+//content.jwplatform.com/videos/zHnECQH0-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/zHnECQH0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/zHnECQH0-Qw1ADm9e.mp4
+itemDuration: 983
+itemImage: http://content.jwplatform.com/thumbs/zHnECQH0-720.jpg
+itemLegacyID: 
+itemPubDate: Wed, 04 May 2016 09:02:20 -0000
+itemPreview: http://content.jwplatform.com/previews/zHnECQH0
+itemThumbnail: http://content.jwplatform.com/thumbs/zHnECQH0-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/zHnECQH0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31016
+itemShortLinkID: 31016
+
+
+itemTitle: DOOM 64 James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2016/05/16/doom-64-n64-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/mdnetMlL.m3u8
+itemAudio: http://content.jwplatform.com/videos/mdnetMlL-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/mdnetMlL-QvH08cwS.mp4
+//content.jwplatform.com/videos/mdnetMlL-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/mdnetMlL-GzAUXplI.mp4
+//content.jwplatform.com/videos/mdnetMlL-7spvWrjM.mp4
+//content.jwplatform.com/videos/mdnetMlL-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/mdnetMlL-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/mdnetMlL-Qw1ADm9e.mp4
+itemDuration: 690
+itemImage: http://content.jwplatform.com/thumbs/mdnetMlL-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 13 May 2016 22:54:43 -0000
+itemPreview: http://content.jwplatform.com/previews/mdnetMlL
+itemThumbnail: http://content.jwplatform.com/thumbs/mdnetMlL-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/mdnetMlL-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31133
+itemShortLinkID: 31133
+
+
+itemTitle: AVGN II Assimilation (PC) Part 1 - J&MM
+itemWebLink: http://cinemassacre.com/2016/05/23/avgn-ii-assimilation-pc-part-1-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/l34SlLyE.m3u8
+itemAudio: http://content.jwplatform.com/videos/l34SlLyE-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/l34SlLyE-QvH08cwS.mp4
+//content.jwplatform.com/videos/l34SlLyE-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/l34SlLyE-GzAUXplI.mp4
+//content.jwplatform.com/videos/l34SlLyE-7spvWrjM.mp4
+//content.jwplatform.com/videos/l34SlLyE-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/l34SlLyE-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/l34SlLyE-Qw1ADm9e.mp4
+itemDuration: 1233
+itemImage: http://content.jwplatform.com/thumbs/l34SlLyE-720.jpg
+itemLegacyID: 
+itemPubDate: Thu, 19 May 2016 00:03:43 -0000
+itemPreview: http://content.jwplatform.com/previews/l34SlLyE
+itemThumbnail: http://content.jwplatform.com/thumbs/l34SlLyE-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/l34SlLyE-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31141
+itemShortLinkID: 31141
+
+
+itemTitle: AVGN II Part 2
+itemWebLink: http://cinemassacre.com/2016/05/30/avgn-ii-assimilation-pc-part-2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/O4cPCKiU.m3u8
+itemAudio: http://content.jwplatform.com/videos/O4cPCKiU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/O4cPCKiU-QvH08cwS.mp4
+//content.jwplatform.com/videos/O4cPCKiU-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/O4cPCKiU-GzAUXplI.mp4
+//content.jwplatform.com/videos/O4cPCKiU-7spvWrjM.mp4
+//content.jwplatform.com/videos/O4cPCKiU-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/O4cPCKiU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/O4cPCKiU-Qw1ADm9e.mp4
+itemDuration: 908
+itemImage: http://content.jwplatform.com/thumbs/O4cPCKiU-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 27 May 2016 09:02:17 -0000
+itemPreview: http://content.jwplatform.com/previews/O4cPCKiU
+itemThumbnail: http://content.jwplatform.com/thumbs/O4cPCKiU-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/O4cPCKiU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31157
+itemShortLinkID: 31157
+
+
+itemTitle: Super Contra 6 Part 1 J&MM
+itemWebLink: http://cinemassacre.com/2015/08/10/super-contra-6-nes-part-1-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/kpj0PrXg.m3u8
+itemAudio: http://content.jwplatform.com/videos/kpj0PrXg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/kpj0PrXg-QvH08cwS.mp4
+//content.jwplatform.com/videos/kpj0PrXg-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/kpj0PrXg-GzAUXplI.mp4
+//content.jwplatform.com/videos/kpj0PrXg-7spvWrjM.mp4
+//content.jwplatform.com/videos/kpj0PrXg-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/kpj0PrXg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/kpj0PrXg-Qw1ADm9e.mp4
+itemDuration: 1089
+itemImage: http://content.jwplatform.com/thumbs/kpj0PrXg-720.jpg
+itemLegacyID: Cinemassacre-55a78504d37ad
+itemPubDate: Thu, 16 Jul 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/kpj0PrXg
+itemThumbnail: http://content.jwplatform.com/thumbs/kpj0PrXg-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55a78504d37ad_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/kpj0PrXg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29826
+itemShortLinkID: 29826
+
+
+itemTitle: Super Contra 6 Part 2
+itemWebLink: http://cinemassacre.com/2015/08/17/super-contra-6-nes-part-2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/7jAsnE4n.m3u8
+itemAudio: http://content.jwplatform.com/videos/7jAsnE4n-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/7jAsnE4n-QvH08cwS.mp4
+//content.jwplatform.com/videos/7jAsnE4n-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/7jAsnE4n-GzAUXplI.mp4
+//content.jwplatform.com/videos/7jAsnE4n-7spvWrjM.mp4
+//content.jwplatform.com/videos/7jAsnE4n-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/7jAsnE4n-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/7jAsnE4n-Qw1ADm9e.mp4
+itemDuration: 998
+itemImage: http://content.jwplatform.com/thumbs/7jAsnE4n-720.jpg
+itemLegacyID: Cinemassacre-55a81f2eea277
+itemPubDate: Thu, 16 Jul 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/7jAsnE4n
+itemThumbnail: http://content.jwplatform.com/thumbs/7jAsnE4n-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55a81f2eea277_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/7jAsnE4n-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29829
+itemShortLinkID: 29829
+
+
+itemTitle: Indiana Jones and the Infernal Machine (N64)
+itemWebLink: http://cinemassacre.com/2015/08/24/indiana-jones-and-the-infernal-machine-n64/
+itemPlaylist: http://content.jwplatform.com/manifests/gqLa15l6.m3u8
+itemAudio: http://content.jwplatform.com/videos/gqLa15l6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/gqLa15l6-QvH08cwS.mp4
+//content.jwplatform.com/videos/gqLa15l6-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/gqLa15l6-GzAUXplI.mp4
+//content.jwplatform.com/videos/gqLa15l6-7spvWrjM.mp4
+//content.jwplatform.com/videos/gqLa15l6-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/gqLa15l6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/gqLa15l6-Qw1ADm9e.mp4
+itemDuration: 1045
+itemImage: http://content.jwplatform.com/thumbs/gqLa15l6-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 05:52:27 -0000
+itemPreview: http://content.jwplatform.com/previews/gqLa15l6
+itemThumbnail: http://content.jwplatform.com/thumbs/gqLa15l6-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/gqLa15l6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29888
+itemShortLinkID: 29888
+
+
+itemTitle: Super Contra 7 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/08/31/super-contra-7/
+itemPlaylist: http://content.jwplatform.com/manifests/D3xiwFoI.m3u8
+itemAudio: http://content.jwplatform.com/videos/D3xiwFoI-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/D3xiwFoI-QvH08cwS.mp4
+//content.jwplatform.com/videos/D3xiwFoI-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/D3xiwFoI-GzAUXplI.mp4
+//content.jwplatform.com/videos/D3xiwFoI-7spvWrjM.mp4
+//content.jwplatform.com/videos/D3xiwFoI-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/D3xiwFoI-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/D3xiwFoI-Qw1ADm9e.mp4
+itemDuration: 1399
+itemImage: http://content.jwplatform.com/thumbs/D3xiwFoI-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:26:55 -0000
+itemPreview: http://content.jwplatform.com/previews/D3xiwFoI
+itemThumbnail: http://content.jwplatform.com/thumbs/D3xiwFoI-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/D3xiwFoI-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29899
+itemShortLinkID: 29899
+
+
+itemTitle: Total Carnage WEB.mov
+itemWebLink: http://cinemassacre.com/2015/08/31/total-carnage-arcade-james-mike-bonus/
+itemPlaylist: http://content.jwplatform.com/manifests/kMacmzjZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/kMacmzjZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/kMacmzjZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/kMacmzjZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/kMacmzjZ-GzAUXplI.mp4
+//content.jwplatform.com/videos/kMacmzjZ-7spvWrjM.mp4
+//content.jwplatform.com/videos/kMacmzjZ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/kMacmzjZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/kMacmzjZ-Qw1ADm9e.mp4
+itemDuration: 686
+itemImage: http://content.jwplatform.com/thumbs/kMacmzjZ-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:26:22 -0000
+itemPreview: http://content.jwplatform.com/previews/kMacmzjZ
+itemThumbnail: http://content.jwplatform.com/thumbs/kMacmzjZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/kMacmzjZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29903
+itemShortLinkID: 29903
+
+
+itemTitle: Royal Rumble web.mov
+itemWebLink: http://cinemassacre.com/2015/09/07/wwf-royal-rumble-snes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/82ZAuzkb.m3u8
+itemAudio: http://content.jwplatform.com/videos/82ZAuzkb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/82ZAuzkb-QvH08cwS.mp4
+//content.jwplatform.com/videos/82ZAuzkb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/82ZAuzkb-GzAUXplI.mp4
+//content.jwplatform.com/videos/82ZAuzkb-7spvWrjM.mp4
+//content.jwplatform.com/videos/82ZAuzkb-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/82ZAuzkb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/82ZAuzkb-Qw1ADm9e.mp4
+itemDuration: 689
+itemImage: http://content.jwplatform.com/thumbs/82ZAuzkb-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:26:46 -0000
+itemPreview: http://content.jwplatform.com/previews/82ZAuzkb
+itemThumbnail: http://content.jwplatform.com/thumbs/82ZAuzkb-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/82ZAuzkb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30015
+itemShortLinkID: 30015
+
+
+itemTitle: Jackie Chan's Action Kung Fu NES J&MM
+itemWebLink: http://cinemassacre.com/2015/09/14/jackie-chans-action-kung-fu-nes/
+itemPlaylist: http://content.jwplatform.com/manifests/8XLLF7bS.m3u8
+itemAudio: http://content.jwplatform.com/videos/8XLLF7bS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/8XLLF7bS-QvH08cwS.mp4
+//content.jwplatform.com/videos/8XLLF7bS-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/8XLLF7bS-GzAUXplI.mp4
+//content.jwplatform.com/videos/8XLLF7bS-7spvWrjM.mp4
+//content.jwplatform.com/videos/8XLLF7bS-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/8XLLF7bS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/8XLLF7bS-Qw1ADm9e.mp4
+itemDuration: 647
+itemImage: http://content.jwplatform.com/thumbs/8XLLF7bS-720.jpg
+itemLegacyID: Cinemassacre-55c326ea22305
+itemPubDate: Thu, 06 Aug 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/8XLLF7bS
+itemThumbnail: http://content.jwplatform.com/thumbs/8XLLF7bS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55c326ea22305_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/8XLLF7bS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29883
+itemShortLinkID: 29883
+
+
+itemTitle: Tapper web.mov
+itemWebLink: http://cinemassacre.com/2015/09/14/tapper-arcade/
+itemPlaylist: http://content.jwplatform.com/manifests/nJ6e2UhA.m3u8
+itemAudio: http://content.jwplatform.com/videos/nJ6e2UhA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/nJ6e2UhA-QvH08cwS.mp4
+//content.jwplatform.com/videos/nJ6e2UhA-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/nJ6e2UhA-GzAUXplI.mp4
+//content.jwplatform.com/videos/nJ6e2UhA-7spvWrjM.mp4
+//content.jwplatform.com/videos/nJ6e2UhA-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nJ6e2UhA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nJ6e2UhA-Qw1ADm9e.mp4
+itemDuration: 461
+itemImage: http://content.jwplatform.com/thumbs/nJ6e2UhA-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:24:29 -0000
+itemPreview: http://content.jwplatform.com/previews/nJ6e2UhA
+itemThumbnail: http://content.jwplatform.com/thumbs/nJ6e2UhA-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/nJ6e2UhA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29891
+itemShortLinkID: 29891
+
+
+itemTitle: METROID (NES) Part 1 - James & Mike Mondays.mp4
+itemWebLink: http://cinemassacre.com/2015/09/21/metroid-nes-part-1-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/UrvzqQuK.m3u8
+itemAudio: http://content.jwplatform.com/videos/UrvzqQuK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/UrvzqQuK-QvH08cwS.mp4
+//content.jwplatform.com/videos/UrvzqQuK-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/UrvzqQuK-GzAUXplI.mp4
+//content.jwplatform.com/videos/UrvzqQuK-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/UrvzqQuK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/UrvzqQuK-7spvWrjM.mp4
+itemDuration: 790
+itemImage: http://content.jwplatform.com/thumbs/UrvzqQuK-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:20:11 -0000
+itemPreview: http://content.jwplatform.com/previews/UrvzqQuK
+itemThumbnail: http://content.jwplatform.com/thumbs/UrvzqQuK-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/UrvzqQuK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30101
+itemShortLinkID: 30101
+
+
+itemTitle: Metroid II- Return of Samus (Game Boy) Part 2 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/09/21/metroid-nes-part-2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/4qpbk8Hu.m3u8
+itemAudio: http://content.jwplatform.com/videos/4qpbk8Hu-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/4qpbk8Hu-QvH08cwS.mp4
+//content.jwplatform.com/videos/4qpbk8Hu-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/4qpbk8Hu-GzAUXplI.mp4
+//content.jwplatform.com/videos/4qpbk8Hu-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/4qpbk8Hu-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/4qpbk8Hu-7spvWrjM.mp4
+itemDuration: 1819
+itemImage: http://content.jwplatform.com/thumbs/4qpbk8Hu-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 07:27:21 -0000
+itemPreview: http://content.jwplatform.com/previews/4qpbk8Hu
+itemThumbnail: http://content.jwplatform.com/thumbs/4qpbk8Hu-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/4qpbk8Hu-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30106
+itemShortLinkID: 30106
+
+
+itemTitle: Super Morial Arms Code Name Viper
+itemWebLink: http://cinemassacre.com/2015/09/28/morial-arms-famicom-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/tl1z5x9T.m3u8
+itemAudio: http://content.jwplatform.com/videos/tl1z5x9T-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tl1z5x9T-QvH08cwS.mp4
+//content.jwplatform.com/videos/tl1z5x9T-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/tl1z5x9T-GzAUXplI.mp4
+//content.jwplatform.com/videos/tl1z5x9T-7spvWrjM.mp4
+//content.jwplatform.com/videos/tl1z5x9T-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tl1z5x9T-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tl1z5x9T-Qw1ADm9e.mp4
+itemDuration: 512
+itemImage: http://content.jwplatform.com/thumbs/tl1z5x9T-720.jpg
+itemLegacyID: Cinemassacre-5591c9cff0169
+itemPubDate: Mon, 29 Jun 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/tl1z5x9T
+itemThumbnail: http://content.jwplatform.com/thumbs/tl1z5x9T-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5591c9cff0169_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/tl1z5x9T-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29802
+itemShortLinkID: 29802
+
+
+itemTitle: Splatterhouse 2 web.mov
+itemWebLink: http://cinemassacre.com/2015/10/05/splatterhouse-2-genesis-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/2OpRJn8O.m3u8
+itemAudio: http://content.jwplatform.com/videos/2OpRJn8O-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2OpRJn8O-QvH08cwS.mp4
+//content.jwplatform.com/videos/2OpRJn8O-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/2OpRJn8O-GzAUXplI.mp4
+//content.jwplatform.com/videos/2OpRJn8O-7spvWrjM.mp4
+//content.jwplatform.com/videos/2OpRJn8O-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2OpRJn8O-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2OpRJn8O-Qw1ADm9e.mp4
+itemDuration: 924
+itemImage: http://content.jwplatform.com/thumbs/2OpRJn8O-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:10:49 -0000
+itemPreview: http://content.jwplatform.com/previews/2OpRJn8O
+itemThumbnail: http://content.jwplatform.com/thumbs/2OpRJn8O-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/2OpRJn8O-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30114
+itemShortLinkID: 30114
+
+
+itemTitle: Splatterhouse 3 web.mov
+itemWebLink: http://cinemassacre.com/2015/10/12/splatterhouse-3-sega-genesis-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/fbrk10iF.m3u8
+itemAudio: http://content.jwplatform.com/videos/fbrk10iF-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/fbrk10iF-QvH08cwS.mp4
+//content.jwplatform.com/videos/fbrk10iF-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/fbrk10iF-GzAUXplI.mp4
+//content.jwplatform.com/videos/fbrk10iF-7spvWrjM.mp4
+//content.jwplatform.com/videos/fbrk10iF-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/fbrk10iF-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/fbrk10iF-Qw1ADm9e.mp4
+itemDuration: 870
+itemImage: http://content.jwplatform.com/thumbs/fbrk10iF-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 07:10:49 -0000
+itemPreview: http://content.jwplatform.com/previews/fbrk10iF
+itemThumbnail: http://content.jwplatform.com/thumbs/fbrk10iF-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/fbrk10iF-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30120
+itemShortLinkID: 30120
+
+
+itemTitle: Bloodlines with AD WEB.mov
+itemWebLink: http://cinemassacre.com/2015/10/19/castlevania-bloodlines-sega-genesis/
+itemPlaylist: http://content.jwplatform.com/manifests/iH0uEHzN.m3u8
+itemAudio: http://content.jwplatform.com/videos/iH0uEHzN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/iH0uEHzN-QvH08cwS.mp4
+//content.jwplatform.com/videos/iH0uEHzN-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/iH0uEHzN-GzAUXplI.mp4
+//content.jwplatform.com/videos/iH0uEHzN-7spvWrjM.mp4
+//content.jwplatform.com/videos/iH0uEHzN-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/iH0uEHzN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/iH0uEHzN-Qw1ADm9e.mp4
+itemDuration: 1048
+itemImage: http://content.jwplatform.com/thumbs/iH0uEHzN-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 05:45:34 -0000
+itemPreview: http://content.jwplatform.com/previews/iH0uEHzN
+itemThumbnail: http://content.jwplatform.com/thumbs/iH0uEHzN-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/iH0uEHzN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30142
+itemShortLinkID: 30142
+
+
+itemTitle: Best of James & Mike Mondays Blu-ray!.mp4
+itemWebLink: http://cinemassacre.com/2015/10/24/best-of-james-mike-mondays-blu-ray/
+itemPlaylist: http://content.jwplatform.com/manifests/EREcdqKi.m3u8
+itemAudio: http://content.jwplatform.com/videos/EREcdqKi-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EREcdqKi-QvH08cwS.mp4
+//content.jwplatform.com/videos/EREcdqKi-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/EREcdqKi-GzAUXplI.mp4
+//content.jwplatform.com/videos/EREcdqKi-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EREcdqKi-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EREcdqKi-7spvWrjM.mp4
+itemDuration: 187
+itemImage: http://content.jwplatform.com/thumbs/EREcdqKi-720.jpg
+itemLegacyID: 
+itemPubDate: Sun, 08 May 2016 05:47:59 -0000
+itemPreview: http://content.jwplatform.com/previews/EREcdqKi
+itemThumbnail: http://content.jwplatform.com/thumbs/EREcdqKi-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/EREcdqKi-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30166
+itemShortLinkID: 30166
+
+
+itemTitle: Zombies Ate
+itemWebLink: http://cinemassacre.com/2015/10/26/zombies-ate-my-neighbors-snes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/tC58EIo0.m3u8
+itemAudio: http://content.jwplatform.com/videos/tC58EIo0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tC58EIo0-QvH08cwS.mp4
+//content.jwplatform.com/videos/tC58EIo0-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/tC58EIo0-GzAUXplI.mp4
+//content.jwplatform.com/videos/tC58EIo0-7spvWrjM.mp4
+//content.jwplatform.com/videos/tC58EIo0-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tC58EIo0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tC58EIo0-Qw1ADm9e.mp4
+itemDuration: 869
+itemImage: http://content.jwplatform.com/thumbs/tC58EIo0-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 05:42:45 -0000
+itemPreview: http://content.jwplatform.com/previews/tC58EIo0
+itemThumbnail: http://content.jwplatform.com/thumbs/tC58EIo0-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/tC58EIo0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30204
+itemShortLinkID: 30204
+
+
+itemTitle: Mortal Kombat Arcade James and Mike
+itemWebLink: http://cinemassacre.com/2015/11/02/mortal-kombat/
+itemPlaylist: http://content.jwplatform.com/manifests/ZNhwaZ1G.m3u8
+itemAudio: http://content.jwplatform.com/videos/ZNhwaZ1G-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ZNhwaZ1G-QvH08cwS.mp4
+//content.jwplatform.com/videos/ZNhwaZ1G-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/ZNhwaZ1G-GzAUXplI.mp4
+//content.jwplatform.com/videos/ZNhwaZ1G-7spvWrjM.mp4
+//content.jwplatform.com/videos/ZNhwaZ1G-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ZNhwaZ1G-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ZNhwaZ1G-Qw1ADm9e.mp4
+itemDuration: 509
+itemImage: http://content.jwplatform.com/thumbs/ZNhwaZ1G-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:41:28 -0000
+itemPreview: http://content.jwplatform.com/previews/ZNhwaZ1G
+itemThumbnail: http://content.jwplatform.com/thumbs/ZNhwaZ1G-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/ZNhwaZ1G-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30207
+itemShortLinkID: 30207
+
+
+itemTitle: Power Punch 2 James Mike
+itemWebLink: http://cinemassacre.com/2015/11/09/power-punch-ii-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/i5azHxM6.m3u8
+itemAudio: http://content.jwplatform.com/videos/i5azHxM6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/i5azHxM6-QvH08cwS.mp4
+//content.jwplatform.com/videos/i5azHxM6-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/i5azHxM6-GzAUXplI.mp4
+//content.jwplatform.com/videos/i5azHxM6-7spvWrjM.mp4
+//content.jwplatform.com/videos/i5azHxM6-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/i5azHxM6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/i5azHxM6-Qw1ADm9e.mp4
+itemDuration: 673
+itemImage: http://content.jwplatform.com/thumbs/i5azHxM6-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 06:49:08 -0000
+itemPreview: http://content.jwplatform.com/previews/i5azHxM6
+itemThumbnail: http://content.jwplatform.com/thumbs/i5azHxM6-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/i5azHxM6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30248
+itemShortLinkID: 30248
+
+
+itemTitle: Gex (Panasonic 3DO) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/11/16/gex-panasonic-3do-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/sVVchIpP.m3u8
+itemAudio: http://content.jwplatform.com/videos/sVVchIpP-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sVVchIpP-QvH08cwS.mp4
+//content.jwplatform.com/videos/sVVchIpP-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/sVVchIpP-GzAUXplI.mp4
+//content.jwplatform.com/videos/sVVchIpP-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sVVchIpP-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sVVchIpP-7spvWrjM.mp4
+itemDuration: 623
+itemImage: http://content.jwplatform.com/thumbs/sVVchIpP-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:44:44 -0000
+itemPreview: http://content.jwplatform.com/previews/sVVchIpP
+itemThumbnail: http://content.jwplatform.com/thumbs/sVVchIpP-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/sVVchIpP-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30277
+itemShortLinkID: 30277
+
+
+itemTitle: Donkey Kong Country J&MM
+itemWebLink: http://cinemassacre.com/2015/11/23/donkey-kong-country-snes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/jEgWFHhs.m3u8
+itemAudio: http://content.jwplatform.com/videos/jEgWFHhs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jEgWFHhs-QvH08cwS.mp4
+//content.jwplatform.com/videos/jEgWFHhs-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/jEgWFHhs-GzAUXplI.mp4
+//content.jwplatform.com/videos/jEgWFHhs-7spvWrjM.mp4
+//content.jwplatform.com/videos/jEgWFHhs-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jEgWFHhs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jEgWFHhs-Qw1ADm9e.mp4
+itemDuration: 1811
+itemImage: http://content.jwplatform.com/thumbs/jEgWFHhs-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 06:48:09 -0000
+itemPreview: http://content.jwplatform.com/previews/jEgWFHhs
+itemThumbnail: http://content.jwplatform.com/thumbs/jEgWFHhs-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/jEgWFHhs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30328
+itemShortLinkID: 30328
+
+
+itemTitle: Resogun
+itemWebLink: http://cinemassacre.com/2015/11/30/resogun-ps4-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/DiqSaxYK.m3u8
+itemAudio: http://content.jwplatform.com/videos/DiqSaxYK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DiqSaxYK-QvH08cwS.mp4
+//content.jwplatform.com/videos/DiqSaxYK-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DiqSaxYK-GzAUXplI.mp4
+//content.jwplatform.com/videos/DiqSaxYK-7spvWrjM.mp4
+//content.jwplatform.com/videos/DiqSaxYK-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DiqSaxYK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DiqSaxYK-Qw1ADm9e.mp4
+itemDuration: 509
+itemImage: http://content.jwplatform.com/thumbs/DiqSaxYK-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 09 May 2016 03:19:58 -0000
+itemPreview: http://content.jwplatform.com/previews/DiqSaxYK
+itemThumbnail: http://content.jwplatform.com/thumbs/DiqSaxYK-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/DiqSaxYK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30325
+itemShortLinkID: 30325
+
+
+itemTitle: Star Wars Famicom
+itemWebLink: http://cinemassacre.com/2015/12/07/star-wars-famicom-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/O6thj31b.m3u8
+itemAudio: http://content.jwplatform.com/videos/O6thj31b-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/O6thj31b-QvH08cwS.mp4
+//content.jwplatform.com/videos/O6thj31b-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/O6thj31b-GzAUXplI.mp4
+//content.jwplatform.com/videos/O6thj31b-7spvWrjM.mp4
+//content.jwplatform.com/videos/O6thj31b-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/O6thj31b-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/O6thj31b-Qw1ADm9e.mp4
+itemDuration: 1079
+itemImage: http://content.jwplatform.com/thumbs/O6thj31b-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 09 May 2016 03:20:12 -0000
+itemPreview: http://content.jwplatform.com/previews/O6thj31b
+itemThumbnail: http://content.jwplatform.com/thumbs/O6thj31b-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/O6thj31b-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30364
+itemShortLinkID: 30364
+
+
+itemTitle: Star Wars Chess Sega CD
+itemWebLink: http://cinemassacre.com/2015/12/14/star-wars-chess-sega-cd/
+itemPlaylist: http://content.jwplatform.com/manifests/jACcmalh.m3u8
+itemAudio: http://content.jwplatform.com/videos/jACcmalh-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jACcmalh-QvH08cwS.mp4
+//content.jwplatform.com/videos/jACcmalh-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/jACcmalh-GzAUXplI.mp4
+//content.jwplatform.com/videos/jACcmalh-7spvWrjM.mp4
+//content.jwplatform.com/videos/jACcmalh-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jACcmalh-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jACcmalh-Qw1ADm9e.mp4
+itemDuration: 621
+itemImage: http://content.jwplatform.com/thumbs/jACcmalh-720.jpg
+itemLegacyID: 
+itemPubDate: Wed, 11 May 2016 21:34:52 -0000
+itemPreview: http://content.jwplatform.com/previews/jACcmalh
+itemThumbnail: http://content.jwplatform.com/thumbs/jACcmalh-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/jACcmalh-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30385
+itemShortLinkID: 30385
+
+
+itemTitle: Star Wars 32X WEB.mov
+itemWebLink: http://cinemassacre.com/2015/12/21/star-wars-arcade-sega-32x-star-wars-rebel-assault-sega-cd/
+itemPlaylist: http://content.jwplatform.com/manifests/w5x5nXk5.m3u8
+itemAudio: http://content.jwplatform.com/videos/w5x5nXk5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/w5x5nXk5-QvH08cwS.mp4
+//content.jwplatform.com/videos/w5x5nXk5-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/w5x5nXk5-GzAUXplI.mp4
+//content.jwplatform.com/videos/w5x5nXk5-7spvWrjM.mp4
+//content.jwplatform.com/videos/w5x5nXk5-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/w5x5nXk5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/w5x5nXk5-Qw1ADm9e.mp4
+itemDuration: 551
+itemImage: http://content.jwplatform.com/thumbs/w5x5nXk5-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:35:40 -0000
+itemPreview: http://content.jwplatform.com/previews/w5x5nXk5
+itemThumbnail: http://content.jwplatform.com/thumbs/w5x5nXk5-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/w5x5nXk5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30487
+itemShortLinkID: 30487
+
+
+itemTitle: Lego Star Wars web.mov
+itemWebLink: http://cinemassacre.com/2015/12/28/lego-star-wars-xbox-360-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/vJ98qmnb.m3u8
+itemAudio: http://content.jwplatform.com/videos/vJ98qmnb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vJ98qmnb-QvH08cwS.mp4
+//content.jwplatform.com/videos/vJ98qmnb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/vJ98qmnb-GzAUXplI.mp4
+//content.jwplatform.com/videos/vJ98qmnb-7spvWrjM.mp4
+//content.jwplatform.com/videos/vJ98qmnb-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vJ98qmnb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vJ98qmnb-Qw1ADm9e.mp4
+itemDuration: 579
+itemImage: http://content.jwplatform.com/thumbs/vJ98qmnb-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 05:48:17 -0000
+itemPreview: http://content.jwplatform.com/previews/vJ98qmnb
+itemThumbnail: http://content.jwplatform.com/thumbs/vJ98qmnb-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/vJ98qmnb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30484
+itemShortLinkID: 30484
+
+
+itemTitle: NEW reedit FZERO WEB.mov
+itemWebLink: http://cinemassacre.com/2015/02/23/f-zero-snes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/JsR3DUIk.m3u8
+itemAudio: http://content.jwplatform.com/videos/JsR3DUIk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JsR3DUIk-QvH08cwS.mp4
+//content.jwplatform.com/videos/JsR3DUIk-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/JsR3DUIk-GzAUXplI.mp4
+//content.jwplatform.com/videos/JsR3DUIk-7spvWrjM.mp4
+//content.jwplatform.com/videos/JsR3DUIk-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JsR3DUIk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JsR3DUIk-Qw1ADm9e.mp4
+itemDuration: 1398
+itemImage: http://content.jwplatform.com/thumbs/JsR3DUIk-720.jpg
+itemLegacyID: Cinemassacre-54e7e004603cb
+itemPubDate: Fri, 20 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JsR3DUIk
+itemThumbnail: http://content.jwplatform.com/thumbs/JsR3DUIk-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54e7e004603cb_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JsR3DUIk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29223
+itemShortLinkID: 29223
+
+
+itemTitle: Bomberman 2 WEB.mov
+itemWebLink: http://cinemassacre.com/2015/03/02/bomberman-2-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/W1q6nT5t.m3u8
+itemAudio: http://content.jwplatform.com/videos/W1q6nT5t-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/W1q6nT5t-QvH08cwS.mp4
+//content.jwplatform.com/videos/W1q6nT5t-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/W1q6nT5t-GzAUXplI.mp4
+//content.jwplatform.com/videos/W1q6nT5t-7spvWrjM.mp4
+//content.jwplatform.com/videos/W1q6nT5t-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/W1q6nT5t-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/W1q6nT5t-Qw1ADm9e.mp4
+itemDuration: 500
+itemImage: http://content.jwplatform.com/thumbs/W1q6nT5t-720.jpg
+itemLegacyID: Cinemassacre-54f23ddced1a0
+itemPubDate: Sat, 28 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/W1q6nT5t
+itemThumbnail: http://content.jwplatform.com/thumbs/W1q6nT5t-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54f23ddced1a0_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/W1q6nT5t-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29313
+itemShortLinkID: 29313
+
+
+itemTitle: Life Force NES J&MM
+itemWebLink: http://cinemassacre.com/2015/03/09/lifeforce-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/xm1ViKlt.m3u8
+itemAudio: http://content.jwplatform.com/videos/xm1ViKlt-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xm1ViKlt-QvH08cwS.mp4
+//content.jwplatform.com/videos/xm1ViKlt-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xm1ViKlt-GzAUXplI.mp4
+//content.jwplatform.com/videos/xm1ViKlt-7spvWrjM.mp4
+//content.jwplatform.com/videos/xm1ViKlt-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xm1ViKlt-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xm1ViKlt-Qw1ADm9e.mp4
+itemDuration: 845
+itemImage: http://content.jwplatform.com/thumbs/xm1ViKlt-720.jpg
+itemLegacyID: Cinemassacre-54de46545cb0e
+itemPubDate: Fri, 13 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xm1ViKlt
+itemThumbnail: http://content.jwplatform.com/thumbs/xm1ViKlt-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54de46545cb0e_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xm1ViKlt-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29229
+itemShortLinkID: 29229
+
+
+itemTitle: 3D World Runner JonTron J&MM
+itemWebLink: http://cinemassacre.com/2015/03/16/3-d-world-runner-nes-guest-jontron/
+itemPlaylist: http://content.jwplatform.com/manifests/hpsp4Ev4.m3u8
+itemAudio: http://content.jwplatform.com/videos/hpsp4Ev4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hpsp4Ev4-QvH08cwS.mp4
+//content.jwplatform.com/videos/hpsp4Ev4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hpsp4Ev4-GzAUXplI.mp4
+//content.jwplatform.com/videos/hpsp4Ev4-7spvWrjM.mp4
+//content.jwplatform.com/videos/hpsp4Ev4-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hpsp4Ev4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hpsp4Ev4-Qw1ADm9e.mp4
+itemDuration: 298
+itemImage: http://content.jwplatform.com/thumbs/hpsp4Ev4-720.jpg
+itemLegacyID: Cinemassacre-54f6494db0c16
+itemPubDate: Tue, 03 Mar 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hpsp4Ev4
+itemThumbnail: http://content.jwplatform.com/thumbs/hpsp4Ev4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54f6494db0c16_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hpsp4Ev4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29349
+itemShortLinkID: 29349
+
+
+itemTitle: PAX East Live - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/03/23/pax-east-live-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/G257HTL4.m3u8
+itemAudio: http://content.jwplatform.com/videos/G257HTL4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/G257HTL4-QvH08cwS.mp4
+//content.jwplatform.com/videos/G257HTL4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/G257HTL4-GzAUXplI.mp4
+//content.jwplatform.com/videos/G257HTL4-7spvWrjM.mp4
+//content.jwplatform.com/videos/G257HTL4-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/G257HTL4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/G257HTL4-Qw1ADm9e.mp4
+itemDuration: 838
+itemImage: http://content.jwplatform.com/thumbs/G257HTL4-720.jpg
+itemLegacyID: Cinemassacre-550a13500e13b
+itemPubDate: Wed, 18 Mar 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/G257HTL4
+itemThumbnail: http://content.jwplatform.com/thumbs/G257HTL4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-550a13500e13b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/G257HTL4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29412
+itemShortLinkID: 29412
+
+
+itemTitle: Probotector Contra James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/03/30/probotectorcontra-nes-guest-doug-walker/
+itemPlaylist: http://content.jwplatform.com/manifests/OrRqdSO8.m3u8
+itemAudio: http://content.jwplatform.com/videos/OrRqdSO8-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/OrRqdSO8-QvH08cwS.mp4
+//content.jwplatform.com/videos/OrRqdSO8-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/OrRqdSO8-GzAUXplI.mp4
+//content.jwplatform.com/videos/OrRqdSO8-7spvWrjM.mp4
+//content.jwplatform.com/videos/OrRqdSO8-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/OrRqdSO8-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/OrRqdSO8-Qw1ADm9e.mp4
+itemDuration: 986
+itemImage: http://content.jwplatform.com/thumbs/OrRqdSO8-720.jpg
+itemLegacyID: Cinemassacre-55185591835ec
+itemPubDate: Sun, 29 Mar 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/OrRqdSO8
+itemThumbnail: http://content.jwplatform.com/thumbs/OrRqdSO8-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55185591835ec_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/OrRqdSO8-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29424
+itemShortLinkID: 29424
+
+
+itemTitle: Golden Axe II - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/04/06/golden-axe-ii-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/Eh4fysKq.m3u8
+itemAudio: http://content.jwplatform.com/videos/Eh4fysKq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Eh4fysKq-QvH08cwS.mp4
+//content.jwplatform.com/videos/Eh4fysKq-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Eh4fysKq-GzAUXplI.mp4
+//content.jwplatform.com/videos/Eh4fysKq-7spvWrjM.mp4
+//content.jwplatform.com/videos/Eh4fysKq-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Eh4fysKq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Eh4fysKq-Qw1ADm9e.mp4
+itemDuration: 516
+itemImage: http://content.jwplatform.com/thumbs/Eh4fysKq-720.jpg
+itemLegacyID: Cinemassacre-551db70c79055
+itemPubDate: Thu, 02 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Eh4fysKq
+itemThumbnail: http://content.jwplatform.com/thumbs/Eh4fysKq-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-551db70c79055_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Eh4fysKq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29476
+itemShortLinkID: 29476
+
+
+itemTitle: TMNT 3 The Manhattan Project
+itemWebLink: http://cinemassacre.com/2015/04/13/tmnt-3-the-manhattan-project-nes-jmm/
+itemPlaylist: http://content.jwplatform.com/manifests/yZF8RIzN.m3u8
+itemAudio: http://content.jwplatform.com/videos/yZF8RIzN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/yZF8RIzN-QvH08cwS.mp4
+//content.jwplatform.com/videos/yZF8RIzN-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/yZF8RIzN-GzAUXplI.mp4
+//content.jwplatform.com/videos/yZF8RIzN-7spvWrjM.mp4
+//content.jwplatform.com/videos/yZF8RIzN-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yZF8RIzN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yZF8RIzN-Qw1ADm9e.mp4
+itemDuration: 780
+itemImage: http://content.jwplatform.com/thumbs/yZF8RIzN-720.jpg
+itemLegacyID: Cinemassacre-55185cd7f4189
+itemPubDate: Sun, 29 Mar 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/yZF8RIzN
+itemThumbnail: http://content.jwplatform.com/thumbs/yZF8RIzN-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55185cd7f4189_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/yZF8RIzN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29513
+itemShortLinkID: 29513
+
+
+itemTitle: Mortal Kombat X
+itemWebLink: http://cinemassacre.com/2015/04/20/mortal-kombat-x-ps4-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/90vh7rXt.m3u8
+itemAudio: http://content.jwplatform.com/videos/90vh7rXt-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/90vh7rXt-QvH08cwS.mp4
+//content.jwplatform.com/videos/90vh7rXt-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/90vh7rXt-GzAUXplI.mp4
+//content.jwplatform.com/videos/90vh7rXt-7spvWrjM.mp4
+//content.jwplatform.com/videos/90vh7rXt-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/90vh7rXt-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/90vh7rXt-Qw1ADm9e.mp4
+itemDuration: 634
+itemImage: http://content.jwplatform.com/thumbs/90vh7rXt-720.jpg
+itemLegacyID: Cinemassacre-553048318b86b
+itemPubDate: Thu, 16 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/90vh7rXt
+itemThumbnail: http://content.jwplatform.com/thumbs/90vh7rXt-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-553048318b86b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/90vh7rXt-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29549
+itemShortLinkID: 29549
+
+
+itemTitle: Yoshi (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/04/27/yoshi-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/mkzoNbRb.m3u8
+itemAudio: http://content.jwplatform.com/videos/mkzoNbRb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/mkzoNbRb-QvH08cwS.mp4
+//content.jwplatform.com/videos/mkzoNbRb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/mkzoNbRb-GzAUXplI.mp4
+//content.jwplatform.com/videos/mkzoNbRb-7spvWrjM.mp4
+//content.jwplatform.com/videos/mkzoNbRb-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/mkzoNbRb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/mkzoNbRb-Qw1ADm9e.mp4
+itemDuration: 571
+itemImage: http://content.jwplatform.com/thumbs/mkzoNbRb-720.jpg
+itemLegacyID: Cinemassacre-551a3841ce7d8
+itemPubDate: Tue, 31 Mar 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/mkzoNbRb
+itemThumbnail: http://content.jwplatform.com/thumbs/mkzoNbRb-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-551a3841ce7d8_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/mkzoNbRb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29516
+itemShortLinkID: 29516
+
+
+itemTitle: Earthworm Jim Sega Genesis
+itemWebLink: http://cinemassacre.com/2015/05/04/earthworm-jim-sega-genesis/
+itemPlaylist: http://content.jwplatform.com/manifests/ksuAlomg.m3u8
+itemAudio: http://content.jwplatform.com/videos/ksuAlomg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ksuAlomg-QvH08cwS.mp4
+//content.jwplatform.com/videos/ksuAlomg-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/ksuAlomg-GzAUXplI.mp4
+//content.jwplatform.com/videos/ksuAlomg-7spvWrjM.mp4
+//content.jwplatform.com/videos/ksuAlomg-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ksuAlomg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ksuAlomg-Qw1ADm9e.mp4
+itemDuration: 965
+itemImage: http://content.jwplatform.com/thumbs/ksuAlomg-720.jpg
+itemLegacyID: Cinemassacre-5532ec10aa2c6
+itemPubDate: Sat, 18 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ksuAlomg
+itemThumbnail: http://content.jwplatform.com/thumbs/ksuAlomg-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5532ec10aa2c6_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ksuAlomg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29510
+itemShortLinkID: 29510
+
+
+itemTitle: Double Dragon Neo Geo CD
+itemWebLink: http://cinemassacre.com/2015/05/11/double-dragon-neo-geo-cd-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/5QD6uYFl.m3u8
+itemAudio: http://content.jwplatform.com/videos/5QD6uYFl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5QD6uYFl-QvH08cwS.mp4
+//content.jwplatform.com/videos/5QD6uYFl-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/5QD6uYFl-GzAUXplI.mp4
+//content.jwplatform.com/videos/5QD6uYFl-7spvWrjM.mp4
+//content.jwplatform.com/videos/5QD6uYFl-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5QD6uYFl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5QD6uYFl-Qw1ADm9e.mp4
+itemDuration: 761
+itemImage: http://content.jwplatform.com/thumbs/5QD6uYFl-720.jpg
+itemLegacyID: Cinemassacre-5533f97c3620d
+itemPubDate: Sun, 19 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5QD6uYFl
+itemThumbnail: http://content.jwplatform.com/thumbs/5QD6uYFl-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5533f97c3620d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5QD6uYFl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29561
+itemShortLinkID: 29561
+
+
+itemTitle: Krazy Kreatures NES James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/05/18/krazy-kreatures-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/pKdhlZen.m3u8
+itemAudio: http://content.jwplatform.com/videos/pKdhlZen-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pKdhlZen-QvH08cwS.mp4
+//content.jwplatform.com/videos/pKdhlZen-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/pKdhlZen-GzAUXplI.mp4
+//content.jwplatform.com/videos/pKdhlZen-7spvWrjM.mp4
+//content.jwplatform.com/videos/pKdhlZen-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pKdhlZen-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pKdhlZen-Qw1ADm9e.mp4
+itemDuration: 900
+itemImage: http://content.jwplatform.com/thumbs/pKdhlZen-720.jpg
+itemLegacyID: Cinemassacre-554094e82bcc7
+itemPubDate: Wed, 29 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/pKdhlZen
+itemThumbnail: http://content.jwplatform.com/thumbs/pKdhlZen-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-554094e82bcc7_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/pKdhlZen-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29598
+itemShortLinkID: 29598
+
+
+itemTitle: Mario Kart 64 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/05/25/mario-kart-64-nintendo-64-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/eJHtmMsa.m3u8
+itemAudio: http://content.jwplatform.com/videos/eJHtmMsa-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/eJHtmMsa-QvH08cwS.mp4
+//content.jwplatform.com/videos/eJHtmMsa-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/eJHtmMsa-GzAUXplI.mp4
+//content.jwplatform.com/videos/eJHtmMsa-7spvWrjM.mp4
+//content.jwplatform.com/videos/eJHtmMsa-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/eJHtmMsa-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/eJHtmMsa-Qw1ADm9e.mp4
+itemDuration: 1129
+itemImage: http://content.jwplatform.com/thumbs/eJHtmMsa-720.jpg
+itemLegacyID: Cinemassacre-555779690c440
+itemPubDate: Sat, 16 May 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/eJHtmMsa
+itemThumbnail: http://content.jwplatform.com/thumbs/eJHtmMsa-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-555779690c440_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/eJHtmMsa-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29641
+itemShortLinkID: 29641
+
+
+itemTitle: Super Mario Land James & Mike
+itemWebLink: http://cinemassacre.com/2015/06/01/super-mario-land-gameboy-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/Em80w82R.m3u8
+itemAudio: http://content.jwplatform.com/videos/Em80w82R-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Em80w82R-QvH08cwS.mp4
+//content.jwplatform.com/videos/Em80w82R-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Em80w82R-GzAUXplI.mp4
+//content.jwplatform.com/videos/Em80w82R-7spvWrjM.mp4
+//content.jwplatform.com/videos/Em80w82R-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Em80w82R-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Em80w82R-Qw1ADm9e.mp4
+itemDuration: 507
+itemImage: http://content.jwplatform.com/thumbs/Em80w82R-720.jpg
+itemLegacyID: Cinemassacre-556be6ba22973
+itemPubDate: Sun, 31 May 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Em80w82R
+itemThumbnail: http://content.jwplatform.com/thumbs/Em80w82R-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-556be6ba22973_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Em80w82R-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29586
+itemShortLinkID: 29586
+
+
+itemTitle: Zelda Famicom web.mov
+itemWebLink: http://cinemassacre.com/2015/06/08/the-legend-of-zelda-famicom-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/DoexJrRT.m3u8
+itemAudio: http://content.jwplatform.com/videos/DoexJrRT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DoexJrRT-QvH08cwS.mp4
+//content.jwplatform.com/videos/DoexJrRT-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DoexJrRT-GzAUXplI.mp4
+//content.jwplatform.com/videos/DoexJrRT-7spvWrjM.mp4
+//content.jwplatform.com/videos/DoexJrRT-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DoexJrRT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DoexJrRT-Qw1ADm9e.mp4
+itemDuration: 812
+itemImage: http://content.jwplatform.com/thumbs/DoexJrRT-720.jpg
+itemLegacyID: Cinemassacre-5563d06298bcd
+itemPubDate: Mon, 25 May 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/DoexJrRT
+itemThumbnail: http://content.jwplatform.com/thumbs/DoexJrRT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5563d06298bcd_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/DoexJrRT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29659
+itemShortLinkID: 29659
+
+
+itemTitle: Ninja Golf (Atari 7800) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/06/15/ninja-golf-atari-7800-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/svB4MmtA.m3u8
+itemAudio: http://content.jwplatform.com/videos/svB4MmtA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/svB4MmtA-QvH08cwS.mp4
+//content.jwplatform.com/videos/svB4MmtA-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/svB4MmtA-GzAUXplI.mp4
+//content.jwplatform.com/videos/svB4MmtA-7spvWrjM.mp4
+//content.jwplatform.com/videos/svB4MmtA-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/svB4MmtA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/svB4MmtA-Qw1ADm9e.mp4
+itemDuration: 640
+itemImage: http://content.jwplatform.com/thumbs/svB4MmtA-720.jpg
+itemLegacyID: Cinemassacre-5563ee0f0787d
+itemPubDate: Mon, 25 May 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/svB4MmtA
+itemThumbnail: http://content.jwplatform.com/thumbs/svB4MmtA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5563ee0f0787d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/svB4MmtA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29663
+itemShortLinkID: 29663
+
+
+itemTitle: Doki Part 1 WEB.mov
+itemWebLink: http://cinemassacre.com/2015/06/22/doki-doki-panic-famicom-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/zVeyFnMj.m3u8
+itemAudio: http://content.jwplatform.com/videos/zVeyFnMj-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/zVeyFnMj-QvH08cwS.mp4
+//content.jwplatform.com/videos/zVeyFnMj-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/zVeyFnMj-GzAUXplI.mp4
+//content.jwplatform.com/videos/zVeyFnMj-7spvWrjM.mp4
+//content.jwplatform.com/videos/zVeyFnMj-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/zVeyFnMj-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/zVeyFnMj-Qw1ADm9e.mp4
+itemDuration: 907
+itemImage: http://content.jwplatform.com/thumbs/zVeyFnMj-720.jpg
+itemLegacyID: Cinemassacre-556e2a603ed70
+itemPubDate: Tue, 02 Jun 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/zVeyFnMj
+itemThumbnail: http://content.jwplatform.com/thumbs/zVeyFnMj-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-556e2a603ed70_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/zVeyFnMj-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29700
+itemShortLinkID: 29700
+
+
+itemTitle: Doki Doki Panic Part 2
+itemWebLink: http://cinemassacre.com/2015/06/29/doki-doki-panic-famicom-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/NMeTX3MD.m3u8
+itemAudio: http://content.jwplatform.com/videos/NMeTX3MD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/NMeTX3MD-QvH08cwS.mp4
+//content.jwplatform.com/videos/NMeTX3MD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/NMeTX3MD-GzAUXplI.mp4
+//content.jwplatform.com/videos/NMeTX3MD-7spvWrjM.mp4
+//content.jwplatform.com/videos/NMeTX3MD-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/NMeTX3MD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/NMeTX3MD-Qw1ADm9e.mp4
+itemDuration: 870
+itemImage: http://content.jwplatform.com/thumbs/NMeTX3MD-720.jpg
+itemLegacyID: Cinemassacre-556d7fdbd03bc
+itemPubDate: Tue, 02 Jun 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/NMeTX3MD
+itemThumbnail: http://content.jwplatform.com/thumbs/NMeTX3MD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-556d7fdbd03bc_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/NMeTX3MD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29697
+itemShortLinkID: 29697
+
+
+itemTitle: King Kong 2 Famicom James Mike
+itemWebLink: http://cinemassacre.com/2015/07/06/king-kong-2-famicom-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/kYDzVE1M.m3u8
+itemAudio: http://content.jwplatform.com/videos/kYDzVE1M-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/kYDzVE1M-QvH08cwS.mp4
+//content.jwplatform.com/videos/kYDzVE1M-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/kYDzVE1M-GzAUXplI.mp4
+//content.jwplatform.com/videos/kYDzVE1M-7spvWrjM.mp4
+//content.jwplatform.com/videos/kYDzVE1M-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/kYDzVE1M-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/kYDzVE1M-Qw1ADm9e.mp4
+itemDuration: 1208
+itemImage: http://content.jwplatform.com/thumbs/kYDzVE1M-720.jpg
+itemLegacyID: Cinemassacre-558c52ecaa6e4
+itemPubDate: Thu, 25 Jun 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/kYDzVE1M
+itemThumbnail: http://content.jwplatform.com/thumbs/kYDzVE1M-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-558c52ecaa6e4_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/kYDzVE1M-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29770
+itemShortLinkID: 29770
+
+
+itemTitle: Burnout 3 Takedown James and Mike
+itemWebLink: http://cinemassacre.com/2015/07/13/burnout-3-takedown-ps2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/yhg2G4Y1.m3u8
+itemAudio: http://content.jwplatform.com/videos/yhg2G4Y1-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/yhg2G4Y1-QvH08cwS.mp4
+//content.jwplatform.com/videos/yhg2G4Y1-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/yhg2G4Y1-GzAUXplI.mp4
+//content.jwplatform.com/videos/yhg2G4Y1-7spvWrjM.mp4
+//content.jwplatform.com/videos/yhg2G4Y1-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yhg2G4Y1-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yhg2G4Y1-Qw1ADm9e.mp4
+itemDuration: 958
+itemImage: http://content.jwplatform.com/thumbs/yhg2G4Y1-720.jpg
+itemLegacyID: Cinemassacre-5566173d044a2
+itemPubDate: Wed, 27 May 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/yhg2G4Y1
+itemThumbnail: http://content.jwplatform.com/thumbs/yhg2G4Y1-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5566173d044a2_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/yhg2G4Y1-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29668
+itemShortLinkID: 29668
+
+
+itemTitle: Godzilla PS4 web.mov
+itemWebLink: http://cinemassacre.com/2015/07/20/godzilla-ps4-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/HxcZRKh3.m3u8
+itemAudio: http://content.jwplatform.com/videos/HxcZRKh3-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/HxcZRKh3-QvH08cwS.mp4
+//content.jwplatform.com/videos/HxcZRKh3-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/HxcZRKh3-GzAUXplI.mp4
+//content.jwplatform.com/videos/HxcZRKh3-7spvWrjM.mp4
+//content.jwplatform.com/videos/HxcZRKh3-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/HxcZRKh3-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/HxcZRKh3-Qw1ADm9e.mp4
+itemDuration: 1301
+itemImage: http://content.jwplatform.com/thumbs/HxcZRKh3-720.jpg
+itemLegacyID: Cinemassacre-55a63746548a5
+itemPubDate: Wed, 15 Jul 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/HxcZRKh3
+itemThumbnail: http://content.jwplatform.com/thumbs/HxcZRKh3-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55a63746548a5_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/HxcZRKh3-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29816
+itemShortLinkID: 29816
+
+
+itemTitle: Battletoads (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2015/07/27/battletoads-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/PocYi9NU.m3u8
+itemAudio: http://content.jwplatform.com/videos/PocYi9NU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/PocYi9NU-QvH08cwS.mp4
+//content.jwplatform.com/videos/PocYi9NU-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/PocYi9NU-GzAUXplI.mp4
+//content.jwplatform.com/videos/PocYi9NU-7spvWrjM.mp4
+//content.jwplatform.com/videos/PocYi9NU-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/PocYi9NU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/PocYi9NU-Qw1ADm9e.mp4
+itemDuration: 3603
+itemImage: http://content.jwplatform.com/thumbs/PocYi9NU-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 03 May 2016 00:29:44 -0000
+itemPreview: http://content.jwplatform.com/previews/PocYi9NU
+itemThumbnail: http://content.jwplatform.com/thumbs/PocYi9NU-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/PocYi9NU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29844
+itemShortLinkID: 29844
+
+
+itemTitle: Explosive Fighter Patton J&MM Bonus
+itemWebLink: http://cinemassacre.com/2015/07/29/explosive-patton-kun-famicom-james-mike-bonus/
+itemPlaylist: http://content.jwplatform.com/manifests/Frv1zGZx.m3u8
+itemAudio: http://content.jwplatform.com/videos/Frv1zGZx-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Frv1zGZx-QvH08cwS.mp4
+//content.jwplatform.com/videos/Frv1zGZx-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Frv1zGZx-GzAUXplI.mp4
+//content.jwplatform.com/videos/Frv1zGZx-7spvWrjM.mp4
+//content.jwplatform.com/videos/Frv1zGZx-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Frv1zGZx-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Frv1zGZx-Qw1ADm9e.mp4
+itemDuration: 509
+itemImage: http://content.jwplatform.com/thumbs/Frv1zGZx-720.jpg
+itemLegacyID: Cinemassacre-55b2a6c8e02ae
+itemPubDate: Fri, 24 Jul 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Frv1zGZx
+itemThumbnail: http://content.jwplatform.com/thumbs/Frv1zGZx-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55b2a6c8e02ae_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Frv1zGZx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29832
+itemShortLinkID: 29832
+
+
+itemTitle: Operation C WEB.mov
+itemWebLink: http://cinemassacre.com/2015/08/03/operation-c-game-boy-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/3INI8yGq.m3u8
+itemAudio: http://content.jwplatform.com/videos/3INI8yGq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3INI8yGq-QvH08cwS.mp4
+//content.jwplatform.com/videos/3INI8yGq-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/3INI8yGq-GzAUXplI.mp4
+//content.jwplatform.com/videos/3INI8yGq-7spvWrjM.mp4
+//content.jwplatform.com/videos/3INI8yGq-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3INI8yGq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3INI8yGq-Qw1ADm9e.mp4
+itemDuration: 1255
+itemImage: http://content.jwplatform.com/thumbs/3INI8yGq-720.jpg
+itemLegacyID: Cinemassacre-5583355ef2090
+itemPubDate: Thu, 18 Jun 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3INI8yGq
+itemThumbnail: http://content.jwplatform.com/thumbs/3INI8yGq-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5583355ef2090_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3INI8yGq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29759
+itemShortLinkID: 29759
+
+
+itemTitle: Double Dragon II: The Revenge (NES) Part 2 - James
+itemWebLink: http://cinemassacre.com/2014/09/22/double-dragon-ii-nes-part-2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/G5QyQXmf.m3u8
+itemAudio: http://content.jwplatform.com/videos/G5QyQXmf-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/G5QyQXmf-QvH08cwS.mp4
+//content.jwplatform.com/videos/G5QyQXmf-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/G5QyQXmf-GzAUXplI.mp4
+//content.jwplatform.com/videos/G5QyQXmf-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/G5QyQXmf-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/G5QyQXmf-7spvWrjM.mp4
+itemDuration: 556
+itemImage: http://content.jwplatform.com/thumbs/G5QyQXmf-720.jpg
+itemLegacyID: Cinemassacre-540a246f82d11
+itemPubDate: Fri, 05 Sep 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/G5QyQXmf
+itemThumbnail: http://content.jwplatform.com/thumbs/G5QyQXmf-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-540a246f82d11_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/G5QyQXmf-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28568
+itemShortLinkID: 28568
+
+
+itemTitle: Zombie Nation (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/09/29/zombie-nation-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/qxw6vAva.m3u8
+itemAudio: http://content.jwplatform.com/videos/qxw6vAva-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qxw6vAva-QvH08cwS.mp4
+//content.jwplatform.com/videos/qxw6vAva-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/qxw6vAva-GzAUXplI.mp4
+//content.jwplatform.com/videos/qxw6vAva-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qxw6vAva-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qxw6vAva-7spvWrjM.mp4
+itemDuration: 456
+itemImage: http://content.jwplatform.com/thumbs/qxw6vAva-720.jpg
+itemLegacyID: Cinemassacre-53f17676caa7b
+itemPubDate: Sun, 17 Aug 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qxw6vAva
+itemThumbnail: http://content.jwplatform.com/thumbs/qxw6vAva-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53f17676caa7b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qxw6vAva-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28340
+itemShortLinkID: 28340
+
+
+itemTitle: Super Castlevania IV (SNES) Part 1 - James & Mike
+itemWebLink: http://cinemassacre.com/2014/10/06/super-castlevania-iv-snes-part-1-jmm/
+itemPlaylist: http://content.jwplatform.com/manifests/JyHhqzlQ.m3u8
+itemAudio: http://content.jwplatform.com/videos/JyHhqzlQ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JyHhqzlQ-QvH08cwS.mp4
+//content.jwplatform.com/videos/JyHhqzlQ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/JyHhqzlQ-GzAUXplI.mp4
+//content.jwplatform.com/videos/JyHhqzlQ-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JyHhqzlQ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JyHhqzlQ-7spvWrjM.mp4
+itemDuration: 1338
+itemImage: http://content.jwplatform.com/thumbs/JyHhqzlQ-720.jpg
+itemLegacyID: Cinemassacre-54192dd184ee4
+itemPubDate: Wed, 17 Sep 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JyHhqzlQ
+itemThumbnail: http://content.jwplatform.com/thumbs/JyHhqzlQ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54192dd184ee4_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JyHhqzlQ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28594
+itemShortLinkID: 28594
+
+
+itemTitle: Super Castlevania IV (SNES) Part 2 - James & Mike
+itemWebLink: http://cinemassacre.com/2014/10/13/super-castlevania-iv-snes-part-2-jmm/
+itemPlaylist: http://content.jwplatform.com/manifests/pNI0CblY.m3u8
+itemAudio: http://content.jwplatform.com/videos/pNI0CblY-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pNI0CblY-QvH08cwS.mp4
+//content.jwplatform.com/videos/pNI0CblY-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/pNI0CblY-GzAUXplI.mp4
+//content.jwplatform.com/videos/pNI0CblY-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pNI0CblY-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pNI0CblY-7spvWrjM.mp4
+itemDuration: 1295
+itemImage: http://content.jwplatform.com/thumbs/pNI0CblY-720.jpg
+itemLegacyID: Cinemassacre-541a817227b10
+itemPubDate: Thu, 18 Sep 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/pNI0CblY
+itemThumbnail: http://content.jwplatform.com/thumbs/pNI0CblY-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-541a817227b10_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/pNI0CblY-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28694
+itemShortLinkID: 28694
+
+
+itemTitle: Super Ghouls 'n Ghosts (SNES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/10/20/ghouls-n-ghosts-snes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/CMcYxxP3.m3u8
+itemAudio: http://content.jwplatform.com/videos/CMcYxxP3-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/CMcYxxP3-QvH08cwS.mp4
+//content.jwplatform.com/videos/CMcYxxP3-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/CMcYxxP3-GzAUXplI.mp4
+//content.jwplatform.com/videos/CMcYxxP3-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/CMcYxxP3-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/CMcYxxP3-7spvWrjM.mp4
+itemDuration: 1300
+itemImage: http://content.jwplatform.com/thumbs/CMcYxxP3-720.jpg
+itemLegacyID: Cinemassacre-542c7cc855cba
+itemPubDate: Wed, 01 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/CMcYxxP3
+itemThumbnail: http://content.jwplatform.com/thumbs/CMcYxxP3-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-542c7cc855cba_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/CMcYxxP3-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28720
+itemShortLinkID: 28720
+
+
+itemTitle: Super Ghouls 'n Ghosts (SNES) Part 2 - James & Mik
+itemWebLink: http://cinemassacre.com/2014/10/27/ghouls-n-ghosts-snes-part-2-jmm/
+itemPlaylist: http://content.jwplatform.com/manifests/KFgrV1VW.m3u8
+itemAudio: http://content.jwplatform.com/videos/KFgrV1VW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KFgrV1VW-QvH08cwS.mp4
+//content.jwplatform.com/videos/KFgrV1VW-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/KFgrV1VW-GzAUXplI.mp4
+//content.jwplatform.com/videos/KFgrV1VW-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KFgrV1VW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KFgrV1VW-7spvWrjM.mp4
+itemDuration: 1150
+itemImage: http://content.jwplatform.com/thumbs/KFgrV1VW-720.jpg
+itemLegacyID: Cinemassacre-54364bef445be
+itemPubDate: Thu, 09 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KFgrV1VW
+itemThumbnail: http://content.jwplatform.com/thumbs/KFgrV1VW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54364bef445be_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KFgrV1VW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28725
+itemShortLinkID: 28725
+
+
+itemTitle: Nosferatu (SNES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/10/30/nosferatu-snes/
+itemPlaylist: http://content.jwplatform.com/manifests/oA0fGnh5.m3u8
+itemAudio: http://content.jwplatform.com/videos/oA0fGnh5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/oA0fGnh5-QvH08cwS.mp4
+//content.jwplatform.com/videos/oA0fGnh5-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/oA0fGnh5-GzAUXplI.mp4
+//content.jwplatform.com/videos/oA0fGnh5-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/oA0fGnh5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/oA0fGnh5-7spvWrjM.mp4
+itemDuration: 659
+itemImage: http://content.jwplatform.com/thumbs/oA0fGnh5-720.jpg
+itemLegacyID: Cinemassacre-5440200f94eb2
+itemPubDate: Thu, 16 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/oA0fGnh5
+itemThumbnail: http://content.jwplatform.com/thumbs/oA0fGnh5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5440200f94eb2_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/oA0fGnh5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28702
+itemShortLinkID: 28702
+
+
+itemTitle: Chiller (NES) Bonus Halloween video
+itemWebLink: http://cinemassacre.com/2014/10/31/chiller-nes/
+itemPlaylist: http://content.jwplatform.com/manifests/TkJxcbmZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/TkJxcbmZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/TkJxcbmZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/TkJxcbmZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/TkJxcbmZ-GzAUXplI.mp4
+//content.jwplatform.com/videos/TkJxcbmZ-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/TkJxcbmZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/TkJxcbmZ-7spvWrjM.mp4
+itemDuration: 391
+itemImage: http://content.jwplatform.com/thumbs/TkJxcbmZ-720.jpg
+itemLegacyID: Cinemassacre-54408d4bed20b
+itemPubDate: Thu, 16 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/TkJxcbmZ
+itemThumbnail: http://content.jwplatform.com/thumbs/TkJxcbmZ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54408d4bed20b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/TkJxcbmZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28704
+itemShortLinkID: 28704
+
+
+itemTitle: Super Ghouls 'n Ghosts (SNES) Part 3 - James & Mik
+itemWebLink: http://cinemassacre.com/2014/11/03/ghouls-n-ghosts-snes-part-3-jmm/
+itemPlaylist: http://content.jwplatform.com/manifests/COUDipf9.m3u8
+itemAudio: http://content.jwplatform.com/videos/COUDipf9-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/COUDipf9-QvH08cwS.mp4
+//content.jwplatform.com/videos/COUDipf9-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/COUDipf9-GzAUXplI.mp4
+//content.jwplatform.com/videos/COUDipf9-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/COUDipf9-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/COUDipf9-7spvWrjM.mp4
+itemDuration: 1109
+itemImage: http://content.jwplatform.com/thumbs/COUDipf9-720.jpg
+itemLegacyID: Cinemassacre-5436d5d81d37a
+itemPubDate: Thu, 09 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/COUDipf9
+itemThumbnail: http://content.jwplatform.com/thumbs/COUDipf9-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5436d5d81d37a_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/COUDipf9-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28728
+itemShortLinkID: 28728
+
+
+itemTitle: Battletoads \
+itemWebLink: http://cinemassacre.com/2014/11/10/battletoads-turbo-tunnel-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/sSc43FQW.m3u8
+itemAudio: http://content.jwplatform.com/videos/sSc43FQW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sSc43FQW-QvH08cwS.mp4
+//content.jwplatform.com/videos/sSc43FQW-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/sSc43FQW-GzAUXplI.mp4
+//content.jwplatform.com/videos/sSc43FQW-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sSc43FQW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sSc43FQW-7spvWrjM.mp4
+itemDuration: 1434
+itemImage: http://content.jwplatform.com/thumbs/sSc43FQW-720.jpg
+itemLegacyID: Cinemassacre-5453da4eeb50c
+itemPubDate: Fri, 31 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/sSc43FQW
+itemThumbnail: http://content.jwplatform.com/thumbs/sSc43FQW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5453da4eeb50c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/sSc43FQW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28770
+itemShortLinkID: 28770
+
+
+itemTitle: Color a Dinosaur (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/11/17/color-a-dinosaur-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/hodl3xsP.m3u8
+itemAudio: http://content.jwplatform.com/videos/hodl3xsP-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hodl3xsP-QvH08cwS.mp4
+//content.jwplatform.com/videos/hodl3xsP-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hodl3xsP-GzAUXplI.mp4
+//content.jwplatform.com/videos/hodl3xsP-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hodl3xsP-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hodl3xsP-7spvWrjM.mp4
+itemDuration: 426
+itemImage: http://content.jwplatform.com/thumbs/hodl3xsP-720.jpg
+itemLegacyID: Cinemassacre-546159bf6ec8c
+itemPubDate: Mon, 10 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hodl3xsP
+itemThumbnail: http://content.jwplatform.com/thumbs/hodl3xsP-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-546159bf6ec8c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hodl3xsP-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28823
+itemShortLinkID: 28823
+
+
+itemTitle: Aquaman: Battle for Atlantis (Gamecube) James & Mi
+itemWebLink: http://cinemassacre.com/2014/11/24/aquaman-battle-for-atlantis-gamecube-jmm/
+itemPlaylist: http://content.jwplatform.com/manifests/aeZyWMac.m3u8
+itemAudio: http://content.jwplatform.com/videos/aeZyWMac-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/aeZyWMac-QvH08cwS.mp4
+//content.jwplatform.com/videos/aeZyWMac-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/aeZyWMac-GzAUXplI.mp4
+//content.jwplatform.com/videos/aeZyWMac-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/aeZyWMac-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/aeZyWMac-7spvWrjM.mp4
+itemDuration: 421
+itemImage: http://content.jwplatform.com/thumbs/aeZyWMac-720.jpg
+itemLegacyID: Cinemassacre-5462f0855488a
+itemPubDate: Tue, 11 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/aeZyWMac
+itemThumbnail: http://content.jwplatform.com/thumbs/aeZyWMac-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5462f0855488a_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/aeZyWMac-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28830
+itemShortLinkID: 28830
+
+
+itemTitle: Daikatana (N64) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/12/01/daikatana-n64-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/LROhvLdK.m3u8
+itemAudio: http://content.jwplatform.com/videos/LROhvLdK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/LROhvLdK-QvH08cwS.mp4
+//content.jwplatform.com/videos/LROhvLdK-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/LROhvLdK-GzAUXplI.mp4
+//content.jwplatform.com/videos/LROhvLdK-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/LROhvLdK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/LROhvLdK-7spvWrjM.mp4
+itemDuration: 547
+itemImage: http://content.jwplatform.com/thumbs/LROhvLdK-720.jpg
+itemLegacyID: Cinemassacre-54756df1931fd
+itemPubDate: Tue, 25 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/LROhvLdK
+itemThumbnail: http://content.jwplatform.com/thumbs/LROhvLdK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54756df1931fd_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/LROhvLdK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28845
+itemShortLinkID: 28845
+
+
+itemTitle: Mega Man 2 (NES) Part 1 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/12/08/mega-man-2-nes-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/x9Eb5zWg.m3u8
+itemAudio: http://content.jwplatform.com/videos/x9Eb5zWg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/x9Eb5zWg-QvH08cwS.mp4
+//content.jwplatform.com/videos/x9Eb5zWg-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/x9Eb5zWg-GzAUXplI.mp4
+//content.jwplatform.com/videos/x9Eb5zWg-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/x9Eb5zWg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/x9Eb5zWg-7spvWrjM.mp4
+itemDuration: 755
+itemImage: http://content.jwplatform.com/thumbs/x9Eb5zWg-720.jpg
+itemLegacyID: Cinemassacre-547cc11f8cb56
+itemPubDate: Mon, 01 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/x9Eb5zWg
+itemThumbnail: http://content.jwplatform.com/thumbs/x9Eb5zWg-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-547cc11f8cb56_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/x9Eb5zWg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28852
+itemShortLinkID: 28852
+
+
+itemTitle: Mega Man 2 (NES) Part 2 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/12/15/mega-man-2-nes-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/ayeg7RuW.m3u8
+itemAudio: http://content.jwplatform.com/videos/ayeg7RuW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ayeg7RuW-QvH08cwS.mp4
+//content.jwplatform.com/videos/ayeg7RuW-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/ayeg7RuW-GzAUXplI.mp4
+//content.jwplatform.com/videos/ayeg7RuW-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ayeg7RuW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ayeg7RuW-7spvWrjM.mp4
+itemDuration: 1051
+itemImage: http://content.jwplatform.com/thumbs/ayeg7RuW-720.jpg
+itemLegacyID: Cinemassacre-547e8a5c91822
+itemPubDate: Tue, 02 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ayeg7RuW
+itemThumbnail: http://content.jwplatform.com/thumbs/ayeg7RuW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-547e8a5c91822_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ayeg7RuW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28857
+itemShortLinkID: 28857
+
+
+itemTitle: Super Mario X-mas ReKringled - James & Mike Monday
+itemWebLink: http://cinemassacre.com/2014/12/22/super-mario-xmas-nes-toyshop-trouble-atari-2600-2/
+itemPlaylist: http://content.jwplatform.com/manifests/vXqtwp9z.m3u8
+itemAudio: http://content.jwplatform.com/videos/vXqtwp9z-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vXqtwp9z-QvH08cwS.mp4
+//content.jwplatform.com/videos/vXqtwp9z-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/vXqtwp9z-GzAUXplI.mp4
+//content.jwplatform.com/videos/vXqtwp9z-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vXqtwp9z-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vXqtwp9z-7spvWrjM.mp4
+itemDuration: 1012
+itemImage: http://content.jwplatform.com/thumbs/vXqtwp9z-720.jpg
+itemLegacyID: Cinemassacre-5496378089c88
+itemPubDate: Sat, 20 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/vXqtwp9z
+itemThumbnail: http://content.jwplatform.com/thumbs/vXqtwp9z-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5496378089c88_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/vXqtwp9z-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28979
+itemShortLinkID: 28979
+
+
+itemTitle: Excitebike 64 (N64) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/12/29/excitebike-64-n64-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/SLIgv4B1.m3u8
+itemAudio: http://content.jwplatform.com/videos/SLIgv4B1-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SLIgv4B1-QvH08cwS.mp4
+//content.jwplatform.com/videos/SLIgv4B1-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/SLIgv4B1-GzAUXplI.mp4
+//content.jwplatform.com/videos/SLIgv4B1-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SLIgv4B1-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SLIgv4B1-7spvWrjM.mp4
+itemDuration: 783
+itemImage: http://content.jwplatform.com/thumbs/SLIgv4B1-720.jpg
+itemLegacyID: Cinemassacre-549e2b4fdd1b7
+itemPubDate: Fri, 26 Dec 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/SLIgv4B1
+itemThumbnail: http://content.jwplatform.com/thumbs/SLIgv4B1-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-549e2b4fdd1b7_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/SLIgv4B1-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28983
+itemShortLinkID: 28983
+
+
+itemTitle: Star Wars: Shadows of the Empire (N64) James & Mik
+itemWebLink: http://cinemassacre.com/2015/01/05/star-wars-shadows-of-the-empire-n64/
+itemPlaylist: http://content.jwplatform.com/manifests/fbuMwUkh.m3u8
+itemAudio: http://content.jwplatform.com/videos/fbuMwUkh-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/fbuMwUkh-QvH08cwS.mp4
+//content.jwplatform.com/videos/fbuMwUkh-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/fbuMwUkh-GzAUXplI.mp4
+//content.jwplatform.com/videos/fbuMwUkh-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/fbuMwUkh-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/fbuMwUkh-7spvWrjM.mp4
+itemDuration: 1533
+itemImage: http://content.jwplatform.com/thumbs/fbuMwUkh-720.jpg
+itemLegacyID: Cinemassacre-54a9f3ddf07a3
+itemPubDate: Sun, 04 Jan 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/fbuMwUkh
+itemThumbnail: http://content.jwplatform.com/thumbs/fbuMwUkh-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54a9f3ddf07a3_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/fbuMwUkh-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28990
+itemShortLinkID: 28990
+
+
+itemTitle: Star Wars: Shadows of the Empire (N64) Part 2 - Ja
+itemWebLink: http://cinemassacre.com/2015/01/12/star-wars-shadows-of-the-empire-n64-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/xnapnlLZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/xnapnlLZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xnapnlLZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/xnapnlLZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xnapnlLZ-GzAUXplI.mp4
+//content.jwplatform.com/videos/xnapnlLZ-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xnapnlLZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xnapnlLZ-7spvWrjM.mp4
+itemDuration: 1151
+itemImage: http://content.jwplatform.com/thumbs/xnapnlLZ-720.jpg
+itemLegacyID: Cinemassacre-54acb5a94fe02
+itemPubDate: Tue, 06 Jan 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xnapnlLZ
+itemThumbnail: http://content.jwplatform.com/thumbs/xnapnlLZ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54acb5a94fe02_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xnapnlLZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29001
+itemShortLinkID: 29001
+
+
+itemTitle: SW Part 3 WEB.mov
+itemWebLink: http://cinemassacre.com/2015/01/19/star-wars-shadows-of-the-empire-n64-part-3/
+itemPlaylist: http://content.jwplatform.com/manifests/kaYJnN3U.m3u8
+itemAudio: http://content.jwplatform.com/videos/kaYJnN3U-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/kaYJnN3U-QvH08cwS.mp4
+//content.jwplatform.com/videos/kaYJnN3U-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/kaYJnN3U-GzAUXplI.mp4
+//content.jwplatform.com/videos/kaYJnN3U-7spvWrjM.mp4
+//content.jwplatform.com/videos/kaYJnN3U-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/kaYJnN3U-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/kaYJnN3U-Qw1ADm9e.mp4
+itemDuration: 916
+itemImage: http://content.jwplatform.com/thumbs/kaYJnN3U-720.jpg
+itemLegacyID: Cinemassacre-54b58e09368f5
+itemPubDate: Tue, 13 Jan 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/kaYJnN3U
+itemThumbnail: http://content.jwplatform.com/thumbs/kaYJnN3U-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54b58e09368f5_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/kaYJnN3U-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29078
+itemShortLinkID: 29078
+
+
+itemTitle: ReEdited Part 4 WEB.mov
+itemWebLink: http://cinemassacre.com/2015/01/26/star-wars-shadows-of-the-empire-n64-part-4/
+itemPlaylist: http://content.jwplatform.com/manifests/Gb1lCb7j.m3u8
+itemAudio: http://content.jwplatform.com/videos/Gb1lCb7j-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Gb1lCb7j-QvH08cwS.mp4
+//content.jwplatform.com/videos/Gb1lCb7j-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Gb1lCb7j-GzAUXplI.mp4
+//content.jwplatform.com/videos/Gb1lCb7j-7spvWrjM.mp4
+//content.jwplatform.com/videos/Gb1lCb7j-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Gb1lCb7j-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Gb1lCb7j-Qw1ADm9e.mp4
+itemDuration: 2092
+itemImage: http://content.jwplatform.com/thumbs/Gb1lCb7j-720.jpg
+itemLegacyID: Cinemassacre-54befea747fdc
+itemPubDate: Tue, 20 Jan 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Gb1lCb7j
+itemThumbnail: http://content.jwplatform.com/thumbs/Gb1lCb7j-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54befea747fdc_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Gb1lCb7j-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29107
+itemShortLinkID: 29107
+
+
+itemTitle: Rondo of Blood J&MM
+itemWebLink: http://cinemassacre.com/2015/02/02/castlevania-rondo-of-blood-pc-engine-duo-turboduo-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/O2RAXD5w.m3u8
+itemAudio: http://content.jwplatform.com/videos/O2RAXD5w-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/O2RAXD5w-QvH08cwS.mp4
+//content.jwplatform.com/videos/O2RAXD5w-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/O2RAXD5w-GzAUXplI.mp4
+//content.jwplatform.com/videos/O2RAXD5w-7spvWrjM.mp4
+//content.jwplatform.com/videos/O2RAXD5w-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/O2RAXD5w-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/O2RAXD5w-Qw1ADm9e.mp4
+itemDuration: 1671
+itemImage: http://content.jwplatform.com/thumbs/O2RAXD5w-720.jpg
+itemLegacyID: Cinemassacre-54c3eca73d1c9
+itemPubDate: Sat, 24 Jan 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/O2RAXD5w
+itemThumbnail: http://content.jwplatform.com/thumbs/O2RAXD5w-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54c3eca73d1c9_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/O2RAXD5w-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29155
+itemShortLinkID: 29155
+
+
+itemTitle: Friday the 13th - J&MM
+itemWebLink: http://cinemassacre.com/2015/02/09/friday-the-13th-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/EFxerPGy.m3u8
+itemAudio: http://content.jwplatform.com/videos/EFxerPGy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EFxerPGy-QvH08cwS.mp4
+//content.jwplatform.com/videos/EFxerPGy-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/EFxerPGy-GzAUXplI.mp4
+//content.jwplatform.com/videos/EFxerPGy-7spvWrjM.mp4
+//content.jwplatform.com/videos/EFxerPGy-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EFxerPGy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EFxerPGy-Qw1ADm9e.mp4
+itemDuration: 2557
+itemImage: http://content.jwplatform.com/thumbs/EFxerPGy-720.jpg
+itemLegacyID: Cinemassacre-54d39b822755c
+itemPubDate: Thu, 05 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/EFxerPGy
+itemThumbnail: http://content.jwplatform.com/thumbs/EFxerPGy-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54d39b822755c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/EFxerPGy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29185
+itemShortLinkID: 29185
+
+
+itemTitle: Silver Surfer - Said Error loading stream?
+itemWebLink: http://cinemassacre.com/2015/02/16/silver-surfer-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/28zKZSM4.m3u8
+itemAudio: http://content.jwplatform.com/videos/28zKZSM4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/28zKZSM4-QvH08cwS.mp4
+//content.jwplatform.com/videos/28zKZSM4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/28zKZSM4-GzAUXplI.mp4
+//content.jwplatform.com/videos/28zKZSM4-7spvWrjM.mp4
+//content.jwplatform.com/videos/28zKZSM4-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/28zKZSM4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/28zKZSM4-Qw1ADm9e.mp4
+itemDuration: 1962
+itemImage: http://content.jwplatform.com/thumbs/28zKZSM4-720.jpg
+itemLegacyID: Cinemassacre-54d434f0a9d1d
+itemPubDate: Thu, 05 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/28zKZSM4
+itemThumbnail: http://content.jwplatform.com/thumbs/28zKZSM4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54d434f0a9d1d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/28zKZSM4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29188
+itemShortLinkID: 29188
+
+
+itemTitle: Top10intenseWEB.mov
+itemWebLink: http://cinemassacre.com/2015/02/18/top-10-most-intense-jmm-moments/
+itemPlaylist: http://content.jwplatform.com/manifests/leSBd3oX.m3u8
+itemAudio: http://content.jwplatform.com/videos/leSBd3oX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/leSBd3oX-QvH08cwS.mp4
+//content.jwplatform.com/videos/leSBd3oX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/leSBd3oX-GzAUXplI.mp4
+//content.jwplatform.com/videos/leSBd3oX-7spvWrjM.mp4
+//content.jwplatform.com/videos/leSBd3oX-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/leSBd3oX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/leSBd3oX-Qw1ADm9e.mp4
+itemDuration: 371
+itemImage: http://content.jwplatform.com/thumbs/leSBd3oX-720.jpg
+itemLegacyID: Cinemassacre-54e42678ba1cd
+itemPubDate: Tue, 17 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/leSBd3oX
+itemThumbnail: http://content.jwplatform.com/thumbs/leSBd3oX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54e42678ba1cd_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/leSBd3oX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29192
+itemShortLinkID: 29192
+
+
+itemTitle: Paperboy (N64)
+itemWebLink: http://cinemassacre.com/2014/03/31/paperboy-64-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/Ny5wYkcl.m3u8
+itemAudio: http://content.jwplatform.com/videos/Ny5wYkcl-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Ny5wYkcl-QvH08cwS.mp4
+//content.jwplatform.com/videos/Ny5wYkcl-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Ny5wYkcl-GzAUXplI.mp4
+//content.jwplatform.com/videos/Ny5wYkcl-7spvWrjM.mp4
+//content.jwplatform.com/videos/Ny5wYkcl-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Ny5wYkcl-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Ny5wYkcl-Qw1ADm9e.mp4
+itemDuration: 463
+itemImage: http://content.jwplatform.com/thumbs/Ny5wYkcl-720.jpg
+itemLegacyID: Cinemassacre-530dc1a775ca5
+itemPubDate: Wed, 26 Feb 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Ny5wYkcl
+itemThumbnail: http://content.jwplatform.com/thumbs/Ny5wYkcl-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-530dc1a775ca5_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Ny5wYkcl-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27493
+itemShortLinkID: 27493
+
+
+itemTitle: Action Max James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/04/07/action-max-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/jOTWI46d.m3u8
+itemAudio: http://content.jwplatform.com/videos/jOTWI46d-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jOTWI46d-QvH08cwS.mp4
+//content.jwplatform.com/videos/jOTWI46d-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/jOTWI46d-GzAUXplI.mp4
+//content.jwplatform.com/videos/jOTWI46d-7spvWrjM.mp4
+//content.jwplatform.com/videos/jOTWI46d-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jOTWI46d-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jOTWI46d-Qw1ADm9e.mp4
+itemDuration: 876
+itemImage: http://content.jwplatform.com/thumbs/jOTWI46d-720.jpg
+itemLegacyID: Cinemassacre-5327fdfe01d22
+itemPubDate: Tue, 18 Mar 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/jOTWI46d
+itemThumbnail: http://content.jwplatform.com/thumbs/jOTWI46d-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5327fdfe01d22_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/jOTWI46d-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27584
+itemShortLinkID: 27584
+
+
+itemTitle: Anticipation (NES) J&MM
+itemWebLink: http://cinemassacre.com/2014/04/14/anticipation-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/XPqfuUzX.m3u8
+itemAudio: http://content.jwplatform.com/videos/XPqfuUzX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XPqfuUzX-QvH08cwS.mp4
+//content.jwplatform.com/videos/XPqfuUzX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XPqfuUzX-GzAUXplI.mp4
+//content.jwplatform.com/videos/XPqfuUzX-7spvWrjM.mp4
+//content.jwplatform.com/videos/XPqfuUzX-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XPqfuUzX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XPqfuUzX-Qw1ADm9e.mp4
+itemDuration: 644
+itemImage: http://content.jwplatform.com/thumbs/XPqfuUzX-720.jpg
+itemLegacyID: Cinemassacre-5346263167b6a
+itemPubDate: Wed, 09 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XPqfuUzX
+itemThumbnail: http://content.jwplatform.com/thumbs/XPqfuUzX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5346263167b6a_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/XPqfuUzX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27695
+itemShortLinkID: 27695
+
+
+itemTitle: Clayfighter (SNES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/04/21/clayfighter-snes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/UFId8H5p.m3u8
+itemAudio: http://content.jwplatform.com/videos/UFId8H5p-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/UFId8H5p-QvH08cwS.mp4
+//content.jwplatform.com/videos/UFId8H5p-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/UFId8H5p-GzAUXplI.mp4
+//content.jwplatform.com/videos/UFId8H5p-7spvWrjM.mp4
+//content.jwplatform.com/videos/UFId8H5p-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/UFId8H5p-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/UFId8H5p-Qw1ADm9e.mp4
+itemDuration: 561
+itemImage: http://content.jwplatform.com/thumbs/UFId8H5p-720.jpg
+itemLegacyID: Cinemassacre-533790d9765f6
+itemPubDate: Sat, 29 Mar 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/UFId8H5p
+itemThumbnail: http://content.jwplatform.com/thumbs/UFId8H5p-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-533790d9765f6_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/UFId8H5p-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27670
+itemShortLinkID: 27670
+
+
+itemTitle: Super Monkey Ball 2
+itemWebLink: http://cinemassacre.com/2014/04/28/super-monkey-ball-2-gamecube-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/pEbTqE77.m3u8
+itemAudio: http://content.jwplatform.com/videos/pEbTqE77-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pEbTqE77-QvH08cwS.mp4
+//content.jwplatform.com/videos/pEbTqE77-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/pEbTqE77-GzAUXplI.mp4
+//content.jwplatform.com/videos/pEbTqE77-7spvWrjM.mp4
+//content.jwplatform.com/videos/pEbTqE77-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pEbTqE77-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pEbTqE77-Qw1ADm9e.mp4
+itemDuration: 594
+itemImage: http://content.jwplatform.com/thumbs/pEbTqE77-720.jpg
+itemLegacyID: Cinemassacre-5348e71448d31
+itemPubDate: Sat, 12 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/pEbTqE77
+itemThumbnail: http://content.jwplatform.com/thumbs/pEbTqE77-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5348e71448d31_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/pEbTqE77-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27697
+itemShortLinkID: 27697
+
+
+itemTitle: NES Remix (Wii U) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/05/05/nes-remix-wii-u-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/WlX35ZdJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/WlX35ZdJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/WlX35ZdJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/WlX35ZdJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/WlX35ZdJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/WlX35ZdJ-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/WlX35ZdJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/WlX35ZdJ-7spvWrjM.mp4
+itemDuration: 1241
+itemImage: http://content.jwplatform.com/thumbs/WlX35ZdJ-720.jpg
+itemLegacyID: Cinemassacre-536474c18ae61
+itemPubDate: Fri, 02 May 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/WlX35ZdJ
+itemThumbnail: http://content.jwplatform.com/thumbs/WlX35ZdJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-536474c18ae61_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/WlX35ZdJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27832
+itemShortLinkID: 27832
+
+
+itemTitle: Super Off Road
+itemWebLink: http://cinemassacre.com/2014/05/12/super-off-road-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/9tnDNPTv.m3u8
+itemAudio: http://content.jwplatform.com/videos/9tnDNPTv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/9tnDNPTv-QvH08cwS.mp4
+//content.jwplatform.com/videos/9tnDNPTv-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/9tnDNPTv-GzAUXplI.mp4
+//content.jwplatform.com/videos/9tnDNPTv-7spvWrjM.mp4
+//content.jwplatform.com/videos/9tnDNPTv-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/9tnDNPTv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/9tnDNPTv-Qw1ADm9e.mp4
+itemDuration: 781
+itemImage: http://content.jwplatform.com/thumbs/9tnDNPTv-720.jpg
+itemLegacyID: Cinemassacre-5356bb2a36450
+itemPubDate: Tue, 22 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/9tnDNPTv
+itemThumbnail: http://content.jwplatform.com/thumbs/9tnDNPTv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5356bb2a36450_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/9tnDNPTv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27747
+itemShortLinkID: 27747
+
+
+itemTitle: R.C. Pro-Am II (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/05/19/r-c-pro-am-ii-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/JAHnxGCS.m3u8
+itemAudio: http://content.jwplatform.com/videos/JAHnxGCS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JAHnxGCS-QvH08cwS.mp4
+//content.jwplatform.com/videos/JAHnxGCS-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/JAHnxGCS-GzAUXplI.mp4
+//content.jwplatform.com/videos/JAHnxGCS-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JAHnxGCS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JAHnxGCS-7spvWrjM.mp4
+itemDuration: 469
+itemImage: http://content.jwplatform.com/thumbs/JAHnxGCS-720.jpg
+itemLegacyID: Cinemassacre-535751fb386ae
+itemPubDate: Tue, 22 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JAHnxGCS
+itemThumbnail: http://content.jwplatform.com/thumbs/JAHnxGCS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-535751fb386ae_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JAHnxGCS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27750
+itemShortLinkID: 27750
+
+
+itemTitle: Nintendo Land (Wii U) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/05/26/nintendo-land-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/rdGdRgq2.m3u8
+itemAudio: http://content.jwplatform.com/videos/rdGdRgq2-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/rdGdRgq2-QvH08cwS.mp4
+//content.jwplatform.com/videos/rdGdRgq2-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/rdGdRgq2-GzAUXplI.mp4
+//content.jwplatform.com/videos/rdGdRgq2-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/rdGdRgq2-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/rdGdRgq2-7spvWrjM.mp4
+itemDuration: 1030
+itemImage: http://content.jwplatform.com/thumbs/rdGdRgq2-720.jpg
+itemLegacyID: Cinemassacre-5366c132932b1
+itemPubDate: Sun, 04 May 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/rdGdRgq2
+itemThumbnail: http://content.jwplatform.com/thumbs/rdGdRgq2-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5366c132932b1_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/rdGdRgq2-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27850
+itemShortLinkID: 27850
+
+
+itemTitle: Back to the Future 3 (Sega Genesis)
+itemWebLink: http://cinemassacre.com/2014/06/02/back-to-the-future-3-sega-genesis-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/Pqa6D56p.m3u8
+itemAudio: http://content.jwplatform.com/videos/Pqa6D56p-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Pqa6D56p-QvH08cwS.mp4
+//content.jwplatform.com/videos/Pqa6D56p-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Pqa6D56p-GzAUXplI.mp4
+//content.jwplatform.com/videos/Pqa6D56p-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Pqa6D56p-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Pqa6D56p-7spvWrjM.mp4
+itemDuration: 826
+itemImage: http://content.jwplatform.com/thumbs/Pqa6D56p-720.jpg
+itemLegacyID: Cinemassacre-536f17f25e84c
+itemPubDate: Sun, 11 May 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Pqa6D56p
+itemThumbnail: http://content.jwplatform.com/thumbs/Pqa6D56p-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-536f17f25e84c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Pqa6D56p-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27856
+itemShortLinkID: 27856
+
+
+itemTitle: SplatterHouse (TurboGrafx-16)
+itemWebLink: http://cinemassacre.com/2014/06/09/splatterhouse-turbografx-16-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/ljrdF9th.m3u8
+itemAudio: http://content.jwplatform.com/videos/ljrdF9th-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ljrdF9th-QvH08cwS.mp4
+//content.jwplatform.com/videos/ljrdF9th-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/ljrdF9th-GzAUXplI.mp4
+//content.jwplatform.com/videos/ljrdF9th-7spvWrjM.mp4
+//content.jwplatform.com/videos/ljrdF9th-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ljrdF9th-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ljrdF9th-Qw1ADm9e.mp4
+itemDuration: 685
+itemImage: http://content.jwplatform.com/thumbs/ljrdF9th-720.jpg
+itemLegacyID: Cinemassacre-53328c81617f2
+itemPubDate: Wed, 26 Mar 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ljrdF9th
+itemThumbnail: http://content.jwplatform.com/thumbs/ljrdF9th-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53328c81617f2_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ljrdF9th-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27662
+itemShortLinkID: 27662
+
+
+itemTitle: Jaws Unleashed (PS2) - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/06/16/jaws-unleashed-ps2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/RSFf9WVr.m3u8
+itemAudio: http://content.jwplatform.com/videos/RSFf9WVr-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RSFf9WVr-QvH08cwS.mp4
+//content.jwplatform.com/videos/RSFf9WVr-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/RSFf9WVr-GzAUXplI.mp4
+//content.jwplatform.com/videos/RSFf9WVr-7spvWrjM.mp4
+//content.jwplatform.com/videos/RSFf9WVr-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RSFf9WVr-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RSFf9WVr-Qw1ADm9e.mp4
+itemDuration: 604
+itemImage: http://content.jwplatform.com/thumbs/RSFf9WVr-720.jpg
+itemLegacyID: Cinemassacre-538b8485922bc
+itemPubDate: Sun, 01 Jun 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/RSFf9WVr
+itemThumbnail: http://content.jwplatform.com/thumbs/RSFf9WVr-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-538b8485922bc_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/RSFf9WVr-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27904
+itemShortLinkID: 27904
+
+
+itemTitle: Sonic the Hedgehog Games (Sega Genesis) J&MM
+itemWebLink: http://cinemassacre.com/2014/06/23/sonic-the-hedgehog-games-sega-genesis-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/hUT6IFcx.m3u8
+itemAudio: http://content.jwplatform.com/videos/hUT6IFcx-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hUT6IFcx-QvH08cwS.mp4
+//content.jwplatform.com/videos/hUT6IFcx-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hUT6IFcx-GzAUXplI.mp4
+//content.jwplatform.com/videos/hUT6IFcx-7spvWrjM.mp4
+//content.jwplatform.com/videos/hUT6IFcx-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hUT6IFcx-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hUT6IFcx-Qw1ADm9e.mp4
+itemDuration: 670
+itemImage: http://content.jwplatform.com/thumbs/hUT6IFcx-720.jpg
+itemLegacyID: Cinemassacre-53a36191afbdf
+itemPubDate: Thu, 19 Jun 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hUT6IFcx
+itemThumbnail: http://content.jwplatform.com/thumbs/hUT6IFcx-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53a36191afbdf_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hUT6IFcx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28009
+itemShortLinkID: 28009
+
+
+itemTitle: Maniac Mansion (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/06/30/maniac-mansion-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/f15O0z1h.m3u8
+itemAudio: http://content.jwplatform.com/videos/f15O0z1h-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/f15O0z1h-QvH08cwS.mp4
+//content.jwplatform.com/videos/f15O0z1h-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/f15O0z1h-GzAUXplI.mp4
+//content.jwplatform.com/videos/f15O0z1h-7spvWrjM.mp4
+//content.jwplatform.com/videos/f15O0z1h-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/f15O0z1h-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/f15O0z1h-Qw1ADm9e.mp4
+itemDuration: 710
+itemImage: http://content.jwplatform.com/thumbs/f15O0z1h-720.jpg
+itemLegacyID: Cinemassacre-53971f429227e
+itemPubDate: Tue, 10 Jun 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/f15O0z1h
+itemThumbnail: http://content.jwplatform.com/thumbs/f15O0z1h-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53971f429227e_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/f15O0z1h-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27918
+itemShortLinkID: 27918
+
+
+itemTitle: Double Dragon (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/07/07/double-dragon-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/J0Wa1hBD.m3u8
+itemAudio: http://content.jwplatform.com/videos/J0Wa1hBD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/J0Wa1hBD-QvH08cwS.mp4
+//content.jwplatform.com/videos/J0Wa1hBD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/J0Wa1hBD-GzAUXplI.mp4
+//content.jwplatform.com/videos/J0Wa1hBD-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/J0Wa1hBD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/J0Wa1hBD-7spvWrjM.mp4
+itemDuration: 1610
+itemImage: http://content.jwplatform.com/thumbs/J0Wa1hBD-720.jpg
+itemLegacyID: Cinemassacre-53ac961aa17e9
+itemPubDate: Thu, 26 Jun 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/J0Wa1hBD
+itemThumbnail: http://content.jwplatform.com/thumbs/J0Wa1hBD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53ac961aa17e9_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/J0Wa1hBD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28012
+itemShortLinkID: 28012
+
+
+itemTitle: Contra (PS1) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/07/14/contra-legacy-of-war-ps1/
+itemPlaylist: http://content.jwplatform.com/manifests/IFMctNS7.m3u8
+itemAudio: http://content.jwplatform.com/videos/IFMctNS7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/IFMctNS7-QvH08cwS.mp4
+//content.jwplatform.com/videos/IFMctNS7-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/IFMctNS7-GzAUXplI.mp4
+//content.jwplatform.com/videos/IFMctNS7-7spvWrjM.mp4
+//content.jwplatform.com/videos/IFMctNS7-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/IFMctNS7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/IFMctNS7-Qw1ADm9e.mp4
+itemDuration: 609
+itemImage: http://content.jwplatform.com/thumbs/IFMctNS7-720.jpg
+itemLegacyID: Cinemassacre-535ff0c749dd6
+itemPubDate: Tue, 29 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/IFMctNS7
+itemThumbnail: http://content.jwplatform.com/thumbs/IFMctNS7-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-535ff0c749dd6_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/IFMctNS7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27829
+itemShortLinkID: 27829
+
+
+itemTitle: Dr. Jekyll and Mr. Hyde Team Showdown - James & Mi
+itemWebLink: http://cinemassacre.com/2014/07/21/dr-jekyll-and-mr-hyde-team-showdown/
+itemPlaylist: http://content.jwplatform.com/manifests/3BLoJjg4.m3u8
+itemAudio: http://content.jwplatform.com/videos/3BLoJjg4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3BLoJjg4-QvH08cwS.mp4
+//content.jwplatform.com/videos/3BLoJjg4-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3BLoJjg4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3BLoJjg4-HTQw4Gzc.mp4
+itemDuration: 1376
+itemImage: http://content.jwplatform.com/thumbs/3BLoJjg4-720.jpg
+itemLegacyID: Cinemassacre-53b5c52d3384c
+itemPubDate: Thu, 03 Jul 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3BLoJjg4
+itemThumbnail: http://content.jwplatform.com/thumbs/3BLoJjg4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53b5c52d3384c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3BLoJjg4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28077
+itemShortLinkID: 28077
+
+
+itemTitle: California Games (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/07/28/california-games-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/unfcnEY0.m3u8
+itemAudio: http://content.jwplatform.com/videos/unfcnEY0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/unfcnEY0-QvH08cwS.mp4
+//content.jwplatform.com/videos/unfcnEY0-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/unfcnEY0-GzAUXplI.mp4
+//content.jwplatform.com/videos/unfcnEY0-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/unfcnEY0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/unfcnEY0-7spvWrjM.mp4
+itemDuration: 431
+itemImage: http://content.jwplatform.com/thumbs/unfcnEY0-720.jpg
+itemLegacyID: Cinemassacre-53bd5d9861e34
+itemPubDate: Wed, 09 Jul 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/unfcnEY0
+itemThumbnail: http://content.jwplatform.com/thumbs/unfcnEY0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53bd5d9861e34_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/unfcnEY0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28091
+itemShortLinkID: 28091
+
+
+itemTitle: Super Scope 6 (SNES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/08/04/super-scope-6-snes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/E7lrVTqT.m3u8
+itemAudio: http://content.jwplatform.com/videos/E7lrVTqT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/E7lrVTqT-QvH08cwS.mp4
+//content.jwplatform.com/videos/E7lrVTqT-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/E7lrVTqT-GzAUXplI.mp4
+//content.jwplatform.com/videos/E7lrVTqT-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/E7lrVTqT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/E7lrVTqT-7spvWrjM.mp4
+itemDuration: 699
+itemImage: http://content.jwplatform.com/thumbs/E7lrVTqT-720.jpg
+itemLegacyID: Cinemassacre-53d7f1fd2c9bf
+itemPubDate: Tue, 29 Jul 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/E7lrVTqT
+itemThumbnail: http://content.jwplatform.com/thumbs/E7lrVTqT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53d7f1fd2c9bf_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/E7lrVTqT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28202
+itemShortLinkID: 28202
+
+
+itemTitle: Batman (NES) James & Mike Mondays Part 1
+itemWebLink: http://cinemassacre.com/2014/08/11/batman-nes-part-1-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/6TusVtvG.m3u8
+itemAudio: http://content.jwplatform.com/videos/6TusVtvG-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6TusVtvG-QvH08cwS.mp4
+//content.jwplatform.com/videos/6TusVtvG-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/6TusVtvG-GzAUXplI.mp4
+//content.jwplatform.com/videos/6TusVtvG-7spvWrjM.mp4
+//content.jwplatform.com/videos/6TusVtvG-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6TusVtvG-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6TusVtvG-Qw1ADm9e.mp4
+itemDuration: 1642
+itemImage: http://content.jwplatform.com/thumbs/6TusVtvG-720.jpg
+itemLegacyID: Cinemassacre-53e3049a736c8
+itemPubDate: Wed, 06 Aug 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/6TusVtvG
+itemThumbnail: http://content.jwplatform.com/thumbs/6TusVtvG-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53e3049a736c8_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/6TusVtvG-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28215
+itemShortLinkID: 28215
+
+
+itemTitle: Batman (NES) James & Mike Mondays Part 2
+itemWebLink: http://cinemassacre.com/2014/08/18/batman-nes-part-2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/KSuQbAzV.m3u8
+itemAudio: http://content.jwplatform.com/videos/KSuQbAzV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KSuQbAzV-QvH08cwS.mp4
+//content.jwplatform.com/videos/KSuQbAzV-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/KSuQbAzV-GzAUXplI.mp4
+//content.jwplatform.com/videos/KSuQbAzV-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KSuQbAzV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KSuQbAzV-7spvWrjM.mp4
+itemDuration: 1563
+itemImage: http://content.jwplatform.com/thumbs/KSuQbAzV-720.jpg
+itemLegacyID: Cinemassacre-53e3c0c7f2b1a
+itemPubDate: Thu, 07 Aug 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KSuQbAzV
+itemThumbnail: http://content.jwplatform.com/thumbs/KSuQbAzV-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53e3c0c7f2b1a_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KSuQbAzV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28218
+itemShortLinkID: 28218
+
+
+itemTitle: Smash TV (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/08/25/smash-tv-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/dwBP9oGy.m3u8
+itemAudio: http://content.jwplatform.com/videos/dwBP9oGy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/dwBP9oGy-QvH08cwS.mp4
+//content.jwplatform.com/videos/dwBP9oGy-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/dwBP9oGy-GzAUXplI.mp4
+//content.jwplatform.com/videos/dwBP9oGy-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/dwBP9oGy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/dwBP9oGy-7spvWrjM.mp4
+itemDuration: 346
+itemImage: http://content.jwplatform.com/thumbs/dwBP9oGy-720.jpg
+itemLegacyID: Cinemassacre-53c56c8c5cad3
+itemPubDate: Tue, 15 Jul 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/dwBP9oGy
+itemThumbnail: http://content.jwplatform.com/thumbs/dwBP9oGy-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53c56c8c5cad3_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/dwBP9oGy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28145
+itemShortLinkID: 28145
+
+
+itemTitle: Blaster Master (NES) PART 1 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/09/01/blaster-master-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/n5N2ag9e.m3u8
+itemAudio: http://content.jwplatform.com/videos/n5N2ag9e-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/n5N2ag9e-QvH08cwS.mp4
+//content.jwplatform.com/videos/n5N2ag9e-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/n5N2ag9e-GzAUXplI.mp4
+//content.jwplatform.com/videos/n5N2ag9e-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/n5N2ag9e-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/n5N2ag9e-7spvWrjM.mp4
+itemDuration: 654
+itemImage: http://content.jwplatform.com/thumbs/n5N2ag9e-720.jpg
+itemLegacyID: Cinemassacre-53fd64520bb0f
+itemPubDate: Tue, 26 Aug 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/n5N2ag9e
+itemThumbnail: http://content.jwplatform.com/thumbs/n5N2ag9e-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53fd64520bb0f_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/n5N2ag9e-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28459
+itemShortLinkID: 28459
+
+
+itemTitle: Blaster Master (NES) Part 2 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/09/08/blaster-master-nes-part-2-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/ASRGINPp.m3u8
+itemAudio: http://content.jwplatform.com/videos/ASRGINPp-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ASRGINPp-QvH08cwS.mp4
+//content.jwplatform.com/videos/ASRGINPp-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/ASRGINPp-GzAUXplI.mp4
+//content.jwplatform.com/videos/ASRGINPp-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ASRGINPp-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ASRGINPp-7spvWrjM.mp4
+itemDuration: 1040
+itemImage: http://content.jwplatform.com/thumbs/ASRGINPp-720.jpg
+itemLegacyID: Cinemassacre-53fe1274545ce
+itemPubDate: Wed, 27 Aug 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ASRGINPp
+itemThumbnail: http://content.jwplatform.com/thumbs/ASRGINPp-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53fe1274545ce_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ASRGINPp-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28473
+itemShortLinkID: 28473
+
+
+itemTitle: Double Dragon II: The Revenge (NES) Part 1 - James
+itemWebLink: http://cinemassacre.com/2014/09/15/double-dragon-ii-the-revenge-nes-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/KRDlCxpS.m3u8
+itemAudio: http://content.jwplatform.com/videos/KRDlCxpS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KRDlCxpS-QvH08cwS.mp4
+//content.jwplatform.com/videos/KRDlCxpS-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/KRDlCxpS-GzAUXplI.mp4
+//content.jwplatform.com/videos/KRDlCxpS-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KRDlCxpS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KRDlCxpS-7spvWrjM.mp4
+itemDuration: 750
+itemImage: http://content.jwplatform.com/thumbs/KRDlCxpS-720.jpg
+itemLegacyID: Cinemassacre-540a24600cb87
+itemPubDate: Fri, 05 Sep 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KRDlCxpS
+itemThumbnail: http://content.jwplatform.com/thumbs/KRDlCxpS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-540a24600cb87_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KRDlCxpS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28565
+itemShortLinkID: 28565
+
+
+itemTitle: Atari (Part 3) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/07/25/james-mike-play-2600-classics-continued/
+itemPlaylist: http://content.jwplatform.com/manifests/VV71YtTw.m3u8
+itemAudio: http://content.jwplatform.com/videos/VV71YtTw-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/VV71YtTw-QvH08cwS.mp4
+//content.jwplatform.com/videos/VV71YtTw-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/VV71YtTw-GzAUXplI.mp4
+//content.jwplatform.com/videos/VV71YtTw-7spvWrjM.mp4
+//content.jwplatform.com/videos/VV71YtTw-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/VV71YtTw-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/VV71YtTw-Qw1ADm9e.mp4
+itemDuration: 1333
+itemImage: http://content.jwplatform.com/thumbs/VV71YtTw-720.jpg
+itemLegacyID: Cinemassacre-25814
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/VV71YtTw
+itemThumbnail: http://content.jwplatform.com/thumbs/VV71YtTw-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25814_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/VV71YtTw-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25814
+itemShortLinkID: 25814
+
+
+itemTitle: Double Dare (NES) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/08/15/james-mike-play-double-dare-nes/
+itemPlaylist: http://content.jwplatform.com/manifests/VsC3oY6P.m3u8
+itemAudio: http://content.jwplatform.com/videos/VsC3oY6P-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/VsC3oY6P-QvH08cwS.mp4
+//content.jwplatform.com/videos/VsC3oY6P-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/VsC3oY6P-GzAUXplI.mp4
+//content.jwplatform.com/videos/VsC3oY6P-7spvWrjM.mp4
+//content.jwplatform.com/videos/VsC3oY6P-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/VsC3oY6P-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/VsC3oY6P-Qw1ADm9e.mp4
+itemDuration: 358
+itemImage: http://content.jwplatform.com/thumbs/VsC3oY6P-720.jpg
+itemLegacyID: Cinemassacre-25073
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/VsC3oY6P
+itemThumbnail: http://content.jwplatform.com/thumbs/VsC3oY6P-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25073_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/VsC3oY6P-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25073
+itemShortLinkID: 25073
+
+
+itemTitle: King of the Monsters 2 (Neo-Geo) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/08/21/james-mike-play-king-of-the-monsters-2-neo-geo/
+itemPlaylist: http://content.jwplatform.com/manifests/oQ73BIc4.m3u8
+itemAudio: http://content.jwplatform.com/videos/oQ73BIc4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/oQ73BIc4-QvH08cwS.mp4
+//content.jwplatform.com/videos/oQ73BIc4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/oQ73BIc4-GzAUXplI.mp4
+//content.jwplatform.com/videos/oQ73BIc4-7spvWrjM.mp4
+//content.jwplatform.com/videos/oQ73BIc4-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/oQ73BIc4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/oQ73BIc4-Qw1ADm9e.mp4
+itemDuration: 568
+itemImage: http://content.jwplatform.com/thumbs/oQ73BIc4-720.jpg
+itemLegacyID: Cinemassacre-25068
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/oQ73BIc4
+itemThumbnail: http://content.jwplatform.com/thumbs/oQ73BIc4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25068_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/oQ73BIc4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25068
+itemShortLinkID: 25068
+
+
+itemTitle: Dr Jekyll & Mr Hyde - James & Mike
+itemWebLink: http://cinemassacre.com/2013/10/16/dr-jekyll-mr-hyde-with-james-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/INMKjANk.m3u8
+itemAudio: http://content.jwplatform.com/videos/INMKjANk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/INMKjANk-QvH08cwS.mp4
+//content.jwplatform.com/videos/INMKjANk-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/INMKjANk-GzAUXplI.mp4
+//content.jwplatform.com/videos/INMKjANk-7spvWrjM.mp4
+//content.jwplatform.com/videos/INMKjANk-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/INMKjANk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/INMKjANk-Qw1ADm9e.mp4
+itemDuration: 1181
+itemImage: http://content.jwplatform.com/thumbs/INMKjANk-720.jpg
+itemLegacyID: Cinemassacre-525e7c7757228
+itemPubDate: Wed, 16 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/INMKjANk
+itemThumbnail: http://content.jwplatform.com/thumbs/INMKjANk-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-525e7c7757228_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/INMKjANk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26760
+itemShortLinkID: 26760
+
+
+itemTitle: Corpse Killer Sega CD 32X
+itemWebLink: http://cinemassacre.com/2013/11/04/corpse-killer-sega-cd-32x/
+itemPlaylist: http://content.jwplatform.com/manifests/cH5KajnC.m3u8
+itemAudio: http://content.jwplatform.com/videos/cH5KajnC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/cH5KajnC-QvH08cwS.mp4
+//content.jwplatform.com/videos/cH5KajnC-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/cH5KajnC-GzAUXplI.mp4
+//content.jwplatform.com/videos/cH5KajnC-7spvWrjM.mp4
+//content.jwplatform.com/videos/cH5KajnC-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/cH5KajnC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/cH5KajnC-Qw1ADm9e.mp4
+itemDuration: 528
+itemImage: http://content.jwplatform.com/thumbs/cH5KajnC-720.jpg
+itemLegacyID: Cinemassacre-526fe05719226
+itemPubDate: Tue, 29 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/cH5KajnC
+itemThumbnail: http://content.jwplatform.com/thumbs/cH5KajnC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-526fe05719226_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/cH5KajnC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26851
+itemShortLinkID: 26851
+
+
+itemTitle: Mike Tyson's Punch Out!!
+itemWebLink: http://cinemassacre.com/2013/11/11/mike-tysons-punch-out-nes/
+itemPlaylist: http://content.jwplatform.com/manifests/nFADlVoN.m3u8
+itemAudio: http://content.jwplatform.com/videos/nFADlVoN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/nFADlVoN-QvH08cwS.mp4
+//content.jwplatform.com/videos/nFADlVoN-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/nFADlVoN-GzAUXplI.mp4
+//content.jwplatform.com/videos/nFADlVoN-7spvWrjM.mp4
+//content.jwplatform.com/videos/nFADlVoN-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nFADlVoN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nFADlVoN-Qw1ADm9e.mp4
+itemDuration: 432
+itemImage: http://content.jwplatform.com/thumbs/nFADlVoN-720.jpg
+itemLegacyID: Cinemassacre-5276b724a0042
+itemPubDate: Sun, 03 Nov 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/nFADlVoN
+itemThumbnail: http://content.jwplatform.com/thumbs/nFADlVoN-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5276b724a0042_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/nFADlVoN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26932
+itemShortLinkID: 26932
+
+
+itemTitle: Excitebike - James & Mike
+itemWebLink: http://cinemassacre.com/2013/11/18/excitebike-nes-james-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/wu8kwenS.m3u8
+itemAudio: http://content.jwplatform.com/videos/wu8kwenS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/wu8kwenS-QvH08cwS.mp4
+//content.jwplatform.com/videos/wu8kwenS-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/wu8kwenS-GzAUXplI.mp4
+//content.jwplatform.com/videos/wu8kwenS-7spvWrjM.mp4
+//content.jwplatform.com/videos/wu8kwenS-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/wu8kwenS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/wu8kwenS-Qw1ADm9e.mp4
+itemDuration: 331
+itemImage: http://content.jwplatform.com/thumbs/wu8kwenS-720.jpg
+itemLegacyID: Cinemassacre-5282af30db726
+itemPubDate: Tue, 12 Nov 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/wu8kwenS
+itemThumbnail: http://content.jwplatform.com/thumbs/wu8kwenS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5282af30db726_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/wu8kwenS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26985
+itemShortLinkID: 26985
+
+
+itemTitle: James Bond 007: Nightfire
+itemWebLink: http://cinemassacre.com/2013/11/25/james-bond-007-nightfire-gamecube/
+itemPlaylist: http://content.jwplatform.com/manifests/OX9VYCUK.m3u8
+itemAudio: http://content.jwplatform.com/videos/OX9VYCUK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/OX9VYCUK-QvH08cwS.mp4
+//content.jwplatform.com/videos/OX9VYCUK-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/OX9VYCUK-GzAUXplI.mp4
+//content.jwplatform.com/videos/OX9VYCUK-7spvWrjM.mp4
+//content.jwplatform.com/videos/OX9VYCUK-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/OX9VYCUK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/OX9VYCUK-Qw1ADm9e.mp4
+itemDuration: 923
+itemImage: http://content.jwplatform.com/thumbs/OX9VYCUK-720.jpg
+itemLegacyID: Cinemassacre-528a12e7cd9a0
+itemPubDate: Mon, 18 Nov 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/OX9VYCUK
+itemThumbnail: http://content.jwplatform.com/thumbs/OX9VYCUK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-528a12e7cd9a0_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/OX9VYCUK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27006
+itemShortLinkID: 27006
+
+
+itemTitle: Atari Part 4: Space Games!
+itemWebLink: http://cinemassacre.com/2013/12/02/atari-part-4-space-games/
+itemPlaylist: http://content.jwplatform.com/manifests/7UlECf8G.m3u8
+itemAudio: http://content.jwplatform.com/videos/7UlECf8G-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/7UlECf8G-QvH08cwS.mp4
+//content.jwplatform.com/videos/7UlECf8G-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/7UlECf8G-GzAUXplI.mp4
+//content.jwplatform.com/videos/7UlECf8G-7spvWrjM.mp4
+//content.jwplatform.com/videos/7UlECf8G-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/7UlECf8G-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/7UlECf8G-Qw1ADm9e.mp4
+itemDuration: 2022
+itemImage: http://content.jwplatform.com/thumbs/7UlECf8G-720.jpg
+itemLegacyID: Cinemassacre-528df6fe8c6d7
+itemPubDate: Thu, 21 Nov 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/7UlECf8G
+itemThumbnail: http://content.jwplatform.com/thumbs/7UlECf8G-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-528df6fe8c6d7_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/7UlECf8G-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27034
+itemShortLinkID: 27034
+
+
+itemTitle: Smash Bros Melee - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2013/12/09/smash-bros-melee-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/cHTp5k4e.m3u8
+itemAudio: http://content.jwplatform.com/videos/cHTp5k4e-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/cHTp5k4e-QvH08cwS.mp4
+//content.jwplatform.com/videos/cHTp5k4e-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/cHTp5k4e-GzAUXplI.mp4
+//content.jwplatform.com/videos/cHTp5k4e-7spvWrjM.mp4
+//content.jwplatform.com/videos/cHTp5k4e-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/cHTp5k4e-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/cHTp5k4e-Qw1ADm9e.mp4
+itemDuration: 619
+itemImage: http://content.jwplatform.com/thumbs/cHTp5k4e-720.jpg
+itemLegacyID: Cinemassacre-5298532d969d7
+itemPubDate: Fri, 29 Nov 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/cHTp5k4e
+itemThumbnail: http://content.jwplatform.com/thumbs/cHTp5k4e-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5298532d969d7_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/cHTp5k4e-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27092
+itemShortLinkID: 27092
+
+
+itemTitle: Sonic 06 - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2013/12/16/sonic-06-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/8R0MU516.m3u8
+itemAudio: http://content.jwplatform.com/videos/8R0MU516-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/8R0MU516-QvH08cwS.mp4
+//content.jwplatform.com/videos/8R0MU516-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/8R0MU516-GzAUXplI.mp4
+//content.jwplatform.com/videos/8R0MU516-7spvWrjM.mp4
+//content.jwplatform.com/videos/8R0MU516-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/8R0MU516-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/8R0MU516-Qw1ADm9e.mp4
+itemDuration: 1429
+itemImage: http://content.jwplatform.com/thumbs/8R0MU516-720.jpg
+itemLegacyID: Cinemassacre-529c0e67c65b2
+itemPubDate: Sun, 01 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/8R0MU516
+itemThumbnail: http://content.jwplatform.com/thumbs/8R0MU516-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-529c0e67c65b2_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/8R0MU516-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27096
+itemShortLinkID: 27096
+
+
+itemTitle: Godzilla PS2
+itemWebLink: http://cinemassacre.com/2013/12/23/godzilla-unleashed-ps2/
+itemPlaylist: http://content.jwplatform.com/manifests/jpTiDmL2.m3u8
+itemAudio: http://content.jwplatform.com/videos/jpTiDmL2-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jpTiDmL2-QvH08cwS.mp4
+//content.jwplatform.com/videos/jpTiDmL2-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/jpTiDmL2-GzAUXplI.mp4
+//content.jwplatform.com/videos/jpTiDmL2-7spvWrjM.mp4
+//content.jwplatform.com/videos/jpTiDmL2-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jpTiDmL2-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jpTiDmL2-Qw1ADm9e.mp4
+itemDuration: 1185
+itemImage: http://content.jwplatform.com/thumbs/jpTiDmL2-720.jpg
+itemLegacyID: Cinemassacre-52b258f94aaba
+itemPubDate: Wed, 18 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/jpTiDmL2
+itemThumbnail: http://content.jwplatform.com/thumbs/jpTiDmL2-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52b258f94aaba_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/jpTiDmL2-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27149
+itemShortLinkID: 27149
+
+
+itemTitle: Karate Champ NES James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2013/12/30/karate-champ-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/F37aweot.m3u8
+itemAudio: http://content.jwplatform.com/videos/F37aweot-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/F37aweot-QvH08cwS.mp4
+//content.jwplatform.com/videos/F37aweot-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/F37aweot-GzAUXplI.mp4
+//content.jwplatform.com/videos/F37aweot-7spvWrjM.mp4
+//content.jwplatform.com/videos/F37aweot-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/F37aweot-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/F37aweot-Qw1ADm9e.mp4
+itemDuration: 437
+itemImage: http://content.jwplatform.com/thumbs/F37aweot-720.jpg
+itemLegacyID: Cinemassacre-529f0f9a6d1cc
+itemPubDate: Wed, 04 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/F37aweot
+itemThumbnail: http://content.jwplatform.com/thumbs/F37aweot-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-529f0f9a6d1cc_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/F37aweot-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27121
+itemShortLinkID: 27121
+
+
+itemTitle: The Flowers of Robert Mapplethorp
+itemWebLink: http://cinemassacre.com/2014/01/06/the-flowers-of-robert-mapplethorpe-cd-i-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/JW8hxkyc.m3u8
+itemAudio: http://content.jwplatform.com/videos/JW8hxkyc-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JW8hxkyc-QvH08cwS.mp4
+//content.jwplatform.com/videos/JW8hxkyc-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/JW8hxkyc-GzAUXplI.mp4
+//content.jwplatform.com/videos/JW8hxkyc-7spvWrjM.mp4
+//content.jwplatform.com/videos/JW8hxkyc-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JW8hxkyc-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JW8hxkyc-Qw1ADm9e.mp4
+itemDuration: 281
+itemImage: http://content.jwplatform.com/thumbs/JW8hxkyc-720.jpg
+itemLegacyID: Cinemassacre-52aba82132f14
+itemPubDate: Fri, 13 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JW8hxkyc
+itemThumbnail: http://content.jwplatform.com/thumbs/JW8hxkyc-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52aba82132f14_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JW8hxkyc-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27143
+itemShortLinkID: 27143
+
+
+itemTitle: Bio Force Ape - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/01/13/bio-force-ape-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/6WP98zPX.m3u8
+itemAudio: http://content.jwplatform.com/videos/6WP98zPX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6WP98zPX-QvH08cwS.mp4
+//content.jwplatform.com/videos/6WP98zPX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/6WP98zPX-GzAUXplI.mp4
+//content.jwplatform.com/videos/6WP98zPX-7spvWrjM.mp4
+//content.jwplatform.com/videos/6WP98zPX-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6WP98zPX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6WP98zPX-Qw1ADm9e.mp4
+itemDuration: 687
+itemImage: http://content.jwplatform.com/thumbs/6WP98zPX-720.jpg
+itemLegacyID: Cinemassacre-52adfe82eb60c
+itemPubDate: Sun, 15 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/6WP98zPX
+itemThumbnail: http://content.jwplatform.com/thumbs/6WP98zPX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52adfe82eb60c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/6WP98zPX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27147
+itemShortLinkID: 27147
+
+
+itemTitle: Rocky (PS2) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/01/20/rocky-ps2/
+itemPlaylist: http://content.jwplatform.com/manifests/hG6Y8tDS.m3u8
+itemAudio: http://content.jwplatform.com/videos/hG6Y8tDS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hG6Y8tDS-QvH08cwS.mp4
+//content.jwplatform.com/videos/hG6Y8tDS-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hG6Y8tDS-GzAUXplI.mp4
+//content.jwplatform.com/videos/hG6Y8tDS-7spvWrjM.mp4
+//content.jwplatform.com/videos/hG6Y8tDS-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hG6Y8tDS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hG6Y8tDS-Qw1ADm9e.mp4
+itemDuration: 320
+itemImage: http://content.jwplatform.com/thumbs/hG6Y8tDS-720.jpg
+itemLegacyID: Cinemassacre-5289371a289db
+itemPubDate: Sun, 17 Nov 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hG6Y8tDS
+itemThumbnail: http://content.jwplatform.com/thumbs/hG6Y8tDS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5289371a289db_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hG6Y8tDS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26990
+itemShortLinkID: 26990
+
+
+itemTitle: Metal Slug - James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/01/27/metal-slug-neo-geo-cd-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/s4JGcYDr.m3u8
+itemAudio: http://content.jwplatform.com/videos/s4JGcYDr-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/s4JGcYDr-QvH08cwS.mp4
+//content.jwplatform.com/videos/s4JGcYDr-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/s4JGcYDr-GzAUXplI.mp4
+//content.jwplatform.com/videos/s4JGcYDr-7spvWrjM.mp4
+//content.jwplatform.com/videos/s4JGcYDr-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/s4JGcYDr-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/s4JGcYDr-Qw1ADm9e.mp4
+itemDuration: 579
+itemImage: http://content.jwplatform.com/thumbs/s4JGcYDr-720.jpg
+itemLegacyID: Cinemassacre-52b8eccf8a6fc
+itemPubDate: Mon, 23 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/s4JGcYDr
+itemThumbnail: http://content.jwplatform.com/thumbs/s4JGcYDr-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52b8eccf8a6fc_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/s4JGcYDr-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27210
+itemShortLinkID: 27210
+
+
+itemTitle: Contra (NES) James & Mike Mondays
+itemWebLink: http://cinemassacre.com/2014/02/03/contra-nes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/Vu5rL1TT.m3u8
+itemAudio: http://content.jwplatform.com/videos/Vu5rL1TT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Vu5rL1TT-QvH08cwS.mp4
+//content.jwplatform.com/videos/Vu5rL1TT-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Vu5rL1TT-GzAUXplI.mp4
+//content.jwplatform.com/videos/Vu5rL1TT-7spvWrjM.mp4
+//content.jwplatform.com/videos/Vu5rL1TT-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Vu5rL1TT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Vu5rL1TT-Qw1ADm9e.mp4
+itemDuration: 1526
+itemImage: http://content.jwplatform.com/thumbs/Vu5rL1TT-720.jpg
+itemLegacyID: Cinemassacre-52be05ae98f77
+itemPubDate: Fri, 27 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Vu5rL1TT
+itemThumbnail: http://content.jwplatform.com/thumbs/Vu5rL1TT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52be05ae98f77_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Vu5rL1TT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27215
+itemShortLinkID: 27215
+
+
+itemTitle: RoboCop Versus The Terminator
+itemWebLink: http://cinemassacre.com/2014/02/10/robocop-versus-the-terminator-snes/
+itemPlaylist: http://content.jwplatform.com/manifests/LXmZ30FM.m3u8
+itemAudio: http://content.jwplatform.com/videos/LXmZ30FM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/LXmZ30FM-QvH08cwS.mp4
+//content.jwplatform.com/videos/LXmZ30FM-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/LXmZ30FM-GzAUXplI.mp4
+//content.jwplatform.com/videos/LXmZ30FM-7spvWrjM.mp4
+//content.jwplatform.com/videos/LXmZ30FM-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/LXmZ30FM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/LXmZ30FM-Qw1ADm9e.mp4
+itemDuration: 981
+itemImage: http://content.jwplatform.com/thumbs/LXmZ30FM-720.jpg
+itemLegacyID: Cinemassacre-52f4b8b80fe43
+itemPubDate: Fri, 07 Feb 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/LXmZ30FM
+itemThumbnail: http://content.jwplatform.com/thumbs/LXmZ30FM-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52f4b8b80fe43_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/LXmZ30FM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27388
+itemShortLinkID: 27388
+
+
+itemTitle: Universal Studios Theme Park Adventure - J&MM
+itemWebLink: http://cinemassacre.com/2014/02/17/universal-studios-theme-parks-adventure-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/HoOwScWL.m3u8
+itemAudio: http://content.jwplatform.com/videos/HoOwScWL-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/HoOwScWL-QvH08cwS.mp4
+//content.jwplatform.com/videos/HoOwScWL-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/HoOwScWL-GzAUXplI.mp4
+//content.jwplatform.com/videos/HoOwScWL-7spvWrjM.mp4
+//content.jwplatform.com/videos/HoOwScWL-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/HoOwScWL-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/HoOwScWL-Qw1ADm9e.mp4
+itemDuration: 1711
+itemImage: http://content.jwplatform.com/thumbs/HoOwScWL-720.jpg
+itemLegacyID: Cinemassacre-52c92d7e61172
+itemPubDate: Sun, 05 Jan 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/HoOwScWL
+itemThumbnail: http://content.jwplatform.com/thumbs/HoOwScWL-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52c92d7e61172_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/HoOwScWL-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27279
+itemShortLinkID: 27279
+
+
+itemTitle: Universal Studios Theme Park Adventure Part 2
+itemWebLink: http://cinemassacre.com/2014/02/24/universal-studios-theme-parks-adventure-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/nZCWGq3W.m3u8
+itemAudio: http://content.jwplatform.com/videos/nZCWGq3W-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/nZCWGq3W-QvH08cwS.mp4
+//content.jwplatform.com/videos/nZCWGq3W-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/nZCWGq3W-GzAUXplI.mp4
+//content.jwplatform.com/videos/nZCWGq3W-7spvWrjM.mp4
+//content.jwplatform.com/videos/nZCWGq3W-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nZCWGq3W-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nZCWGq3W-Qw1ADm9e.mp4
+itemDuration: 972
+itemImage: http://content.jwplatform.com/thumbs/nZCWGq3W-720.jpg
+itemLegacyID: Cinemassacre-52db5cb115a5d
+itemPubDate: Sat, 18 Jan 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/nZCWGq3W
+itemThumbnail: http://content.jwplatform.com/thumbs/nZCWGq3W-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52db5cb115a5d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/nZCWGq3W-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27318
+itemShortLinkID: 27318
+
+
+itemTitle: Bubsy in Fractured Furry Tales - J&MM
+itemWebLink: http://cinemassacre.com/2014/03/03/bubsy-in-fractured-furry-tales-jaguar/
+itemPlaylist: http://content.jwplatform.com/manifests/eeLSwnH0.m3u8
+itemAudio: http://content.jwplatform.com/videos/eeLSwnH0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/eeLSwnH0-QvH08cwS.mp4
+//content.jwplatform.com/videos/eeLSwnH0-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/eeLSwnH0-GzAUXplI.mp4
+//content.jwplatform.com/videos/eeLSwnH0-7spvWrjM.mp4
+//content.jwplatform.com/videos/eeLSwnH0-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/eeLSwnH0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/eeLSwnH0-Qw1ADm9e.mp4
+itemDuration: 1075
+itemImage: http://content.jwplatform.com/thumbs/eeLSwnH0-720.jpg
+itemLegacyID: Cinemassacre-5314669fada1d
+itemPubDate: Mon, 03 Mar 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/eeLSwnH0
+itemThumbnail: http://content.jwplatform.com/thumbs/eeLSwnH0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5314669fada1d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/eeLSwnH0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27323
+itemShortLinkID: 27323
+
+
+itemTitle: Super Mario's Wacky Worlds (CD-i) Fixed
+itemWebLink: http://cinemassacre.com/2014/03/10/super-marios-wacky-worlds-cd-i/
+itemPlaylist: http://content.jwplatform.com/manifests/XEzkBOai.m3u8
+itemAudio: http://content.jwplatform.com/videos/XEzkBOai-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XEzkBOai-QvH08cwS.mp4
+//content.jwplatform.com/videos/XEzkBOai-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XEzkBOai-GzAUXplI.mp4
+//content.jwplatform.com/videos/XEzkBOai-7spvWrjM.mp4
+//content.jwplatform.com/videos/XEzkBOai-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XEzkBOai-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XEzkBOai-Qw1ADm9e.mp4
+itemDuration: 1509
+itemImage: http://content.jwplatform.com/thumbs/XEzkBOai-720.jpg
+itemLegacyID: Cinemassacre-53169e21235ac
+itemPubDate: Tue, 04 Mar 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XEzkBOai
+itemThumbnail: http://content.jwplatform.com/thumbs/XEzkBOai-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53169e21235ac_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/XEzkBOai-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27343
+itemShortLinkID: 27343
+
+
+itemTitle: Dennis the Menace (SNES) Fixed
+itemWebLink: http://cinemassacre.com/2014/03/17/dennis-the-menace-snes-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/vkhf0QAD.m3u8
+itemAudio: http://content.jwplatform.com/videos/vkhf0QAD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vkhf0QAD-QvH08cwS.mp4
+//content.jwplatform.com/videos/vkhf0QAD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/vkhf0QAD-GzAUXplI.mp4
+//content.jwplatform.com/videos/vkhf0QAD-7spvWrjM.mp4
+//content.jwplatform.com/videos/vkhf0QAD-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vkhf0QAD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vkhf0QAD-Qw1ADm9e.mp4
+itemDuration: 1206
+itemImage: http://content.jwplatform.com/thumbs/vkhf0QAD-720.jpg
+itemLegacyID: Cinemassacre-53168ca7667b1
+itemPubDate: Tue, 04 Mar 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/vkhf0QAD
+itemThumbnail: http://content.jwplatform.com/thumbs/vkhf0QAD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53168ca7667b1_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/vkhf0QAD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27334
+itemShortLinkID: 27334
+
+
+itemTitle: ToeJam and Earl
+itemWebLink: http://cinemassacre.com/2014/03/24/toejam-earl-genesis-james-mike-mondays/
+itemPlaylist: http://content.jwplatform.com/manifests/1JgvEfq5.m3u8
+itemAudio: http://content.jwplatform.com/videos/1JgvEfq5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/1JgvEfq5-QvH08cwS.mp4
+//content.jwplatform.com/videos/1JgvEfq5-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/1JgvEfq5-GzAUXplI.mp4
+//content.jwplatform.com/videos/1JgvEfq5-7spvWrjM.mp4
+//content.jwplatform.com/videos/1JgvEfq5-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1JgvEfq5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1JgvEfq5-Qw1ADm9e.mp4
+itemDuration: 2589
+itemImage: http://content.jwplatform.com/thumbs/1JgvEfq5-720.jpg
+itemLegacyID: Cinemassacre-5316ab098262d
+itemPubDate: Tue, 04 Mar 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/1JgvEfq5
+itemThumbnail: http://content.jwplatform.com/thumbs/1JgvEfq5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5316ab098262d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/1JgvEfq5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27444
+itemShortLinkID: 27444
+
+
+itemTitle: Super Mario 4 Rambo (NES) with James & Mike
+itemWebLink: http://cinemassacre.com/2012/12/13/super-mario-4-rambo/
+itemPlaylist: http://content.jwplatform.com/manifests/E4InRJIq.m3u8
+itemAudio: http://content.jwplatform.com/videos/E4InRJIq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/E4InRJIq-QvH08cwS.mp4
+//content.jwplatform.com/videos/E4InRJIq-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/E4InRJIq-GzAUXplI.mp4
+//content.jwplatform.com/videos/E4InRJIq-7spvWrjM.mp4
+//content.jwplatform.com/videos/E4InRJIq-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/E4InRJIq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/E4InRJIq-Qw1ADm9e.mp4
+itemDuration: 811
+itemImage: http://content.jwplatform.com/thumbs/E4InRJIq-720.jpg
+itemLegacyID: Cinemassacre-20132
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/E4InRJIq
+itemThumbnail: http://content.jwplatform.com/thumbs/E4InRJIq-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-20132_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/E4InRJIq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=20132
+itemShortLinkID: 20132
+
+
+itemTitle: Golf (NES) with James & Mike
+itemWebLink: http://cinemassacre.com/2012/12/30/nes-golf/
+itemPlaylist: http://content.jwplatform.com/manifests/NXv6hUxt.m3u8
+itemAudio: http://content.jwplatform.com/videos/NXv6hUxt-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/NXv6hUxt-QvH08cwS.mp4
+//content.jwplatform.com/videos/NXv6hUxt-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/NXv6hUxt-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/NXv6hUxt-HTQw4Gzc.mp4
+itemDuration: 790
+itemImage: http://content.jwplatform.com/thumbs/NXv6hUxt-720.jpg
+itemLegacyID: Cinemassacre-21837
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/NXv6hUxt
+itemThumbnail: http://content.jwplatform.com/thumbs/NXv6hUxt-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-21837_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/NXv6hUxt-120.vtt
+itemShortLink: http://cinemassacre.com/?p=21837
+itemShortLinkID: 21837
+
+
+itemTitle: Atari Jaguar CD James & Mike
+itemWebLink: http://cinemassacre.com/2013/01/09/atari-jaguar-cd/
+itemPlaylist: http://content.jwplatform.com/manifests/Ym5Yvz9a.m3u8
+itemAudio: http://content.jwplatform.com/videos/Ym5Yvz9a-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Ym5Yvz9a-QvH08cwS.mp4
+//content.jwplatform.com/videos/Ym5Yvz9a-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Ym5Yvz9a-GzAUXplI.mp4
+//content.jwplatform.com/videos/Ym5Yvz9a-7spvWrjM.mp4
+//content.jwplatform.com/videos/Ym5Yvz9a-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Ym5Yvz9a-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Ym5Yvz9a-Qw1ADm9e.mp4
+itemDuration: 843
+itemImage: http://content.jwplatform.com/thumbs/Ym5Yvz9a-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:03:44 -0000
+itemPreview: http://content.jwplatform.com/previews/Ym5Yvz9a
+itemThumbnail: http://content.jwplatform.com/thumbs/Ym5Yvz9a-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/Ym5Yvz9a-120.vtt
+itemShortLink: http://cinemassacre.com/?p=22721
+itemShortLinkID: 22721
+
+
+itemTitle: SimCity (SNES) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/02/20/james-mike-play-sim-city-snes/
+itemPlaylist: http://content.jwplatform.com/manifests/0GwVKj6E.m3u8
+itemAudio: http://content.jwplatform.com/videos/0GwVKj6E-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/0GwVKj6E-QvH08cwS.mp4
+//content.jwplatform.com/videos/0GwVKj6E-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/0GwVKj6E-GzAUXplI.mp4
+//content.jwplatform.com/videos/0GwVKj6E-7spvWrjM.mp4
+//content.jwplatform.com/videos/0GwVKj6E-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0GwVKj6E-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0GwVKj6E-Qw1ADm9e.mp4
+itemDuration: 891
+itemImage: http://content.jwplatform.com/thumbs/0GwVKj6E-720.jpg
+itemLegacyID: Cinemassacre-24195
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/0GwVKj6E
+itemThumbnail: http://content.jwplatform.com/thumbs/0GwVKj6E-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24195_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/0GwVKj6E-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24195
+itemShortLinkID: 24195
+
+
+itemTitle: Mario Paint (SNES) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/03/26/james-mike-play-mario-paint/
+itemPlaylist: http://content.jwplatform.com/manifests/MLqaO1zi.m3u8
+itemAudio: http://content.jwplatform.com/videos/MLqaO1zi-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/MLqaO1zi-QvH08cwS.mp4
+//content.jwplatform.com/videos/MLqaO1zi-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/MLqaO1zi-GzAUXplI.mp4
+//content.jwplatform.com/videos/MLqaO1zi-7spvWrjM.mp4
+//content.jwplatform.com/videos/MLqaO1zi-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/MLqaO1zi-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/MLqaO1zi-Qw1ADm9e.mp4
+itemDuration: 947
+itemImage: http://content.jwplatform.com/thumbs/MLqaO1zi-720.jpg
+itemLegacyID: Cinemassacre-24738
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/MLqaO1zi
+itemThumbnail: http://content.jwplatform.com/thumbs/MLqaO1zi-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24738_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/MLqaO1zi-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24738
+itemShortLinkID: 24738
+
+
+itemTitle: Super C (NES) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/05/14/james-mike-play-super-c/
+itemPlaylist: http://content.jwplatform.com/manifests/nEDx6kbf.m3u8
+itemAudio: http://content.jwplatform.com/videos/nEDx6kbf-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/nEDx6kbf-QvH08cwS.mp4
+//content.jwplatform.com/videos/nEDx6kbf-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/nEDx6kbf-GzAUXplI.mp4
+//content.jwplatform.com/videos/nEDx6kbf-7spvWrjM.mp4
+//content.jwplatform.com/videos/nEDx6kbf-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nEDx6kbf-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nEDx6kbf-Qw1ADm9e.mp4
+itemDuration: 1639
+itemImage: http://content.jwplatform.com/thumbs/nEDx6kbf-720.jpg
+itemLegacyID: Cinemassacre-25064
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/nEDx6kbf
+itemThumbnail: http://content.jwplatform.com/thumbs/nEDx6kbf-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25064_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/nEDx6kbf-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25064
+itemShortLinkID: 25064
+
+
+itemTitle: Turtles In Time (SNES) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/05/20/james-mike-play-turtles-in-time/
+itemPlaylist: http://content.jwplatform.com/manifests/bjUKpvNJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/bjUKpvNJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/bjUKpvNJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/bjUKpvNJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/bjUKpvNJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/bjUKpvNJ-7spvWrjM.mp4
+//content.jwplatform.com/videos/bjUKpvNJ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/bjUKpvNJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/bjUKpvNJ-Qw1ADm9e.mp4
+itemDuration: 675
+itemImage: http://content.jwplatform.com/thumbs/bjUKpvNJ-720.jpg
+itemLegacyID: Cinemassacre-25426
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/bjUKpvNJ
+itemThumbnail: http://content.jwplatform.com/thumbs/bjUKpvNJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25426_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/bjUKpvNJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25426
+itemShortLinkID: 25426
+
+
+itemTitle: Odyssey II with James & Mike
+itemWebLink: http://cinemassacre.com/2013/05/30/james-mike-play-odyssey-ii/
+itemPlaylist: http://content.jwplatform.com/manifests/z5Ijz1jX.m3u8
+itemAudio: http://content.jwplatform.com/videos/z5Ijz1jX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/z5Ijz1jX-QvH08cwS.mp4
+//content.jwplatform.com/videos/z5Ijz1jX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/z5Ijz1jX-GzAUXplI.mp4
+//content.jwplatform.com/videos/z5Ijz1jX-7spvWrjM.mp4
+//content.jwplatform.com/videos/z5Ijz1jX-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/z5Ijz1jX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/z5Ijz1jX-Qw1ADm9e.mp4
+itemDuration: 644
+itemImage: http://content.jwplatform.com/thumbs/z5Ijz1jX-720.jpg
+itemLegacyID: Cinemassacre-25152
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/z5Ijz1jX
+itemThumbnail: http://content.jwplatform.com/thumbs/z5Ijz1jX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25152_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/z5Ijz1jX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25152
+itemShortLinkID: 25152
+
+
+itemTitle: Snake Rattle N' Roll (NES) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/06/06/james-mike-play-snake-rattle-n-roll/
+itemPlaylist: http://content.jwplatform.com/manifests/V5k9a4gB.m3u8
+itemAudio: http://content.jwplatform.com/videos/V5k9a4gB-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/V5k9a4gB-QvH08cwS.mp4
+//content.jwplatform.com/videos/V5k9a4gB-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/V5k9a4gB-GzAUXplI.mp4
+//content.jwplatform.com/videos/V5k9a4gB-7spvWrjM.mp4
+//content.jwplatform.com/videos/V5k9a4gB-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/V5k9a4gB-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/V5k9a4gB-Qw1ADm9e.mp4
+itemDuration: 366
+itemImage: http://content.jwplatform.com/thumbs/V5k9a4gB-720.jpg
+itemLegacyID: Cinemassacre-25424
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/V5k9a4gB
+itemThumbnail: http://content.jwplatform.com/thumbs/V5k9a4gB-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25424_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/V5k9a4gB-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25424
+itemShortLinkID: 25424
+
+
+itemTitle: Atari\u00a0(Part 1)\u00a0\
+itemWebLink: http://cinemassacre.com/2013/06/14/james-mike-play-atari-part-1-introduction/
+itemPlaylist: http://content.jwplatform.com/manifests/PBtoFy6z.m3u8
+itemAudio: http://content.jwplatform.com/videos/PBtoFy6z-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/PBtoFy6z-QvH08cwS.mp4
+//content.jwplatform.com/videos/PBtoFy6z-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/PBtoFy6z-GzAUXplI.mp4
+//content.jwplatform.com/videos/PBtoFy6z-7spvWrjM.mp4
+//content.jwplatform.com/videos/PBtoFy6z-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/PBtoFy6z-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/PBtoFy6z-Qw1ADm9e.mp4
+itemDuration: 534
+itemImage: http://content.jwplatform.com/thumbs/PBtoFy6z-720.jpg
+itemLegacyID: Cinemassacre-25713
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/PBtoFy6z
+itemThumbnail: http://content.jwplatform.com/thumbs/PBtoFy6z-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25713_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/PBtoFy6z-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25713
+itemShortLinkID: 25713
+
+
+itemTitle: Mario/Zelda Homebrews with James & Mike
+itemWebLink: http://cinemassacre.com/2013/06/17/james-mike-play-mariozelda-homebrews/
+itemPlaylist: http://content.jwplatform.com/manifests/80ERUk9h.m3u8
+itemAudio: http://content.jwplatform.com/videos/80ERUk9h-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/80ERUk9h-QvH08cwS.mp4
+//content.jwplatform.com/videos/80ERUk9h-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/80ERUk9h-GzAUXplI.mp4
+//content.jwplatform.com/videos/80ERUk9h-7spvWrjM.mp4
+//content.jwplatform.com/videos/80ERUk9h-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/80ERUk9h-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/80ERUk9h-Qw1ADm9e.mp4
+itemDuration: 514
+itemImage: http://content.jwplatform.com/thumbs/80ERUk9h-720.jpg
+itemLegacyID: Cinemassacre-25428
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/80ERUk9h
+itemThumbnail: http://content.jwplatform.com/thumbs/80ERUk9h-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25428_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/80ERUk9h-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25428
+itemShortLinkID: 25428
+
+
+itemTitle: Atari (Part 2) \
+itemWebLink: http://cinemassacre.com/2013/06/26/james-mike-play-atari-part-2-classic-2600-games/
+itemPlaylist: http://content.jwplatform.com/manifests/r23Kx9gn.m3u8
+itemAudio: http://content.jwplatform.com/videos/r23Kx9gn-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/r23Kx9gn-QvH08cwS.mp4
+//content.jwplatform.com/videos/r23Kx9gn-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/r23Kx9gn-GzAUXplI.mp4
+//content.jwplatform.com/videos/r23Kx9gn-7spvWrjM.mp4
+//content.jwplatform.com/videos/r23Kx9gn-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/r23Kx9gn-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/r23Kx9gn-Qw1ADm9e.mp4
+itemDuration: 1123
+itemImage: http://content.jwplatform.com/thumbs/r23Kx9gn-720.jpg
+itemLegacyID: Cinemassacre-25741
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/r23Kx9gn
+itemThumbnail: http://content.jwplatform.com/thumbs/r23Kx9gn-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25741_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/r23Kx9gn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25741
+itemShortLinkID: 25741
+
+
+itemTitle: Taboo: The Sixth Sense (NES) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/06/30/james-mike-play-taboo-the-sixth-sense-nes/
+itemPlaylist: http://content.jwplatform.com/manifests/v2XQBd3F.m3u8
+itemAudio: http://content.jwplatform.com/videos/v2XQBd3F-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/v2XQBd3F-QvH08cwS.mp4
+//content.jwplatform.com/videos/v2XQBd3F-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/v2XQBd3F-GzAUXplI.mp4
+//content.jwplatform.com/videos/v2XQBd3F-7spvWrjM.mp4
+//content.jwplatform.com/videos/v2XQBd3F-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/v2XQBd3F-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/v2XQBd3F-Qw1ADm9e.mp4
+itemDuration: 280
+itemImage: http://content.jwplatform.com/thumbs/v2XQBd3F-720.jpg
+itemLegacyID: Cinemassacre-25430
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/v2XQBd3F
+itemThumbnail: http://content.jwplatform.com/thumbs/v2XQBd3F-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25430_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/v2XQBd3F-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25430
+itemShortLinkID: 25430
+
+
+itemTitle: Pilotwings 64 (N64) with James & Mike
+itemWebLink: http://cinemassacre.com/2013/07/16/james-mike-play-pilotwings-64/
+itemPlaylist: http://content.jwplatform.com/manifests/XyxYkc8r.m3u8
+itemAudio: http://content.jwplatform.com/videos/XyxYkc8r-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XyxYkc8r-QvH08cwS.mp4
+//content.jwplatform.com/videos/XyxYkc8r-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XyxYkc8r-GzAUXplI.mp4
+//content.jwplatform.com/videos/XyxYkc8r-7spvWrjM.mp4
+//content.jwplatform.com/videos/XyxYkc8r-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XyxYkc8r-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XyxYkc8r-Qw1ADm9e.mp4
+itemDuration: 786
+itemImage: http://content.jwplatform.com/thumbs/XyxYkc8r-720.jpg
+itemLegacyID: Cinemassacre-25798
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/XyxYkc8r
+itemThumbnail: http://content.jwplatform.com/thumbs/XyxYkc8r-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25798_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/XyxYkc8r-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25798
+itemShortLinkID: 25798
+

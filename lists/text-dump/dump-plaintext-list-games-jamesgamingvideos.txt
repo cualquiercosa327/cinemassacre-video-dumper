@@ -1,0 +1,221 @@
+
+itemTitle: Ghostbusters: Xbox 360 review
+itemWebLink: http://cinemassacre.com/2009/08/13/ghostbusters-xbox-360-review/
+itemPlaylist: http://content.jwplatform.com/manifests/r9RPMUEX.m3u8
+itemAudio: http://content.jwplatform.com/videos/r9RPMUEX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/r9RPMUEX-QvH08cwS.mp4
+//content.jwplatform.com/videos/r9RPMUEX-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/r9RPMUEX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/r9RPMUEX-HTQw4Gzc.mp4
+itemDuration: 406
+itemImage: http://content.jwplatform.com/thumbs/r9RPMUEX-720.jpg
+itemLegacyID: Cinemassacre-388
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/r9RPMUEX
+itemThumbnail: http://content.jwplatform.com/thumbs/r9RPMUEX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-388_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/r9RPMUEX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=388
+itemShortLinkID: 388
+
+
+itemTitle: Castlevania: Lords of Shadow (first few levels)
+itemWebLink: http://cinemassacre.com/2010/11/17/castlevania-lords-of-shadow-first-few-levels/
+itemPlaylist: http://content.jwplatform.com/manifests/R1uupaAA.m3u8
+itemAudio: http://content.jwplatform.com/videos/R1uupaAA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/R1uupaAA-QvH08cwS.mp4
+//content.jwplatform.com/videos/R1uupaAA-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/R1uupaAA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/R1uupaAA-HTQw4Gzc.mp4
+itemDuration: 331
+itemImage: http://content.jwplatform.com/thumbs/R1uupaAA-720.jpg
+itemLegacyID: Cinemassacre-8394
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/R1uupaAA
+itemThumbnail: http://content.jwplatform.com/thumbs/R1uupaAA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8394_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/R1uupaAA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8394
+itemShortLinkID: 8394
+
+
+itemTitle: SNES VS. GENESIS
+itemWebLink: http://cinemassacre.com/2012/08/17/snes-vs-sega-genesis-full-video/
+itemPlaylist: http://content.jwplatform.com/manifests/IMaTTqSs.m3u8
+itemAudio: http://content.jwplatform.com/videos/IMaTTqSs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/IMaTTqSs-QvH08cwS.mp4
+//content.jwplatform.com/videos/IMaTTqSs-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/IMaTTqSs-GzAUXplI.mp4
+//content.jwplatform.com/videos/IMaTTqSs-7spvWrjM.mp4
+//content.jwplatform.com/videos/IMaTTqSs-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/IMaTTqSs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/IMaTTqSs-Qw1ADm9e.mp4
+itemDuration: 1605
+itemImage: http://content.jwplatform.com/thumbs/IMaTTqSs-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 23:43:08 -0000
+itemPreview: http://content.jwplatform.com/previews/IMaTTqSs
+itemThumbnail: http://content.jwplatform.com/thumbs/IMaTTqSs-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/IMaTTqSs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18626
+itemShortLinkID: 18626
+
+
+itemTitle: Star Wars Kinect (Xbox 360)
+itemWebLink: http://cinemassacre.com/2014/04/15/star-wars-kinect-xbox-360/
+itemPlaylist: http://content.jwplatform.com/manifests/EYAeL6Sy.m3u8
+itemAudio: http://content.jwplatform.com/videos/EYAeL6Sy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EYAeL6Sy-QvH08cwS.mp4
+//content.jwplatform.com/videos/EYAeL6Sy-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/EYAeL6Sy-GzAUXplI.mp4
+//content.jwplatform.com/videos/EYAeL6Sy-7spvWrjM.mp4
+//content.jwplatform.com/videos/EYAeL6Sy-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EYAeL6Sy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EYAeL6Sy-Qw1ADm9e.mp4
+itemDuration: 353
+itemImage: http://content.jwplatform.com/thumbs/EYAeL6Sy-720.jpg
+itemLegacyID: Cinemassacre-534c17e46ea7c
+itemPubDate: Mon, 14 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/EYAeL6Sy
+itemThumbnail: http://content.jwplatform.com/thumbs/EYAeL6Sy-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-534c17e46ea7c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/EYAeL6Sy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27707
+itemShortLinkID: 27707
+
+
+itemTitle: Game Over documentary_review.mp4
+itemWebLink: http://cinemassacre.com/2014/07/29/game-over-documentary-review/
+itemPlaylist: http://content.jwplatform.com/manifests/VS4qHfcD.m3u8
+itemAudio: http://content.jwplatform.com/videos/VS4qHfcD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/VS4qHfcD-QvH08cwS.mp4
+//content.jwplatform.com/videos/VS4qHfcD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/VS4qHfcD-GzAUXplI.mp4
+//content.jwplatform.com/videos/VS4qHfcD-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/VS4qHfcD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/VS4qHfcD-7spvWrjM.mp4
+itemDuration: 908
+itemImage: http://content.jwplatform.com/thumbs/VS4qHfcD-720.jpg
+itemLegacyID: Cinemassacre-53d72eb191f70
+itemPubDate: Mon, 28 Jul 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/VS4qHfcD
+itemThumbnail: http://content.jwplatform.com/thumbs/VS4qHfcD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53d72eb191f70_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/VS4qHfcD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28197
+itemShortLinkID: 28197
+
+
+itemTitle: James & Doug - Batman Returns-WEB.mov
+itemWebLink: http://cinemassacre.com/2015/11/05/batman-returns-james-doug/
+itemPlaylist: http://content.jwplatform.com/manifests/tf21ASn7.m3u8
+itemAudio: http://content.jwplatform.com/videos/tf21ASn7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tf21ASn7-QvH08cwS.mp4
+//content.jwplatform.com/videos/tf21ASn7-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/tf21ASn7-GzAUXplI.mp4
+//content.jwplatform.com/videos/tf21ASn7-7spvWrjM.mp4
+//content.jwplatform.com/videos/tf21ASn7-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tf21ASn7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tf21ASn7-Qw1ADm9e.mp4
+itemDuration: 860
+itemImage: http://content.jwplatform.com/thumbs/tf21ASn7-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:26 -0000
+itemPreview: http://content.jwplatform.com/previews/tf21ASn7
+itemThumbnail: http://content.jwplatform.com/thumbs/tf21ASn7-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/tf21ASn7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30253
+itemShortLinkID: 30253
+
+
+itemTitle: James & Doug - American Gladiators
+itemWebLink: http://cinemassacre.com/2015/11/11/american-gladiators-james-doug/
+itemPlaylist: http://content.jwplatform.com/manifests/w77n7XAe.m3u8
+itemAudio: http://content.jwplatform.com/videos/w77n7XAe-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/w77n7XAe-QvH08cwS.mp4
+//content.jwplatform.com/videos/w77n7XAe-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/w77n7XAe-GzAUXplI.mp4
+//content.jwplatform.com/videos/w77n7XAe-7spvWrjM.mp4
+//content.jwplatform.com/videos/w77n7XAe-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/w77n7XAe-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/w77n7XAe-Qw1ADm9e.mp4
+itemDuration: 459
+itemImage: http://content.jwplatform.com/thumbs/w77n7XAe-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:26 -0000
+itemPreview: http://content.jwplatform.com/previews/w77n7XAe
+itemThumbnail: http://content.jwplatform.com/thumbs/w77n7XAe-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/w77n7XAe-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30256
+itemShortLinkID: 30256
+
+
+itemTitle: James & Doug - Battletoads SNES
+itemWebLink: http://cinemassacre.com/2015/12/02/battletoads-in-battlemaniacs-james-doug/
+itemPlaylist: http://content.jwplatform.com/manifests/TK730dvJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/TK730dvJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/TK730dvJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/TK730dvJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/TK730dvJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/TK730dvJ-7spvWrjM.mp4
+//content.jwplatform.com/videos/TK730dvJ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/TK730dvJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/TK730dvJ-Qw1ADm9e.mp4
+itemDuration: 604
+itemImage: http://content.jwplatform.com/thumbs/TK730dvJ-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:26 -0000
+itemPreview: http://content.jwplatform.com/previews/TK730dvJ
+itemThumbnail: http://content.jwplatform.com/thumbs/TK730dvJ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/TK730dvJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30381
+itemShortLinkID: 30381
+
+
+itemTitle: Blades of Steel (NES) - James & Doug.mp4
+itemWebLink: http://cinemassacre.com/2015/12/10/blades-of-steel-nes-james-doug/
+itemPlaylist: http://content.jwplatform.com/manifests/BDF71Kg2.m3u8
+itemAudio: http://content.jwplatform.com/videos/BDF71Kg2-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/BDF71Kg2-QvH08cwS.mp4
+//content.jwplatform.com/videos/BDF71Kg2-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/BDF71Kg2-GzAUXplI.mp4
+//content.jwplatform.com/videos/BDF71Kg2-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BDF71Kg2-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BDF71Kg2-7spvWrjM.mp4
+itemDuration: 539
+itemImage: http://content.jwplatform.com/thumbs/BDF71Kg2-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:40:21 -0000
+itemPreview: http://content.jwplatform.com/previews/BDF71Kg2
+itemThumbnail: http://content.jwplatform.com/thumbs/BDF71Kg2-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/BDF71Kg2-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30490
+itemShortLinkID: 30490
+
+
+itemTitle: Street Fighter- The Movie- The Game (Sega Saturn) - James & Doug.mp4
+itemWebLink: http://cinemassacre.com/2015/12/17/street-fighter-the-movie-the-game-james-doug/
+itemPlaylist: http://content.jwplatform.com/manifests/shZU422T.m3u8
+itemAudio: http://content.jwplatform.com/videos/shZU422T-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/shZU422T-QvH08cwS.mp4
+//content.jwplatform.com/videos/shZU422T-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/shZU422T-GzAUXplI.mp4
+//content.jwplatform.com/videos/shZU422T-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/shZU422T-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/shZU422T-7spvWrjM.mp4
+itemDuration: 457
+itemImage: http://content.jwplatform.com/thumbs/shZU422T-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:35:07 -0000
+itemPreview: http://content.jwplatform.com/previews/shZU422T
+itemThumbnail: http://content.jwplatform.com/thumbs/shZU422T-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/shZU422T-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30493
+itemShortLinkID: 30493
+

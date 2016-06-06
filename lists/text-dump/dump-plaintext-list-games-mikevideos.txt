@@ -1,0 +1,1151 @@
+
+itemTitle: Mega Man 10 review by Mike
+itemWebLink: http://cinemassacre.com/2013/08/28/mega-man-10/
+itemPlaylist: http://content.jwplatform.com/manifests/DlsbNafA.m3u8
+itemAudio: http://content.jwplatform.com/videos/DlsbNafA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DlsbNafA-QvH08cwS.mp4
+//content.jwplatform.com/videos/DlsbNafA-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/DlsbNafA-GzAUXplI.mp4
+//content.jwplatform.com/videos/DlsbNafA-7spvWrjM.mp4
+//content.jwplatform.com/videos/DlsbNafA-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DlsbNafA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DlsbNafA-Qw1ADm9e.mp4
+itemDuration: 575
+itemImage: http://content.jwplatform.com/thumbs/DlsbNafA-720.jpg
+itemLegacyID: Cinemassacre-52256f6f07528
+itemPubDate: Tue, 03 Sep 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/DlsbNafA
+itemThumbnail: http://content.jwplatform.com/thumbs/DlsbNafA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52256f6f07528_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/DlsbNafA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26381
+itemShortLinkID: 26381
+
+
+itemTitle: Mega Man vs Mighty No. 9
+itemWebLink: http://cinemassacre.com/2013/09/10/make-me-draw-mighty-no-9-vs-mega-man/
+itemPlaylist: http://content.jwplatform.com/manifests/89Uj1rPm.m3u8
+itemAudio: http://content.jwplatform.com/videos/89Uj1rPm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/89Uj1rPm-QvH08cwS.mp4
+//content.jwplatform.com/videos/89Uj1rPm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/89Uj1rPm-GzAUXplI.mp4
+//content.jwplatform.com/videos/89Uj1rPm-7spvWrjM.mp4
+//content.jwplatform.com/videos/89Uj1rPm-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/89Uj1rPm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/89Uj1rPm-Qw1ADm9e.mp4
+itemDuration: 120
+itemImage: http://content.jwplatform.com/thumbs/89Uj1rPm-720.jpg
+itemLegacyID: Cinemassacre-522fe9c0c5e82
+itemPubDate: Tue, 10 Sep 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/89Uj1rPm
+itemThumbnail: http://content.jwplatform.com/thumbs/89Uj1rPm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-522fe9c0c5e82_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/89Uj1rPm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26574
+itemShortLinkID: 26574
+
+
+itemTitle: Breaking Bad vs The Joker! - Make Me Draw
+itemWebLink: http://cinemassacre.com/2013/09/26/breaking-bad-vs-the-joker-make-me-draw/
+itemPlaylist: http://content.jwplatform.com/manifests/Lly1TKkm.m3u8
+itemAudio: http://content.jwplatform.com/videos/Lly1TKkm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Lly1TKkm-QvH08cwS.mp4
+//content.jwplatform.com/videos/Lly1TKkm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Lly1TKkm-GzAUXplI.mp4
+//content.jwplatform.com/videos/Lly1TKkm-7spvWrjM.mp4
+//content.jwplatform.com/videos/Lly1TKkm-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Lly1TKkm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Lly1TKkm-Qw1ADm9e.mp4
+itemDuration: 228
+itemImage: http://content.jwplatform.com/thumbs/Lly1TKkm-720.jpg
+itemLegacyID: Cinemassacre-523d027d89b9e
+itemPubDate: Fri, 20 Sep 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Lly1TKkm
+itemThumbnail: http://content.jwplatform.com/thumbs/Lly1TKkm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-523d027d89b9e_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Lly1TKkm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26663
+itemShortLinkID: 26663
+
+
+itemTitle: Super Mario 3D World - White Tanooki Suit
+itemWebLink: http://cinemassacre.com/2013/11/25/super-mario-3d-world-white-tanooki-suit/
+itemPlaylist: http://content.jwplatform.com/manifests/M8fNwFPS.m3u8
+itemAudio: http://content.jwplatform.com/videos/M8fNwFPS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/M8fNwFPS-QvH08cwS.mp4
+//content.jwplatform.com/videos/M8fNwFPS-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/M8fNwFPS-GzAUXplI.mp4
+//content.jwplatform.com/videos/M8fNwFPS-7spvWrjM.mp4
+//content.jwplatform.com/videos/M8fNwFPS-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/M8fNwFPS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/M8fNwFPS-Qw1ADm9e.mp4
+itemDuration: 163
+itemImage: http://content.jwplatform.com/thumbs/M8fNwFPS-720.jpg
+itemLegacyID: Cinemassacre-5293f1283913e
+itemPubDate: Mon, 25 Nov 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/M8fNwFPS
+itemThumbnail: http://content.jwplatform.com/thumbs/M8fNwFPS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5293f1283913e_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/M8fNwFPS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27072
+itemShortLinkID: 27072
+
+
+itemTitle: Air Buster (Sega Genesis) Review by Mike
+itemWebLink: http://cinemassacre.com/2014/02/25/air-buster-sega-genesis-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/heK1SW8n.m3u8
+itemAudio: http://content.jwplatform.com/videos/heK1SW8n-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/heK1SW8n-QvH08cwS.mp4
+//content.jwplatform.com/videos/heK1SW8n-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/heK1SW8n-GzAUXplI.mp4
+//content.jwplatform.com/videos/heK1SW8n-7spvWrjM.mp4
+//content.jwplatform.com/videos/heK1SW8n-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/heK1SW8n-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/heK1SW8n-Qw1ADm9e.mp4
+itemDuration: 249
+itemImage: http://content.jwplatform.com/thumbs/heK1SW8n-720.jpg
+itemLegacyID: Cinemassacre-530a61d702b70
+itemPubDate: Sun, 23 Feb 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/heK1SW8n
+itemThumbnail: http://content.jwplatform.com/thumbs/heK1SW8n-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-530a61d702b70_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/heK1SW8n-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27487
+itemShortLinkID: 27487
+
+
+itemTitle: Elemental Master (Sega Genesis) Review by Mike
+itemWebLink: http://cinemassacre.com/2014/03/06/elemental-master-sega-genesis-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/N5ATR0fA.m3u8
+itemAudio: http://content.jwplatform.com/videos/N5ATR0fA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/N5ATR0fA-QvH08cwS.mp4
+//content.jwplatform.com/videos/N5ATR0fA-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/N5ATR0fA-GzAUXplI.mp4
+//content.jwplatform.com/videos/N5ATR0fA-7spvWrjM.mp4
+//content.jwplatform.com/videos/N5ATR0fA-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/N5ATR0fA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/N5ATR0fA-Qw1ADm9e.mp4
+itemDuration: 382
+itemImage: http://content.jwplatform.com/thumbs/N5ATR0fA-720.jpg
+itemLegacyID: Cinemassacre-53184138e5e2c
+itemPubDate: Thu, 06 Mar 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/N5ATR0fA
+itemThumbnail: http://content.jwplatform.com/thumbs/N5ATR0fA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53184138e5e2c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/N5ATR0fA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27520
+itemShortLinkID: 27520
+
+
+itemTitle: Star Wars Kinect (Xbox 360)
+itemWebLink: http://cinemassacre.com/2014/04/15/star-wars-kinect-xbox-360/
+itemPlaylist: http://content.jwplatform.com/manifests/EYAeL6Sy.m3u8
+itemAudio: http://content.jwplatform.com/videos/EYAeL6Sy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EYAeL6Sy-QvH08cwS.mp4
+//content.jwplatform.com/videos/EYAeL6Sy-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/EYAeL6Sy-GzAUXplI.mp4
+//content.jwplatform.com/videos/EYAeL6Sy-7spvWrjM.mp4
+//content.jwplatform.com/videos/EYAeL6Sy-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EYAeL6Sy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EYAeL6Sy-Qw1ADm9e.mp4
+itemDuration: 353
+itemImage: http://content.jwplatform.com/thumbs/EYAeL6Sy-720.jpg
+itemLegacyID: Cinemassacre-534c17e46ea7c
+itemPubDate: Mon, 14 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/EYAeL6Sy
+itemThumbnail: http://content.jwplatform.com/thumbs/EYAeL6Sy-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-534c17e46ea7c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/EYAeL6Sy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27707
+itemShortLinkID: 27707
+
+
+itemTitle: Mario Kart 8 - Nearly Perfect - By Mike
+itemWebLink: http://cinemassacre.com/2014/06/16/mario-kart-8-nearly-perfect-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/P9Ph3Jnc.m3u8
+itemAudio: http://content.jwplatform.com/videos/P9Ph3Jnc-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/P9Ph3Jnc-QvH08cwS.mp4
+//content.jwplatform.com/videos/P9Ph3Jnc-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/P9Ph3Jnc-GzAUXplI.mp4
+//content.jwplatform.com/videos/P9Ph3Jnc-7spvWrjM.mp4
+//content.jwplatform.com/videos/P9Ph3Jnc-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/P9Ph3Jnc-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/P9Ph3Jnc-Qw1ADm9e.mp4
+itemDuration: 225
+itemImage: http://content.jwplatform.com/thumbs/P9Ph3Jnc-720.jpg
+itemLegacyID: Cinemassacre-539f2d0ec55cc
+itemPubDate: Mon, 16 Jun 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/P9Ph3Jnc
+itemThumbnail: http://content.jwplatform.com/thumbs/P9Ph3Jnc-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-539f2d0ec55cc_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/P9Ph3Jnc-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27999
+itemShortLinkID: 27999
+
+
+itemTitle: Mario Adventure - Super Mario Bros. 3 Hack Raised
+itemWebLink: http://cinemassacre.com/2014/09/13/mario-adventure-super-mario-bros-3-hack/
+itemPlaylist: http://content.jwplatform.com/manifests/fQkKpLXW.m3u8
+itemAudio: http://content.jwplatform.com/videos/fQkKpLXW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/fQkKpLXW-QvH08cwS.mp4
+//content.jwplatform.com/videos/fQkKpLXW-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/fQkKpLXW-GzAUXplI.mp4
+//content.jwplatform.com/videos/fQkKpLXW-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/fQkKpLXW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/fQkKpLXW-7spvWrjM.mp4
+itemDuration: 568
+itemImage: http://content.jwplatform.com/thumbs/fQkKpLXW-720.jpg
+itemLegacyID: Cinemassacre-541494e9b862d
+itemPubDate: Sat, 13 Sep 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/fQkKpLXW
+itemThumbnail: http://content.jwplatform.com/thumbs/fQkKpLXW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-541494e9b862d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/fQkKpLXW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28583
+itemShortLinkID: 28583
+
+
+itemTitle: McDonald's Treasure Land Adventure (Sega Genesis)
+itemWebLink: http://cinemassacre.com/2014/09/24/mcdonalds-treasure-land-adventure-sega-genesis-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/vT8rl4sd.m3u8
+itemAudio: http://content.jwplatform.com/videos/vT8rl4sd-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vT8rl4sd-QvH08cwS.mp4
+//content.jwplatform.com/videos/vT8rl4sd-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/vT8rl4sd-GzAUXplI.mp4
+//content.jwplatform.com/videos/vT8rl4sd-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vT8rl4sd-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vT8rl4sd-7spvWrjM.mp4
+itemDuration: 589
+itemImage: http://content.jwplatform.com/thumbs/vT8rl4sd-720.jpg
+itemLegacyID: Cinemassacre-542243124457b
+itemPubDate: Tue, 23 Sep 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/vT8rl4sd
+itemThumbnail: http://content.jwplatform.com/thumbs/vT8rl4sd-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-542243124457b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/vT8rl4sd-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28606
+itemShortLinkID: 28606
+
+
+itemTitle: Star Wars Force Unleashed II (Xbox 360) Review by
+itemWebLink: http://cinemassacre.com/2014/11/07/star-wars-the-force-unleashed-ii-xbox-360-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/g1i3jREb.m3u8
+itemAudio: http://content.jwplatform.com/videos/g1i3jREb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/g1i3jREb-QvH08cwS.mp4
+//content.jwplatform.com/videos/g1i3jREb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/g1i3jREb-GzAUXplI.mp4
+//content.jwplatform.com/videos/g1i3jREb-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/g1i3jREb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/g1i3jREb-7spvWrjM.mp4
+itemDuration: 504
+itemImage: http://content.jwplatform.com/thumbs/g1i3jREb-720.jpg
+itemLegacyID: Cinemassacre-5449ec11966eb
+itemPubDate: Fri, 24 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/g1i3jREb
+itemThumbnail: http://content.jwplatform.com/thumbs/g1i3jREb-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5449ec11966eb_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/g1i3jREb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28737
+itemShortLinkID: 28737
+
+
+itemTitle: Super Mario Bros. 3Mix - NES Mod review by Mike Ma
+itemWebLink: http://cinemassacre.com/2015/01/08/super-mario-3mix-nes-mod-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/6z35TPa4.m3u8
+itemAudio: http://content.jwplatform.com/videos/6z35TPa4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6z35TPa4-QvH08cwS.mp4
+//content.jwplatform.com/videos/6z35TPa4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/6z35TPa4-GzAUXplI.mp4
+//content.jwplatform.com/videos/6z35TPa4-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6z35TPa4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6z35TPa4-7spvWrjM.mp4
+itemDuration: 637
+itemImage: http://content.jwplatform.com/thumbs/6z35TPa4-720.jpg
+itemLegacyID: Cinemassacre-54a50e50cb07b
+itemPubDate: Thu, 01 Jan 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/6z35TPa4
+itemThumbnail: http://content.jwplatform.com/thumbs/6z35TPa4-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54a50e50cb07b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/6z35TPa4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28987
+itemShortLinkID: 28987
+
+
+itemTitle: Tic Music Raised WEB.mov
+itemWebLink: http://cinemassacre.com/2015/02/20/3-d-tic-tac-toe-atari-2600-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/sphiKqBb.m3u8
+itemAudio: http://content.jwplatform.com/videos/sphiKqBb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sphiKqBb-QvH08cwS.mp4
+//content.jwplatform.com/videos/sphiKqBb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/sphiKqBb-GzAUXplI.mp4
+//content.jwplatform.com/videos/sphiKqBb-7spvWrjM.mp4
+//content.jwplatform.com/videos/sphiKqBb-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sphiKqBb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sphiKqBb-Qw1ADm9e.mp4
+itemDuration: 175
+itemImage: http://content.jwplatform.com/thumbs/sphiKqBb-720.jpg
+itemLegacyID: Cinemassacre-54e42d9288067
+itemPubDate: Tue, 17 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/sphiKqBb
+itemThumbnail: http://content.jwplatform.com/thumbs/sphiKqBb-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54e42d9288067_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/sphiKqBb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29255
+itemShortLinkID: 29255
+
+
+itemTitle: Qberts Qubes Atari 2600
+itemWebLink: http://cinemassacre.com/2015/02/24/qberts-qubes-atari-2600-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/GRALmbOq.m3u8
+itemAudio: http://content.jwplatform.com/videos/GRALmbOq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GRALmbOq-QvH08cwS.mp4
+//content.jwplatform.com/videos/GRALmbOq-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/GRALmbOq-GzAUXplI.mp4
+//content.jwplatform.com/videos/GRALmbOq-7spvWrjM.mp4
+//content.jwplatform.com/videos/GRALmbOq-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GRALmbOq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GRALmbOq-Qw1ADm9e.mp4
+itemDuration: 302
+itemImage: http://content.jwplatform.com/thumbs/GRALmbOq-720.jpg
+itemLegacyID: Cinemassacre-54e6a37cdb49a
+itemPubDate: Thu, 19 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/GRALmbOq
+itemThumbnail: http://content.jwplatform.com/thumbs/GRALmbOq-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54e6a37cdb49a_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/GRALmbOq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29285
+itemShortLinkID: 29285
+
+
+itemTitle: Wizard of Wor - Arcade review by Mike
+itemWebLink: http://cinemassacre.com/2015/03/04/wizard-of-wor-arcade-atari-2600-5200-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/2OD4pdkX.m3u8
+itemAudio: http://content.jwplatform.com/videos/2OD4pdkX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2OD4pdkX-QvH08cwS.mp4
+//content.jwplatform.com/videos/2OD4pdkX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/2OD4pdkX-GzAUXplI.mp4
+//content.jwplatform.com/videos/2OD4pdkX-7spvWrjM.mp4
+//content.jwplatform.com/videos/2OD4pdkX-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2OD4pdkX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2OD4pdkX-Qw1ADm9e.mp4
+itemDuration: 329
+itemImage: http://content.jwplatform.com/thumbs/2OD4pdkX-720.jpg
+itemLegacyID: Cinemassacre-54f7c3c4e5a3b
+itemPubDate: Wed, 04 Mar 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/2OD4pdkX
+itemThumbnail: http://content.jwplatform.com/thumbs/2OD4pdkX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54f7c3c4e5a3b_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/2OD4pdkX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29353
+itemShortLinkID: 29353
+
+
+itemTitle: Hooking up Multiple Video Game Systems by Mike
+itemWebLink: http://cinemassacre.com/2015/04/06/hooking-up-multiple-video-game-systems-by-mike-matei/
+itemPlaylist: http://content.jwplatform.com/manifests/naOBu653.m3u8
+itemAudio: http://content.jwplatform.com/videos/naOBu653-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/naOBu653-QvH08cwS.mp4
+//content.jwplatform.com/videos/naOBu653-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/naOBu653-GzAUXplI.mp4
+//content.jwplatform.com/videos/naOBu653-7spvWrjM.mp4
+//content.jwplatform.com/videos/naOBu653-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/naOBu653-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/naOBu653-Qw1ADm9e.mp4
+itemDuration: 1370
+itemImage: http://content.jwplatform.com/thumbs/naOBu653-720.jpg
+itemLegacyID: Cinemassacre-55230df2d3b3c
+itemPubDate: Mon, 06 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/naOBu653
+itemThumbnail: http://content.jwplatform.com/thumbs/naOBu653-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-55230df2d3b3c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/naOBu653-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29491
+itemShortLinkID: 29491
+
+
+itemTitle: Arcade Stick Video WEB.mov
+itemWebLink: http://cinemassacre.com/2016/02/28/mikes-arcade-stick-trouble/
+itemPlaylist: http://content.jwplatform.com/manifests/h4U7Ots6.m3u8
+itemAudio: http://content.jwplatform.com/videos/h4U7Ots6-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/h4U7Ots6-QvH08cwS.mp4
+//content.jwplatform.com/videos/h4U7Ots6-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/h4U7Ots6-GzAUXplI.mp4
+//content.jwplatform.com/videos/h4U7Ots6-7spvWrjM.mp4
+//content.jwplatform.com/videos/h4U7Ots6-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/h4U7Ots6-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/h4U7Ots6-Qw1ADm9e.mp4
+itemDuration: 537
+itemImage: http://content.jwplatform.com/thumbs/h4U7Ots6-720.jpg
+itemLegacyID: 
+itemPubDate: Sun, 08 May 2016 05:53:24 -0000
+itemPreview: http://content.jwplatform.com/previews/h4U7Ots6
+itemThumbnail: http://content.jwplatform.com/thumbs/h4U7Ots6-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/h4U7Ots6-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30839
+itemShortLinkID: 30839
+
+
+itemTitle: Top 10 Obscure NES Assholes
+itemWebLink: http://cinemassacre.com/2016/04/02/top-10-obscure-nes-assholes/
+itemPlaylist: http://content.jwplatform.com/manifests/coHdlCUk.m3u8
+itemAudio: http://content.jwplatform.com/videos/coHdlCUk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/coHdlCUk-QvH08cwS.mp4
+//content.jwplatform.com/videos/coHdlCUk-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/coHdlCUk-GzAUXplI.mp4
+//content.jwplatform.com/videos/coHdlCUk-7spvWrjM.mp4
+//content.jwplatform.com/videos/coHdlCUk-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/coHdlCUk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/coHdlCUk-Qw1ADm9e.mp4
+itemDuration: 842
+itemImage: http://content.jwplatform.com/thumbs/coHdlCUk-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 20:13:41 -0000
+itemPreview: http://content.jwplatform.com/previews/coHdlCUk
+itemThumbnail: http://content.jwplatform.com/thumbs/coHdlCUk-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/coHdlCUk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30913
+itemShortLinkID: 30913
+
+
+itemTitle: Top 10 Boners
+itemWebLink: http://cinemassacre.com/2016/04/25/top-10-boners-by-mike-matei/
+itemPlaylist: http://content.jwplatform.com/manifests/Vuma2oeQ.m3u8
+itemAudio: http://content.jwplatform.com/videos/Vuma2oeQ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Vuma2oeQ-QvH08cwS.mp4
+//content.jwplatform.com/videos/Vuma2oeQ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Vuma2oeQ-GzAUXplI.mp4
+//content.jwplatform.com/videos/Vuma2oeQ-7spvWrjM.mp4
+//content.jwplatform.com/videos/Vuma2oeQ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Vuma2oeQ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Vuma2oeQ-Qw1ADm9e.mp4
+itemDuration: 872
+itemImage: http://content.jwplatform.com/thumbs/Vuma2oeQ-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 02 May 2016 20:12:39 -0000
+itemPreview: http://content.jwplatform.com/previews/Vuma2oeQ
+itemThumbnail: http://content.jwplatform.com/thumbs/Vuma2oeQ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/Vuma2oeQ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30996
+itemShortLinkID: 30996
+
+
+itemTitle: Top 12 Video Games Defeated by Mike On Camera
+itemWebLink: http://cinemassacre.com/2016/05/09/top-12-games-defeated-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/RoqLftWw.m3u8
+itemAudio: http://content.jwplatform.com/videos/RoqLftWw-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RoqLftWw-QvH08cwS.mp4
+//content.jwplatform.com/videos/RoqLftWw-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/RoqLftWw-GzAUXplI.mp4
+//content.jwplatform.com/videos/RoqLftWw-7spvWrjM.mp4
+//content.jwplatform.com/videos/RoqLftWw-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RoqLftWw-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RoqLftWw-Qw1ADm9e.mp4
+itemDuration: 601
+itemImage: http://content.jwplatform.com/thumbs/RoqLftWw-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 10 May 2016 01:57:20 -0000
+itemPreview: http://content.jwplatform.com/previews/RoqLftWw
+itemThumbnail: http://content.jwplatform.com/thumbs/RoqLftWw-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/RoqLftWw-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31116
+itemShortLinkID: 31116
+
+
+itemTitle: Super Mario Bros 2 Tricks
+itemWebLink: http://cinemassacre.com/2011/09/01/super-mario-bros-2-tricks/
+itemPlaylist: http://content.jwplatform.com/manifests/UwMeLcMT.m3u8
+itemAudio: http://content.jwplatform.com/videos/UwMeLcMT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/UwMeLcMT-QvH08cwS.mp4
+//content.jwplatform.com/videos/UwMeLcMT-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/UwMeLcMT-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/UwMeLcMT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/UwMeLcMT-GzAUXplI.mp4
+itemDuration: 169
+itemImage: http://content.jwplatform.com/thumbs/UwMeLcMT-720.jpg
+itemLegacyID: Cinemassacre-9338
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/UwMeLcMT
+itemThumbnail: http://content.jwplatform.com/thumbs/UwMeLcMT-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9338_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/UwMeLcMT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9338
+itemShortLinkID: 9338
+
+
+itemTitle: Horror Glitches (NES)
+itemWebLink: http://cinemassacre.com/2011/10/12/horror-glitches/
+itemPlaylist: http://content.jwplatform.com/manifests/zuKBeEIm.m3u8
+itemAudio: http://content.jwplatform.com/videos/zuKBeEIm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/zuKBeEIm-QvH08cwS.mp4
+//content.jwplatform.com/videos/zuKBeEIm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/zuKBeEIm-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/zuKBeEIm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/zuKBeEIm-GzAUXplI.mp4
+itemDuration: 229
+itemImage: http://content.jwplatform.com/thumbs/zuKBeEIm-720.jpg
+itemLegacyID: Cinemassacre-10163
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/zuKBeEIm
+itemThumbnail: http://content.jwplatform.com/thumbs/zuKBeEIm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-10163_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/zuKBeEIm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=10163
+itemShortLinkID: 10163
+
+
+itemTitle: Link to the Past Glitches
+itemWebLink: http://cinemassacre.com/2011/11/16/the-legend-of-zelda-a-link-to-the-past-glitches/
+itemPlaylist: http://content.jwplatform.com/manifests/BdOYILfZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/BdOYILfZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/BdOYILfZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/BdOYILfZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/BdOYILfZ-GzAUXplI.mp4
+//content.jwplatform.com/videos/BdOYILfZ-7spvWrjM.mp4
+//content.jwplatform.com/videos/BdOYILfZ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BdOYILfZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BdOYILfZ-Qw1ADm9e.mp4
+itemDuration: 323
+itemImage: http://content.jwplatform.com/thumbs/BdOYILfZ-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 06:36:33 -0000
+itemPreview: http://content.jwplatform.com/previews/BdOYILfZ
+itemThumbnail: http://content.jwplatform.com/thumbs/BdOYILfZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/BdOYILfZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=12884
+itemShortLinkID: 12884
+
+
+itemTitle: Skyward Sword First Thoughts and Heart Pieces with Mike Matei.mp4
+itemWebLink: http://cinemassacre.com/2011/11/21/zelda-skyward-sword/
+itemPlaylist: http://content.jwplatform.com/manifests/20dZZD7L.m3u8
+itemAudio: http://content.jwplatform.com/videos/20dZZD7L-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/20dZZD7L-QvH08cwS.mp4
+//content.jwplatform.com/videos/20dZZD7L-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/20dZZD7L-GzAUXplI.mp4
+//content.jwplatform.com/videos/20dZZD7L-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/20dZZD7L-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/20dZZD7L-7spvWrjM.mp4
+itemDuration: 452
+itemImage: http://content.jwplatform.com/thumbs/20dZZD7L-720.jpg
+itemLegacyID: 
+itemPubDate: Sun, 08 May 2016 21:58:09 -0000
+itemPreview: http://content.jwplatform.com/previews/20dZZD7L
+itemThumbnail: http://content.jwplatform.com/thumbs/20dZZD7L-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/20dZZD7L-120.vtt
+itemShortLink: http://cinemassacre.com/?p=14794
+itemShortLinkID: 14794
+
+
+itemTitle: Super Smash Bros (N64) Tricks
+itemWebLink: http://cinemassacre.com/2011/12/02/super-smash-bros-n64-tricks/
+itemPlaylist: http://content.jwplatform.com/manifests/TrZKDqW5.m3u8
+itemAudio: http://content.jwplatform.com/videos/TrZKDqW5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/TrZKDqW5-QvH08cwS.mp4
+//content.jwplatform.com/videos/TrZKDqW5-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/TrZKDqW5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/TrZKDqW5-HTQw4Gzc.mp4
+itemDuration: 149
+itemImage: http://content.jwplatform.com/thumbs/TrZKDqW5-720.jpg
+itemLegacyID: Cinemassacre-9665
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/TrZKDqW5
+itemThumbnail: http://content.jwplatform.com/thumbs/TrZKDqW5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9665_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/TrZKDqW5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9665
+itemShortLinkID: 9665
+
+
+itemTitle: 016 Kirby
+itemWebLink: http://cinemassacre.com/2012/01/28/kirby-glitches/
+itemPlaylist: http://content.jwplatform.com/manifests/IJ4pISO4.m3u8
+itemAudio: http://content.jwplatform.com/videos/IJ4pISO4-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/IJ4pISO4-QvH08cwS.mp4
+//content.jwplatform.com/videos/IJ4pISO4-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/IJ4pISO4-GzAUXplI.mp4
+//content.jwplatform.com/videos/IJ4pISO4-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/IJ4pISO4-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/IJ4pISO4-7spvWrjM.mp4
+itemDuration: 315
+itemImage: http://content.jwplatform.com/thumbs/IJ4pISO4-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 18:26:21 -0000
+itemPreview: http://content.jwplatform.com/previews/IJ4pISO4
+itemThumbnail: http://content.jwplatform.com/thumbs/IJ4pISO4-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/IJ4pISO4-120.vtt
+itemShortLink: http://cinemassacre.com/?p=14705
+itemShortLinkID: 14705
+
+
+itemTitle: Mario 3 Glitches
+itemWebLink: http://cinemassacre.com/2012/02/25/super-mario-bros-3-glitches/
+itemPlaylist: http://content.jwplatform.com/manifests/lJS44tZH.m3u8
+itemAudio: http://content.jwplatform.com/videos/lJS44tZH-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/lJS44tZH-QvH08cwS.mp4
+//content.jwplatform.com/videos/lJS44tZH-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/lJS44tZH-GzAUXplI.mp4
+//content.jwplatform.com/videos/lJS44tZH-7spvWrjM.mp4
+//content.jwplatform.com/videos/lJS44tZH-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/lJS44tZH-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/lJS44tZH-Qw1ADm9e.mp4
+itemDuration: 207
+itemImage: http://content.jwplatform.com/thumbs/lJS44tZH-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 06:36:33 -0000
+itemPreview: http://content.jwplatform.com/previews/lJS44tZH
+itemThumbnail: http://content.jwplatform.com/thumbs/lJS44tZH-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/lJS44tZH-120.vtt
+itemShortLink: http://cinemassacre.com/?p=12631
+itemShortLinkID: 12631
+
+
+itemTitle: Donald Duck Games
+itemWebLink: http://cinemassacre.com/2012/03/22/donald-duck-games/
+itemPlaylist: http://content.jwplatform.com/manifests/B1qFl3g5.m3u8
+itemAudio: http://content.jwplatform.com/videos/B1qFl3g5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/B1qFl3g5-QvH08cwS.mp4
+//content.jwplatform.com/videos/B1qFl3g5-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/B1qFl3g5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/B1qFl3g5-HTQw4Gzc.mp4
+itemDuration: 646
+itemImage: http://content.jwplatform.com/thumbs/B1qFl3g5-720.jpg
+itemLegacyID: Cinemassacre-16113
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/B1qFl3g5
+itemThumbnail: http://content.jwplatform.com/thumbs/B1qFl3g5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-16113_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/B1qFl3g5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=16113
+itemShortLinkID: 16113
+
+
+itemTitle: Draw Something Review
+itemWebLink: http://cinemassacre.com/2012/04/02/draw-something/
+itemPlaylist: http://content.jwplatform.com/manifests/Etw6vNAM.m3u8
+itemAudio: http://content.jwplatform.com/videos/Etw6vNAM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Etw6vNAM-QvH08cwS.mp4
+//content.jwplatform.com/videos/Etw6vNAM-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Etw6vNAM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Etw6vNAM-HTQw4Gzc.mp4
+itemDuration: 210
+itemImage: http://content.jwplatform.com/thumbs/Etw6vNAM-720.jpg
+itemLegacyID: Cinemassacre-16427
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Etw6vNAM
+itemThumbnail: http://content.jwplatform.com/thumbs/Etw6vNAM-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-16427_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Etw6vNAM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=16427
+itemShortLinkID: 16427
+
+
+itemTitle: Tazmaian Devil Games
+itemWebLink: http://cinemassacre.com/2012/05/13/tasmanian-devil-games/
+itemPlaylist: http://content.jwplatform.com/manifests/YvQCX7wN.m3u8
+itemAudio: http://content.jwplatform.com/videos/YvQCX7wN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/YvQCX7wN-QvH08cwS.mp4
+//content.jwplatform.com/videos/YvQCX7wN-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/YvQCX7wN-GzAUXplI.mp4
+//content.jwplatform.com/videos/YvQCX7wN-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/YvQCX7wN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/YvQCX7wN-7spvWrjM.mp4
+itemDuration: 542
+itemImage: http://content.jwplatform.com/thumbs/YvQCX7wN-720.jpg
+itemLegacyID: 
+itemPubDate: Thu, 02 Jun 2016 02:51:21 -0000
+itemPreview: http://content.jwplatform.com/previews/YvQCX7wN
+itemThumbnail: http://content.jwplatform.com/thumbs/YvQCX7wN-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/YvQCX7wN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17026
+itemShortLinkID: 17026
+
+
+itemTitle: Top 10 Obscure NES Gems
+itemWebLink: http://cinemassacre.com/2012/05/27/top-10-obscure-nes-games/
+itemPlaylist: http://content.jwplatform.com/manifests/QxySANUm.m3u8
+itemAudio: http://content.jwplatform.com/videos/QxySANUm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/QxySANUm-QvH08cwS.mp4
+//content.jwplatform.com/videos/QxySANUm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/QxySANUm-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/QxySANUm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/QxySANUm-GzAUXplI.mp4
+itemDuration: 1173
+itemImage: http://content.jwplatform.com/thumbs/QxySANUm-720.jpg
+itemLegacyID: Cinemassacre-17337
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/QxySANUm
+itemThumbnail: http://content.jwplatform.com/thumbs/QxySANUm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17337_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/QxySANUm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17337
+itemShortLinkID: 17337
+
+
+itemTitle: Blood Moon
+itemWebLink: http://cinemassacre.com/2012/06/02/castlevania-blood-moon/
+itemPlaylist: http://content.jwplatform.com/manifests/R4mxKjov.m3u8
+itemAudio: http://content.jwplatform.com/videos/R4mxKjov-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/R4mxKjov-QvH08cwS.mp4
+//content.jwplatform.com/videos/R4mxKjov-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/R4mxKjov-GzAUXplI.mp4
+//content.jwplatform.com/videos/R4mxKjov-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/R4mxKjov-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/R4mxKjov-7spvWrjM.mp4
+itemDuration: 571
+itemImage: http://content.jwplatform.com/thumbs/R4mxKjov-720.jpg
+itemLegacyID: 
+itemPubDate: Thu, 02 Jun 2016 02:51:21 -0000
+itemPreview: http://content.jwplatform.com/previews/R4mxKjov
+itemThumbnail: http://content.jwplatform.com/thumbs/R4mxKjov-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/R4mxKjov-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17181
+itemShortLinkID: 17181
+
+
+itemTitle: Sega Game Gear Review
+itemWebLink: http://cinemassacre.com/2012/06/24/sega-game-gear/
+itemPlaylist: http://content.jwplatform.com/manifests/GVvIEpRa.m3u8
+itemAudio: http://content.jwplatform.com/videos/GVvIEpRa-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GVvIEpRa-QvH08cwS.mp4
+//content.jwplatform.com/videos/GVvIEpRa-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/GVvIEpRa-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GVvIEpRa-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GVvIEpRa-GzAUXplI.mp4
+itemDuration: 676
+itemImage: http://content.jwplatform.com/thumbs/GVvIEpRa-720.jpg
+itemLegacyID: Cinemassacre-17381
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/GVvIEpRa
+itemThumbnail: http://content.jwplatform.com/thumbs/GVvIEpRa-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-17381_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/GVvIEpRa-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17381
+itemShortLinkID: 17381
+
+
+itemTitle: Top 10 Obscure SNES Gems by Mike Matei Super Nintendo
+itemWebLink: http://cinemassacre.com/2012/07/13/top-10-obscure-snes-gems/
+itemPlaylist: http://content.jwplatform.com/manifests/q9kP47JV.m3u8
+itemAudio: http://content.jwplatform.com/videos/q9kP47JV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/q9kP47JV-QvH08cwS.mp4
+//content.jwplatform.com/videos/q9kP47JV-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/q9kP47JV-GzAUXplI.mp4
+//content.jwplatform.com/videos/q9kP47JV-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/q9kP47JV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/q9kP47JV-7spvWrjM.mp4
+itemDuration: 1869
+itemImage: http://content.jwplatform.com/thumbs/q9kP47JV-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 24 May 2016 00:24:34 -0000
+itemPreview: http://content.jwplatform.com/previews/q9kP47JV
+itemThumbnail: http://content.jwplatform.com/thumbs/q9kP47JV-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/q9kP47JV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=17756
+itemShortLinkID: 17756
+
+
+itemTitle: i-Ninja Gamecube review
+itemWebLink: http://cinemassacre.com/2012/08/11/i-ninja-review/
+itemPlaylist: http://content.jwplatform.com/manifests/wqeTA0HU.m3u8
+itemAudio: http://content.jwplatform.com/videos/wqeTA0HU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/wqeTA0HU-QvH08cwS.mp4
+//content.jwplatform.com/videos/wqeTA0HU-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/wqeTA0HU-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/wqeTA0HU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/wqeTA0HU-GzAUXplI.mp4
+itemDuration: 497
+itemImage: http://content.jwplatform.com/thumbs/wqeTA0HU-720.jpg
+itemLegacyID: Cinemassacre-18325
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/wqeTA0HU
+itemThumbnail: http://content.jwplatform.com/thumbs/wqeTA0HU-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-18325_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/wqeTA0HU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18325
+itemShortLinkID: 18325
+
+
+itemTitle: Wario World
+itemWebLink: http://cinemassacre.com/2012/09/03/wario-world-review/
+itemPlaylist: http://content.jwplatform.com/manifests/IWx2uPg9.m3u8
+itemAudio: http://content.jwplatform.com/videos/IWx2uPg9-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/IWx2uPg9-QvH08cwS.mp4
+//content.jwplatform.com/videos/IWx2uPg9-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/IWx2uPg9-GzAUXplI.mp4
+//content.jwplatform.com/videos/IWx2uPg9-7spvWrjM.mp4
+//content.jwplatform.com/videos/IWx2uPg9-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/IWx2uPg9-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/IWx2uPg9-Qw1ADm9e.mp4
+itemDuration: 642
+itemImage: http://content.jwplatform.com/thumbs/IWx2uPg9-720.jpg
+itemLegacyID: 
+itemPubDate: Thu, 02 Jun 2016 02:51:21 -0000
+itemPreview: http://content.jwplatform.com/previews/IWx2uPg9
+itemThumbnail: http://content.jwplatform.com/thumbs/IWx2uPg9-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/IWx2uPg9-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18639
+itemShortLinkID: 18639
+
+
+itemTitle: Transformers: Fall of Cybertron PS3
+itemWebLink: http://cinemassacre.com/2012/10/14/transformers-fall-of-cybertron/
+itemPlaylist: http://content.jwplatform.com/manifests/ffCnuOsL.m3u8
+itemAudio: http://content.jwplatform.com/videos/ffCnuOsL-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ffCnuOsL-QvH08cwS.mp4
+//content.jwplatform.com/videos/ffCnuOsL-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/ffCnuOsL-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ffCnuOsL-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ffCnuOsL-GzAUXplI.mp4
+itemDuration: 573
+itemImage: http://content.jwplatform.com/thumbs/ffCnuOsL-720.jpg
+itemLegacyID: Cinemassacre-19253
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ffCnuOsL
+itemThumbnail: http://content.jwplatform.com/thumbs/ffCnuOsL-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-19253_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ffCnuOsL-120.vtt
+itemShortLink: http://cinemassacre.com/?p=19253
+itemShortLinkID: 19253
+
+
+itemTitle: Fez Xbox Live Arcade Review
+itemWebLink: http://cinemassacre.com/2012/12/09/fez-xbox-live-arcade-review/
+itemPlaylist: http://content.jwplatform.com/manifests/6UVHGS3e.m3u8
+itemAudio: http://content.jwplatform.com/videos/6UVHGS3e-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/6UVHGS3e-QvH08cwS.mp4
+//content.jwplatform.com/videos/6UVHGS3e-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/6UVHGS3e-GzAUXplI.mp4
+//content.jwplatform.com/videos/6UVHGS3e-7spvWrjM.mp4
+//content.jwplatform.com/videos/6UVHGS3e-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/6UVHGS3e-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/6UVHGS3e-Qw1ADm9e.mp4
+itemDuration: 390
+itemImage: http://content.jwplatform.com/thumbs/6UVHGS3e-720.jpg
+itemLegacyID: Cinemassacre-20125
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/6UVHGS3e
+itemThumbnail: http://content.jwplatform.com/thumbs/6UVHGS3e-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-20125_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/6UVHGS3e-120.vtt
+itemShortLink: http://cinemassacre.com/?p=20125
+itemShortLinkID: 20125
+
+
+itemTitle: Dark Souls (Xbox 360) First Impressions
+itemWebLink: http://cinemassacre.com/2013/01/07/dark-souls-xbox-360-first-impressions/
+itemPlaylist: http://content.jwplatform.com/manifests/A2pkUMri.m3u8
+itemAudio: http://content.jwplatform.com/videos/A2pkUMri-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/A2pkUMri-QvH08cwS.mp4
+//content.jwplatform.com/videos/A2pkUMri-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/A2pkUMri-GzAUXplI.mp4
+//content.jwplatform.com/videos/A2pkUMri-7spvWrjM.mp4
+//content.jwplatform.com/videos/A2pkUMri-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/A2pkUMri-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/A2pkUMri-Qw1ADm9e.mp4
+itemDuration: 698
+itemImage: http://content.jwplatform.com/thumbs/A2pkUMri-720.jpg
+itemLegacyID: Cinemassacre-20207
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/A2pkUMri
+itemThumbnail: http://content.jwplatform.com/thumbs/A2pkUMri-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-20207_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/A2pkUMri-120.vtt
+itemShortLink: http://cinemassacre.com/?p=20207
+itemShortLinkID: 20207
+
+
+itemTitle: Looney Tunes Sheep Raider by Mike
+itemWebLink: http://cinemassacre.com/2013/02/10/looney-tunes-sheep-raider-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/XHOHKpkF.m3u8
+itemAudio: http://content.jwplatform.com/videos/XHOHKpkF-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XHOHKpkF-QvH08cwS.mp4
+//content.jwplatform.com/videos/XHOHKpkF-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XHOHKpkF-GzAUXplI.mp4
+//content.jwplatform.com/videos/XHOHKpkF-7spvWrjM.mp4
+//content.jwplatform.com/videos/XHOHKpkF-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XHOHKpkF-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XHOHKpkF-Qw1ADm9e.mp4
+itemDuration: 350
+itemImage: http://content.jwplatform.com/thumbs/XHOHKpkF-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:05:23 -0000
+itemPreview: http://content.jwplatform.com/previews/XHOHKpkF
+itemThumbnail: http://content.jwplatform.com/thumbs/XHOHKpkF-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/XHOHKpkF-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24079
+itemShortLinkID: 24079
+
+
+itemTitle: Pandemonium! PS1 Review by Mike
+itemWebLink: http://cinemassacre.com/2013/03/19/pandemonium-ps1-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/0rEkfsBs.m3u8
+itemAudio: http://content.jwplatform.com/videos/0rEkfsBs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/0rEkfsBs-QvH08cwS.mp4
+//content.jwplatform.com/videos/0rEkfsBs-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/0rEkfsBs-GzAUXplI.mp4
+//content.jwplatform.com/videos/0rEkfsBs-7spvWrjM.mp4
+//content.jwplatform.com/videos/0rEkfsBs-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0rEkfsBs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0rEkfsBs-Qw1ADm9e.mp4
+itemDuration: 340
+itemImage: http://content.jwplatform.com/thumbs/0rEkfsBs-720.jpg
+itemLegacyID: Cinemassacre-24461
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/0rEkfsBs
+itemThumbnail: http://content.jwplatform.com/thumbs/0rEkfsBs-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24461_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/0rEkfsBs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24461
+itemShortLinkID: 24461
+
+
+itemTitle: NES Deathblows - Nintendo Trivia Game
+itemWebLink: http://cinemassacre.com/2013/04/09/nes-deathblows/
+itemPlaylist: http://content.jwplatform.com/manifests/124OGrJs.m3u8
+itemAudio: http://content.jwplatform.com/videos/124OGrJs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/124OGrJs-QvH08cwS.mp4
+//content.jwplatform.com/videos/124OGrJs-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/124OGrJs-GzAUXplI.mp4
+//content.jwplatform.com/videos/124OGrJs-7spvWrjM.mp4
+//content.jwplatform.com/videos/124OGrJs-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/124OGrJs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/124OGrJs-Qw1ADm9e.mp4
+itemDuration: 322
+itemImage: http://content.jwplatform.com/thumbs/124OGrJs-720.jpg
+itemLegacyID: Cinemassacre-24876
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/124OGrJs
+itemThumbnail: http://content.jwplatform.com/thumbs/124OGrJs-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24876_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/124OGrJs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24876
+itemShortLinkID: 24876
+
+
+itemTitle: Klonoa: Door to Phantomile PS1 review by Mike
+itemWebLink: http://cinemassacre.com/2013/04/22/klonoa-door-to-phantomile-ps1-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/5Ce8XF6G.m3u8
+itemAudio: http://content.jwplatform.com/videos/5Ce8XF6G-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5Ce8XF6G-QvH08cwS.mp4
+//content.jwplatform.com/videos/5Ce8XF6G-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5Ce8XF6G-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5Ce8XF6G-HTQw4Gzc.mp4
+itemDuration: 579
+itemImage: http://content.jwplatform.com/thumbs/5Ce8XF6G-720.jpg
+itemLegacyID: Cinemassacre-24801
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5Ce8XF6G
+itemThumbnail: http://content.jwplatform.com/thumbs/5Ce8XF6G-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24801_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5Ce8XF6G-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24801
+itemShortLinkID: 24801
+
+
+itemTitle: Wii-U Miiverse Speed Drawings by Mike
+itemWebLink: http://cinemassacre.com/2013/05/26/wii-u-miiverse-speed-drawings-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/4cDc7Hey.m3u8
+itemAudio: http://content.jwplatform.com/videos/4cDc7Hey-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/4cDc7Hey-QvH08cwS.mp4
+//content.jwplatform.com/videos/4cDc7Hey-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/4cDc7Hey-GzAUXplI.mp4
+//content.jwplatform.com/videos/4cDc7Hey-7spvWrjM.mp4
+//content.jwplatform.com/videos/4cDc7Hey-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/4cDc7Hey-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/4cDc7Hey-Qw1ADm9e.mp4
+itemDuration: 368
+itemImage: http://content.jwplatform.com/thumbs/4cDc7Hey-720.jpg
+itemLegacyID: Cinemassacre-25549
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/4cDc7Hey
+itemThumbnail: http://content.jwplatform.com/thumbs/4cDc7Hey-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25549_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/4cDc7Hey-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25549
+itemShortLinkID: 25549
+
+
+itemTitle: Mega Man 9 Review by Mike
+itemWebLink: http://cinemassacre.com/2013/06/23/mega-man-9-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/C5JqwkK0.m3u8
+itemAudio: http://content.jwplatform.com/videos/C5JqwkK0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/C5JqwkK0-QvH08cwS.mp4
+//content.jwplatform.com/videos/C5JqwkK0-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/C5JqwkK0-GzAUXplI.mp4
+//content.jwplatform.com/videos/C5JqwkK0-7spvWrjM.mp4
+//content.jwplatform.com/videos/C5JqwkK0-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/C5JqwkK0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/C5JqwkK0-Qw1ADm9e.mp4
+itemDuration: 513
+itemImage: http://content.jwplatform.com/thumbs/C5JqwkK0-720.jpg
+itemLegacyID: Cinemassacre-25632
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/C5JqwkK0
+itemThumbnail: http://content.jwplatform.com/thumbs/C5JqwkK0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25632_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/C5JqwkK0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25632
+itemShortLinkID: 25632
+
+
+itemTitle: How to Jump Over the Flagpole on stage 1-1 in Supe
+itemWebLink: http://cinemassacre.com/2011/01/12/how-to-jump-the-flagpole-on-stage-1-in-super-mario-bros/
+itemPlaylist: http://content.jwplatform.com/manifests/HCIPHdfJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/HCIPHdfJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/HCIPHdfJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/HCIPHdfJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/HCIPHdfJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/HCIPHdfJ-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/HCIPHdfJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/HCIPHdfJ-7spvWrjM.mp4
+itemDuration: 91
+itemImage: http://content.jwplatform.com/thumbs/HCIPHdfJ-720.jpg
+itemLegacyID: Cinemassacre-545b1aefd8e7d
+itemPubDate: Wed, 05 Nov 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/HCIPHdfJ
+itemThumbnail: http://content.jwplatform.com/thumbs/HCIPHdfJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-545b1aefd8e7d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/HCIPHdfJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8731
+itemShortLinkID: 8731
+
+
+itemTitle: 002 Dr. Wily's Castle Tricks.mov
+itemWebLink: http://cinemassacre.com/2011/02/15/dr-wilys-castle-tricks/
+itemPlaylist: http://content.jwplatform.com/manifests/2VSCcPnZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/2VSCcPnZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2VSCcPnZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/2VSCcPnZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/2VSCcPnZ-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2VSCcPnZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2VSCcPnZ-GzAUXplI.mp4
+itemDuration: 139
+itemImage: http://content.jwplatform.com/thumbs/2VSCcPnZ-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 06:36:33 -0000
+itemPreview: http://content.jwplatform.com/previews/2VSCcPnZ
+itemThumbnail: http://content.jwplatform.com/thumbs/2VSCcPnZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/2VSCcPnZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8980
+itemShortLinkID: 8980
+
+
+itemTitle: Kung Fu (NES) Trick
+itemWebLink: http://cinemassacre.com/2011/03/23/kung-fu-nes-trick/
+itemPlaylist: http://content.jwplatform.com/manifests/JWLKv8au.m3u8
+itemAudio: http://content.jwplatform.com/videos/JWLKv8au-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JWLKv8au-QvH08cwS.mp4
+//content.jwplatform.com/videos/JWLKv8au-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/JWLKv8au-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JWLKv8au-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JWLKv8au-GzAUXplI.mp4
+itemDuration: 108
+itemImage: http://content.jwplatform.com/thumbs/JWLKv8au-720.jpg
+itemLegacyID: Cinemassacre-9312
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JWLKv8au
+itemThumbnail: http://content.jwplatform.com/thumbs/JWLKv8au-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9312_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JWLKv8au-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9312
+itemShortLinkID: 9312
+
+
+itemTitle: Super Mario 64 Tricks and Glitches
+itemWebLink: http://cinemassacre.com/2011/04/15/super-mario-64-tricks-and-glitches/
+itemPlaylist: http://content.jwplatform.com/manifests/sQmxDdQV.m3u8
+itemAudio: http://content.jwplatform.com/videos/sQmxDdQV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sQmxDdQV-QvH08cwS.mp4
+//content.jwplatform.com/videos/sQmxDdQV-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/sQmxDdQV-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sQmxDdQV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sQmxDdQV-GzAUXplI.mp4
+itemDuration: 188
+itemImage: http://content.jwplatform.com/thumbs/sQmxDdQV-720.jpg
+itemLegacyID: Cinemassacre-9848
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/sQmxDdQV
+itemThumbnail: http://content.jwplatform.com/thumbs/sQmxDdQV-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9848_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/sQmxDdQV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9848
+itemShortLinkID: 9848
+
+
+itemTitle: Zelda: Ocarina Of Time Tricks & Glitches
+itemWebLink: http://cinemassacre.com/2011/06/15/ocarina-of-time-tricks-glitches/
+itemPlaylist: http://content.jwplatform.com/manifests/qVILsC9C.m3u8
+itemAudio: http://content.jwplatform.com/videos/qVILsC9C-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qVILsC9C-QvH08cwS.mp4
+//content.jwplatform.com/videos/qVILsC9C-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/qVILsC9C-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qVILsC9C-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qVILsC9C-GzAUXplI.mp4
+itemDuration: 305
+itemImage: http://content.jwplatform.com/thumbs/qVILsC9C-720.jpg
+itemLegacyID: Cinemassacre-9438
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qVILsC9C
+itemThumbnail: http://content.jwplatform.com/thumbs/qVILsC9C-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9438_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qVILsC9C-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9438
+itemShortLinkID: 9438
+
+
+itemTitle: More Mega Man Glitches with Mike Matei - Cinemassacre.com.mp4
+itemWebLink: http://cinemassacre.com/2011/07/02/more-megaman-glitches/
+itemPlaylist: http://content.jwplatform.com/manifests/K3kZnCDO.m3u8
+itemAudio: http://content.jwplatform.com/videos/K3kZnCDO-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/K3kZnCDO-QvH08cwS.mp4
+//content.jwplatform.com/videos/K3kZnCDO-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/K3kZnCDO-GzAUXplI.mp4
+//content.jwplatform.com/videos/K3kZnCDO-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/K3kZnCDO-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/K3kZnCDO-7spvWrjM.mp4
+itemDuration: 224
+itemImage: http://content.jwplatform.com/thumbs/K3kZnCDO-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 06:25:35 -0000
+itemPreview: http://content.jwplatform.com/previews/K3kZnCDO
+itemThumbnail: http://content.jwplatform.com/thumbs/K3kZnCDO-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/K3kZnCDO-120.vtt
+itemShortLink: http://cinemassacre.com/?p=10065
+itemShortLinkID: 10065
+
+
+itemTitle: TMNT Technodrome Trick
+itemWebLink: http://cinemassacre.com/2011/07/19/tmnt-technodrome-trick/
+itemPlaylist: http://content.jwplatform.com/manifests/8yQMwPtI.m3u8
+itemAudio: http://content.jwplatform.com/videos/8yQMwPtI-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/8yQMwPtI-QvH08cwS.mp4
+//content.jwplatform.com/videos/8yQMwPtI-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/8yQMwPtI-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/8yQMwPtI-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/8yQMwPtI-GzAUXplI.mp4
+itemDuration: 138
+itemImage: http://content.jwplatform.com/thumbs/8yQMwPtI-720.jpg
+itemLegacyID: Cinemassacre-9320
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/8yQMwPtI
+itemThumbnail: http://content.jwplatform.com/thumbs/8yQMwPtI-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9320_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/8yQMwPtI-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9320
+itemShortLinkID: 9320
+

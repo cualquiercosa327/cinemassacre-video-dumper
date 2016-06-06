@@ -1,0 +1,660 @@
+
+itemTitle: Board James: HeroQuest
+itemWebLink: http://cinemassacre.com/2010/04/14/board-james-hero-quest/
+itemPlaylist: http://content.jwplatform.com/manifests/RdVxSjx5.m3u8
+itemAudio: http://content.jwplatform.com/videos/RdVxSjx5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RdVxSjx5-QvH08cwS.mp4
+//content.jwplatform.com/videos/RdVxSjx5-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RdVxSjx5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RdVxSjx5-HTQw4Gzc.mp4
+itemDuration: 247
+itemImage: http://content.jwplatform.com/thumbs/RdVxSjx5-720.jpg
+itemLegacyID: Cinemassacre-5607
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/RdVxSjx5
+itemThumbnail: http://content.jwplatform.com/thumbs/RdVxSjx5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5607_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/RdVxSjx5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=5607
+itemShortLinkID: 5607
+
+
+itemTitle: MR. BUCKET
+itemWebLink: http://cinemassacre.com/2010/05/11/mr-bucket/
+itemPlaylist: http://content.jwplatform.com/manifests/g6fTKWpK.m3u8
+itemAudio: http://content.jwplatform.com/videos/g6fTKWpK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/g6fTKWpK-QvH08cwS.mp4
+//content.jwplatform.com/videos/g6fTKWpK-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/g6fTKWpK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/g6fTKWpK-HTQw4Gzc.mp4
+itemDuration: 713
+itemImage: http://content.jwplatform.com/thumbs/g6fTKWpK-720.jpg
+itemLegacyID: Cinemassacre-6118
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/g6fTKWpK
+itemThumbnail: http://content.jwplatform.com/thumbs/g6fTKWpK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6118_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/g6fTKWpK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6118
+itemShortLinkID: 6118
+
+
+itemTitle: Board James: Tornado Rex
+itemWebLink: http://cinemassacre.com/2010/09/15/tornado-rex/
+itemPlaylist: http://content.jwplatform.com/manifests/i5vcQloO.m3u8
+itemAudio: http://content.jwplatform.com/videos/i5vcQloO-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/i5vcQloO-QvH08cwS.mp4
+//content.jwplatform.com/videos/i5vcQloO-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/i5vcQloO-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/i5vcQloO-HTQw4Gzc.mp4
+itemDuration: 233
+itemImage: http://content.jwplatform.com/thumbs/i5vcQloO-720.jpg
+itemLegacyID: Cinemassacre-6966
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/i5vcQloO
+itemThumbnail: http://content.jwplatform.com/thumbs/i5vcQloO-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6966_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/i5vcQloO-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6966
+itemShortLinkID: 6966
+
+
+itemTitle: Board James: TMNT
+itemWebLink: http://cinemassacre.com/2011/05/24/tmnt-tuesday-board-james-tmnt/
+itemPlaylist: http://content.jwplatform.com/manifests/tMSUGfXm.m3u8
+itemAudio: http://content.jwplatform.com/videos/tMSUGfXm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tMSUGfXm-QvH08cwS.mp4
+//content.jwplatform.com/videos/tMSUGfXm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/tMSUGfXm-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tMSUGfXm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tMSUGfXm-GzAUXplI.mp4
+itemDuration: 466
+itemImage: http://content.jwplatform.com/thumbs/tMSUGfXm-720.jpg
+itemLegacyID: Cinemassacre-9619
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/tMSUGfXm
+itemThumbnail: http://content.jwplatform.com/thumbs/tMSUGfXm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9619_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/tMSUGfXm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9619
+itemShortLinkID: 9619
+
+
+itemTitle: Board James: Key to the Kingdom
+itemWebLink: http://cinemassacre.com/2011/06/10/board-james-key-to-the-kingdom/
+itemPlaylist: http://content.jwplatform.com/manifests/RI3LmrLR.m3u8
+itemAudio: http://content.jwplatform.com/videos/RI3LmrLR-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RI3LmrLR-QvH08cwS.mp4
+//content.jwplatform.com/videos/RI3LmrLR-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/RI3LmrLR-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RI3LmrLR-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RI3LmrLR-GzAUXplI.mp4
+itemDuration: 238
+itemImage: http://content.jwplatform.com/thumbs/RI3LmrLR-720.jpg
+itemLegacyID: Cinemassacre-11085
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/RI3LmrLR
+itemThumbnail: http://content.jwplatform.com/thumbs/RI3LmrLR-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-11085_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/RI3LmrLR-120.vtt
+itemShortLink: http://cinemassacre.com/?p=11085
+itemShortLinkID: 11085
+
+
+itemTitle: Donut Disaster
+itemWebLink: http://cinemassacre.com/2011/08/17/board-james-donut-disaster/
+itemPlaylist: http://content.jwplatform.com/manifests/H4lYx9dC.m3u8
+itemAudio: http://content.jwplatform.com/videos/H4lYx9dC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/H4lYx9dC-QvH08cwS.mp4
+//content.jwplatform.com/videos/H4lYx9dC-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/H4lYx9dC-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/H4lYx9dC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/H4lYx9dC-GzAUXplI.mp4
+itemDuration: 243
+itemImage: http://content.jwplatform.com/thumbs/H4lYx9dC-720.jpg
+itemLegacyID: Cinemassacre-12816
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/H4lYx9dC
+itemThumbnail: http://content.jwplatform.com/thumbs/H4lYx9dC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-12816_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/H4lYx9dC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=12816
+itemShortLinkID: 12816
+
+
+itemTitle: Board James: Loopin' Louie (Live at PAX 2011)
+itemWebLink: http://cinemassacre.com/2011/09/09/board-james-loupin-louie/
+itemPlaylist: http://content.jwplatform.com/manifests/NNofRknm.m3u8
+itemAudio: http://content.jwplatform.com/videos/NNofRknm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/NNofRknm-QvH08cwS.mp4
+//content.jwplatform.com/videos/NNofRknm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/NNofRknm-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/NNofRknm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/NNofRknm-GzAUXplI.mp4
+itemDuration: 302
+itemImage: http://content.jwplatform.com/thumbs/NNofRknm-720.jpg
+itemLegacyID: Cinemassacre-13046
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/NNofRknm
+itemThumbnail: http://content.jwplatform.com/thumbs/NNofRknm-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13046_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/NNofRknm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13046
+itemShortLinkID: 13046
+
+
+itemTitle: Board James: Monster Madness
+itemWebLink: http://cinemassacre.com/2011/09/23/board-james-monster-madness/
+itemPlaylist: http://content.jwplatform.com/manifests/Ts2cUwPj.m3u8
+itemAudio: http://content.jwplatform.com/videos/Ts2cUwPj-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Ts2cUwPj-QvH08cwS.mp4
+//content.jwplatform.com/videos/Ts2cUwPj-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Ts2cUwPj-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Ts2cUwPj-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Ts2cUwPj-GzAUXplI.mp4
+itemDuration: 261
+itemImage: http://content.jwplatform.com/thumbs/Ts2cUwPj-720.jpg
+itemLegacyID: Cinemassacre-13172
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Ts2cUwPj
+itemThumbnail: http://content.jwplatform.com/thumbs/Ts2cUwPj-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13172_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Ts2cUwPj-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13172
+itemShortLinkID: 13172
+
+
+itemTitle: Board James: Battle Masters
+itemWebLink: http://cinemassacre.com/2011/11/24/board-james-battle-masters/
+itemPlaylist: http://content.jwplatform.com/manifests/nKKxOPd3.m3u8
+itemAudio: http://content.jwplatform.com/videos/nKKxOPd3-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/nKKxOPd3-QvH08cwS.mp4
+//content.jwplatform.com/videos/nKKxOPd3-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/nKKxOPd3-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nKKxOPd3-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nKKxOPd3-GzAUXplI.mp4
+itemDuration: 495
+itemImage: http://content.jwplatform.com/thumbs/nKKxOPd3-720.jpg
+itemLegacyID: Cinemassacre-13399
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/nKKxOPd3
+itemThumbnail: http://content.jwplatform.com/thumbs/nKKxOPd3-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13399_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/nKKxOPd3-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13399
+itemShortLinkID: 13399
+
+
+itemTitle: Board James: Splat!
+itemWebLink: http://cinemassacre.com/2011/12/13/board-james-splat/
+itemPlaylist: http://content.jwplatform.com/manifests/H2PuEkzk.m3u8
+itemAudio: http://content.jwplatform.com/videos/H2PuEkzk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/H2PuEkzk-QvH08cwS.mp4
+//content.jwplatform.com/videos/H2PuEkzk-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/H2PuEkzk-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/H2PuEkzk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/H2PuEkzk-GzAUXplI.mp4
+itemDuration: 284
+itemImage: http://content.jwplatform.com/thumbs/H2PuEkzk-720.jpg
+itemLegacyID: Cinemassacre-13647
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/H2PuEkzk
+itemThumbnail: http://content.jwplatform.com/thumbs/H2PuEkzk-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13647_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/H2PuEkzk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13647
+itemShortLinkID: 13647
+
+
+itemTitle: Board James: Doggie Doo
+itemWebLink: http://cinemassacre.com/2012/01/25/board-james-doggie-doo/
+itemPlaylist: http://content.jwplatform.com/manifests/KXIcERb7.m3u8
+itemAudio: http://content.jwplatform.com/videos/KXIcERb7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KXIcERb7-QvH08cwS.mp4
+//content.jwplatform.com/videos/KXIcERb7-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KXIcERb7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KXIcERb7-HTQw4Gzc.mp4
+itemDuration: 138
+itemImage: http://content.jwplatform.com/thumbs/KXIcERb7-720.jpg
+itemLegacyID: Cinemassacre-13623
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KXIcERb7
+itemThumbnail: http://content.jwplatform.com/thumbs/KXIcERb7-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13623_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KXIcERb7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13623
+itemShortLinkID: 13623
+
+
+itemTitle: Board James: Shark Attack
+itemWebLink: http://cinemassacre.com/2012/11/19/board-james-shark-attack/
+itemPlaylist: http://content.jwplatform.com/manifests/V3r4f4AX.m3u8
+itemAudio: http://content.jwplatform.com/videos/V3r4f4AX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/V3r4f4AX-QvH08cwS.mp4
+//content.jwplatform.com/videos/V3r4f4AX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/V3r4f4AX-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/V3r4f4AX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/V3r4f4AX-GzAUXplI.mp4
+itemDuration: 303
+itemImage: http://content.jwplatform.com/thumbs/V3r4f4AX-720.jpg
+itemLegacyID: Cinemassacre-18912
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/V3r4f4AX
+itemThumbnail: http://content.jwplatform.com/thumbs/V3r4f4AX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-18912_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/V3r4f4AX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18912
+itemShortLinkID: 18912
+
+
+itemTitle: Board James: Dream Phone
+itemWebLink: http://cinemassacre.com/2013/04/01/board-james-dream-phone/
+itemPlaylist: http://content.jwplatform.com/manifests/HSg0GzAD.m3u8
+itemAudio: http://content.jwplatform.com/videos/HSg0GzAD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/HSg0GzAD-QvH08cwS.mp4
+//content.jwplatform.com/videos/HSg0GzAD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/HSg0GzAD-GzAUXplI.mp4
+//content.jwplatform.com/videos/HSg0GzAD-7spvWrjM.mp4
+//content.jwplatform.com/videos/HSg0GzAD-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/HSg0GzAD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/HSg0GzAD-Qw1ADm9e.mp4
+itemDuration: 989
+itemImage: http://content.jwplatform.com/thumbs/HSg0GzAD-720.jpg
+itemLegacyID: Cinemassacre-24828
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/HSg0GzAD
+itemThumbnail: http://content.jwplatform.com/thumbs/HSg0GzAD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-24828_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/HSg0GzAD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=24828
+itemShortLinkID: 24828
+
+
+itemTitle: Making of Board James
+itemWebLink: http://cinemassacre.com/2015/03/17/the-making-of-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/3jWYGlh8.m3u8
+itemAudio: http://content.jwplatform.com/videos/3jWYGlh8-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/3jWYGlh8-QvH08cwS.mp4
+//content.jwplatform.com/videos/3jWYGlh8-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/3jWYGlh8-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/3jWYGlh8-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/3jWYGlh8-GzAUXplI.mp4
+itemDuration: 1181
+itemImage: http://content.jwplatform.com/thumbs/3jWYGlh8-720.jpg
+itemLegacyID: Cinemassacre-54e43ecec74a5
+itemPubDate: Wed, 18 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/3jWYGlh8
+itemThumbnail: http://content.jwplatform.com/thumbs/3jWYGlh8-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54e43ecec74a5_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/3jWYGlh8-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29263
+itemShortLinkID: 29263
+
+
+itemTitle: Dream Phone COMMENTARY
+itemWebLink: http://cinemassacre.com/2015/03/18/commentary-board-james-dreamphone/
+itemPlaylist: http://content.jwplatform.com/manifests/RjH0cgKn.m3u8
+itemAudio: http://content.jwplatform.com/videos/RjH0cgKn-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RjH0cgKn-QvH08cwS.mp4
+//content.jwplatform.com/videos/RjH0cgKn-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/RjH0cgKn-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RjH0cgKn-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RjH0cgKn-GzAUXplI.mp4
+itemDuration: 989
+itemImage: http://content.jwplatform.com/thumbs/RjH0cgKn-720.jpg
+itemLegacyID: Cinemassacre-54e51bf684f78
+itemPubDate: Wed, 18 Feb 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/RjH0cgKn
+itemThumbnail: http://content.jwplatform.com/thumbs/RjH0cgKn-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54e51bf684f78_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/RjH0cgKn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29266
+itemShortLinkID: 29266
+
+
+itemTitle: 20-S03-E01 Omega Virus-WEB.mov
+itemWebLink: http://cinemassacre.com/2015/04/01/omega-virus-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/T8WyWxDJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/T8WyWxDJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/T8WyWxDJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/T8WyWxDJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/T8WyWxDJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/T8WyWxDJ-7spvWrjM.mp4
+//content.jwplatform.com/videos/T8WyWxDJ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/T8WyWxDJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/T8WyWxDJ-Qw1ADm9e.mp4
+itemDuration: 379
+itemImage: http://content.jwplatform.com/thumbs/T8WyWxDJ-720.jpg
+itemLegacyID: Cinemassacre-54f2de575b24e
+itemPubDate: Sun, 01 Mar 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/T8WyWxDJ
+itemThumbnail: http://content.jwplatform.com/thumbs/T8WyWxDJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54f2de575b24e_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/T8WyWxDJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29319
+itemShortLinkID: 29319
+
+
+itemTitle: Lie Detector
+itemWebLink: http://cinemassacre.com/2015/05/03/lie-detector-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/F4xudOTI.m3u8
+itemAudio: http://content.jwplatform.com/videos/F4xudOTI-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/F4xudOTI-QvH08cwS.mp4
+//content.jwplatform.com/videos/F4xudOTI-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/F4xudOTI-GzAUXplI.mp4
+//content.jwplatform.com/videos/F4xudOTI-7spvWrjM.mp4
+//content.jwplatform.com/videos/F4xudOTI-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/F4xudOTI-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/F4xudOTI-Qw1ADm9e.mp4
+itemDuration: 282
+itemImage: http://content.jwplatform.com/thumbs/F4xudOTI-720.jpg
+itemLegacyID: Cinemassacre-54f62a509a18d
+itemPubDate: Tue, 03 Mar 2015 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/F4xudOTI
+itemThumbnail: http://content.jwplatform.com/thumbs/F4xudOTI-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54f62a509a18d_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/F4xudOTI-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29334
+itemShortLinkID: 29334
+
+
+itemTitle: OUIJA-DOMINO RALLY
+itemWebLink: http://cinemassacre.com/2015/06/01/ouija-domino-rally-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/QuUPH637.m3u8
+itemAudio: http://content.jwplatform.com/videos/QuUPH637-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/QuUPH637-QvH08cwS.mp4
+//content.jwplatform.com/videos/QuUPH637-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/QuUPH637-GzAUXplI.mp4
+//content.jwplatform.com/videos/QuUPH637-7spvWrjM.mp4
+//content.jwplatform.com/videos/QuUPH637-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/QuUPH637-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/QuUPH637-Qw1ADm9e.mp4
+itemDuration: 640
+itemImage: http://content.jwplatform.com/thumbs/QuUPH637-720.jpg
+itemLegacyID: Cinemassacre-5509c2a0892f6
+itemPubDate: Wed, 18 Mar 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/QuUPH637
+itemThumbnail: http://content.jwplatform.com/thumbs/QuUPH637-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5509c2a0892f6_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/QuUPH637-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29401
+itemShortLinkID: 29401
+
+
+itemTitle: Board James Wacky Blasters
+itemWebLink: http://cinemassacre.com/2015/07/03/wacky-blasters-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/RAPssTgx.m3u8
+itemAudio: http://content.jwplatform.com/videos/RAPssTgx-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RAPssTgx-QvH08cwS.mp4
+//content.jwplatform.com/videos/RAPssTgx-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/RAPssTgx-GzAUXplI.mp4
+//content.jwplatform.com/videos/RAPssTgx-7spvWrjM.mp4
+//content.jwplatform.com/videos/RAPssTgx-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RAPssTgx-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RAPssTgx-Qw1ADm9e.mp4
+itemDuration: 269
+itemImage: http://content.jwplatform.com/thumbs/RAPssTgx-720.jpg
+itemLegacyID: Cinemassacre-551a3d94a3039
+itemPubDate: Tue, 31 Mar 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/RAPssTgx
+itemThumbnail: http://content.jwplatform.com/thumbs/RAPssTgx-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-551a3d94a3039_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/RAPssTgx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29339
+itemShortLinkID: 29339
+
+
+itemTitle: Full House
+itemWebLink: http://cinemassacre.com/2015/08/04/full-house-do-the-urkel-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/dR7kj1Jk.m3u8
+itemAudio: http://content.jwplatform.com/videos/dR7kj1Jk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/dR7kj1Jk-QvH08cwS.mp4
+//content.jwplatform.com/videos/dR7kj1Jk-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/dR7kj1Jk-GzAUXplI.mp4
+//content.jwplatform.com/videos/dR7kj1Jk-7spvWrjM.mp4
+//content.jwplatform.com/videos/dR7kj1Jk-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/dR7kj1Jk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/dR7kj1Jk-Qw1ADm9e.mp4
+itemDuration: 531
+itemImage: http://content.jwplatform.com/thumbs/dR7kj1Jk-720.jpg
+itemLegacyID: Cinemassacre-552331e23f26a
+itemPubDate: Mon, 06 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/dR7kj1Jk
+itemThumbnail: http://content.jwplatform.com/thumbs/dR7kj1Jk-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-552331e23f26a_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/dR7kj1Jk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29341
+itemShortLinkID: 29341
+
+
+itemTitle: Video Games - Board James
+itemWebLink: http://cinemassacre.com/2015/09/05/video-game-board-games-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/bGnspCDf.m3u8
+itemAudio: http://content.jwplatform.com/videos/bGnspCDf-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/bGnspCDf-QvH08cwS.mp4
+//content.jwplatform.com/videos/bGnspCDf-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/bGnspCDf-GzAUXplI.mp4
+//content.jwplatform.com/videos/bGnspCDf-7spvWrjM.mp4
+//content.jwplatform.com/videos/bGnspCDf-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/bGnspCDf-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/bGnspCDf-Qw1ADm9e.mp4
+itemDuration: 656
+itemImage: http://content.jwplatform.com/thumbs/bGnspCDf-720.jpg
+itemLegacyID: Cinemassacre-552dea89c673c
+itemPubDate: Tue, 14 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/bGnspCDf
+itemThumbnail: http://content.jwplatform.com/thumbs/bGnspCDf-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-552dea89c673c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/bGnspCDf-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29343
+itemShortLinkID: 29343
+
+
+itemTitle: 13 DEAD END DRIVE
+itemWebLink: http://cinemassacre.com/2015/11/01/13-dead-end-drive-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/Djv0tSB3.m3u8
+itemAudio: http://content.jwplatform.com/videos/Djv0tSB3-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Djv0tSB3-QvH08cwS.mp4
+//content.jwplatform.com/videos/Djv0tSB3-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Djv0tSB3-GzAUXplI.mp4
+//content.jwplatform.com/videos/Djv0tSB3-7spvWrjM.mp4
+//content.jwplatform.com/videos/Djv0tSB3-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Djv0tSB3-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Djv0tSB3-Qw1ADm9e.mp4
+itemDuration: 781
+itemImage: http://content.jwplatform.com/thumbs/Djv0tSB3-720.jpg
+itemLegacyID: Cinemassacre-555ada1194868
+itemPubDate: Tue, 19 May 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Djv0tSB3
+itemThumbnail: http://content.jwplatform.com/thumbs/Djv0tSB3-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-555ada1194868_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Djv0tSB3-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29345
+itemShortLinkID: 29345
+
+
+itemTitle: Board game collection 2013
+itemWebLink: http://cinemassacre.com/2015/12/03/board-game-collection-2013/
+itemPlaylist: http://content.jwplatform.com/manifests/L8Y8MD2W.m3u8
+itemAudio: http://content.jwplatform.com/videos/L8Y8MD2W-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/L8Y8MD2W-QvH08cwS.mp4
+//content.jwplatform.com/videos/L8Y8MD2W-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/L8Y8MD2W-GzAUXplI.mp4
+//content.jwplatform.com/videos/L8Y8MD2W-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/L8Y8MD2W-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/L8Y8MD2W-7spvWrjM.mp4
+itemDuration: 1097
+itemImage: http://content.jwplatform.com/thumbs/L8Y8MD2W-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 24 May 2016 00:22:43 -0000
+itemPreview: http://content.jwplatform.com/previews/L8Y8MD2W
+itemThumbnail: http://content.jwplatform.com/thumbs/L8Y8MD2W-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/L8Y8MD2W-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30318
+itemShortLinkID: 30318
+
+
+itemTitle: NIGHTMARE and Beyond - Board James (Episode 27)
+itemWebLink: http://cinemassacre.com/2015/12/04/nightmare-board-james/
+itemPlaylist: http://content.jwplatform.com/manifests/n2arGiCm.m3u8
+itemAudio: http://content.jwplatform.com/videos/n2arGiCm-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/n2arGiCm-QvH08cwS.mp4
+//content.jwplatform.com/videos/n2arGiCm-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/n2arGiCm-GzAUXplI.mp4
+//content.jwplatform.com/videos/n2arGiCm-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/n2arGiCm-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/n2arGiCm-7spvWrjM.mp4
+itemDuration: 918
+itemImage: http://content.jwplatform.com/thumbs/n2arGiCm-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 24 May 2016 00:12:06 -0000
+itemPreview: http://content.jwplatform.com/previews/n2arGiCm
+itemThumbnail: http://content.jwplatform.com/thumbs/n2arGiCm-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/n2arGiCm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29347
+itemShortLinkID: 29347
+
+
+itemTitle: Board James Mythology Explained
+itemWebLink: http://cinemassacre.com/2015/12/08/board-james-mythology-explained/
+itemPlaylist: http://content.jwplatform.com/manifests/RpsQlM5p.m3u8
+itemAudio: http://content.jwplatform.com/videos/RpsQlM5p-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/RpsQlM5p-QvH08cwS.mp4
+//content.jwplatform.com/videos/RpsQlM5p-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/RpsQlM5p-GzAUXplI.mp4
+//content.jwplatform.com/videos/RpsQlM5p-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/RpsQlM5p-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/RpsQlM5p-7spvWrjM.mp4
+itemDuration: 706
+itemImage: http://content.jwplatform.com/thumbs/RpsQlM5p-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 24 May 2016 00:22:43 -0000
+itemPreview: http://content.jwplatform.com/previews/RpsQlM5p
+itemThumbnail: http://content.jwplatform.com/thumbs/RpsQlM5p-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/RpsQlM5p-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30370
+itemShortLinkID: 30370
+
+
+itemTitle: Board James: Mouse Trap
+itemWebLink: http://cinemassacre.com/2009/04/14/board-james-1-mouse-trap/
+itemPlaylist: http://content.jwplatform.com/manifests/AfNrYzFO.m3u8
+itemAudio: http://content.jwplatform.com/videos/AfNrYzFO-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/AfNrYzFO-QvH08cwS.mp4
+//content.jwplatform.com/videos/AfNrYzFO-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/AfNrYzFO-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/AfNrYzFO-HTQw4Gzc.mp4
+itemDuration: 157
+itemImage: http://content.jwplatform.com/thumbs/AfNrYzFO-720.jpg
+itemLegacyID: Cinemassacre-16
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/AfNrYzFO
+itemThumbnail: http://content.jwplatform.com/thumbs/AfNrYzFO-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-16_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/AfNrYzFO-120.vtt
+itemShortLink: http://cinemassacre.com/?p=16
+itemShortLinkID: 16
+
+
+itemTitle: Board James: DragonStrike
+itemWebLink: http://cinemassacre.com/2009/05/27/board-james-2-dragonstrike/
+itemPlaylist: http://content.jwplatform.com/manifests/ns0gaAUM.m3u8
+itemAudio: http://content.jwplatform.com/videos/ns0gaAUM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ns0gaAUM-QvH08cwS.mp4
+//content.jwplatform.com/videos/ns0gaAUM-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ns0gaAUM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ns0gaAUM-HTQw4Gzc.mp4
+itemDuration: 502
+itemImage: http://content.jwplatform.com/thumbs/ns0gaAUM-720.jpg
+itemLegacyID: Cinemassacre-19
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ns0gaAUM
+itemThumbnail: http://content.jwplatform.com/thumbs/ns0gaAUM-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-19_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ns0gaAUM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=19
+itemShortLinkID: 19
+
+
+itemTitle: Board James: Crossfire
+itemWebLink: http://cinemassacre.com/2009/07/27/board-james-3-crossfire/
+itemPlaylist: http://content.jwplatform.com/manifests/rEviMumK.m3u8
+itemAudio: http://content.jwplatform.com/videos/rEviMumK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/rEviMumK-QvH08cwS.mp4
+//content.jwplatform.com/videos/rEviMumK-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/rEviMumK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/rEviMumK-HTQw4Gzc.mp4
+itemDuration: 260
+itemImage: http://content.jwplatform.com/thumbs/rEviMumK-720.jpg
+itemLegacyID: Cinemassacre-23
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/rEviMumK
+itemThumbnail: http://content.jwplatform.com/thumbs/rEviMumK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-23_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/rEviMumK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=23
+itemShortLinkID: 23
+
+
+itemTitle: Board James: Weapons and Warriors
+itemWebLink: http://cinemassacre.com/2009/09/07/board-james-4-weapons-and-warriors/
+itemPlaylist: http://content.jwplatform.com/manifests/QVU9cjYd.m3u8
+itemAudio: http://content.jwplatform.com/videos/QVU9cjYd-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/QVU9cjYd-QvH08cwS.mp4
+//content.jwplatform.com/videos/QVU9cjYd-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/QVU9cjYd-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/QVU9cjYd-HTQw4Gzc.mp4
+itemDuration: 356
+itemImage: http://content.jwplatform.com/thumbs/QVU9cjYd-720.jpg
+itemLegacyID: Cinemassacre-29
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/QVU9cjYd
+itemThumbnail: http://content.jwplatform.com/thumbs/QVU9cjYd-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-29_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/QVU9cjYd-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29
+itemShortLinkID: 29
+
+
+itemTitle: Board James: Fireball Island
+itemWebLink: http://cinemassacre.com/2010/02/03/board-james-fireball-island/
+itemPlaylist: http://content.jwplatform.com/manifests/KZ2vGH1o.m3u8
+itemAudio: http://content.jwplatform.com/videos/KZ2vGH1o-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KZ2vGH1o-QvH08cwS.mp4
+//content.jwplatform.com/videos/KZ2vGH1o-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KZ2vGH1o-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KZ2vGH1o-HTQw4Gzc.mp4
+itemDuration: 161
+itemImage: http://content.jwplatform.com/thumbs/KZ2vGH1o-720.jpg
+itemLegacyID: Cinemassacre-1671
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KZ2vGH1o
+itemThumbnail: http://content.jwplatform.com/thumbs/KZ2vGH1o-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1671_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KZ2vGH1o-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1671
+itemShortLinkID: 1671
+
+
+itemTitle: Board James: Deadly Danger Dungeon
+itemWebLink: http://cinemassacre.com/2010/03/26/board-james-deadly-danger-dungeon/
+itemPlaylist: http://content.jwplatform.com/manifests/xxE3hGDA.m3u8
+itemAudio: http://content.jwplatform.com/videos/xxE3hGDA-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xxE3hGDA-QvH08cwS.mp4
+//content.jwplatform.com/videos/xxE3hGDA-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xxE3hGDA-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xxE3hGDA-HTQw4Gzc.mp4
+itemDuration: 381
+itemImage: http://content.jwplatform.com/thumbs/xxE3hGDA-720.jpg
+itemLegacyID: Cinemassacre-3941
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xxE3hGDA
+itemThumbnail: http://content.jwplatform.com/thumbs/xxE3hGDA-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3941_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xxE3hGDA-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3941
+itemShortLinkID: 3941
+

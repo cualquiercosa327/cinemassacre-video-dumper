@@ -1,0 +1,520 @@
+
+itemTitle: Top 10 Tales From The Crypt Episodes
+itemWebLink: http://cinemassacre.com/2009/10/28/top-10-tales-from-the-crypt-episodes/
+itemPlaylist: http://content.jwplatform.com/manifests/28KA5D2c.m3u8
+itemAudio: http://content.jwplatform.com/videos/28KA5D2c-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/28KA5D2c-QvH08cwS.mp4
+//content.jwplatform.com/videos/28KA5D2c-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/28KA5D2c-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/28KA5D2c-HTQw4Gzc.mp4
+itemDuration: 507
+itemImage: http://content.jwplatform.com/thumbs/28KA5D2c-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 31 May 2016 10:41:51 -0000
+itemPreview: http://content.jwplatform.com/previews/28KA5D2c
+itemThumbnail: http://content.jwplatform.com/thumbs/28KA5D2c-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/28KA5D2c-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1461
+itemShortLinkID: 1461
+
+
+itemTitle: Top 20 Urkel Moments
+itemWebLink: http://cinemassacre.com/2009/11/30/top-20-urkel-moments/
+itemPlaylist: http://content.jwplatform.com/manifests/qxeOcrDM.m3u8
+itemAudio: http://content.jwplatform.com/videos/qxeOcrDM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qxeOcrDM-QvH08cwS.mp4
+//content.jwplatform.com/videos/qxeOcrDM-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qxeOcrDM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qxeOcrDM-HTQw4Gzc.mp4
+itemDuration: 834
+itemImage: http://content.jwplatform.com/thumbs/qxeOcrDM-720.jpg
+itemLegacyID: Cinemassacre-539
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/qxeOcrDM
+itemThumbnail: http://content.jwplatform.com/thumbs/qxeOcrDM-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-539_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/qxeOcrDM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=539
+itemShortLinkID: 539
+
+
+itemTitle: Top 5 Movies About Making Movies
+itemWebLink: http://cinemassacre.com/2009/12/08/top-5-movies-about-making-movies/
+itemPlaylist: http://content.jwplatform.com/manifests/Migc3OfW.m3u8
+itemAudio: http://content.jwplatform.com/videos/Migc3OfW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Migc3OfW-QvH08cwS.mp4
+//content.jwplatform.com/videos/Migc3OfW-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Migc3OfW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Migc3OfW-HTQw4Gzc.mp4
+itemDuration: 637
+itemImage: http://content.jwplatform.com/thumbs/Migc3OfW-720.jpg
+itemLegacyID: Cinemassacre-1464
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Migc3OfW
+itemThumbnail: http://content.jwplatform.com/thumbs/Migc3OfW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1464_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Migc3OfW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1464
+itemShortLinkID: 1464
+
+
+itemTitle: The Top 10 Worst Movie Clich\u00e9s
+itemWebLink: http://cinemassacre.com/2010/01/20/the-top-10-worst-movie-cliches/
+itemPlaylist: http://content.jwplatform.com/manifests/riFeXyKJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/riFeXyKJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/riFeXyKJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/riFeXyKJ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/riFeXyKJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/riFeXyKJ-HTQw4Gzc.mp4
+itemDuration: 523
+itemImage: http://content.jwplatform.com/thumbs/riFeXyKJ-720.jpg
+itemLegacyID: Cinemassacre-3141
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/riFeXyKJ
+itemThumbnail: http://content.jwplatform.com/thumbs/riFeXyKJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3141_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/riFeXyKJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3141
+itemShortLinkID: 3141
+
+
+itemTitle: Top 30 Favorite Films (30-21)
+itemWebLink: http://cinemassacre.com/2010/03/19/my-top-30-favorite-films-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/bNkZRgwY.m3u8
+itemAudio: http://content.jwplatform.com/videos/bNkZRgwY-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/bNkZRgwY-QvH08cwS.mp4
+//content.jwplatform.com/videos/bNkZRgwY-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/bNkZRgwY-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/bNkZRgwY-HTQw4Gzc.mp4
+itemDuration: 767
+itemImage: http://content.jwplatform.com/thumbs/bNkZRgwY-720.jpg
+itemLegacyID: Cinemassacre-3648
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/bNkZRgwY
+itemThumbnail: http://content.jwplatform.com/thumbs/bNkZRgwY-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3648_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/bNkZRgwY-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3648
+itemShortLinkID: 3648
+
+
+itemTitle: Top 30 Favorite Films (20-11)
+itemWebLink: http://cinemassacre.com/2010/03/24/top-30-favorite-films-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/mtor5LvC.m3u8
+itemAudio: http://content.jwplatform.com/videos/mtor5LvC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/mtor5LvC-QvH08cwS.mp4
+//content.jwplatform.com/videos/mtor5LvC-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/mtor5LvC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/mtor5LvC-HTQw4Gzc.mp4
+itemDuration: 757
+itemImage: http://content.jwplatform.com/thumbs/mtor5LvC-720.jpg
+itemLegacyID: Cinemassacre-3852
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/mtor5LvC
+itemThumbnail: http://content.jwplatform.com/thumbs/mtor5LvC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3852_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/mtor5LvC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3852
+itemShortLinkID: 3852
+
+
+itemTitle: Top 30 Favorite Films (10-1)
+itemWebLink: http://cinemassacre.com/2010/03/28/top-30-favorite-films-part-3/
+itemPlaylist: http://content.jwplatform.com/manifests/04uRaLaW.m3u8
+itemAudio: http://content.jwplatform.com/videos/04uRaLaW-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/04uRaLaW-QvH08cwS.mp4
+//content.jwplatform.com/videos/04uRaLaW-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/04uRaLaW-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/04uRaLaW-HTQw4Gzc.mp4
+itemDuration: 1047
+itemImage: http://content.jwplatform.com/thumbs/04uRaLaW-720.jpg
+itemLegacyID: Cinemassacre-3943
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/04uRaLaW
+itemThumbnail: http://content.jwplatform.com/thumbs/04uRaLaW-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3943_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/04uRaLaW-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3943
+itemShortLinkID: 3943
+
+
+itemTitle: Top 10 Sequels That Aren't As Bad As Everyone Says
+itemWebLink: http://cinemassacre.com/2010/07/01/top-10-sequels-that-arent-as-bad-as-everyone-says-2/
+itemPlaylist: http://content.jwplatform.com/manifests/ywSDnNoZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/ywSDnNoZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ywSDnNoZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/ywSDnNoZ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ywSDnNoZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ywSDnNoZ-HTQw4Gzc.mp4
+itemDuration: 1021
+itemImage: http://content.jwplatform.com/thumbs/ywSDnNoZ-720.jpg
+itemLegacyID: Cinemassacre-6403
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ywSDnNoZ
+itemThumbnail: http://content.jwplatform.com/thumbs/ywSDnNoZ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6403_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ywSDnNoZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6403
+itemShortLinkID: 6403
+
+
+itemTitle: Top 10 Shitty Shatner Movies
+itemWebLink: http://cinemassacre.com/2010/08/21/top-10-shitty-shatner-movies/
+itemPlaylist: http://content.jwplatform.com/manifests/xTvjzRcb.m3u8
+itemAudio: http://content.jwplatform.com/videos/xTvjzRcb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xTvjzRcb-QvH08cwS.mp4
+//content.jwplatform.com/videos/xTvjzRcb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xTvjzRcb-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xTvjzRcb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xTvjzRcb-GzAUXplI.mp4
+itemDuration: 879
+itemImage: http://content.jwplatform.com/thumbs/xTvjzRcb-720.jpg
+itemLegacyID: Cinemassacre-6874
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xTvjzRcb
+itemThumbnail: http://content.jwplatform.com/thumbs/xTvjzRcb-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6874_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xTvjzRcb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6874
+itemShortLinkID: 6874
+
+
+itemTitle: Top 10 Lost Horror Films
+itemWebLink: http://cinemassacre.com/2010/10/14/top-10-lost-horror-films/
+itemPlaylist: http://content.jwplatform.com/manifests/DEyp7usd.m3u8
+itemAudio: http://content.jwplatform.com/videos/DEyp7usd-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DEyp7usd-QvH08cwS.mp4
+//content.jwplatform.com/videos/DEyp7usd-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DEyp7usd-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DEyp7usd-HTQw4Gzc.mp4
+itemDuration: 871
+itemImage: http://content.jwplatform.com/thumbs/DEyp7usd-720.jpg
+itemLegacyID: Cinemassacre-8147
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/DEyp7usd
+itemThumbnail: http://content.jwplatform.com/thumbs/DEyp7usd-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8147_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/DEyp7usd-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8147
+itemShortLinkID: 8147
+
+
+itemTitle: Top 10 Movie Moments That Have Nothing To Do With
+itemWebLink: http://cinemassacre.com/2010/11/23/top-10-movie-moments-that-have-nothing-to-do-with-the-scene-from-frankenstein-where-the-monster-throws-the-girl-into-the-pond/
+itemPlaylist: http://content.jwplatform.com/manifests/FFSsnOJ0.m3u8
+itemAudio: http://content.jwplatform.com/videos/FFSsnOJ0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/FFSsnOJ0-QvH08cwS.mp4
+//content.jwplatform.com/videos/FFSsnOJ0-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/FFSsnOJ0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/FFSsnOJ0-HTQw4Gzc.mp4
+itemDuration: 258
+itemImage: http://content.jwplatform.com/thumbs/FFSsnOJ0-720.jpg
+itemLegacyID: Cinemassacre-8436
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/FFSsnOJ0
+itemThumbnail: http://content.jwplatform.com/thumbs/FFSsnOJ0-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8436_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/FFSsnOJ0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8436
+itemShortLinkID: 8436
+
+
+itemTitle: Top 20 Turtle Flubs
+itemWebLink: http://cinemassacre.com/2011/05/31/tmnt-tuesday-top-20-turtle-flubs/
+itemPlaylist: http://content.jwplatform.com/manifests/BocJ7zNV.m3u8
+itemAudio: http://content.jwplatform.com/videos/BocJ7zNV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/BocJ7zNV-QvH08cwS.mp4
+//content.jwplatform.com/videos/BocJ7zNV-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BocJ7zNV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BocJ7zNV-HTQw4Gzc.mp4
+itemDuration: 553
+itemImage: http://content.jwplatform.com/thumbs/BocJ7zNV-720.jpg
+itemLegacyID: Cinemassacre-9255
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/BocJ7zNV
+itemThumbnail: http://content.jwplatform.com/thumbs/BocJ7zNV-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9255_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/BocJ7zNV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9255
+itemShortLinkID: 9255
+
+
+itemTitle: Top 10 Horror Remakes
+itemWebLink: http://cinemassacre.com/2012/01/19/top-10-horror-remakes/
+itemPlaylist: http://content.jwplatform.com/manifests/Kmjqr61c.m3u8
+itemAudio: http://content.jwplatform.com/videos/Kmjqr61c-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Kmjqr61c-QvH08cwS.mp4
+//content.jwplatform.com/videos/Kmjqr61c-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Kmjqr61c-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Kmjqr61c-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Kmjqr61c-GzAUXplI.mp4
+itemDuration: 741
+itemImage: http://content.jwplatform.com/thumbs/Kmjqr61c-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 31 May 2016 10:28:51 -0000
+itemPreview: http://content.jwplatform.com/previews/Kmjqr61c
+itemThumbnail: http://content.jwplatform.com/thumbs/Kmjqr61c-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/Kmjqr61c-120.vtt
+itemShortLink: http://cinemassacre.com/?p=15461
+itemShortLinkID: 15461
+
+
+itemTitle: Top 10 Worst Mighty Morphin Monsters
+itemWebLink: http://cinemassacre.com/2012/04/09/top-10-mighty-morphin-monsters/
+itemPlaylist: http://content.jwplatform.com/manifests/a8N3inbJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/a8N3inbJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/a8N3inbJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/a8N3inbJ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/a8N3inbJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/a8N3inbJ-HTQw4Gzc.mp4
+itemDuration: 444
+itemImage: http://content.jwplatform.com/thumbs/a8N3inbJ-720.jpg
+itemLegacyID: Cinemassacre-15806
+itemPubDate: Mon, 03 Mar 2014 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/a8N3inbJ
+itemThumbnail: http://content.jwplatform.com/thumbs/a8N3inbJ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-15806_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/a8N3inbJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=15806
+itemShortLinkID: 15806
+
+
+itemTitle: Top 5 Dumb Costume Ideas
+itemWebLink: http://cinemassacre.com/2012/10/04/top-5-dumb-costume-ideas/
+itemPlaylist: http://content.jwplatform.com/manifests/NVHXbGLg.m3u8
+itemAudio: http://content.jwplatform.com/videos/NVHXbGLg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/NVHXbGLg-QvH08cwS.mp4
+//content.jwplatform.com/videos/NVHXbGLg-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/NVHXbGLg-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/NVHXbGLg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/NVHXbGLg-GzAUXplI.mp4
+itemDuration: 263
+itemImage: http://content.jwplatform.com/thumbs/NVHXbGLg-720.jpg
+itemLegacyID: Cinemassacre-18972
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/NVHXbGLg
+itemThumbnail: http://content.jwplatform.com/thumbs/NVHXbGLg-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-18972_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/NVHXbGLg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18972
+itemShortLinkID: 18972
+
+
+itemTitle: Top 10 Alfred Hitchcock Films
+itemWebLink: http://cinemassacre.com/2013/02/04/top-10-hitchcock-films/
+itemPlaylist: http://content.jwplatform.com/manifests/jm6Axm8E.m3u8
+itemAudio: http://content.jwplatform.com/videos/jm6Axm8E-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/jm6Axm8E-QvH08cwS.mp4
+//content.jwplatform.com/videos/jm6Axm8E-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/jm6Axm8E-GzAUXplI.mp4
+//content.jwplatform.com/videos/jm6Axm8E-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/jm6Axm8E-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/jm6Axm8E-7spvWrjM.mp4
+itemDuration: 916
+itemImage: http://content.jwplatform.com/thumbs/jm6Axm8E-720.jpg
+itemLegacyID: Cinemassacre-23202
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/jm6Axm8E
+itemThumbnail: http://content.jwplatform.com/thumbs/jm6Axm8E-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-23202_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/jm6Axm8E-120.vtt
+itemShortLink: http://cinemassacre.com/?p=23202
+itemShortLinkID: 23202
+
+
+itemTitle: Top 20 Window Jumps!
+itemWebLink: http://cinemassacre.com/2013/05/06/top-20-window-jumps/
+itemPlaylist: http://content.jwplatform.com/manifests/TkQ8kagz.m3u8
+itemAudio: http://content.jwplatform.com/videos/TkQ8kagz-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/TkQ8kagz-QvH08cwS.mp4
+//content.jwplatform.com/videos/TkQ8kagz-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/TkQ8kagz-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/TkQ8kagz-HTQw4Gzc.mp4
+itemDuration: 400
+itemImage: http://content.jwplatform.com/thumbs/TkQ8kagz-720.jpg
+itemLegacyID: Cinemassacre-25001
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/TkQ8kagz
+itemThumbnail: http://content.jwplatform.com/thumbs/TkQ8kagz-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25001_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/TkQ8kagz-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25001
+itemShortLinkID: 25001
+
+
+itemTitle: Top 10 Electrocution Scenes
+itemWebLink: http://cinemassacre.com/2013/07/11/top-10-electrocution-scenes/
+itemPlaylist: http://content.jwplatform.com/manifests/NyOX7xjh.m3u8
+itemAudio: http://content.jwplatform.com/videos/NyOX7xjh-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/NyOX7xjh-QvH08cwS.mp4
+//content.jwplatform.com/videos/NyOX7xjh-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/NyOX7xjh-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/NyOX7xjh-HTQw4Gzc.mp4
+itemDuration: 465
+itemImage: http://content.jwplatform.com/thumbs/NyOX7xjh-720.jpg
+itemLegacyID: Cinemassacre-25888
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/NyOX7xjh
+itemThumbnail: http://content.jwplatform.com/thumbs/NyOX7xjh-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-25888_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/NyOX7xjh-120.vtt
+itemShortLink: http://cinemassacre.com/?p=25888
+itemShortLinkID: 25888
+
+
+itemTitle: Top 1 Shark Movies
+itemWebLink: http://cinemassacre.com/2013/08/04/top-1-shark-movies/
+itemPlaylist: http://content.jwplatform.com/manifests/TyRvUEzZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/TyRvUEzZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/TyRvUEzZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/TyRvUEzZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/TyRvUEzZ-GzAUXplI.mp4
+//content.jwplatform.com/videos/TyRvUEzZ-7spvWrjM.mp4
+//content.jwplatform.com/videos/TyRvUEzZ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/TyRvUEzZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/TyRvUEzZ-Qw1ADm9e.mp4
+itemDuration: 125
+itemImage: http://content.jwplatform.com/thumbs/TyRvUEzZ-720.jpg
+itemLegacyID: 
+itemPubDate: Sun, 08 May 2016 22:10:59 -0000
+itemPreview: http://content.jwplatform.com/previews/TyRvUEzZ
+itemThumbnail: http://content.jwplatform.com/thumbs/TyRvUEzZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/TyRvUEzZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26006
+itemShortLinkID: 26006
+
+
+itemTitle: Top 40 Shitty Shark Movies
+itemWebLink: http://cinemassacre.com/2013/08/06/top-40-shitty-shark-movies/
+itemPlaylist: http://content.jwplatform.com/manifests/XfwX51uR.m3u8
+itemAudio: http://content.jwplatform.com/videos/XfwX51uR-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/XfwX51uR-QvH08cwS.mp4
+//content.jwplatform.com/videos/XfwX51uR-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/XfwX51uR-GzAUXplI.mp4
+//content.jwplatform.com/videos/XfwX51uR-7spvWrjM.mp4
+//content.jwplatform.com/videos/XfwX51uR-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/XfwX51uR-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/XfwX51uR-Qw1ADm9e.mp4
+itemDuration: 1446
+itemImage: http://content.jwplatform.com/thumbs/XfwX51uR-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 22:36:38 -0000
+itemPreview: http://content.jwplatform.com/previews/XfwX51uR
+itemThumbnail: http://content.jwplatform.com/thumbs/XfwX51uR-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/XfwX51uR-120.vtt
+itemShortLink: http://cinemassacre.com/?p=26012
+itemShortLinkID: 26012
+
+
+itemTitle: Top 10 Worst Top 10s
+itemWebLink: http://cinemassacre.com/2013/12/12/top-10-worst-top-10s/
+itemPlaylist: http://content.jwplatform.com/manifests/1PlH06VO.m3u8
+itemAudio: http://content.jwplatform.com/videos/1PlH06VO-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/1PlH06VO-QvH08cwS.mp4
+//content.jwplatform.com/videos/1PlH06VO-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/1PlH06VO-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1PlH06VO-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1PlH06VO-GzAUXplI.mp4
+itemDuration: 507
+itemImage: http://content.jwplatform.com/thumbs/1PlH06VO-720.jpg
+itemLegacyID: Cinemassacre-52a05a558a26c
+itemPubDate: Thu, 05 Dec 2013 05:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/1PlH06VO
+itemThumbnail: http://content.jwplatform.com/thumbs/1PlH06VO-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-52a05a558a26c_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/1PlH06VO-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27129
+itemShortLinkID: 27129
+
+
+itemTitle: Top 15 Awesome Transformers Moments
+itemWebLink: http://cinemassacre.com/2014/06/18/top-15-awesome-transformers-moments/
+itemPlaylist: http://content.jwplatform.com/manifests/j8Un6amv.m3u8
+itemAudio: http://content.jwplatform.com/videos/j8Un6amv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/j8Un6amv-QvH08cwS.mp4
+//content.jwplatform.com/videos/j8Un6amv-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/j8Un6amv-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/j8Un6amv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/j8Un6amv-GzAUXplI.mp4
+itemDuration: 1088
+itemImage: http://content.jwplatform.com/thumbs/j8Un6amv-720.jpg
+itemLegacyID: Cinemassacre-535f31276f370
+itemPubDate: Mon, 28 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/j8Un6amv
+itemThumbnail: http://content.jwplatform.com/thumbs/j8Un6amv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-535f31276f370_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/j8Un6amv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27823
+itemShortLinkID: 27823
+
+
+itemTitle: Top 10 Transformers WTF Moments
+itemWebLink: http://cinemassacre.com/2014/06/25/top-10-transformers-wtf-moments/
+itemPlaylist: http://content.jwplatform.com/manifests/hv7nTMVC.m3u8
+itemAudio: http://content.jwplatform.com/videos/hv7nTMVC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hv7nTMVC-QvH08cwS.mp4
+//content.jwplatform.com/videos/hv7nTMVC-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hv7nTMVC-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hv7nTMVC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hv7nTMVC-GzAUXplI.mp4
+itemDuration: 305
+itemImage: http://content.jwplatform.com/thumbs/hv7nTMVC-720.jpg
+itemLegacyID: Cinemassacre-535f2bf5c86a6
+itemPubDate: Mon, 28 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hv7nTMVC
+itemThumbnail: http://content.jwplatform.com/thumbs/hv7nTMVC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-535f2bf5c86a6_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hv7nTMVC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27825
+itemShortLinkID: 27825
+
+
+itemTitle: Top 10 Shatner Could Return
+itemWebLink: http://cinemassacre.com/2014/09/29/top-10-ways-william-shatner-could-return-in-star-trek-3/
+itemPlaylist: http://content.jwplatform.com/manifests/xXuBqLYD.m3u8
+itemAudio: http://content.jwplatform.com/videos/xXuBqLYD-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xXuBqLYD-QvH08cwS.mp4
+//content.jwplatform.com/videos/xXuBqLYD-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xXuBqLYD-GzAUXplI.mp4
+//content.jwplatform.com/videos/xXuBqLYD-7spvWrjM.mp4
+//content.jwplatform.com/videos/xXuBqLYD-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xXuBqLYD-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xXuBqLYD-Qw1ADm9e.mp4
+itemDuration: 373
+itemImage: http://content.jwplatform.com/thumbs/xXuBqLYD-720.jpg
+itemLegacyID: Cinemassacre-5429dc163d492
+itemPubDate: Mon, 29 Sep 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xXuBqLYD
+itemThumbnail: http://content.jwplatform.com/thumbs/xXuBqLYD-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-5429dc163d492_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xXuBqLYD-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28646
+itemShortLinkID: 28646
+
+
+itemTitle: Top 5 Horror Monster Movies Due For Remake
+itemWebLink: http://cinemassacre.com/2014/11/01/top-5-horror-movies-due-for-a-remake/
+itemPlaylist: http://content.jwplatform.com/manifests/F5I0pEfU.m3u8
+itemAudio: http://content.jwplatform.com/videos/F5I0pEfU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/F5I0pEfU-QvH08cwS.mp4
+//content.jwplatform.com/videos/F5I0pEfU-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/F5I0pEfU-GzAUXplI.mp4
+//content.jwplatform.com/videos/F5I0pEfU-7spvWrjM.mp4
+//content.jwplatform.com/videos/F5I0pEfU-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/F5I0pEfU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/F5I0pEfU-Qw1ADm9e.mp4
+itemDuration: 368
+itemImage: http://content.jwplatform.com/thumbs/F5I0pEfU-720.jpg
+itemLegacyID: Cinemassacre-54497fe03b136
+itemPubDate: Thu, 23 Oct 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/F5I0pEfU
+itemThumbnail: http://content.jwplatform.com/thumbs/F5I0pEfU-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-54497fe03b136_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/F5I0pEfU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28734
+itemShortLinkID: 28734
+

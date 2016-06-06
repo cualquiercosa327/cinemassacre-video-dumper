@@ -1,0 +1,399 @@
+
+itemTitle: Marble Madness (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2015/12/06/marble-madness-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/oxzRYwZ3.m3u8
+itemAudio: http://content.jwplatform.com/videos/oxzRYwZ3-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/oxzRYwZ3-sWQecfvj.mp4
+//content.jwplatform.com/videos/oxzRYwZ3-GMxzemX2.mp4
+//content.jwplatform.com/videos/oxzRYwZ3-DC3vXrn5.mp4
+//content.jwplatform.com/videos/oxzRYwZ3-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/oxzRYwZ3-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/oxzRYwZ3-dUBRKwog.mp4
+itemDuration: 765
+itemImage: http://content.jwplatform.com/thumbs/oxzRYwZ3-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/oxzRYwZ3
+itemThumbnail: http://content.jwplatform.com/thumbs/oxzRYwZ3-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/oxzRYwZ3-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30245
+itemShortLinkID: 30245
+
+
+itemTitle: Yoshi's Cookie (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2015/12/13/yoshis-cookie-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/N9xFbK1z.m3u8
+itemAudio: http://content.jwplatform.com/videos/N9xFbK1z-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/N9xFbK1z-sWQecfvj.mp4
+//content.jwplatform.com/videos/N9xFbK1z-GMxzemX2.mp4
+//content.jwplatform.com/videos/N9xFbK1z-DC3vXrn5.mp4
+//content.jwplatform.com/videos/N9xFbK1z-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/N9xFbK1z-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/N9xFbK1z-dUBRKwog.mp4
+itemDuration: 757
+itemImage: http://content.jwplatform.com/thumbs/N9xFbK1z-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:48 -0000
+itemPreview: http://content.jwplatform.com/previews/N9xFbK1z
+itemThumbnail: http://content.jwplatform.com/thumbs/N9xFbK1z-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/N9xFbK1z-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30373
+itemShortLinkID: 30373
+
+
+itemTitle: Ice Climber (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2015/12/23/ice-climbers-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/0dag0WEn.m3u8
+itemAudio: http://content.jwplatform.com/videos/0dag0WEn-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/0dag0WEn-sWQecfvj.mp4
+//content.jwplatform.com/videos/0dag0WEn-GMxzemX2.mp4
+//content.jwplatform.com/videos/0dag0WEn-DC3vXrn5.mp4
+//content.jwplatform.com/videos/0dag0WEn-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/0dag0WEn-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/0dag0WEn-dUBRKwog.mp4
+itemDuration: 987
+itemImage: http://content.jwplatform.com/thumbs/0dag0WEn-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/0dag0WEn
+itemThumbnail: http://content.jwplatform.com/thumbs/0dag0WEn-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/0dag0WEn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30560
+itemShortLinkID: 30560
+
+
+itemTitle: Defender (Xbox 360) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2015/12/26/defender-arcade-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/qIwgkhzy.m3u8
+itemAudio: http://content.jwplatform.com/videos/qIwgkhzy-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/qIwgkhzy-sWQecfvj.mp4
+//content.jwplatform.com/videos/qIwgkhzy-GMxzemX2.mp4
+//content.jwplatform.com/videos/qIwgkhzy-DC3vXrn5.mp4
+//content.jwplatform.com/videos/qIwgkhzy-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qIwgkhzy-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qIwgkhzy-dUBRKwog.mp4
+itemDuration: 618
+itemImage: http://content.jwplatform.com/thumbs/qIwgkhzy-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/qIwgkhzy
+itemThumbnail: http://content.jwplatform.com/thumbs/qIwgkhzy-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/qIwgkhzy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30566
+itemShortLinkID: 30566
+
+
+itemTitle: Kung Fu (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/01/20/kung-fu-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/yU0xS1pm.m3u8
+itemAudio: http://content.jwplatform.com/videos/yU0xS1pm-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/yU0xS1pm-sWQecfvj.mp4
+//content.jwplatform.com/videos/yU0xS1pm-GMxzemX2.mp4
+//content.jwplatform.com/videos/yU0xS1pm-DC3vXrn5.mp4
+//content.jwplatform.com/videos/yU0xS1pm-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/yU0xS1pm-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/yU0xS1pm-dUBRKwog.mp4
+itemDuration: 987
+itemImage: http://content.jwplatform.com/thumbs/yU0xS1pm-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/yU0xS1pm
+itemThumbnail: http://content.jwplatform.com/thumbs/yU0xS1pm-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/yU0xS1pm-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30630
+itemShortLinkID: 30630
+
+
+itemTitle: The Simpsons Arcade (Xbox Live Arcade)  Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/01/29/the-simpsons-xbla-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/YHAb2u1C.m3u8
+itemAudio: http://content.jwplatform.com/videos/YHAb2u1C-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/YHAb2u1C-sWQecfvj.mp4
+//content.jwplatform.com/videos/YHAb2u1C-GMxzemX2.mp4
+//content.jwplatform.com/videos/YHAb2u1C-DC3vXrn5.mp4
+//content.jwplatform.com/videos/YHAb2u1C-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/YHAb2u1C-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/YHAb2u1C-dUBRKwog.mp4
+itemDuration: 695
+itemImage: http://content.jwplatform.com/thumbs/YHAb2u1C-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:48 -0000
+itemPreview: http://content.jwplatform.com/previews/YHAb2u1C
+itemThumbnail: http://content.jwplatform.com/thumbs/YHAb2u1C-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/YHAb2u1C-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30642
+itemShortLinkID: 30642
+
+
+itemTitle: Donkey Kong Jr. (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/02/04/donkey-kong-jr-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/ma7anPBp.m3u8
+itemAudio: http://content.jwplatform.com/videos/ma7anPBp-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/ma7anPBp-sWQecfvj.mp4
+//content.jwplatform.com/videos/ma7anPBp-GMxzemX2.mp4
+//content.jwplatform.com/videos/ma7anPBp-DC3vXrn5.mp4
+//content.jwplatform.com/videos/ma7anPBp-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ma7anPBp-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ma7anPBp-dUBRKwog.mp4
+itemDuration: 604
+itemImage: http://content.jwplatform.com/thumbs/ma7anPBp-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/ma7anPBp
+itemThumbnail: http://content.jwplatform.com/thumbs/ma7anPBp-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/ma7anPBp-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30648
+itemShortLinkID: 30648
+
+
+itemTitle: RoboTron 2084 (Xbox 360) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/02/11/robotron-2084-xbox-360-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/pZ7iUIDe.m3u8
+itemAudio: http://content.jwplatform.com/videos/pZ7iUIDe-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/pZ7iUIDe-sWQecfvj.mp4
+//content.jwplatform.com/videos/pZ7iUIDe-GMxzemX2.mp4
+//content.jwplatform.com/videos/pZ7iUIDe-DC3vXrn5.mp4
+//content.jwplatform.com/videos/pZ7iUIDe-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pZ7iUIDe-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pZ7iUIDe-dUBRKwog.mp4
+itemDuration: 670
+itemImage: http://content.jwplatform.com/thumbs/pZ7iUIDe-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:48 -0000
+itemPreview: http://content.jwplatform.com/previews/pZ7iUIDe
+itemThumbnail: http://content.jwplatform.com/thumbs/pZ7iUIDe-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/pZ7iUIDe-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30674
+itemShortLinkID: 30674
+
+
+itemTitle: Paperboy (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/02/17/paperboy-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/onFJGgfn.m3u8
+itemAudio: http://content.jwplatform.com/videos/onFJGgfn-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/onFJGgfn-sWQecfvj.mp4
+//content.jwplatform.com/videos/onFJGgfn-GMxzemX2.mp4
+//content.jwplatform.com/videos/onFJGgfn-DC3vXrn5.mp4
+//content.jwplatform.com/videos/onFJGgfn-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/onFJGgfn-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/onFJGgfn-dUBRKwog.mp4
+itemDuration: 638
+itemImage: http://content.jwplatform.com/thumbs/onFJGgfn-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/onFJGgfn
+itemThumbnail: http://content.jwplatform.com/thumbs/onFJGgfn-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/onFJGgfn-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30819
+itemShortLinkID: 30819
+
+
+itemTitle: DuckTales (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/02/25/ducktales-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/eMoKij83.m3u8
+itemAudio: http://content.jwplatform.com/videos/eMoKij83-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/eMoKij83-sWQecfvj.mp4
+//content.jwplatform.com/videos/eMoKij83-GMxzemX2.mp4
+//content.jwplatform.com/videos/eMoKij83-DC3vXrn5.mp4
+//content.jwplatform.com/videos/eMoKij83-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/eMoKij83-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/eMoKij83-dUBRKwog.mp4
+itemDuration: 729
+itemImage: http://content.jwplatform.com/thumbs/eMoKij83-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/eMoKij83
+itemThumbnail: http://content.jwplatform.com/thumbs/eMoKij83-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/eMoKij83-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30831
+itemShortLinkID: 30831
+
+
+itemTitle: Stampede (Atari 2600) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/03/09/stampede-atari-2600-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/5d5OlKdC.m3u8
+itemAudio: http://content.jwplatform.com/videos/5d5OlKdC-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/5d5OlKdC-sWQecfvj.mp4
+//content.jwplatform.com/videos/5d5OlKdC-GMxzemX2.mp4
+//content.jwplatform.com/videos/5d5OlKdC-DC3vXrn5.mp4
+//content.jwplatform.com/videos/5d5OlKdC-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5d5OlKdC-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5d5OlKdC-dUBRKwog.mp4
+itemDuration: 458
+itemImage: http://content.jwplatform.com/thumbs/5d5OlKdC-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:48 -0000
+itemPreview: http://content.jwplatform.com/previews/5d5OlKdC
+itemThumbnail: http://content.jwplatform.com/thumbs/5d5OlKdC-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/5d5OlKdC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30863
+itemShortLinkID: 30863
+
+
+itemTitle: Donkey Kong 3 (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/03/17/donkey-kong-3-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/rNIUGCkN.m3u8
+itemAudio: http://content.jwplatform.com/videos/rNIUGCkN-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/rNIUGCkN-sWQecfvj.mp4
+//content.jwplatform.com/videos/rNIUGCkN-GMxzemX2.mp4
+//content.jwplatform.com/videos/rNIUGCkN-DC3vXrn5.mp4
+//content.jwplatform.com/videos/rNIUGCkN-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/rNIUGCkN-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/rNIUGCkN-dUBRKwog.mp4
+itemDuration: 611
+itemImage: http://content.jwplatform.com/thumbs/rNIUGCkN-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/rNIUGCkN
+itemThumbnail: http://content.jwplatform.com/thumbs/rNIUGCkN-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/rNIUGCkN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30879
+itemShortLinkID: 30879
+
+
+itemTitle: Taz (Atari 2600) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/03/23/taz-atari-2600-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/vyac3h9E.m3u8
+itemAudio: http://content.jwplatform.com/videos/vyac3h9E-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/vyac3h9E-sWQecfvj.mp4
+//content.jwplatform.com/videos/vyac3h9E-GMxzemX2.mp4
+//content.jwplatform.com/videos/vyac3h9E-DC3vXrn5.mp4
+//content.jwplatform.com/videos/vyac3h9E-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vyac3h9E-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vyac3h9E-dUBRKwog.mp4
+itemDuration: 671
+itemImage: http://content.jwplatform.com/thumbs/vyac3h9E-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:48 -0000
+itemPreview: http://content.jwplatform.com/previews/vyac3h9E
+itemThumbnail: http://content.jwplatform.com/thumbs/vyac3h9E-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/vyac3h9E-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30886
+itemShortLinkID: 30886
+
+
+itemTitle: Jungle Hunt (Atari 2600) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/03/30/jungle-hunt-atari-2600-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/a1tm9R7J.m3u8
+itemAudio: http://content.jwplatform.com/videos/a1tm9R7J-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/a1tm9R7J-sWQecfvj.mp4
+//content.jwplatform.com/videos/a1tm9R7J-GMxzemX2.mp4
+//content.jwplatform.com/videos/a1tm9R7J-DC3vXrn5.mp4
+//content.jwplatform.com/videos/a1tm9R7J-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/a1tm9R7J-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/a1tm9R7J-dUBRKwog.mp4
+itemDuration: 601
+itemImage: http://content.jwplatform.com/thumbs/a1tm9R7J-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/a1tm9R7J
+itemThumbnail: http://content.jwplatform.com/thumbs/a1tm9R7J-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/a1tm9R7J-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30907
+itemShortLinkID: 30907
+
+
+itemTitle: Gremlins (Atari 2600) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/04/24/gremlins-atari-2600-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/BlofgGUH.m3u8
+itemAudio: http://content.jwplatform.com/videos/BlofgGUH-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/BlofgGUH-sWQecfvj.mp4
+//content.jwplatform.com/videos/BlofgGUH-GMxzemX2.mp4
+//content.jwplatform.com/videos/BlofgGUH-DC3vXrn5.mp4
+//content.jwplatform.com/videos/BlofgGUH-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BlofgGUH-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BlofgGUH-dUBRKwog.mp4
+itemDuration: 655
+itemImage: http://content.jwplatform.com/thumbs/BlofgGUH-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:12:47 -0000
+itemPreview: http://content.jwplatform.com/previews/BlofgGUH
+itemThumbnail: http://content.jwplatform.com/thumbs/BlofgGUH-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/BlofgGUH-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30988
+itemShortLinkID: 30988
+
+
+itemTitle: Pinball (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/05/18/pinball-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/BRo9M7hx.m3u8
+itemAudio: http://content.jwplatform.com/videos/BRo9M7hx-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/BRo9M7hx-sWQecfvj.mp4
+//content.jwplatform.com/videos/BRo9M7hx-GMxzemX2.mp4
+//content.jwplatform.com/videos/BRo9M7hx-DC3vXrn5.mp4
+//content.jwplatform.com/videos/BRo9M7hx-dUBRKwog.mp4
+//content.jwplatform.com/videos/BRo9M7hx-1l5E1Zyf.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BRo9M7hx-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BRo9M7hx-1l5E1Zyf.mp4
+itemDuration: 853
+itemImage: http://content.jwplatform.com/thumbs/BRo9M7hx-720.jpg
+itemLegacyID: 
+itemPubDate: Tue, 17 May 2016 18:44:04 -0000
+itemPreview: http://content.jwplatform.com/previews/BRo9M7hx
+itemThumbnail: http://content.jwplatform.com/thumbs/BRo9M7hx-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/BRo9M7hx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31138
+itemShortLinkID: 31138
+
+
+itemTitle: Win Lose or Draw NES Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/05/25/win-lose-or-draw-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/4DHYfiUG.m3u8
+itemAudio: http://content.jwplatform.com/videos/4DHYfiUG-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/4DHYfiUG-sWQecfvj.mp4
+//content.jwplatform.com/videos/4DHYfiUG-GMxzemX2.mp4
+//content.jwplatform.com/videos/4DHYfiUG-DC3vXrn5.mp4
+//content.jwplatform.com/videos/4DHYfiUG-dUBRKwog.mp4
+//content.jwplatform.com/videos/4DHYfiUG-1l5E1Zyf.mp4
+itemVideoList1: http://content.jwplatform.com/videos/4DHYfiUG-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/4DHYfiUG-1l5E1Zyf.mp4
+itemDuration: 653
+itemImage: http://content.jwplatform.com/thumbs/4DHYfiUG-720.jpg
+itemLegacyID: 
+itemPubDate: Wed, 25 May 2016 23:06:55 -0000
+itemPreview: http://content.jwplatform.com/previews/4DHYfiUG
+itemThumbnail: http://content.jwplatform.com/thumbs/4DHYfiUG-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/4DHYfiUG-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31162
+itemShortLinkID: 31162
+
+
+itemTitle: Swamp Thing (NES) Mike & Bootsy
+itemWebLink: http://cinemassacre.com/2016/06/02/swamp-thing-nes-mike-bootsy/
+itemPlaylist: http://content.jwplatform.com/manifests/OHU6XdZk.m3u8
+itemAudio: http://content.jwplatform.com/videos/OHU6XdZk-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/OHU6XdZk-sWQecfvj.mp4
+//content.jwplatform.com/videos/OHU6XdZk-GMxzemX2.mp4
+//content.jwplatform.com/videos/OHU6XdZk-DC3vXrn5.mp4
+//content.jwplatform.com/videos/OHU6XdZk-dUBRKwog.mp4
+//content.jwplatform.com/videos/OHU6XdZk-1l5E1Zyf.mp4
+itemVideoList1: http://content.jwplatform.com/videos/OHU6XdZk-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/OHU6XdZk-1l5E1Zyf.mp4
+itemDuration: 862
+itemImage: http://content.jwplatform.com/thumbs/OHU6XdZk-720.jpg
+itemLegacyID: 
+itemPubDate: Thu, 02 Jun 2016 20:59:40 -0000
+itemPreview: http://content.jwplatform.com/previews/OHU6XdZk
+itemThumbnail: http://content.jwplatform.com/thumbs/OHU6XdZk-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/OHU6XdZk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=31205
+itemShortLinkID: 31205
+

@@ -1,0 +1,300 @@
+
+itemTitle: Rock Band game gone crazy
+itemWebLink: http://cinemassacre.com/2008/06/20/rock-band-game-gone-crazy/
+itemPlaylist: http://content.jwplatform.com/manifests/bURqzmrk.m3u8
+itemAudio: http://content.jwplatform.com/videos/bURqzmrk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/bURqzmrk-QvH08cwS.mp4
+//content.jwplatform.com/videos/bURqzmrk-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/bURqzmrk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/bURqzmrk-HTQw4Gzc.mp4
+itemDuration: 121
+itemImage: http://content.jwplatform.com/thumbs/bURqzmrk-720.jpg
+itemLegacyID: Cinemassacre-375
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/bURqzmrk
+itemThumbnail: http://content.jwplatform.com/thumbs/bURqzmrk-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-375_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/bURqzmrk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=375
+itemShortLinkID: 375
+
+
+itemTitle: Playing Street Fighter 4
+itemWebLink: http://cinemassacre.com/2009/02/19/playing-street-fighter-4/
+itemPlaylist: http://content.jwplatform.com/manifests/JZae3l9B.m3u8
+itemAudio: http://content.jwplatform.com/videos/JZae3l9B-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/JZae3l9B-QvH08cwS.mp4
+//content.jwplatform.com/videos/JZae3l9B-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JZae3l9B-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JZae3l9B-HTQw4Gzc.mp4
+itemDuration: 455
+itemImage: http://content.jwplatform.com/thumbs/JZae3l9B-720.jpg
+itemLegacyID: Cinemassacre-175
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JZae3l9B
+itemThumbnail: http://content.jwplatform.com/thumbs/JZae3l9B-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-175_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JZae3l9B-120.vtt
+itemShortLink: http://cinemassacre.com/?p=175
+itemShortLinkID: 175
+
+
+itemTitle: My NES Collection
+itemWebLink: http://cinemassacre.com/2009/03/07/my-nes-collection/
+itemPlaylist: http://content.jwplatform.com/manifests/skbjnkuw.m3u8
+itemAudio: http://content.jwplatform.com/videos/skbjnkuw-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/skbjnkuw-QvH08cwS.mp4
+//content.jwplatform.com/videos/skbjnkuw-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/skbjnkuw-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/skbjnkuw-HTQw4Gzc.mp4
+itemDuration: 374
+itemImage: http://content.jwplatform.com/thumbs/skbjnkuw-720.jpg
+itemLegacyID: Cinemassacre-181
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/skbjnkuw
+itemThumbnail: http://content.jwplatform.com/thumbs/skbjnkuw-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-181_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/skbjnkuw-120.vtt
+itemShortLink: http://cinemassacre.com/?p=181
+itemShortLinkID: 181
+
+
+itemTitle: The Alternate History Of Mario - Old class project
+itemWebLink: http://cinemassacre.com/2010/01/15/the-alternate-history-of-mario-old-class-project-2002/
+itemPlaylist: http://content.jwplatform.com/manifests/SJuDyIuF.m3u8
+itemAudio: http://content.jwplatform.com/videos/SJuDyIuF-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SJuDyIuF-QvH08cwS.mp4
+//content.jwplatform.com/videos/SJuDyIuF-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SJuDyIuF-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SJuDyIuF-HTQw4Gzc.mp4
+itemDuration: 197
+itemImage: http://content.jwplatform.com/thumbs/SJuDyIuF-720.jpg
+itemLegacyID: Cinemassacre-4320
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/SJuDyIuF
+itemThumbnail: http://content.jwplatform.com/thumbs/SJuDyIuF-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-4320_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/SJuDyIuF-120.vtt
+itemShortLink: http://cinemassacre.com/?p=4320
+itemShortLinkID: 4320
+
+
+itemTitle: Worlds of Power Megaman 2 (Part 1)
+itemWebLink: http://cinemassacre.com/2010/02/03/worlds-of-power-megaman-2-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/dDhKZlt3.m3u8
+itemAudio: http://content.jwplatform.com/videos/dDhKZlt3-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/dDhKZlt3-QvH08cwS.mp4
+//content.jwplatform.com/videos/dDhKZlt3-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/dDhKZlt3-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/dDhKZlt3-HTQw4Gzc.mp4
+itemDuration: 1204
+itemImage: http://content.jwplatform.com/thumbs/dDhKZlt3-720.jpg
+itemLegacyID: Cinemassacre-1683
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/dDhKZlt3
+itemThumbnail: http://content.jwplatform.com/thumbs/dDhKZlt3-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1683_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/dDhKZlt3-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1683
+itemShortLinkID: 1683
+
+
+itemTitle: Worlds of Power Megaman 2 (Part 2)
+itemWebLink: http://cinemassacre.com/2010/02/03/worlds-of-power-megaman-2-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/KmwtTRmk.m3u8
+itemAudio: http://content.jwplatform.com/videos/KmwtTRmk-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KmwtTRmk-QvH08cwS.mp4
+//content.jwplatform.com/videos/KmwtTRmk-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KmwtTRmk-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KmwtTRmk-HTQw4Gzc.mp4
+itemDuration: 766
+itemImage: http://content.jwplatform.com/thumbs/KmwtTRmk-720.jpg
+itemLegacyID: Cinemassacre-1685
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KmwtTRmk
+itemThumbnail: http://content.jwplatform.com/thumbs/KmwtTRmk-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1685_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KmwtTRmk-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1685
+itemShortLinkID: 1685
+
+
+itemTitle: Worlds of Power Megaman 2 (Part 3)
+itemWebLink: http://cinemassacre.com/2010/02/03/worlds-of-power-megaman-2-part-3/
+itemPlaylist: http://content.jwplatform.com/manifests/23I85cpG.m3u8
+itemAudio: http://content.jwplatform.com/videos/23I85cpG-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/23I85cpG-QvH08cwS.mp4
+//content.jwplatform.com/videos/23I85cpG-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/23I85cpG-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/23I85cpG-HTQw4Gzc.mp4
+itemDuration: 811
+itemImage: http://content.jwplatform.com/thumbs/23I85cpG-720.jpg
+itemLegacyID: Cinemassacre-1687
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/23I85cpG
+itemThumbnail: http://content.jwplatform.com/thumbs/23I85cpG-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1687_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/23I85cpG-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1687
+itemShortLinkID: 1687
+
+
+itemTitle: Worlds of Power Megaman 2 (Part 4)
+itemWebLink: http://cinemassacre.com/2010/02/03/worlds-of-power-megaman-2-part-4/
+itemPlaylist: http://content.jwplatform.com/manifests/KL16J3AV.m3u8
+itemAudio: http://content.jwplatform.com/videos/KL16J3AV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KL16J3AV-QvH08cwS.mp4
+//content.jwplatform.com/videos/KL16J3AV-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KL16J3AV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KL16J3AV-HTQw4Gzc.mp4
+itemDuration: 681
+itemImage: http://content.jwplatform.com/thumbs/KL16J3AV-720.jpg
+itemLegacyID: Cinemassacre-1689
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KL16J3AV
+itemThumbnail: http://content.jwplatform.com/thumbs/KL16J3AV-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1689_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KL16J3AV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1689
+itemShortLinkID: 1689
+
+
+itemTitle: Worlds of Power Megaman 2 (Part 5)
+itemWebLink: http://cinemassacre.com/2010/02/03/worlds-of-power-megaman-2-part-5/
+itemPlaylist: http://content.jwplatform.com/manifests/TxLmjRM5.m3u8
+itemAudio: http://content.jwplatform.com/videos/TxLmjRM5-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/TxLmjRM5-QvH08cwS.mp4
+//content.jwplatform.com/videos/TxLmjRM5-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/TxLmjRM5-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/TxLmjRM5-HTQw4Gzc.mp4
+itemDuration: 1114
+itemImage: http://content.jwplatform.com/thumbs/TxLmjRM5-720.jpg
+itemLegacyID: Cinemassacre-1691
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/TxLmjRM5
+itemThumbnail: http://content.jwplatform.com/thumbs/TxLmjRM5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-1691_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/TxLmjRM5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=1691
+itemShortLinkID: 1691
+
+
+itemTitle: A chat with Pat the NES Punk
+itemWebLink: http://cinemassacre.com/2011/02/01/a-chat-with-pat-the-nes-punk/
+itemPlaylist: http://content.jwplatform.com/manifests/SmtaiyrM.m3u8
+itemAudio: http://content.jwplatform.com/videos/SmtaiyrM-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/SmtaiyrM-QvH08cwS.mp4
+//content.jwplatform.com/videos/SmtaiyrM-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/SmtaiyrM-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/SmtaiyrM-HTQw4Gzc.mp4
+itemDuration: 1049
+itemImage: http://content.jwplatform.com/thumbs/SmtaiyrM-720.jpg
+itemLegacyID: Cinemassacre-8898
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/SmtaiyrM
+itemThumbnail: http://content.jwplatform.com/thumbs/SmtaiyrM-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8898_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/SmtaiyrM-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8898
+itemShortLinkID: 8898
+
+
+itemTitle: Back to the Future game review
+itemWebLink: http://cinemassacre.com/2011/06/23/back-to-the-future-game-review/
+itemPlaylist: http://content.jwplatform.com/manifests/DBrV9bJ7.m3u8
+itemAudio: http://content.jwplatform.com/videos/DBrV9bJ7-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/DBrV9bJ7-QvH08cwS.mp4
+//content.jwplatform.com/videos/DBrV9bJ7-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/DBrV9bJ7-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/DBrV9bJ7-HTQw4Gzc.mp4
+itemDuration: 830
+itemImage: http://content.jwplatform.com/thumbs/DBrV9bJ7-720.jpg
+itemLegacyID: Cinemassacre-11583
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/DBrV9bJ7
+itemThumbnail: http://content.jwplatform.com/thumbs/DBrV9bJ7-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-11583_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/DBrV9bJ7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=11583
+itemShortLinkID: 11583
+
+
+itemTitle: Interview and Q&A at TooManyGames 2011
+itemWebLink: http://cinemassacre.com/2011/06/27/interview-and-qa-at-toomanygames-2011/
+itemPlaylist: http://content.jwplatform.com/manifests/Gt2hBrbv.m3u8
+itemAudio: http://content.jwplatform.com/videos/Gt2hBrbv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Gt2hBrbv-QvH08cwS.mp4
+//content.jwplatform.com/videos/Gt2hBrbv-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Gt2hBrbv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Gt2hBrbv-HTQw4Gzc.mp4
+itemDuration: 2303
+itemImage: http://content.jwplatform.com/thumbs/Gt2hBrbv-720.jpg
+itemLegacyID: Cinemassacre-11363
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Gt2hBrbv
+itemThumbnail: http://content.jwplatform.com/thumbs/Gt2hBrbv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-11363_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Gt2hBrbv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=11363
+itemShortLinkID: 11363
+
+
+itemTitle: TMNT Commodore 64
+itemWebLink: http://cinemassacre.com/2011/07/26/tmnt-tuesday-commodore-64/
+itemPlaylist: http://content.jwplatform.com/manifests/f6gVGtpK.m3u8
+itemAudio: http://content.jwplatform.com/videos/f6gVGtpK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/f6gVGtpK-QvH08cwS.mp4
+//content.jwplatform.com/videos/f6gVGtpK-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/f6gVGtpK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/f6gVGtpK-HTQw4Gzc.mp4
+itemDuration: 927
+itemImage: http://content.jwplatform.com/thumbs/f6gVGtpK-720.jpg
+itemLegacyID: Cinemassacre-9638
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/f6gVGtpK
+itemThumbnail: http://content.jwplatform.com/thumbs/f6gVGtpK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9638_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/f6gVGtpK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9638
+itemShortLinkID: 9638
+
+
+itemTitle: Castlevania 4 Review (1992)
+itemWebLink: http://cinemassacre.com/2011/09/26/castlevania-4-review-1992/
+itemPlaylist: http://content.jwplatform.com/manifests/A911TOFg.m3u8
+itemAudio: http://content.jwplatform.com/videos/A911TOFg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/A911TOFg-QvH08cwS.mp4
+//content.jwplatform.com/videos/A911TOFg-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/A911TOFg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/A911TOFg-HTQw4Gzc.mp4
+itemDuration: 111
+itemImage: http://content.jwplatform.com/thumbs/A911TOFg-720.jpg
+itemLegacyID: Cinemassacre-9627
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/A911TOFg
+itemThumbnail: http://content.jwplatform.com/thumbs/A911TOFg-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9627_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/A911TOFg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9627
+itemShortLinkID: 9627
+
+
+itemTitle: James & Mike Play: Virtual Reality Stuntmaster
+itemWebLink: http://cinemassacre.com/2012/02/15/virtual-reality-stuntmaster/
+itemPlaylist: http://content.jwplatform.com/manifests/ZOUv5z8v.m3u8
+itemAudio: http://content.jwplatform.com/videos/ZOUv5z8v-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ZOUv5z8v-QvH08cwS.mp4
+//content.jwplatform.com/videos/ZOUv5z8v-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ZOUv5z8v-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ZOUv5z8v-HTQw4Gzc.mp4
+itemDuration: 875
+itemImage: http://content.jwplatform.com/thumbs/ZOUv5z8v-720.jpg
+itemLegacyID: Cinemassacre-13683
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ZOUv5z8v
+itemThumbnail: http://content.jwplatform.com/thumbs/ZOUv5z8v-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13683_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ZOUv5z8v-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13683
+itemShortLinkID: 13683
+

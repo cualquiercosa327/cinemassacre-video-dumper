@@ -1,0 +1,511 @@
+
+itemTitle: Watching 16mm cartoons (part 2 of 3)
+itemWebLink: http://cinemassacre.com/2009/09/20/watching-16mm-cartoons-part-2-of-3/
+itemPlaylist: http://content.jwplatform.com/manifests/X0uicJK1.m3u8
+itemAudio: http://content.jwplatform.com/videos/X0uicJK1-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/X0uicJK1-QvH08cwS.mp4
+//content.jwplatform.com/videos/X0uicJK1-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/X0uicJK1-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/X0uicJK1-HTQw4Gzc.mp4
+itemDuration: 410
+itemImage: http://content.jwplatform.com/thumbs/X0uicJK1-720.jpg
+itemLegacyID: Cinemassacre-461
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/X0uicJK1
+itemThumbnail: http://content.jwplatform.com/thumbs/X0uicJK1-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-461_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/X0uicJK1-120.vtt
+itemShortLink: http://cinemassacre.com/?p=461
+itemShortLinkID: 461
+
+
+itemTitle: Watching 16mm cartoons (part 3 of 3)
+itemWebLink: http://cinemassacre.com/2009/09/20/watching-16mm-cartoons-part-3-of-3/
+itemPlaylist: http://content.jwplatform.com/manifests/wmnyC0jR.m3u8
+itemAudio: http://content.jwplatform.com/videos/wmnyC0jR-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/wmnyC0jR-QvH08cwS.mp4
+//content.jwplatform.com/videos/wmnyC0jR-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/wmnyC0jR-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/wmnyC0jR-HTQw4Gzc.mp4
+itemDuration: 561
+itemImage: http://content.jwplatform.com/thumbs/wmnyC0jR-720.jpg
+itemLegacyID: Cinemassacre-463
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/wmnyC0jR
+itemThumbnail: http://content.jwplatform.com/thumbs/wmnyC0jR-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-463_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/wmnyC0jR-120.vtt
+itemShortLink: http://cinemassacre.com/?p=463
+itemShortLinkID: 463
+
+
+itemTitle: Alice in Wonderland (1951) & Alice in Wonderland (
+itemWebLink: http://cinemassacre.com/2010/02/18/alice-in-wonderland/
+itemPlaylist: http://content.jwplatform.com/manifests/rVZcFwET.m3u8
+itemAudio: http://content.jwplatform.com/videos/rVZcFwET-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/rVZcFwET-QvH08cwS.mp4
+//content.jwplatform.com/videos/rVZcFwET-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/rVZcFwET-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/rVZcFwET-HTQw4Gzc.mp4
+itemDuration: 563
+itemImage: http://content.jwplatform.com/thumbs/rVZcFwET-720.jpg
+itemLegacyID: Cinemassacre-3143
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/rVZcFwET
+itemThumbnail: http://content.jwplatform.com/thumbs/rVZcFwET-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3143_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/rVZcFwET-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3143
+itemShortLinkID: 3143
+
+
+itemTitle: Mike's Action Figure Collection
+itemWebLink: http://cinemassacre.com/2010/11/10/mikes-action-figure-collection/
+itemPlaylist: http://content.jwplatform.com/manifests/efAk3dMr.m3u8
+itemAudio: http://content.jwplatform.com/videos/efAk3dMr-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/efAk3dMr-QvH08cwS.mp4
+//content.jwplatform.com/videos/efAk3dMr-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/efAk3dMr-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/efAk3dMr-HTQw4Gzc.mp4
+itemDuration: 269
+itemImage: http://content.jwplatform.com/thumbs/efAk3dMr-720.jpg
+itemLegacyID: Cinemassacre-6931
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/efAk3dMr
+itemThumbnail: http://content.jwplatform.com/thumbs/efAk3dMr-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6931_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/efAk3dMr-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6931
+itemShortLinkID: 6931
+
+
+itemTitle: Who Framed Roger Rabbit (1988)
+itemWebLink: http://cinemassacre.com/2010/11/25/who-framed-roger-rabbit-2/
+itemPlaylist: http://content.jwplatform.com/manifests/p9FIscxo.m3u8
+itemAudio: http://content.jwplatform.com/videos/p9FIscxo-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/p9FIscxo-QvH08cwS.mp4
+//content.jwplatform.com/videos/p9FIscxo-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/p9FIscxo-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/p9FIscxo-HTQw4Gzc.mp4
+itemDuration: 235
+itemImage: http://content.jwplatform.com/thumbs/p9FIscxo-720.jpg
+itemLegacyID: Cinemassacre-8446
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/p9FIscxo
+itemThumbnail: http://content.jwplatform.com/thumbs/p9FIscxo-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8446_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/p9FIscxo-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8446
+itemShortLinkID: 8446
+
+
+itemTitle: Super Mario Bros Super Show DVD Menu Screen Review
+itemWebLink: http://cinemassacre.com/2011/04/01/super-mario-bros-super-show-dvd-menu-screen-review/
+itemPlaylist: http://content.jwplatform.com/manifests/tl8vGipL.m3u8
+itemAudio: http://content.jwplatform.com/videos/tl8vGipL-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tl8vGipL-QvH08cwS.mp4
+//content.jwplatform.com/videos/tl8vGipL-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tl8vGipL-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tl8vGipL-HTQw4Gzc.mp4
+itemDuration: 602
+itemImage: http://content.jwplatform.com/thumbs/tl8vGipL-720.jpg
+itemLegacyID: Cinemassacre-9716
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/tl8vGipL
+itemThumbnail: http://content.jwplatform.com/thumbs/tl8vGipL-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9716_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/tl8vGipL-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9716
+itemShortLinkID: 9716
+
+
+itemTitle: NEW TMNT MOVIE: James and Mike's thoughts
+itemWebLink: http://cinemassacre.com/2011/04/12/new-movie-thoughts/
+itemPlaylist: http://content.jwplatform.com/manifests/lz6zVDxs.m3u8
+itemAudio: http://content.jwplatform.com/videos/lz6zVDxs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/lz6zVDxs-QvH08cwS.mp4
+//content.jwplatform.com/videos/lz6zVDxs-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/lz6zVDxs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/lz6zVDxs-HTQw4Gzc.mp4
+itemDuration: 841
+itemImage: http://content.jwplatform.com/thumbs/lz6zVDxs-720.jpg
+itemLegacyID: Cinemassacre-9236
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/lz6zVDxs
+itemThumbnail: http://content.jwplatform.com/thumbs/lz6zVDxs-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9236_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/lz6zVDxs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9236
+itemShortLinkID: 9236
+
+
+itemTitle: TMNT cartoon series review (Part 1 of 3)
+itemWebLink: http://cinemassacre.com/2011/04/19/tmnt-cartoon-series-review-part-1-of-3/
+itemPlaylist: http://content.jwplatform.com/manifests/CTJX9Pwh.m3u8
+itemAudio: http://content.jwplatform.com/videos/CTJX9Pwh-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/CTJX9Pwh-QvH08cwS.mp4
+//content.jwplatform.com/videos/CTJX9Pwh-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/CTJX9Pwh-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/CTJX9Pwh-HTQw4Gzc.mp4
+itemDuration: 1229
+itemImage: http://content.jwplatform.com/thumbs/CTJX9Pwh-720.jpg
+itemLegacyID: Cinemassacre-9549
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/CTJX9Pwh
+itemThumbnail: http://content.jwplatform.com/thumbs/CTJX9Pwh-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9549_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/CTJX9Pwh-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9549
+itemShortLinkID: 9549
+
+
+itemTitle: Chronologically Confused about TMNT DVDs
+itemWebLink: http://cinemassacre.com/2011/04/26/chronologically-confused-about-tmnt-dvds/
+itemPlaylist: http://content.jwplatform.com/manifests/dmCovpnN.m3u8
+itemAudio: http://content.jwplatform.com/videos/dmCovpnN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/dmCovpnN-QvH08cwS.mp4
+//content.jwplatform.com/videos/dmCovpnN-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/dmCovpnN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/dmCovpnN-HTQw4Gzc.mp4
+itemDuration: 460
+itemImage: http://content.jwplatform.com/thumbs/dmCovpnN-720.jpg
+itemLegacyID: Cinemassacre-9240
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/dmCovpnN
+itemThumbnail: http://content.jwplatform.com/thumbs/dmCovpnN-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9240_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/dmCovpnN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9240
+itemShortLinkID: 9240
+
+
+itemTitle: TMNT cartoon series review (Part 2 of 3)
+itemWebLink: http://cinemassacre.com/2011/05/03/tmnt-cartoon-series-review-part-2-of-3/
+itemPlaylist: http://content.jwplatform.com/manifests/GtCJg3pN.m3u8
+itemAudio: http://content.jwplatform.com/videos/GtCJg3pN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/GtCJg3pN-QvH08cwS.mp4
+//content.jwplatform.com/videos/GtCJg3pN-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/GtCJg3pN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/GtCJg3pN-HTQw4Gzc.mp4
+itemDuration: 785
+itemImage: http://content.jwplatform.com/thumbs/GtCJg3pN-720.jpg
+itemLegacyID: Cinemassacre-9553
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/GtCJg3pN
+itemThumbnail: http://content.jwplatform.com/thumbs/GtCJg3pN-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9553_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/GtCJg3pN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9553
+itemShortLinkID: 9553
+
+
+itemTitle: TMNT cartoon series review (Part 3 of 3)
+itemWebLink: http://cinemassacre.com/2011/05/17/tmnt-cartoon-series-review-part-3-of-3/
+itemPlaylist: http://content.jwplatform.com/manifests/nDIX513A.m3u8
+itemAudio: http://content.jwplatform.com/videos/nDIX513A-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/nDIX513A-QvH08cwS.mp4
+//content.jwplatform.com/videos/nDIX513A-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nDIX513A-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nDIX513A-HTQw4Gzc.mp4
+itemDuration: 1565
+itemImage: http://content.jwplatform.com/thumbs/nDIX513A-720.jpg
+itemLegacyID: Cinemassacre-9556
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/nDIX513A
+itemThumbnail: http://content.jwplatform.com/thumbs/nDIX513A-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9556_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/nDIX513A-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9556
+itemShortLinkID: 9556
+
+
+itemTitle: TMNT Tuesdays - Pizza Taste Test
+itemWebLink: http://cinemassacre.com/2011/05/19/tmnt-pizza-taste-test/
+itemPlaylist: http://content.jwplatform.com/manifests/zfpIMBaX.m3u8
+itemAudio: http://content.jwplatform.com/videos/zfpIMBaX-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/zfpIMBaX-QvH08cwS.mp4
+//content.jwplatform.com/videos/zfpIMBaX-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/zfpIMBaX-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/zfpIMBaX-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/zfpIMBaX-GzAUXplI.mp4
+itemDuration: 762
+itemImage: http://content.jwplatform.com/thumbs/zfpIMBaX-720.jpg
+itemLegacyID: Cinemassacre-532b62f2e5599
+itemPubDate: Thu, 20 Mar 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/zfpIMBaX
+itemThumbnail: http://content.jwplatform.com/thumbs/zfpIMBaX-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-532b62f2e5599_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/zfpIMBaX-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27619
+itemShortLinkID: 27619
+
+
+itemTitle: Race For Your Life, Charlie Brown 
+itemWebLink: http://cinemassacre.com/2011/05/30/race-for-your-life-charlie-brown/
+itemPlaylist: http://content.jwplatform.com/manifests/vf9rBxSp.m3u8
+itemAudio: http://content.jwplatform.com/videos/vf9rBxSp-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vf9rBxSp-QvH08cwS.mp4
+//content.jwplatform.com/videos/vf9rBxSp-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vf9rBxSp-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vf9rBxSp-HTQw4Gzc.mp4
+itemDuration: 239
+itemImage: http://content.jwplatform.com/thumbs/vf9rBxSp-720.jpg
+itemLegacyID: Cinemassacre-11136
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/vf9rBxSp
+itemThumbnail: http://content.jwplatform.com/thumbs/vf9rBxSp-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-11136_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/vf9rBxSp-120.vtt
+itemShortLink: http://cinemassacre.com/?p=11136
+itemShortLinkID: 11136
+
+
+itemTitle: Top 20 Turtle Flubs
+itemWebLink: http://cinemassacre.com/2011/05/31/tmnt-tuesday-top-20-turtle-flubs/
+itemPlaylist: http://content.jwplatform.com/manifests/BocJ7zNV.m3u8
+itemAudio: http://content.jwplatform.com/videos/BocJ7zNV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/BocJ7zNV-QvH08cwS.mp4
+//content.jwplatform.com/videos/BocJ7zNV-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/BocJ7zNV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/BocJ7zNV-HTQw4Gzc.mp4
+itemDuration: 553
+itemImage: http://content.jwplatform.com/thumbs/BocJ7zNV-720.jpg
+itemLegacyID: Cinemassacre-9255
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/BocJ7zNV
+itemThumbnail: http://content.jwplatform.com/thumbs/BocJ7zNV-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9255_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/BocJ7zNV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9255
+itemShortLinkID: 9255
+
+
+itemTitle: Inhumanoids cartoon review
+itemWebLink: http://cinemassacre.com/2011/06/24/inhumanoids-cartoon-review/
+itemPlaylist: http://content.jwplatform.com/manifests/KAuMAalS.m3u8
+itemAudio: http://content.jwplatform.com/videos/KAuMAalS-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KAuMAalS-QvH08cwS.mp4
+//content.jwplatform.com/videos/KAuMAalS-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KAuMAalS-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KAuMAalS-HTQw4Gzc.mp4
+itemDuration: 271
+itemImage: http://content.jwplatform.com/thumbs/KAuMAalS-720.jpg
+itemLegacyID: Cinemassacre-11632
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/KAuMAalS
+itemThumbnail: http://content.jwplatform.com/thumbs/KAuMAalS-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-11632_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/KAuMAalS-120.vtt
+itemShortLink: http://cinemassacre.com/?p=11632
+itemShortLinkID: 11632
+
+
+itemTitle: TMNT Tuesday Comics Review
+itemWebLink: http://cinemassacre.com/2011/07/05/tmnt-tuesday-comics-review/
+itemPlaylist: http://content.jwplatform.com/manifests/UGcho8qx.m3u8
+itemAudio: http://content.jwplatform.com/videos/UGcho8qx-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/UGcho8qx-QvH08cwS.mp4
+//content.jwplatform.com/videos/UGcho8qx-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/UGcho8qx-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/UGcho8qx-HTQw4Gzc.mp4
+itemDuration: 706
+itemImage: http://content.jwplatform.com/thumbs/UGcho8qx-720.jpg
+itemLegacyID: Cinemassacre-9688
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/UGcho8qx
+itemThumbnail: http://content.jwplatform.com/thumbs/UGcho8qx-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-9688_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/UGcho8qx-120.vtt
+itemShortLink: http://cinemassacre.com/?p=9688
+itemShortLinkID: 9688
+
+
+itemTitle: Thundercats
+itemWebLink: http://cinemassacre.com/2011/07/22/thundercats-review/
+itemPlaylist: http://content.jwplatform.com/manifests/ya8iyYkq.m3u8
+itemAudio: http://content.jwplatform.com/videos/ya8iyYkq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ya8iyYkq-QvH08cwS.mp4
+//content.jwplatform.com/videos/ya8iyYkq-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ya8iyYkq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ya8iyYkq-HTQw4Gzc.mp4
+itemDuration: 513
+itemImage: http://content.jwplatform.com/thumbs/ya8iyYkq-720.jpg
+itemLegacyID: Cinemassacre-11129
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ya8iyYkq
+itemThumbnail: http://content.jwplatform.com/thumbs/ya8iyYkq-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-11129_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ya8iyYkq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=11129
+itemShortLinkID: 11129
+
+
+itemTitle: Inspector Gadget Review Part 1
+itemWebLink: http://cinemassacre.com/2011/11/18/inspector-gadget-series-review-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/2AkM3neZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/2AkM3neZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/2AkM3neZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/2AkM3neZ-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/2AkM3neZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/2AkM3neZ-HTQw4Gzc.mp4
+itemDuration: 654
+itemImage: http://content.jwplatform.com/thumbs/2AkM3neZ-720.jpg
+itemLegacyID: Cinemassacre-13393
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/2AkM3neZ
+itemThumbnail: http://content.jwplatform.com/thumbs/2AkM3neZ-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13393_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/2AkM3neZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13393
+itemShortLinkID: 13393
+
+
+itemTitle: Inspector Gadget Review Part 2
+itemWebLink: http://cinemassacre.com/2011/11/21/inspector-gadget-series-review-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/Vc8RiitR.m3u8
+itemAudio: http://content.jwplatform.com/videos/Vc8RiitR-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Vc8RiitR-QvH08cwS.mp4
+//content.jwplatform.com/videos/Vc8RiitR-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Vc8RiitR-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Vc8RiitR-HTQw4Gzc.mp4
+itemDuration: 595
+itemImage: http://content.jwplatform.com/thumbs/Vc8RiitR-720.jpg
+itemLegacyID: Cinemassacre-13395
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/Vc8RiitR
+itemThumbnail: http://content.jwplatform.com/thumbs/Vc8RiitR-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-13395_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/Vc8RiitR-120.vtt
+itemShortLink: http://cinemassacre.com/?p=13395
+itemShortLinkID: 13395
+
+
+itemTitle: Back to the Future: The Animated Series
+itemWebLink: http://cinemassacre.com/2012/01/02/back-to-the-future-the-animated-series/
+itemPlaylist: http://content.jwplatform.com/manifests/hnkglhti.m3u8
+itemAudio: http://content.jwplatform.com/videos/hnkglhti-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hnkglhti-QvH08cwS.mp4
+//content.jwplatform.com/videos/hnkglhti-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hnkglhti-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hnkglhti-HTQw4Gzc.mp4
+itemDuration: 695
+itemImage: http://content.jwplatform.com/thumbs/hnkglhti-720.jpg
+itemLegacyID: Cinemassacre-15023
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hnkglhti
+itemThumbnail: http://content.jwplatform.com/thumbs/hnkglhti-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-15023_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hnkglhti-120.vtt
+itemShortLink: http://cinemassacre.com/?p=15023
+itemShortLinkID: 15023
+
+
+itemTitle: Mike talks about Walt Disney Comics & Stories
+itemWebLink: http://cinemassacre.com/2012/09/16/donald-duck-comics-review/
+itemPlaylist: http://content.jwplatform.com/manifests/xwcAFBcG.m3u8
+itemAudio: http://content.jwplatform.com/videos/xwcAFBcG-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xwcAFBcG-QvH08cwS.mp4
+//content.jwplatform.com/videos/xwcAFBcG-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xwcAFBcG-GzAUXplI.mp4
+//content.jwplatform.com/videos/xwcAFBcG-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xwcAFBcG-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xwcAFBcG-7spvWrjM.mp4
+itemDuration: 1788
+itemImage: http://content.jwplatform.com/thumbs/xwcAFBcG-720.jpg
+itemLegacyID: Cinemassacre-18807
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/xwcAFBcG
+itemThumbnail: http://content.jwplatform.com/thumbs/xwcAFBcG-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-18807_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/xwcAFBcG-120.vtt
+itemShortLink: http://cinemassacre.com/?p=18807
+itemShortLinkID: 18807
+
+
+itemTitle: Top 15 Awesome Transformers Moments
+itemWebLink: http://cinemassacre.com/2014/06/18/top-15-awesome-transformers-moments/
+itemPlaylist: http://content.jwplatform.com/manifests/j8Un6amv.m3u8
+itemAudio: http://content.jwplatform.com/videos/j8Un6amv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/j8Un6amv-QvH08cwS.mp4
+//content.jwplatform.com/videos/j8Un6amv-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/j8Un6amv-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/j8Un6amv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/j8Un6amv-GzAUXplI.mp4
+itemDuration: 1088
+itemImage: http://content.jwplatform.com/thumbs/j8Un6amv-720.jpg
+itemLegacyID: Cinemassacre-535f31276f370
+itemPubDate: Mon, 28 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/j8Un6amv
+itemThumbnail: http://content.jwplatform.com/thumbs/j8Un6amv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-535f31276f370_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/j8Un6amv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27823
+itemShortLinkID: 27823
+
+
+itemTitle: Top 10 Transformers WTF Moments
+itemWebLink: http://cinemassacre.com/2014/06/25/top-10-transformers-wtf-moments/
+itemPlaylist: http://content.jwplatform.com/manifests/hv7nTMVC.m3u8
+itemAudio: http://content.jwplatform.com/videos/hv7nTMVC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hv7nTMVC-QvH08cwS.mp4
+//content.jwplatform.com/videos/hv7nTMVC-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hv7nTMVC-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hv7nTMVC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hv7nTMVC-GzAUXplI.mp4
+itemDuration: 305
+itemImage: http://content.jwplatform.com/thumbs/hv7nTMVC-720.jpg
+itemLegacyID: Cinemassacre-535f2bf5c86a6
+itemPubDate: Mon, 28 Apr 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hv7nTMVC
+itemThumbnail: http://content.jwplatform.com/thumbs/hv7nTMVC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-535f2bf5c86a6_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hv7nTMVC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=27825
+itemShortLinkID: 27825
+
+
+itemTitle: TMNT 2014 Movie Review
+itemWebLink: http://cinemassacre.com/2014/08/11/teenage-mutant-ninja-turtles-2014-thoughts/
+itemPlaylist: http://content.jwplatform.com/manifests/EDC0Nrld.m3u8
+itemAudio: http://content.jwplatform.com/videos/EDC0Nrld-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/EDC0Nrld-QvH08cwS.mp4
+//content.jwplatform.com/videos/EDC0Nrld-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/EDC0Nrld-GzAUXplI.mp4
+//content.jwplatform.com/videos/EDC0Nrld-7spvWrjM.mp4
+//content.jwplatform.com/videos/EDC0Nrld-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/EDC0Nrld-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/EDC0Nrld-Qw1ADm9e.mp4
+itemDuration: 1436
+itemImage: http://content.jwplatform.com/thumbs/EDC0Nrld-720.jpg
+itemLegacyID: Cinemassacre-53f3e3c6ca116
+itemPubDate: Tue, 19 Aug 2014 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/EDC0Nrld
+itemThumbnail: http://content.jwplatform.com/thumbs/EDC0Nrld-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-53f3e3c6ca116_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/EDC0Nrld-120.vtt
+itemShortLink: http://cinemassacre.com/?p=28226
+itemShortLinkID: 28226
+
+
+itemTitle: Cartoon Roots Blu Ray Review
+itemWebLink: http://cinemassacre.com/2015/04/14/cartoon-roots-blu-ray-review-by-mike/
+itemPlaylist: http://content.jwplatform.com/manifests/hOpsqJgC.m3u8
+itemAudio: http://content.jwplatform.com/videos/hOpsqJgC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hOpsqJgC-QvH08cwS.mp4
+//content.jwplatform.com/videos/hOpsqJgC-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hOpsqJgC-GzAUXplI.mp4
+//content.jwplatform.com/videos/hOpsqJgC-7spvWrjM.mp4
+//content.jwplatform.com/videos/hOpsqJgC-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hOpsqJgC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hOpsqJgC-Qw1ADm9e.mp4
+itemDuration: 372
+itemImage: http://content.jwplatform.com/thumbs/hOpsqJgC-720.jpg
+itemLegacyID: Cinemassacre-552cadb14e006
+itemPubDate: Tue, 14 Apr 2015 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/hOpsqJgC
+itemThumbnail: http://content.jwplatform.com/thumbs/hOpsqJgC-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-552cadb14e006_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/hOpsqJgC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29532
+itemShortLinkID: 29532
+

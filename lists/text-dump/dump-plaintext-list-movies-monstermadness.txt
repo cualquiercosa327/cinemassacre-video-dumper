@@ -1,0 +1,556 @@
+
+itemTitle: PoultryGeist (2006) REVIEW - Monster Madness 9.mp4
+itemWebLink: http://cinemassacre.com/2015/10/07/poultrygeist-2006/
+itemPlaylist: http://content.jwplatform.com/manifests/G5QiXRil.m3u8
+itemAudio: http://content.jwplatform.com/videos/G5QiXRil-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/G5QiXRil-QvH08cwS.mp4
+//content.jwplatform.com/videos/G5QiXRil-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/G5QiXRil-GzAUXplI.mp4
+//content.jwplatform.com/videos/G5QiXRil-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/G5QiXRil-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/G5QiXRil-7spvWrjM.mp4
+itemDuration: 402
+itemImage: http://content.jwplatform.com/thumbs/G5QiXRil-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:44:44 -0000
+itemPreview: http://content.jwplatform.com/previews/G5QiXRil
+itemThumbnail: http://content.jwplatform.com/thumbs/G5QiXRil-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/G5QiXRil-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29940
+itemShortLinkID: 29940
+
+
+itemTitle: 08 The Monster PD H264.mov
+itemWebLink: http://cinemassacre.com/2015/10/08/the-monster-1925/
+itemPlaylist: http://content.jwplatform.com/manifests/xxejHw6q.m3u8
+itemAudio: http://content.jwplatform.com/videos/xxejHw6q-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xxejHw6q-QvH08cwS.mp4
+//content.jwplatform.com/videos/xxejHw6q-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xxejHw6q-GzAUXplI.mp4
+//content.jwplatform.com/videos/xxejHw6q-7spvWrjM.mp4
+//content.jwplatform.com/videos/xxejHw6q-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xxejHw6q-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xxejHw6q-Qw1ADm9e.mp4
+itemDuration: 187
+itemImage: http://content.jwplatform.com/thumbs/xxejHw6q-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 21:01:11 -0000
+itemPreview: http://content.jwplatform.com/previews/xxejHw6q
+itemThumbnail: http://content.jwplatform.com/thumbs/xxejHw6q-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/xxejHw6q-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29942
+itemShortLinkID: 29942
+
+
+itemTitle: 09 Candyman
+itemWebLink: http://cinemassacre.com/2015/10/09/candyman-1992/
+itemPlaylist: http://content.jwplatform.com/manifests/UEuKxKeI.m3u8
+itemAudio: http://content.jwplatform.com/videos/UEuKxKeI-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/UEuKxKeI-QvH08cwS.mp4
+//content.jwplatform.com/videos/UEuKxKeI-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/UEuKxKeI-GzAUXplI.mp4
+//content.jwplatform.com/videos/UEuKxKeI-7spvWrjM.mp4
+//content.jwplatform.com/videos/UEuKxKeI-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/UEuKxKeI-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/UEuKxKeI-Qw1ADm9e.mp4
+itemDuration: 201
+itemImage: http://content.jwplatform.com/thumbs/UEuKxKeI-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/UEuKxKeI
+itemThumbnail: http://content.jwplatform.com/thumbs/UEuKxKeI-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/UEuKxKeI-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29944
+itemShortLinkID: 29944
+
+
+itemTitle: 10 Is it Horror?.mov
+itemWebLink: http://cinemassacre.com/2015/10/10/is-it-horror/
+itemPlaylist: http://content.jwplatform.com/manifests/pviozWCN.m3u8
+itemAudio: http://content.jwplatform.com/videos/pviozWCN-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pviozWCN-QvH08cwS.mp4
+//content.jwplatform.com/videos/pviozWCN-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/pviozWCN-GzAUXplI.mp4
+//content.jwplatform.com/videos/pviozWCN-7spvWrjM.mp4
+//content.jwplatform.com/videos/pviozWCN-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pviozWCN-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pviozWCN-Qw1ADm9e.mp4
+itemDuration: 905
+itemImage: http://content.jwplatform.com/thumbs/pviozWCN-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 18:42:23 -0000
+itemPreview: http://content.jwplatform.com/previews/pviozWCN
+itemThumbnail: http://content.jwplatform.com/thumbs/pviozWCN-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/pviozWCN-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29946
+itemShortLinkID: 29946
+
+
+itemTitle: 11 Little Shop of Horrors PD H264.mov
+itemWebLink: http://cinemassacre.com/2015/10/11/little-shop-of-horrors-1960/
+itemPlaylist: http://content.jwplatform.com/manifests/Izyxl4rg.m3u8
+itemAudio: http://content.jwplatform.com/videos/Izyxl4rg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Izyxl4rg-QvH08cwS.mp4
+//content.jwplatform.com/videos/Izyxl4rg-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Izyxl4rg-GzAUXplI.mp4
+//content.jwplatform.com/videos/Izyxl4rg-7spvWrjM.mp4
+//content.jwplatform.com/videos/Izyxl4rg-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Izyxl4rg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Izyxl4rg-Qw1ADm9e.mp4
+itemDuration: 232
+itemImage: http://content.jwplatform.com/thumbs/Izyxl4rg-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 21:01:11 -0000
+itemPreview: http://content.jwplatform.com/previews/Izyxl4rg
+itemThumbnail: http://content.jwplatform.com/thumbs/Izyxl4rg-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/Izyxl4rg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29948
+itemShortLinkID: 29948
+
+
+itemTitle: 12 Silence of the Lambs
+itemWebLink: http://cinemassacre.com/2015/10/12/silence-of-the-lambs-1991/
+itemPlaylist: http://content.jwplatform.com/manifests/Q95VtQmV.m3u8
+itemAudio: http://content.jwplatform.com/videos/Q95VtQmV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/Q95VtQmV-QvH08cwS.mp4
+//content.jwplatform.com/videos/Q95VtQmV-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/Q95VtQmV-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/Q95VtQmV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/Q95VtQmV-GzAUXplI.mp4
+itemDuration: 233
+itemImage: http://content.jwplatform.com/thumbs/Q95VtQmV-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/Q95VtQmV
+itemThumbnail: http://content.jwplatform.com/thumbs/Q95VtQmV-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/Q95VtQmV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29950
+itemShortLinkID: 29950
+
+
+itemTitle: 13 Human Centipede
+itemWebLink: http://cinemassacre.com/2015/10/13/human-centipede-2009/
+itemPlaylist: http://content.jwplatform.com/manifests/uwuccnlz.m3u8
+itemAudio: http://content.jwplatform.com/videos/uwuccnlz-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/uwuccnlz-QvH08cwS.mp4
+//content.jwplatform.com/videos/uwuccnlz-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/uwuccnlz-GzAUXplI.mp4
+//content.jwplatform.com/videos/uwuccnlz-7spvWrjM.mp4
+//content.jwplatform.com/videos/uwuccnlz-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/uwuccnlz-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/uwuccnlz-Qw1ADm9e.mp4
+itemDuration: 545
+itemImage: http://content.jwplatform.com/thumbs/uwuccnlz-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 18:42:23 -0000
+itemPreview: http://content.jwplatform.com/previews/uwuccnlz
+itemThumbnail: http://content.jwplatform.com/thumbs/uwuccnlz-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/uwuccnlz-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29952
+itemShortLinkID: 29952
+
+
+itemTitle: 14 Shaun of the Dead.mov
+itemWebLink: http://cinemassacre.com/2015/10/14/shaun-of-the-dead-2004/
+itemPlaylist: http://content.jwplatform.com/manifests/tTPnA4zV.m3u8
+itemAudio: http://content.jwplatform.com/videos/tTPnA4zV-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/tTPnA4zV-QvH08cwS.mp4
+//content.jwplatform.com/videos/tTPnA4zV-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/tTPnA4zV-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/tTPnA4zV-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/tTPnA4zV-GzAUXplI.mp4
+itemDuration: 231
+itemImage: http://content.jwplatform.com/thumbs/tTPnA4zV-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/tTPnA4zV
+itemThumbnail: http://content.jwplatform.com/thumbs/tTPnA4zV-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/tTPnA4zV-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29954
+itemShortLinkID: 29954
+
+
+itemTitle: 15 The Omen
+itemWebLink: http://cinemassacre.com/2015/10/15/the-omen-1976/
+itemPlaylist: http://content.jwplatform.com/manifests/pNr7wgfQ.m3u8
+itemAudio: http://content.jwplatform.com/videos/pNr7wgfQ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pNr7wgfQ-QvH08cwS.mp4
+//content.jwplatform.com/videos/pNr7wgfQ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/pNr7wgfQ-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pNr7wgfQ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pNr7wgfQ-GzAUXplI.mp4
+itemDuration: 293
+itemImage: http://content.jwplatform.com/thumbs/pNr7wgfQ-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/pNr7wgfQ
+itemThumbnail: http://content.jwplatform.com/thumbs/pNr7wgfQ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/pNr7wgfQ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29956
+itemShortLinkID: 29956
+
+
+itemTitle: 16 Future of Universal Monsters.mov
+itemWebLink: http://cinemassacre.com/2015/10/16/future-of-universal-monsters/
+itemPlaylist: http://content.jwplatform.com/manifests/vxWsZqD0.m3u8
+itemAudio: http://content.jwplatform.com/videos/vxWsZqD0-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/vxWsZqD0-QvH08cwS.mp4
+//content.jwplatform.com/videos/vxWsZqD0-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/vxWsZqD0-GzAUXplI.mp4
+//content.jwplatform.com/videos/vxWsZqD0-7spvWrjM.mp4
+//content.jwplatform.com/videos/vxWsZqD0-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/vxWsZqD0-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/vxWsZqD0-Qw1ADm9e.mp4
+itemDuration: 1152
+itemImage: http://content.jwplatform.com/thumbs/vxWsZqD0-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 23:15:56 -0000
+itemPreview: http://content.jwplatform.com/previews/vxWsZqD0
+itemThumbnail: http://content.jwplatform.com/thumbs/vxWsZqD0-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/vxWsZqD0-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29958
+itemShortLinkID: 29958
+
+
+itemTitle: 17 Last Man on Earth PD H264.mov
+itemWebLink: http://cinemassacre.com/2015/10/17/last-man-on-earth-1964/
+itemPlaylist: http://content.jwplatform.com/manifests/zihQ2j7p.m3u8
+itemAudio: http://content.jwplatform.com/videos/zihQ2j7p-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/zihQ2j7p-QvH08cwS.mp4
+//content.jwplatform.com/videos/zihQ2j7p-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/zihQ2j7p-GzAUXplI.mp4
+//content.jwplatform.com/videos/zihQ2j7p-7spvWrjM.mp4
+//content.jwplatform.com/videos/zihQ2j7p-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/zihQ2j7p-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/zihQ2j7p-Qw1ADm9e.mp4
+itemDuration: 251
+itemImage: http://content.jwplatform.com/thumbs/zihQ2j7p-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 21:01:11 -0000
+itemPreview: http://content.jwplatform.com/previews/zihQ2j7p
+itemThumbnail: http://content.jwplatform.com/thumbs/zihQ2j7p-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/zihQ2j7p-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29960
+itemShortLinkID: 29960
+
+
+itemTitle: 18 Frankenstein Unbound H264.mov
+itemWebLink: http://cinemassacre.com/2015/10/18/frankenstein-unbound-1990/
+itemPlaylist: http://content.jwplatform.com/manifests/sZNHfmnC.m3u8
+itemAudio: http://content.jwplatform.com/videos/sZNHfmnC-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sZNHfmnC-QvH08cwS.mp4
+//content.jwplatform.com/videos/sZNHfmnC-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/sZNHfmnC-GzAUXplI.mp4
+//content.jwplatform.com/videos/sZNHfmnC-7spvWrjM.mp4
+//content.jwplatform.com/videos/sZNHfmnC-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sZNHfmnC-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sZNHfmnC-Qw1ADm9e.mp4
+itemDuration: 199
+itemImage: http://content.jwplatform.com/thumbs/sZNHfmnC-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/sZNHfmnC
+itemThumbnail: http://content.jwplatform.com/thumbs/sZNHfmnC-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/sZNHfmnC-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29962
+itemShortLinkID: 29962
+
+
+itemTitle: 19 Saw.mov
+itemWebLink: http://cinemassacre.com/2015/10/19/saw-2004/
+itemPlaylist: http://content.jwplatform.com/manifests/qlOvPGlq.m3u8
+itemAudio: http://content.jwplatform.com/videos/qlOvPGlq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/qlOvPGlq-QvH08cwS.mp4
+//content.jwplatform.com/videos/qlOvPGlq-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/qlOvPGlq-GzAUXplI.mp4
+//content.jwplatform.com/videos/qlOvPGlq-7spvWrjM.mp4
+//content.jwplatform.com/videos/qlOvPGlq-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/qlOvPGlq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/qlOvPGlq-Qw1ADm9e.mp4
+itemDuration: 598
+itemImage: http://content.jwplatform.com/thumbs/qlOvPGlq-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 18:42:23 -0000
+itemPreview: http://content.jwplatform.com/previews/qlOvPGlq
+itemThumbnail: http://content.jwplatform.com/thumbs/qlOvPGlq-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/qlOvPGlq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29964
+itemShortLinkID: 29964
+
+
+itemTitle: 20 Carrie
+itemWebLink: http://cinemassacre.com/2015/10/20/carrie-1976/
+itemPlaylist: http://content.jwplatform.com/manifests/xVQMAfsT.m3u8
+itemAudio: http://content.jwplatform.com/videos/xVQMAfsT-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/xVQMAfsT-QvH08cwS.mp4
+//content.jwplatform.com/videos/xVQMAfsT-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/xVQMAfsT-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/xVQMAfsT-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/xVQMAfsT-GzAUXplI.mp4
+itemDuration: 171
+itemImage: http://content.jwplatform.com/thumbs/xVQMAfsT-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/xVQMAfsT
+itemThumbnail: http://content.jwplatform.com/thumbs/xVQMAfsT-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/xVQMAfsT-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29966
+itemShortLinkID: 29966
+
+
+itemTitle: 21 Last House on the Left.mov
+itemWebLink: http://cinemassacre.com/2015/10/21/last-house-on-the-left-1972/
+itemPlaylist: http://content.jwplatform.com/manifests/h6hVpILy.m3u8
+itemAudio: http://content.jwplatform.com/videos/h6hVpILy-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/h6hVpILy-QvH08cwS.mp4
+//content.jwplatform.com/videos/h6hVpILy-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/h6hVpILy-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/h6hVpILy-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/h6hVpILy-GzAUXplI.mp4
+itemDuration: 261
+itemImage: http://content.jwplatform.com/thumbs/h6hVpILy-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/h6hVpILy
+itemThumbnail: http://content.jwplatform.com/thumbs/h6hVpILy-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/h6hVpILy-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29968
+itemShortLinkID: 29968
+
+
+itemTitle: 22 Halloween TV Specials.mov
+itemWebLink: http://cinemassacre.com/2015/10/22/halloween-tv-specials/
+itemPlaylist: http://content.jwplatform.com/manifests/5dVzws2O.m3u8
+itemAudio: http://content.jwplatform.com/videos/5dVzws2O-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/5dVzws2O-QvH08cwS.mp4
+//content.jwplatform.com/videos/5dVzws2O-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/5dVzws2O-GzAUXplI.mp4
+//content.jwplatform.com/videos/5dVzws2O-7spvWrjM.mp4
+//content.jwplatform.com/videos/5dVzws2O-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5dVzws2O-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5dVzws2O-Qw1ADm9e.mp4
+itemDuration: 1505
+itemImage: http://content.jwplatform.com/thumbs/5dVzws2O-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 18:42:23 -0000
+itemPreview: http://content.jwplatform.com/previews/5dVzws2O
+itemThumbnail: http://content.jwplatform.com/thumbs/5dVzws2O-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/5dVzws2O-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29970
+itemShortLinkID: 29970
+
+
+itemTitle: 23 Carnival of Souls PD
+itemWebLink: http://cinemassacre.com/2015/10/23/carnival-of-souls-1962/
+itemPlaylist: http://content.jwplatform.com/manifests/IY2d15VZ.m3u8
+itemAudio: http://content.jwplatform.com/videos/IY2d15VZ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/IY2d15VZ-QvH08cwS.mp4
+//content.jwplatform.com/videos/IY2d15VZ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/IY2d15VZ-GzAUXplI.mp4
+//content.jwplatform.com/videos/IY2d15VZ-7spvWrjM.mp4
+//content.jwplatform.com/videos/IY2d15VZ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/IY2d15VZ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/IY2d15VZ-Qw1ADm9e.mp4
+itemDuration: 274
+itemImage: http://content.jwplatform.com/thumbs/IY2d15VZ-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 21:01:11 -0000
+itemPreview: http://content.jwplatform.com/previews/IY2d15VZ
+itemThumbnail: http://content.jwplatform.com/thumbs/IY2d15VZ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/IY2d15VZ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29972
+itemShortLinkID: 29972
+
+
+itemTitle: 24 Beast with Five Fingers
+itemWebLink: http://cinemassacre.com/2015/10/24/the-beast-with-five-fingers-1946/
+itemPlaylist: http://content.jwplatform.com/manifests/iBioMHgO.m3u8
+itemAudio: http://content.jwplatform.com/videos/iBioMHgO-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/iBioMHgO-QvH08cwS.mp4
+//content.jwplatform.com/videos/iBioMHgO-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/iBioMHgO-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/iBioMHgO-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/iBioMHgO-GzAUXplI.mp4
+itemDuration: 355
+itemImage: http://content.jwplatform.com/thumbs/iBioMHgO-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/iBioMHgO
+itemThumbnail: http://content.jwplatform.com/thumbs/iBioMHgO-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/iBioMHgO-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29974
+itemShortLinkID: 29974
+
+
+itemTitle: It Follows (2015) REVIEW
+itemWebLink: http://cinemassacre.com/2015/10/25/it-follows-2015/
+itemPlaylist: http://content.jwplatform.com/manifests/hA7TW3iq.m3u8
+itemAudio: http://content.jwplatform.com/videos/hA7TW3iq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/hA7TW3iq-QvH08cwS.mp4
+//content.jwplatform.com/videos/hA7TW3iq-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/hA7TW3iq-GzAUXplI.mp4
+//content.jwplatform.com/videos/hA7TW3iq-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/hA7TW3iq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/hA7TW3iq-7spvWrjM.mp4
+itemDuration: 1012
+itemImage: http://content.jwplatform.com/thumbs/hA7TW3iq-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 21:18:01 -0000
+itemPreview: http://content.jwplatform.com/previews/hA7TW3iq
+itemThumbnail: http://content.jwplatform.com/thumbs/hA7TW3iq-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/hA7TW3iq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29976
+itemShortLinkID: 29976
+
+
+itemTitle: 26 Night of the Lepus.mov
+itemWebLink: http://cinemassacre.com/2015/10/26/night-of-the-lepus-1972/
+itemPlaylist: http://content.jwplatform.com/manifests/VhKSkq5Q.m3u8
+itemAudio: http://content.jwplatform.com/videos/VhKSkq5Q-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/VhKSkq5Q-QvH08cwS.mp4
+//content.jwplatform.com/videos/VhKSkq5Q-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/VhKSkq5Q-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/VhKSkq5Q-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/VhKSkq5Q-GzAUXplI.mp4
+itemDuration: 262
+itemImage: http://content.jwplatform.com/thumbs/VhKSkq5Q-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/VhKSkq5Q
+itemThumbnail: http://content.jwplatform.com/thumbs/VhKSkq5Q-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/VhKSkq5Q-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29978
+itemShortLinkID: 29978
+
+
+itemTitle: 27 City of the Dead PD H264.mov
+itemWebLink: http://cinemassacre.com/2015/10/27/city-of-the-dead-1960/
+itemPlaylist: http://content.jwplatform.com/manifests/mOv9E5Hg.m3u8
+itemAudio: http://content.jwplatform.com/videos/mOv9E5Hg-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/mOv9E5Hg-QvH08cwS.mp4
+//content.jwplatform.com/videos/mOv9E5Hg-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/mOv9E5Hg-GzAUXplI.mp4
+//content.jwplatform.com/videos/mOv9E5Hg-7spvWrjM.mp4
+//content.jwplatform.com/videos/mOv9E5Hg-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/mOv9E5Hg-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/mOv9E5Hg-Qw1ADm9e.mp4
+itemDuration: 237
+itemImage: http://content.jwplatform.com/thumbs/mOv9E5Hg-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 21:01:11 -0000
+itemPreview: http://content.jwplatform.com/previews/mOv9E5Hg
+itemThumbnail: http://content.jwplatform.com/thumbs/mOv9E5Hg-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/mOv9E5Hg-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29980
+itemShortLinkID: 29980
+
+
+itemTitle: The Descent (2005) REVIEW
+itemWebLink: http://cinemassacre.com/2015/10/28/the-descent-2005/
+itemPlaylist: http://content.jwplatform.com/manifests/sprCvSSs.m3u8
+itemAudio: http://content.jwplatform.com/videos/sprCvSSs-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sprCvSSs-QvH08cwS.mp4
+//content.jwplatform.com/videos/sprCvSSs-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/sprCvSSs-GzAUXplI.mp4
+//content.jwplatform.com/videos/sprCvSSs-7spvWrjM.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sprCvSSs-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sprCvSSs-7spvWrjM.mp4
+itemDuration: 845
+itemImage: http://content.jwplatform.com/thumbs/sprCvSSs-720.jpg
+itemLegacyID: 
+itemPubDate: Fri, 06 May 2016 20:49:12 -0000
+itemPreview: http://content.jwplatform.com/previews/sprCvSSs
+itemThumbnail: http://content.jwplatform.com/thumbs/sprCvSSs-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/sprCvSSs-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29982
+itemShortLinkID: 29982
+
+
+itemTitle: 29 Invisible Man Series.mov
+itemWebLink: http://cinemassacre.com/2015/10/29/invisible-man-series-1933-1951/
+itemPlaylist: http://content.jwplatform.com/manifests/pkAlgHTb.m3u8
+itemAudio: http://content.jwplatform.com/videos/pkAlgHTb-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/pkAlgHTb-QvH08cwS.mp4
+//content.jwplatform.com/videos/pkAlgHTb-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/pkAlgHTb-GzAUXplI.mp4
+itemVideoList1: http://content.jwplatform.com/videos/pkAlgHTb-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/pkAlgHTb-GzAUXplI.mp4
+itemDuration: 560
+itemImage: http://content.jwplatform.com/thumbs/pkAlgHTb-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 03:42:59 -0000
+itemPreview: http://content.jwplatform.com/previews/pkAlgHTb
+itemThumbnail: http://content.jwplatform.com/thumbs/pkAlgHTb-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/pkAlgHTb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29984
+itemShortLinkID: 29984
+
+
+itemTitle: 30 House on Haunted Hill PD H264.mov
+itemWebLink: http://cinemassacre.com/2015/10/30/house-on-haunted-hill-1959/
+itemPlaylist: http://content.jwplatform.com/manifests/KY6eugQJ.m3u8
+itemAudio: http://content.jwplatform.com/videos/KY6eugQJ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/KY6eugQJ-QvH08cwS.mp4
+//content.jwplatform.com/videos/KY6eugQJ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/KY6eugQJ-GzAUXplI.mp4
+//content.jwplatform.com/videos/KY6eugQJ-7spvWrjM.mp4
+//content.jwplatform.com/videos/KY6eugQJ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/KY6eugQJ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/KY6eugQJ-Qw1ADm9e.mp4
+itemDuration: 425
+itemImage: http://content.jwplatform.com/thumbs/KY6eugQJ-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 21:01:11 -0000
+itemPreview: http://content.jwplatform.com/previews/KY6eugQJ
+itemThumbnail: http://content.jwplatform.com/thumbs/KY6eugQJ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/KY6eugQJ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29986
+itemShortLinkID: 29986
+
+
+itemTitle: 31 Celebrating Halloween.mov
+itemWebLink: http://cinemassacre.com/2015/10/31/celebrating-halloween/
+itemPlaylist: http://content.jwplatform.com/manifests/cvRc7leQ.m3u8
+itemAudio: http://content.jwplatform.com/videos/cvRc7leQ-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/cvRc7leQ-QvH08cwS.mp4
+//content.jwplatform.com/videos/cvRc7leQ-HTQw4Gzc.mp4
+//content.jwplatform.com/videos/cvRc7leQ-GzAUXplI.mp4
+//content.jwplatform.com/videos/cvRc7leQ-7spvWrjM.mp4
+//content.jwplatform.com/videos/cvRc7leQ-Qw1ADm9e.mp4
+itemVideoList1: http://content.jwplatform.com/videos/cvRc7leQ-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/cvRc7leQ-Qw1ADm9e.mp4
+itemDuration: 2235
+itemImage: http://content.jwplatform.com/thumbs/cvRc7leQ-720.jpg
+itemLegacyID: 
+itemPubDate: Sat, 07 May 2016 18:42:23 -0000
+itemPreview: http://content.jwplatform.com/previews/cvRc7leQ
+itemThumbnail: http://content.jwplatform.com/thumbs/cvRc7leQ-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/cvRc7leQ-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29988
+itemShortLinkID: 29988
+

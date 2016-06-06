@@ -1,0 +1,200 @@
+
+itemTitle: Rocky Jumped A Park Bench
+itemWebLink: http://cinemassacre.com/2008/04/20/rocky-jumped-a-park-bench/
+itemPlaylist: http://content.jwplatform.com/manifests/sbsWzCPL.m3u8
+itemAudio: http://content.jwplatform.com/videos/sbsWzCPL-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sbsWzCPL-QvH08cwS.mp4
+//content.jwplatform.com/videos/sbsWzCPL-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sbsWzCPL-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sbsWzCPL-HTQw4Gzc.mp4
+itemDuration: 1645
+itemImage: http://content.jwplatform.com/thumbs/sbsWzCPL-720.jpg
+itemLegacyID: Cinemassacre-3108
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/sbsWzCPL
+itemThumbnail: http://content.jwplatform.com/thumbs/sbsWzCPL-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-3108_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/sbsWzCPL-120.vtt
+itemShortLink: http://cinemassacre.com/?p=3108
+itemShortLinkID: 3108
+
+
+itemTitle: A Trip to the FAMILY MATTERS House
+itemWebLink: http://cinemassacre.com/2009/06/08/a-trip-to-the-family-matters-house/
+itemPlaylist: http://content.jwplatform.com/manifests/k7XHuQ8y.m3u8
+itemAudio: http://content.jwplatform.com/videos/k7XHuQ8y-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/k7XHuQ8y-QvH08cwS.mp4
+//content.jwplatform.com/videos/k7XHuQ8y-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/k7XHuQ8y-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/k7XHuQ8y-HTQw4Gzc.mp4
+itemDuration: 405
+itemImage: http://content.jwplatform.com/thumbs/k7XHuQ8y-720.jpg
+itemLegacyID: Cinemassacre-211
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/k7XHuQ8y
+itemThumbnail: http://content.jwplatform.com/thumbs/k7XHuQ8y-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-211_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/k7XHuQ8y-120.vtt
+itemShortLink: http://cinemassacre.com/?p=211
+itemShortLinkID: 211
+
+
+itemTitle: A Trip to Sleepy Hollow (2009)
+itemWebLink: http://cinemassacre.com/2009/11/10/a-trip-to-sleepy-hollow-2009/
+itemPlaylist: http://content.jwplatform.com/manifests/y6VuJGLq.m3u8
+itemAudio: http://content.jwplatform.com/videos/y6VuJGLq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/y6VuJGLq-QvH08cwS.mp4
+//content.jwplatform.com/videos/y6VuJGLq-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/y6VuJGLq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/y6VuJGLq-HTQw4Gzc.mp4
+itemDuration: 643
+itemImage: http://content.jwplatform.com/thumbs/y6VuJGLq-720.jpg
+itemLegacyID: Cinemassacre-503
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/y6VuJGLq
+itemThumbnail: http://content.jwplatform.com/thumbs/y6VuJGLq-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-503_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/y6VuJGLq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=503
+itemShortLinkID: 503
+
+
+itemTitle: Follow That Marshmallow: A Ghostbusters Tour
+itemWebLink: http://cinemassacre.com/2010/04/26/follow-that-marshmallow-a-ghostbusters-tour/
+itemPlaylist: http://content.jwplatform.com/manifests/sSWTHzOU.m3u8
+itemAudio: http://content.jwplatform.com/videos/sSWTHzOU-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/sSWTHzOU-QvH08cwS.mp4
+//content.jwplatform.com/videos/sSWTHzOU-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/sSWTHzOU-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/sSWTHzOU-HTQw4Gzc.mp4
+itemDuration: 1262
+itemImage: http://content.jwplatform.com/thumbs/sSWTHzOU-720.jpg
+itemLegacyID: Cinemassacre-18054
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/sSWTHzOU
+itemThumbnail: http://content.jwplatform.com/thumbs/sSWTHzOU-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-18054_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/sSWTHzOU-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6010
+itemShortLinkID: 6010
+
+
+itemTitle: A Trip to the Night of the Living Dead Cemetery
+itemWebLink: http://cinemassacre.com/2010/07/12/night-of-the-living-dead-cemetry/
+itemPlaylist: http://content.jwplatform.com/manifests/1RASirCq.m3u8
+itemAudio: http://content.jwplatform.com/videos/1RASirCq-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/1RASirCq-QvH08cwS.mp4
+//content.jwplatform.com/videos/1RASirCq-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1RASirCq-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1RASirCq-HTQw4Gzc.mp4
+itemDuration: 387
+itemImage: http://content.jwplatform.com/thumbs/1RASirCq-720.jpg
+itemLegacyID: Cinemassacre-6451
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/1RASirCq
+itemThumbnail: http://content.jwplatform.com/thumbs/1RASirCq-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6451_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/1RASirCq-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6451
+itemShortLinkID: 6451
+
+
+itemTitle: A Trip to the Dawn of the Dead Shopping Mall
+itemWebLink: http://cinemassacre.com/2010/07/16/a-trip-to-the-dawn-of-the-dead-shopping-mall/
+itemPlaylist: http://content.jwplatform.com/manifests/FXrpb70v.m3u8
+itemAudio: http://content.jwplatform.com/videos/FXrpb70v-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/FXrpb70v-QvH08cwS.mp4
+//content.jwplatform.com/videos/FXrpb70v-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/FXrpb70v-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/FXrpb70v-HTQw4Gzc.mp4
+itemDuration: 354
+itemImage: http://content.jwplatform.com/thumbs/FXrpb70v-720.jpg
+itemLegacyID: Cinemassacre-6464
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/FXrpb70v
+itemThumbnail: http://content.jwplatform.com/thumbs/FXrpb70v-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-6464_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/FXrpb70v-120.vtt
+itemShortLink: http://cinemassacre.com/?p=6464
+itemShortLinkID: 6464
+
+
+itemTitle: Blob Town
+itemWebLink: http://cinemassacre.com/2010/12/28/blob-town/
+itemPlaylist: http://content.jwplatform.com/manifests/OtDqKf2x.m3u8
+itemAudio: http://content.jwplatform.com/videos/OtDqKf2x-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/OtDqKf2x-QvH08cwS.mp4
+//content.jwplatform.com/videos/OtDqKf2x-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/OtDqKf2x-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/OtDqKf2x-HTQw4Gzc.mp4
+itemDuration: 1431
+itemImage: http://content.jwplatform.com/thumbs/OtDqKf2x-720.jpg
+itemLegacyID: Cinemassacre-8608
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/OtDqKf2x
+itemThumbnail: http://content.jwplatform.com/thumbs/OtDqKf2x-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-8608_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/OtDqKf2x-120.vtt
+itemShortLink: http://cinemassacre.com/?p=8608
+itemShortLinkID: 8608
+
+
+itemTitle: Cabazon dinosaurs... again
+itemWebLink: http://cinemassacre.com/2011/05/05/cabazon-dinosaurs-again/
+itemPlaylist: http://content.jwplatform.com/manifests/wqxeKEZv.m3u8
+itemAudio: http://content.jwplatform.com/videos/wqxeKEZv-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/wqxeKEZv-QvH08cwS.mp4
+//content.jwplatform.com/videos/wqxeKEZv-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/wqxeKEZv-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/wqxeKEZv-HTQw4Gzc.mp4
+itemDuration: 78
+itemImage: http://content.jwplatform.com/thumbs/wqxeKEZv-720.jpg
+itemLegacyID: Cinemassacre-10174
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/wqxeKEZv
+itemThumbnail: http://content.jwplatform.com/thumbs/wqxeKEZv-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-10174_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/wqxeKEZv-120.vtt
+itemShortLink: http://cinemassacre.com/?p=10174
+itemShortLinkID: 10174
+
+
+itemTitle: It's a Mad Mad Mad Mad World Location Hunt
+itemWebLink: http://cinemassacre.com/2011/05/12/its-a-mad-mad-mad-mad-world-location-hunt/
+itemPlaylist: http://content.jwplatform.com/manifests/ZBp9u6PK.m3u8
+itemAudio: http://content.jwplatform.com/videos/ZBp9u6PK-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/ZBp9u6PK-QvH08cwS.mp4
+//content.jwplatform.com/videos/ZBp9u6PK-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/ZBp9u6PK-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/ZBp9u6PK-HTQw4Gzc.mp4
+itemDuration: 743
+itemImage: http://content.jwplatform.com/thumbs/ZBp9u6PK-720.jpg
+itemLegacyID: Cinemassacre-10212
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/ZBp9u6PK
+itemThumbnail: http://content.jwplatform.com/thumbs/ZBp9u6PK-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-10212_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/ZBp9u6PK-120.vtt
+itemShortLink: http://cinemassacre.com/?p=10212
+itemShortLinkID: 10212
+
+
+itemTitle: Vasquez Rocks
+itemWebLink: http://cinemassacre.com/2011/05/19/valquez-rocks/
+itemPlaylist: http://content.jwplatform.com/manifests/QAWAHZrE.m3u8
+itemAudio: http://content.jwplatform.com/videos/QAWAHZrE-TGIpRPjO.m4a
+itemVideoList: //content.jwplatform.com/videos/QAWAHZrE-QvH08cwS.mp4
+//content.jwplatform.com/videos/QAWAHZrE-HTQw4Gzc.mp4
+itemVideoList1: http://content.jwplatform.com/videos/QAWAHZrE-QvH08cwS.mp4
+itemVideoList2: http://content.jwplatform.com/videos/QAWAHZrE-HTQw4Gzc.mp4
+itemDuration: 80
+itemImage: http://content.jwplatform.com/thumbs/QAWAHZrE-720.jpg
+itemLegacyID: Cinemassacre-10186
+itemPubDate: Wed, 09 Oct 2013 04:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/QAWAHZrE
+itemThumbnail: http://content.jwplatform.com/thumbs/QAWAHZrE-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/Cinemassacre-10186_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/QAWAHZrE-120.vtt
+itemShortLink: http://cinemassacre.com/?p=10186
+itemShortLinkID: 10186
+

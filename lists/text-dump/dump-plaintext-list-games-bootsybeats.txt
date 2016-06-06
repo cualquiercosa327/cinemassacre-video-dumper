@@ -1,0 +1,90 @@
+
+itemTitle: Bootsy Beats Battletoads - Part 1
+itemWebLink: http://cinemassacre.com/2015/07/28/bootsy-beats-battletoads-part-1/
+itemPlaylist: http://content.jwplatform.com/manifests/5XqpCQj5.m3u8
+itemAudio: http://content.jwplatform.com/videos/5XqpCQj5-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/5XqpCQj5-sWQecfvj.mp4
+//content.jwplatform.com/videos/5XqpCQj5-GMxzemX2.mp4
+//content.jwplatform.com/videos/5XqpCQj5-DC3vXrn5.mp4
+//content.jwplatform.com/videos/5XqpCQj5-dUBRKwog.mp4
+//content.jwplatform.com/videos/5XqpCQj5-1l5E1Zyf.mp4
+itemVideoList1: http://content.jwplatform.com/videos/5XqpCQj5-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/5XqpCQj5-1l5E1Zyf.mp4
+itemDuration: 764
+itemImage: http://content.jwplatform.com/thumbs/5XqpCQj5-720.jpg
+itemLegacyID: bootsy-559f49c3d1032
+itemPubDate: Thu, 09 Jul 2015 00:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/5XqpCQj5
+itemThumbnail: http://content.jwplatform.com/thumbs/5XqpCQj5-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/bootsy-559f49c3d1032_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/5XqpCQj5-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29798
+itemShortLinkID: 29798
+
+
+itemTitle: Bootsy Beats Battletoads Part 2
+itemWebLink: http://cinemassacre.com/2015/08/05/bootsy-beats-battletoads-nes-part-2/
+itemPlaylist: http://content.jwplatform.com/manifests/JpSObkX7.m3u8
+itemAudio: http://content.jwplatform.com/videos/JpSObkX7-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/JpSObkX7-sWQecfvj.mp4
+//content.jwplatform.com/videos/JpSObkX7-GMxzemX2.mp4
+//content.jwplatform.com/videos/JpSObkX7-DC3vXrn5.mp4
+//content.jwplatform.com/videos/JpSObkX7-dUBRKwog.mp4
+//content.jwplatform.com/videos/JpSObkX7-1l5E1Zyf.mp4
+itemVideoList1: http://content.jwplatform.com/videos/JpSObkX7-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/JpSObkX7-1l5E1Zyf.mp4
+itemDuration: 709
+itemImage: http://content.jwplatform.com/thumbs/JpSObkX7-720.jpg
+itemLegacyID: bootsy-55c265b62f8b8
+itemPubDate: Wed, 05 Aug 2015 00:00:00 -0000
+itemPreview: http://content.jwplatform.com/previews/JpSObkX7
+itemThumbnail: http://content.jwplatform.com/thumbs/JpSObkX7-720.jpg
+itemThumbnailBig: https://s3.amazonaws.com/SWMVideo/bootsy-55c265b62f8b8_thumb_640x360.jpg
+itemVTT: http://content.jwplatform.com/strips/JpSObkX7-120.vtt
+itemShortLink: http://cinemassacre.com/?p=29871
+itemShortLinkID: 29871
+
+
+itemTitle: Bootsy Beats... Battletoads (NES) Part 3
+itemWebLink: http://cinemassacre.com/2015/09/08/bootsy-beats-battletoads-part-3/
+itemPlaylist: http://content.jwplatform.com/manifests/1VQfatEb.m3u8
+itemAudio: http://content.jwplatform.com/videos/1VQfatEb-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/1VQfatEb-sWQecfvj.mp4
+//content.jwplatform.com/videos/1VQfatEb-GMxzemX2.mp4
+//content.jwplatform.com/videos/1VQfatEb-DC3vXrn5.mp4
+//content.jwplatform.com/videos/1VQfatEb-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/1VQfatEb-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/1VQfatEb-dUBRKwog.mp4
+itemDuration: 939
+itemImage: http://content.jwplatform.com/thumbs/1VQfatEb-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:28:40 -0000
+itemPreview: http://content.jwplatform.com/previews/1VQfatEb
+itemThumbnail: http://content.jwplatform.com/thumbs/1VQfatEb-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/1VQfatEb-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30045
+itemShortLinkID: 30045
+
+
+itemTitle: Bootsy Beats... Battletoads (NES) Part 4
+itemWebLink: http://cinemassacre.com/2015/12/11/bootsy-beats-battletoads-nes-part-4/
+itemPlaylist: http://content.jwplatform.com/manifests/nyX5hcZB.m3u8
+itemAudio: http://content.jwplatform.com/videos/nyX5hcZB-cRXPcRh9.m4a
+itemVideoList: //content.jwplatform.com/videos/nyX5hcZB-sWQecfvj.mp4
+//content.jwplatform.com/videos/nyX5hcZB-GMxzemX2.mp4
+//content.jwplatform.com/videos/nyX5hcZB-DC3vXrn5.mp4
+//content.jwplatform.com/videos/nyX5hcZB-dUBRKwog.mp4
+itemVideoList1: http://content.jwplatform.com/videos/nyX5hcZB-sWQecfvj.mp4
+itemVideoList2: http://content.jwplatform.com/videos/nyX5hcZB-dUBRKwog.mp4
+itemDuration: 950
+itemImage: http://content.jwplatform.com/thumbs/nyX5hcZB-720.jpg
+itemLegacyID: 
+itemPubDate: Mon, 23 May 2016 23:28:40 -0000
+itemPreview: http://content.jwplatform.com/previews/nyX5hcZB
+itemThumbnail: http://content.jwplatform.com/thumbs/nyX5hcZB-720.jpg
+itemThumbnailBig: 
+itemVTT: http://content.jwplatform.com/strips/nyX5hcZB-120.vtt
+itemShortLink: http://cinemassacre.com/?p=30499
+itemShortLinkID: 30499
+
